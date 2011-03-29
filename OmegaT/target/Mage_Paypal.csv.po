@@ -1,0 +1,1684 @@
+#: -OR-
+msgid "-OR-"
+msgstr "-OU-"
+
+#: 2-pixel perimeter around the header space.
+msgid "2-pixel perimeter around the header space."
+msgstr "Périmètre de 2 pixels autour de l'espace d'en-tête"
+
+#: 3D Secure
+msgid "3D Secure"
+msgstr "3D Secure"
+
+#: 3D Secure Card Validation
+msgid "3D Secure Card Validation"
+msgstr "Validation carte 3D Secure"
+
+#: 3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>.
+msgid "3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+msgstr "La validation 3D Secure est obligatoire pour les cartes Maetro. Le support des cartes American Express nécessite un accord supplémentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+
+#: <a href=\"http://www.magentocommerce.com/paypal\">Start accepting payments via PayPal!</a>
+msgid "<a href=\"http://www.magentocommerce.com/paypal\">Start accepting payments via PayPal!</a>"
+msgstr "<a href=\"http://www.magentocommerce.com/paypal\">Commencez à accepter les paiements avec PayPal !</a>"
+
+#: A value is required for live mode. Refer to your CardinalCommerce agreement.
+msgid "A value is required for live mode. Refer to your CardinalCommerce agreement."
+msgstr "Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce."
+
+#: ACH Deposit (Hold for Dispute or Other Investigation)
+msgid "ACH Deposit (Hold for Dispute or Other Investigation)"
+msgstr "Dépôt d'ACH (prise pour le conflit ou toute autre recherche)"
+
+#: ACH Deposit (Reversal)
+msgid "ACH Deposit (Reversal)"
+msgstr "Dépôt d'ACH (inversion)"
+
+#: ACH Funding for Funds Recovery from Account Balance
+msgid "ACH Funding for Funds Recovery from Account Balance"
+msgstr "Placement d'ACH pour le rétablissement de fonds de l'équilibre de compte"
+
+#: ACH Withdrawal
+msgid "ACH Withdrawal"
+msgstr "Retrait d'ACH"
+
+#: API Password
+msgid "API Password"
+msgstr "Mot de passe API"
+
+#: API Signature
+msgid "API Signature"
+msgstr "Signature API"
+
+#: API Username
+msgid "API Username"
+msgstr "Pseudo API"
+
+#: API Uses Proxy
+msgid "API Uses Proxy"
+msgstr "API utilisant un proxy"
+
+#: API/Integration
+msgid "API/Integration"
+msgstr "API/Intégration"
+
+#: API/Integration Settings
+msgid "API/Integration Settings"
+msgstr "Paramètres d'API/intégration"
+
+#: Ability for buyer to purchase without PayPal account.
+msgid "Ability for buyer to purchase without PayPal account."
+msgstr "Capacité pour l'acheteur d'acheter sans compte PayPal."
+
+#: Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway.
+msgid "Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway."
+msgstr "Accepter les paiements PayPal dans votre panier. PayPal traite vos paiements par carte bancaire via la passerelle Payflow Pro."
+
+#: Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up.
+msgid "Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up."
+msgstr "Acceptez les paiements sans que les clients de quitter votre site.Beaucoup de services web et de caddies viennent avec la passerelle de paiement de Payflow incorporés, ainsi il est plus facile de les installer."
+
+#: Acceptance Mark
+msgid "Acceptance Mark"
+msgstr "Marque d'acceptation"
+
+#: Acceptance Mark Image
+msgid "Acceptance Mark Image"
+msgstr "Image de marque d'acceptation"
+
+#: Account-to-Account Payment, initiated by PayPal
+msgid "Account-to-Account Payment, initiated by PayPal"
+msgstr "Paiement de Compte à compte, initié par PayPal"
+
+#: Add an Express Checkout button to your existing shopping cart for quick and easy credit card payments. PayPal handles all payment processing.
+msgid "Add an Express Checkout button to your existing shopping cart for quick and easy credit card payments. PayPal handles all payment processing."
+msgstr "Ajoutez un bouton exprès de contrôle à votre caddie existant pour des paiements par carte de crédit rapides et faciles. PayPal effectue tout le traitement de paiement."
+
+#: Additional Options
+msgid "Additional Options"
+msgstr "Options additionnelles"
+
+#: Address Verification System Response
+msgid "Address Verification System Response"
+msgstr "Adresse du système de vérification de réponse"
+
+#: All the address information matched
+msgid "All the address information matched"
+msgstr "Vérification de toutes les informations de l'adresse"
+
+#: Allow in Billing Agreement Wizard
+msgid "Allow in Billing Agreement Wizard"
+msgstr "Autoriser dans l'assistant d'entente de facturation"
+
+#: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).
+msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile)."
+msgstr "Valeurs acceptées : \"paypal\", \"primaire\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
+
+#: Allowed Credit Card Types
+msgid "Allowed Credit Card Types"
+msgstr "Types de cartes de crédit autorisées"
+
+#: Also affects mini-shopping cart.
+msgid "Also affects mini-shopping cart."
+msgstr "Affecte également le panier de mini-achats."
+
+#: Api/Integration
+msgid "Api/Integration"
+msgstr "Api/Intégration"
+
+#: Ask Customer
+msgid "Ask Customer"
+msgstr "Demandez au client"
+
+#: Attempted Authentication, Bad Result
+msgid "Attempted Authentication, Bad Result"
+msgstr "Tentative d'authentification. Mauvais résultat"
+
+#: Attempted Authentication, Good Result
+msgid "Attempted Authentication, Good Result"
+msgstr "Tentative d'authentification. Bon résultat"
+
+#: Auction Payment other than through eBay
+msgid "Auction Payment other than through eBay"
+msgstr "Paiement des enchères autres que par le biais d'eBay"
+
+#: Authenticated, Bad Result
+msgid "Authenticated, Bad Result"
+msgstr "Authentifié. Mauvais résultat"
+
+#: Authenticated, Good Result
+msgid "Authenticated, Good Result"
+msgstr "Authentifié. Bon résultat"
+
+#: Authorization
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: Authorization transaction is required to void.
+msgid "Authorization transaction is required to void."
+msgstr "Transaction d'autorisation nécessaire pour annuler."
+
+#: Auto
+msgid "Auto"
+msgstr "Auto"
+
+#: AutoSweep
+msgid "AutoSweep"
+msgstr "Champ automatique"
+
+#: Available Balance
+msgid "Available Balance"
+msgstr "Solde disponible"
+
+#: Balance Manager Account Bonus
+msgid "Balance Manager Account Bonus"
+msgstr "compte de gestion de la balance bonus"
+
+#: Billing Address
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+#: Billing Agreement Signup 
+msgid "Billing Agreement Signup "
+msgstr "Engagement d'entente de facturation  "
+
+#: Billing Information
+msgid "Billing Information"
+msgstr "Informations de facturation"
+
+#: Bonus for first ACH Use
+msgid "Bonus for first ACH Use"
+msgstr "Bonus pour la première utilisation ACH"
+
+#: Buyer Credit Payment
+msgid "Buyer Credit Payment"
+msgstr "Paiement de crédit acheteur"
+
+#: By default it is \"reports.paypal.com\".
+msgid "By default it is \"reports.paypal.com\"."
+msgstr "Par défaut il est \"reports.paypal.com\"."
+
+#: CVV2 Check Result by PayPal
+msgid "CVV2 Check Result by PayPal"
+msgstr "Résultat de vérification de CVV2 par PayPal"
+
+#: Cannot create target file for reading reports.
+msgid "Cannot create target file for reading reports."
+msgstr "Impossible de créer le fichier cible pour la lecture des rapports."
+
+#: Centinel API URL
+msgid "Centinel API URL"
+msgstr "URL API de Centinel"
+
+#: Centinel Api URL
+msgid "Centinel Api URL"
+msgstr "URL Api de Centinel"
+
+#: Centinel Custom Api URL
+msgid "Centinel Custom Api URL"
+msgstr "URL personnalisée de l'API de Centinel"
+
+#: Change Payment Method
+msgid "Change Payment Method"
+msgstr "Changer de mode de paiement"
+
+#: Change Shipping Address
+msgid "Change Shipping Address"
+msgstr "Modifier"
+
+#: Charge-off
+msgid "Charge-off"
+msgstr "Frais-off"
+
+#: Chargeback
+msgid "Chargeback"
+msgstr "Frais de retour"
+
+#: Chargeback by customer.
+msgid "Chargeback by customer."
+msgstr "Frais de retour par le client."
+
+#: Checkout with PayPal
+msgid "Checkout with PayPal"
+msgstr "Commander avec PayPal"
+
+#: Completion Date
+msgid "Completion Date"
+msgstr "Date d'achèvement"
+
+#: Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?
+msgid "Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?"
+msgstr "Connexion au serveur sFTP de PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr(e) de vouloir continuer ?"
+
+#: Countries Payment Applicable From
+msgid "Countries Payment Applicable From"
+msgstr "Pays applicables pour le paiement"
+
+#: Coupon Redemption
+msgid "Coupon Redemption"
+msgstr "Remboursement de coupon"
+
+#: Credit
+msgid "Credit"
+msgstr "Crédit"
+
+#: Credit Card Settings
+msgid "Credit Card Settings"
+msgstr "Paramètres de carte de crédit"
+
+#: Currency Conversion required to cover negative balance
+msgid "Currency Conversion required to cover negative balance"
+msgstr "Conversion des devises nécessaires pour couvrir un solde négatif"
+
+#: Custom
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: Custom Endpoint Hostname or IP-Address
+msgid "Custom Endpoint Hostname or IP-Address"
+msgstr "Critère Personnalisé Hostname ou ADRESSE IP"
+
+#: Custom Path
+msgid "Custom Path"
+msgstr "Chemin d'accès personnalisé"
+
+#: Customer complaint.
+msgid "Customer complaint."
+msgstr "Plainte client."
+
+#: Customer did not include a confirmed address.
+msgid "Customer did not include a confirmed address."
+msgstr "Le client n'a pas inclus une adresse confirmée."
+
+#: Customer triggered a money-back guarantee.
+msgid "Customer triggered a money-back guarantee."
+msgstr "Client a déclenché une garantie de remboursement."
+
+#: Daily
+msgid "Daily"
+msgstr "Quotidien"
+
+#: Debit
+msgid "Debit"
+msgstr "Débit"
+
+#: Debit Card Cash Back
+msgid "Debit Card Cash Back"
+msgstr "Retour d'argent par carte de débit"
+
+#: Debit Card Transaction
+msgid "Debit Card Transaction"
+msgstr "Transaction par carte de débit"
+
+#: Debit or Credit
+msgid "Debit or Credit"
+msgstr "Débit ou crédit"
+
+#: Debug Mode
+msgid "Debug Mode"
+msgstr "Mode debug"
+
+#: Direct Payment API
+msgid "Direct Payment API"
+msgstr "API Paiement direct"
+
+#: Discount
+msgid "Discount"
+msgstr "Remise"
+
+#: Displays on catalog pages and homepage.
+msgid "Displays on catalog pages and homepage."
+msgstr "L'affichage sur les pages de catalogue et l'accueil"
+
+#: Does not work if there are more than 10 shipping options available.
+msgid "Does not work if there are more than 10 shipping options available."
+msgstr "Ne fonctionne pas si il ya plus de 10 options d'expédition disponibles."
+
+#: Don't have a PayPal account? Simply enter your email address.
+msgid "Don't have a PayPal account? Simply enter your email address."
+msgstr "Vous n'avez pas de compte PayPal ? Il suffit d'entrer votre adresse email."
+
+#: Don’t have a PayPal merchant account? You can still accept credit card payments through the Payflow Pro Gateway.
+msgid "Don’t have a PayPal merchant account? You can still accept credit card payments through the Payflow Pro Gateway."
+msgstr "Vous n'avez pas de compte marchand PayPal ? Vous pouvez toujours accepter les paiements par carte de crédit via la passerelle Payflow Pro."
+
+#: Dynamic
+msgid "Dynamic"
+msgstr "Dynamique"
+
+#: EFT Funding (German banking)
+msgid "EFT Funding (German banking)"
+msgstr "Placement d'EFT (opérations bancaires allemandes)"
+
+#: Edit Shopping Cart
+msgid "Edit Shopping Cart"
+msgstr "Modifier le panier"
+
+#: Email Associated with PayPal Merchant Account
+msgid "Email Associated with PayPal Merchant Account"
+msgstr "Email associée à Compte Marchand PayPal"
+
+#: Enable Automatic Fetching
+msgid "Enable Automatic Fetching"
+msgstr "Activer la récupération automatique"
+
+#: Enable PayPal Guest Checkout
+msgid "Enable PayPal Guest Checkout"
+msgstr "Activer le passage de commande pour invité avec PayPal"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Event
+msgid "Event"
+msgstr "Evénement"
+
+#: Event Code
+msgid "Event Code"
+msgstr "Code d'événement"
+
+#: Every 10 days
+msgid "Every 10 days"
+msgstr "Tous les 10 jours"
+
+#: Every 14 days
+msgid "Every 14 days"
+msgstr "Tous les 14 jours"
+
+#: Every 3 days
+msgid "Every 3 days"
+msgstr "Tous les 3 jours"
+
+#: Every 30 days
+msgid "Every 30 days"
+msgstr "Tous les 30 jours"
+
+#: Every 40 days
+msgid "Every 40 days"
+msgstr "Tous les 40 jours"
+
+#: Every 7 days
+msgid "Every 7 days"
+msgstr "Tous les 7 jours"
+
+#: Exact Match. Address and Postal Code. International
+msgid "Exact Match. Address and Postal Code. International"
+msgstr "Correspondance exacte. Adresse et code postal. International"
+
+#: Exact Match. Address and Postal Code. UK-specific
+msgid "Exact Match. Address and Postal Code. UK-specific"
+msgstr "Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni"
+
+#: Exact Match. Address and nine-digit ZIP code
+msgid "Exact Match. Address and nine-digit ZIP code"
+msgstr "Correspondance exacte. Adresse et code postal à neuf chiffres"
+
+#: Express Checkout
+msgid "Express Checkout"
+msgstr "Express Checkout"
+
+#: Express Checkout (Payflow Edition) Settings
+msgid "Express Checkout (Payflow Edition) Settings"
+msgstr "Express Checkout (Edition Payflow) Paramètres"
+
+#: Express Checkout APIs
+msgid "Express Checkout APIs"
+msgstr "APIs de Express Checkout"
+
+#: Express Checkout Settings
+msgid "Express Checkout Settings"
+msgstr "Express Checkout Paramètres"
+
+#: Express Checkout and Order have been canceled.
+msgid "Express Checkout and Order have been canceled."
+msgstr "Le paiement Express Chackout et la commande ont été annulés."
+
+#: Express Checkout has been canceled.
+msgid "Express Checkout has been canceled."
+msgstr "Le paiement Express Checkout a été annulé."
+
+#: Failed to fetch reports from '%s@%s'.
+msgid "Failed to fetch reports from '%s@%s'."
+msgstr "Impossible de récupérer des rapports de '%s@%s'."
+
+#: Fee Amount
+msgid "Fee Amount"
+msgstr "Montant des Frais"
+
+#: Fee Debit or Credit
+msgid "Fee Debit or Credit"
+msgstr "Frais de débit ou de crédit"
+
+#: Fee Reversal
+msgid "Fee Reversal"
+msgstr "Frais d'inversion"
+
+#: Fee: Foreign ACH Withdrawal
+msgid "Fee: Foreign ACH Withdrawal"
+msgstr "Frais : Retrait ACH étrangères"
+
+#: Fee: Mass Pay Request
+msgid "Fee: Mass Pay Request"
+msgstr "Frais : demande de paiement de masse"
+
+#: Fee: Web Site Payments Pro Account Monthly
+msgid "Fee: Web Site Payments Pro Account Monthly"
+msgstr "Frais : Paiements du site Web de compte mensuel Pro"
+
+#: Fee: WorldLink Check Withdrawal
+msgid "Fee: WorldLink Check Withdrawal"
+msgstr "Frais : retrait par chèque WorldLink"
+
+#: Fetch
+msgid "Fetch"
+msgstr "Rapporter"
+
+#: Fetch Updates
+msgid "Fetch Updates"
+msgstr "Mises à jour chercher"
+
+#: Fetched %s report rows from '%s@%s'.
+msgid "Fetched %s report rows from '%s@%s'."
+msgstr "récupérés %s lignes du rapport de '%s@%s'."
+
+#: Frontend Experience Settings
+msgid "Frontend Experience Settings"
+msgstr "Paramètres expérience frontend"
+
+#: Funding
+msgid "Funding"
+msgstr "Financement"
+
+#: General (Authorization)
+msgid "General (Authorization)"
+msgstr "Général (Autorisation)"
+
+#: General (Dividend)
+msgid "General (Dividend)"
+msgstr "Général (dividendes)"
+
+#: General (Funds Transfer from PayPal Account to Another)
+msgid "General (Funds Transfer from PayPal Account to Another)"
+msgstr "Général (transfert de fonds de compte PayPal à un autre)"
+
+#: General (Purchase with a credit card)
+msgid "General (Purchase with a credit card)"
+msgstr "Généraux (achat avec une carte de crédit)"
+
+#: General Adjustment without businessrelated event
+msgid "General Adjustment without businessrelated event"
+msgstr "Ajustement général sans événement lié au marché"
+
+#: General Currency Conversion
+msgid "General Currency Conversion"
+msgstr "Conversion de devises général"
+
+#: General Funding of PayPal Account 
+msgid "General Funding of PayPal Account "
+msgstr "Financement général de compte PayPal "
+
+#: General Redemption
+msgid "General Redemption"
+msgstr "Remboursement général"
+
+#: General Withdrawal from PayPal Account
+msgid "General Withdrawal from PayPal Account"
+msgstr "Retrait général de compte PayPal"
+
+#: General. Product no longer supported
+msgid "General. Product no longer supported"
+msgstr "Généralités. Ce produit n'est plus pris en charge"
+
+#: General: Use of PayPal account for purchasing as well as receiving payments
+msgid "General: Use of PayPal account for purchasing as well as receiving payments"
+msgstr "Compte général : utilisation de PayPal pour l'achat ainsi que la réception des paiements"
+
+#: General: Withdrawal from PayPal Account
+msgid "General: Withdrawal from PayPal Account"
+msgstr "Général : Retrait de compte PayPal"
+
+#: General: Withdrawal to Non-Bank Entity
+msgid "General: Withdrawal to Non-Bank Entity"
+msgstr "Général : Retrait à l'entité non-bancaire"
+
+#: General: adjustment of a type not belonging to the other T12xx categories
+msgid "General: adjustment of a type not belonging to the other T12xx categories"
+msgstr "Général : ajustement d'un type n'appartenant pas aux autres catégories de T12xx"
+
+#: General: bonus of a type not belonging to the other T08xx categories
+msgid "General: bonus of a type not belonging to the other T08xx categories"
+msgstr "Général : bonification d'un type n'appartenant pas aux autres catégories de T08xx"
+
+#: General: event not yet categorized
+msgid "General: event not yet categorized"
+msgstr "Général : événement pas encore classé par catégorie"
+
+#: General: non-payment fee of a type not belonging to the other T01xx categories
+msgid "General: non-payment fee of a type not belonging to the other T01xx categories"
+msgstr "Général : Taxe de non-paiement d'un type qui n'appartiennent pas aux autres catégories T01xx"
+
+#: General: received payment of a type not belonging to the other T00xx categories
+msgid "General: received payment of a type not belonging to the other T00xx categories"
+msgstr "Général : paiement reçu d'un type n'appartenant pas aux autres catégories de T00xx"
+
+#: General: reversal of a type not belonging to the other T11xx categories
+msgid "General: reversal of a type not belonging to the other T11xx categories"
+msgstr "Général : inversion d'un type n'appartenant pas aux autres catégories de T11xx"
+
+#: General: temporary hold of a type not belonging to the other T15xx categories
+msgid "General: temporary hold of a type not belonging to the other T15xx categories"
+msgstr "Général : suspension temporaire d'un type qui n'appartiennent pas aux autres catégories T15xx"
+
+#: Get Credentials from PayPal
+msgid "Get Credentials from PayPal"
+msgstr "Obtenez les informations d'accès de PayPal"
+
+#: Gift Certificate Payment: purchase of Gift Certificate
+msgid "Gift Certificate Payment: purchase of Gift Certificate"
+msgstr "Paiement par chèque cadeau : achat de chèques cadeaux"
+
+#: Gift Certificate Redemption
+msgid "Gift Certificate Redemption"
+msgstr "Rachat de Chèque Cadeau"
+
+#: Gross Amount
+msgid "Gross Amount"
+msgstr "Montant brut"
+
+#: Header Background Color
+msgid "Header Background Color"
+msgstr "Couleur d'arrière plan de l'entête"
+
+#: Header Border Color
+msgid "Header Border Color"
+msgstr "Couleur de la bordure de l'entête"
+
+#: Header Image URL
+msgid "Header Image URL"
+msgstr "URL de l'image d'entête"
+
+#: Help
+msgid "Help"
+msgstr "Aide"
+
+#: Hidden Virtual PayPal Debit Card Transaction
+msgid "Hidden Virtual PayPal Debit Card Transaction"
+msgstr "Transaction virtuelle cachée de carte de débit de PayPal"
+
+#: Hold for Dispute Investigation
+msgid "Hold for Dispute Investigation"
+msgstr "Maintenez la position pendant enquêtes sur les contestations"
+
+#: IPN \"%s\".
+msgid "IPN \"%s\"."
+msgstr "IPN \"%s\"."
+
+#: If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.
+msgid "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement."
+msgstr "Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce."
+
+#: If not specified, Default Country from General Config will be used
+msgid "If not specified, Default Country from General Config will be used"
+msgstr "S'il n'est pas spécifié, le pays par défaut dans la configuration général sera utilisé"
+
+#: If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.
+msgid "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only."
+msgstr "Si cette option est activée, le client peut changer l'adresse de livraison et d'expédition méthode sur le site de PayPal. Travail en mode direct via le protocole HTTPS uniquement."
+
+#: Impossible to issue a refund transaction because the capture transaction does not exist.
+msgid "Impossible to issue a refund transaction because the capture transaction does not exist."
+msgstr "Remboursement impossible car la transaction initiale n'existe pas."
+
+#: Incentive
+msgid "Incentive"
+msgstr "Incitation"
+
+#: Initiation Date
+msgid "Initiation Date"
+msgstr "Date de Commencement"
+
+#: Invoice ID
+msgid "Invoice ID"
+msgstr "ID Facture"
+
+#: Issuer Liability
+msgid "Issuer Liability"
+msgstr "Responsabilité de l'émetteur"
+
+#: It is recommended to set this value to \"Debit or Credit Card\" per store views.
+msgid "It is recommended to set this value to \"Debit or Credit Card\" per store views."
+msgstr "Il est recommandé de fixer cette valeur à \"Carte de débit ou de crédit\" pour chaque vue magasin."
+
+#: It is recommended to set this value to \"PayPal\" per store views.
+msgid "It is recommended to set this value to \"PayPal\" per store views."
+msgstr "Il est recommandé de fixer cette valeur à \"PayPal\" par vues de magasin."
+
+#: Items in Your Shopping Cart
+msgid "Items in Your Shopping Cart"
+msgstr "Articles dans votre panier"
+
+#: Last Correlation ID
+msgid "Last Correlation ID"
+msgstr "Dernier ID de corrélation"
+
+#: Last Transaction ID
+msgid "Last Transaction ID"
+msgstr "ID de la dernière transaction"
+
+#: Learn More
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: Login
+msgid "Login"
+msgstr "Connexion"
+
+#: Looking for PayPal? We have our own tab to the left under Sales.
+msgid "Looking for PayPal? We have our own tab to the left under Sales."
+msgstr "Vous cherchez Paypal ? Nous avons notre propre onglet à gauche sous les ventes."
+
+#: Mass Pay Payment
+msgid "Mass Pay Payment"
+msgstr "Paiement en masse de salaire"
+
+#: Matched (CVV2)
+msgid "Matched (CVV2)"
+msgstr "Correspondance (CVV2)"
+
+#: Matched (CVV2CSC)
+msgid "Matched (CVV2CSC)"
+msgstr "Correspondance (CVV2CSC)"
+
+#: Matched Address only (no ZIP)
+msgid "Matched Address only (no ZIP)"
+msgstr "Correspondance des adresses seulement (sans le code postal)"
+
+#: Matched Address only (no ZIP). International
+msgid "Matched Address only (no ZIP). International"
+msgstr "Correspondance des adresses seulement (sans le code postal). International."
+
+#: Matched Postal Code only (no Address)
+msgid "Matched Postal Code only (no Address)"
+msgstr "Correspondance du code postal uniquement"
+
+#: Matched five-digit ZIP only (no Address)
+msgid "Matched five-digit ZIP only (no Address)"
+msgstr "Correspondance sur 5 chiffres du code postal uniquement"
+
+#: Matched whole nine-didgit ZIP (no Address)
+msgid "Matched whole nine-didgit ZIP (no Address)"
+msgstr "Correspondance sur 9 chiffres du code postal"
+
+#: Merchant Account
+msgid "Merchant Account"
+msgstr "Compte marchand"
+
+#: Merchant Country
+msgid "Merchant Country"
+msgstr "Pays du marchand"
+
+#: Merchant Liability
+msgid "Merchant Liability"
+msgstr "Responsable (Marchand)"
+
+#: Merchant Protection Eligibility
+msgid "Merchant Protection Eligibility"
+msgstr "Protection à l'éligibilité du Marchand"
+
+#: Merchant Referral Bonus
+msgid "Merchant Referral Bonus"
+msgstr "Prime de recommandation marchande"
+
+#: Merchant holds a non-U.S. account and does not have a withdrawal mechanism.
+msgid "Merchant holds a non-U.S. account and does not have a withdrawal mechanism."
+msgstr "Marchand est titulaire d'un compte non-US et n'a pas un mécanisme de retrait."
+
+#: Merchant reference ID format is not supported.
+msgid "Merchant reference ID format is not supported."
+msgstr "référence ID format Marchand n'est pas supporté."
+
+#: Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+msgid "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account."
+msgstr "Les commerçants ont besoin d'appliquer l'option chez PayPal pour permettre aux ententes de facturation de fonctionner. Ne pas activer cette option jusqu'à ce que PayPal confirme que les ententes de facturation sont activées pour votre compte marchand."
+
+#: Mobile Payment (made via a mobile phone)
+msgid "Mobile Payment (made via a mobile phone)"
+msgstr "Paiement par mobile (réalisées par l'intermédiaire d'un téléphone mobile)"
+
+#: N/A. Address not checked, or acquirer had no response. Service not available
+msgid "N/A. Address not checked, or acquirer had no response. Service not available"
+msgstr "N/A. L'adresse n'a pas été vérifié, ou l'acquéreur n'a pas donné de réponse. Service non disponible"
+
+#: N/A. Global Unavailable
+msgid "N/A. Global Unavailable"
+msgstr "N/A. Global Indisponible"
+
+#: N/A. International Unavailable
+msgid "N/A. International Unavailable"
+msgstr "N/A. International Indisponible"
+
+#: N/A. Merchant has indicated that CVV2 is not present on card
+msgid "N/A. Merchant has indicated that CVV2 is not present on card"
+msgstr "N/A. CVV2 n'est pas présent sur la carte"
+
+#: N/A. No response
+msgid "N/A. No response"
+msgstr "N/A. Aucune réponse"
+
+#: N/A. Not allowed for MOTO (Internet/Phone) transactions
+msgid "N/A. Not allowed for MOTO (Internet/Phone) transactions"
+msgstr "N/A. Transaction non autorisé. MOTO (Internet/Phone)"
+
+#: N/A. Not processed
+msgid "N/A. Not processed"
+msgstr "N/A. Non traitée"
+
+#: N/A. Retry
+msgid "N/A. Retry"
+msgstr "N/A. Recommencer"
+
+#: N/A. Service not Supported
+msgid "N/A. Service not Supported"
+msgstr "N/A. Service non supporté"
+
+#: N/A. Service not available
+msgid "N/A. Service not available"
+msgstr "N/A. Service indisponible"
+
+#: N/A. Service not supported
+msgid "N/A. Service not supported"
+msgstr "N/A. Service non supporté"
+
+#: N/A. The merchant did not provide AVS information
+msgid "N/A. The merchant did not provide AVS information"
+msgstr "N/A. Le commerçant ne possède pas d'information AVS"
+
+#: N/A. The merchant has not implemented CVV2 code handling
+msgid "N/A. The merchant has not implemented CVV2 code handling"
+msgstr "N/A. Le commerçant n'a pas mis en œuvre de code CVV2"
+
+#: N/A. Unavailable
+msgid "N/A. Unavailable"
+msgstr "N/A. Indisponible."
+
+#: Negative Balance
+msgid "Negative Balance"
+msgstr "Solde négatif"
+
+#: Never
+msgid "Never"
+msgstr "Jamais"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No Details matched
+msgid "No Details matched"
+msgstr "Aucune correspondance trouvée"
+
+#: No Details matched. International
+msgid "No Details matched. International"
+msgstr "Aucune correspondance trouvée. International"
+
+#: No Liability Shift
+msgid "No Liability Shift"
+msgstr "Absence de responsabilité"
+
+#: No Logo
+msgid "No Logo"
+msgstr "Auncun Logo"
+
+#: No match
+msgid "No match"
+msgstr "Aucune correspondance"
+
+#: None of the address information matched
+msgid "None of the address information matched"
+msgstr "Aucune correspondance trouvée dans l'adresse"
+
+#: Note: %s
+msgid "Note: %s"
+msgstr "Note : %s"
+
+#: Nothing to fetch because of an empty configuration.
+msgid "Nothing to fetch because of an empty configuration."
+msgstr "Rien à récupérer en raison d'une configuration vide."
+
+#: Notified customer about creditmemo #%s.
+msgid "Notified customer about creditmemo #%s."
+msgstr "Notifier le client pour le remboursement n°%s."
+
+#: Notified customer about invoice #%s.
+msgid "Notified customer about invoice #%s."
+msgstr "Notifier le client pour la facture n°%s."
+
+#: Now accepting PayPal (150 X 40)
+msgid "Now accepting PayPal (150 X 40)"
+msgstr "Nous acceptons désormais PayPal (150 X 40)"
+
+#: Now accepting PayPal (150 X 60)
+msgid "Now accepting PayPal (150 X 60)"
+msgstr "Nous acceptons désormais PayPal (150 X 60)"
+
+#: Open Authorization
+msgid "Open Authorization"
+msgstr "Ouvrez l'autorisation"
+
+#: Order
+msgid "Order"
+msgstr "Commande"
+
+#: Order ID
+msgid "Order ID"
+msgstr "ID Commande"
+
+#: Page Background Color
+msgid "Page Background Color"
+msgstr "Couleur d'arrière plan de la page"
+
+#: Page Style
+msgid "Page Style"
+msgstr "Style de page"
+
+#: Part of the address information matched
+msgid "Part of the address information matched"
+msgstr "Correspondance trouvée sur une partie de l'adresse."
+
+#: Partner
+msgid "Partner"
+msgstr "Partenaire"
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: PayPal
+msgid "PayPal"
+msgstr "PayPal"
+
+#: PayPal Balance Manager function of PayPal account
+msgid "PayPal Balance Manager function of PayPal account"
+msgstr "fonction du gestionnaire PayPal solde du compte PayPal"
+
+#: PayPal Buyer Warranty Bonus
+msgid "PayPal Buyer Warranty Bonus"
+msgstr "PayPal bonus garantie acheteur"
+
+#: PayPal Debit Card Cash Advance
+msgid "PayPal Debit Card Cash Advance"
+msgstr "PayPal avance de trésorerie de débit par carte"
+
+#: PayPal Debit Card Withdrawal from ATM
+msgid "PayPal Debit Card Withdrawal from ATM"
+msgstr "PayPal par carte de débit Retrait ATM"
+
+#: PayPal Express Checkout Shortcut Wrapper
+msgid "PayPal Express Checkout Shortcut Wrapper"
+msgstr "Conteneur de raccourci PayPal Express"
+
+#: PayPal Express Checkout Token does not exist.
+msgid "PayPal Express Checkout Token does not exist."
+msgstr "Le jeton PayPal Express n'existe pas"
+
+#: PayPal Express Order Review Form
+msgid "PayPal Express Order Review Form"
+msgstr "Formulaire de commentaire de commande PayPal Express"
+
+#: PayPal Fee Information
+msgid "PayPal Fee Information"
+msgstr "Renseignements sur les frais PayPal"
+
+#: PayPal Merchant Pages Style
+msgid "PayPal Merchant Pages Style"
+msgstr "PayPal marchand pages de style"
+
+#: PayPal Product Logo
+msgid "PayPal Product Logo"
+msgstr "Logo du produit PayPal"
+
+#: PayPal Protection Bonus
+msgid "PayPal Protection Bonus"
+msgstr "bonus de protection PayPal"
+
+#: PayPal Reference ID
+msgid "PayPal Reference ID"
+msgstr "Référence PayPal ID"
+
+#: PayPal Reference ID Type
+msgid "PayPal Reference ID Type"
+msgstr "Référence PayPal ID Type"
+
+#: PayPal Settlement Reports
+msgid "PayPal Settlement Reports"
+msgstr "Rapports de règlement PayPal"
+
+#: PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.
+msgid "PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process."
+msgstr "PayPal ne peut pas traiter les commande d'un montant nul. Pour terminer votre commande, utilisez le processus de commande standard."
+
+#: PayPal gateway has rejected request. %s
+msgid "PayPal gateway has rejected request. %s"
+msgstr "PayPal passerelle a rejeté la demande. %s"
+
+#: PayPal processes all of your orders, and you get paid.
+msgid "PayPal processes all of your orders, and you get paid."
+msgstr "PayPal traite tous de vos commandes, et vous êtes payé."
+
+#: PayPal retains reports for 45 days.
+msgid "PayPal retains reports for 45 days."
+msgstr "PayPal conserve des rapports pendant 45 jours."
+
+#: PayPal/Centinel Electronic Commerce Indicator
+msgid "PayPal/Centinel Electronic Commerce Indicator"
+msgstr "PayPal/Centinel Indicateur de Commerce Électronique"
+
+#: PayPal/Centinel Visa Payer Authentication Service Result
+msgid "PayPal/Centinel Visa Payer Authentication Service Result"
+msgstr "PayPal/Centinel Service Validation Visa"
+
+#: Payer Address ID
+msgid "Payer Address ID"
+msgstr "ID adresse du Payeur"
+
+#: Payer Address Status
+msgid "Payer Address Status"
+msgstr "Statut adresse du Payeur"
+
+#: Payer Email
+msgid "Payer Email"
+msgstr "Email du Payeur"
+
+#: Payer Email: %s
+msgid "Payer Email: %s"
+msgstr "Email du Payeur : %s"
+
+#: Payer ID
+msgid "Payer ID"
+msgstr "ID Payeur"
+
+#: Payer Status
+msgid "Payer Status"
+msgstr "Statut du Payeur"
+
+#: Payer is not identified.
+msgid "Payer is not identified."
+msgstr "Payeur non identifié"
+
+#: Payflow Pro Gateway
+msgid "Payflow Pro Gateway"
+msgstr "Payflow Pro passerelle"
+
+#: Payflow Pro Settings
+msgid "Payflow Pro Settings"
+msgstr "Payflow Pro Paramètres"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment Applicable From
+msgid "Payment Applicable From"
+msgstr "Paiement valable depuis"
+
+#: Payment Method
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+#: Payment Refund initiated by merchant
+msgid "Payment Refund initiated by merchant"
+msgstr "Remboursement de paiement initié par le marchand"
+
+#: Payments by PayPal (150 X 40)
+msgid "Payments by PayPal (150 X 40)"
+msgstr "Paiements par PayPal (150 X 40)"
+
+#: Payments by PayPal (150 X 60)
+msgid "Payments by PayPal (150 X 60)"
+msgstr "Paiements par PayPal (150 X 60)"
+
+#: Paypal Billing Agreement Settings
+msgid "Paypal Billing Agreement Settings"
+msgstr "Paramètres d'entente de facturation PayPal"
+
+#: Pending PayPal
+msgid "Pending PayPal"
+msgstr "En attente de PayPal"
+
+#: Place Order
+msgid "Place Order"
+msgstr "Passez la commande"
+
+#: Please select a shipping method...
+msgid "Please select a shipping method..."
+msgstr "Sélectionnez un mode de livraison..."
+
+#: Points Incentive Redemption
+msgid "Points Incentive Redemption"
+msgstr "Rachat d'incitation de points"
+
+#: Postage Payment to either USPS or UPS
+msgid "Postage Payment to either USPS or UPS"
+msgstr "Frais de port paiement soit USPS ou UPS"
+
+#: Preapproved Payment (BillUser API), either sent or received
+msgid "Preapproved Payment (BillUser API), either sent or received"
+msgstr "Paiement pré-approuvés (BillUser API), envoyé ou reçu des"
+
+#: Preapproved Payment ID
+msgid "Preapproved Payment ID"
+msgstr "Paiement pré-approuvés ID"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Process credit cards directly on your website with PayPal’s all-in-one online payment processing solution.
+msgid "Process credit cards directly on your website with PayPal’s all-in-one online payment processing solution."
+msgstr "Traitez les paiements par cartes de crédit directement sur votre site web avec PayPal la solution de paiement en ligne tout-en-un."
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Proxy Host
+msgid "Proxy Host"
+msgstr "Hôte proxy"
+
+#: Proxy Port
+msgid "Proxy Port"
+msgstr "Port de proxy"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Reauthorization
+msgid "Reauthorization"
+msgstr "Réautorisation"
+
+#: Reference Information
+msgid "Reference Information"
+msgstr "Information sur la référence"
+
+#: Refund issued by merchant.
+msgid "Refund issued by merchant."
+msgstr "Remboursement délivré par le marchand."
+
+#: Reimbursement for a chargeback.
+msgid "Reimbursement for a chargeback."
+msgstr "Remboursement des frais de rejet de débit."
+
+#: Reimbursement of Chargeback
+msgid "Reimbursement of Chargeback"
+msgstr "Remboursement des rejets de débit."
+
+#: Report Date
+msgid "Report Date"
+msgstr "Date du rapport"
+
+#: Reports
+msgid "Reports"
+msgstr "Rapports"
+
+#: Require CVV Entry
+msgid "Require CVV Entry"
+msgstr "Entrée CVV Exiger"
+
+#: Reversal
+msgid "Reversal"
+msgstr "Inversion"
+
+#: Reversal of General Account Hold
+msgid "Reversal of General Account Hold"
+msgstr "Inversion de prise de compte général"
+
+#: Reversal of Points Usage
+msgid "Reversal of Points Usage"
+msgstr "Inversion d'utilisation de points"
+
+#: Reversal of an adjustment.
+msgid "Reversal of an adjustment."
+msgstr "Inversion d'un ajustement."
+
+#: Reversal of hold for Dispute Investigation
+msgid "Reversal of hold for Dispute Investigation"
+msgstr "Inversion de prise pour la recherche de conflit"
+
+#: Review Order
+msgid "Review Order"
+msgstr "Vérifier la commande"
+
+#: Reward Voucher Redemption
+msgid "Reward Voucher Redemption"
+msgstr "Rachat de bon de récompense"
+
+#: SFTP Credentials
+msgid "SFTP Credentials"
+msgstr "Informations d'accès SFTP"
+
+#: Sale
+msgid "Sale"
+msgstr "Vente"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Sandbox Credentials
+msgid "Sandbox Credentials"
+msgstr "Informations d'accès en mode Sandbox"
+
+#: Sandbox Mode
+msgid "Sandbox Mode"
+msgstr "Mode Sandbox"
+
+#: Schedule
+msgid "Schedule"
+msgstr "Programme"
+
+#: Schedule description is too long.
+msgid "Schedule description is too long."
+msgstr "La description de Liste est trop longue."
+
+#: Scheduled Fetching
+msgid "Scheduled Fetching"
+msgstr "Récupération de ligne"
+
+#: Select a PayPal Solution
+msgid "Select a PayPal Solution"
+msgstr "Choisissez une solution PayPal"
+
+#: Settlement Consolidation
+msgid "Settlement Consolidation"
+msgstr "Consolidation de règlement"
+
+#: Settlement Report Settings
+msgid "Settlement Report Settings"
+msgstr "Les paramètres du rapport de règlement"
+
+#: Settlement of a chargeback.
+msgid "Settlement of a chargeback."
+msgstr "Le règlement d'un rejet de débit."
+
+#: Severe 3D Secure Card Validation
+msgid "Severe 3D Secure Card Validation"
+msgstr "Vérification 3D Secure stricte"
+
+#: Severe Validation Removes Chargeback Liability on Merchant
+msgid "Severe Validation Removes Chargeback Liability on Merchant"
+msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand"
+
+#: Severe validation removes chargeback liability on merchant.
+msgid "Severe validation removes chargeback liability on merchant."
+msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand."
+
+#: Shipping
+msgid "Shipping"
+msgstr "Livraison"
+
+#: Shipping Address
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+#: Shipping Information
+msgid "Shipping Information"
+msgstr "Informations de livraison"
+
+#: Shipping Method
+msgid "Shipping Method"
+msgstr "Mode de livraison"
+
+#: Shop now using (150 X 40)
+msgid "Shop now using (150 X 40)"
+msgstr "Magasin utilisant maintenant (150 X 40)"
+
+#: Shop now using (150 X 60)
+msgid "Shop now using (150 X 60)"
+msgstr "Magasin utilisant maintenant (150 X 60)"
+
+#: Shortcut
+msgid "Shortcut"
+msgstr "Raccourci"
+
+#: Shortcut Buttons Flavor
+msgid "Shortcut Buttons Flavor"
+msgstr "Boutons de raccourci Flavor"
+
+#: Shortcut on Product View
+msgid "Shortcut on Product View"
+msgstr "Raccourci sur le produit Voir"
+
+#: Shortcut on Shopping Cart
+msgid "Shortcut on Shopping Cart"
+msgstr "Raccourci sur le panier"
+
+#: Sign a billing agreement to streamline further purchases with PayPal.
+msgid "Sign a billing agreement to streamline further purchases with PayPal."
+msgstr "Signer une entente de facturation afin de rationaliser les achats supplémentaires auprès de PayPal."
+
+#: Solo
+msgid "Solo"
+msgstr "Solo"
+
+#: Sorry, no quotes are available for this order at this time.
+msgid "Sorry, no quotes are available for this order at this time."
+msgstr "Aucun mode de livraison n'est disponible pour votre adresse."
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Static
+msgid "Static"
+msgstr "Statique"
+
+#: Submitting order information...
+msgid "Submitting order information..."
+msgstr "Les informations de commande sont en cours d'envoi..."
+
+#: Subscriber name is too long.
+msgid "Subscriber name is too long."
+msgstr "Le nom d'abonné est trop long."
+
+#: Subscription ID
+msgid "Subscription ID"
+msgstr "ID Abonnement"
+
+#: Subscription Payment, either payment sent or payment received
+msgid "Subscription Payment, either payment sent or payment received"
+msgstr "Paiement d'abonnement, paiement envoyé ou paiement reçu"
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: Summary Text for Aggregated Cart
+msgid "Summary Text for Aggregated Cart"
+msgstr "Texte récapitulatif sur les paniers validés"
+
+#: Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>.
+msgid "Supporting of American Express cards require additional agreement. Learn more at <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+msgstr "Le support des cartes American Express nécessite un accord supplémentaire. Pour en savoir plus : <a href=\"http://www.paypal.com/amexupdate\">http://www.paypal.com/amexupdate</a>."
+
+#: Switch/Maestro
+msgid "Switch/Maestro"
+msgstr "Switch/Maestro"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: The background color for the checkout page around the header and payment form.
+msgid "The background color for the checkout page around the header and payment form."
+msgstr "Couleur d'arrière plan entre l'entête et le formulaire de paiement."
+
+#: The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+msgid "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII."
+msgstr "Couleur de fond pour l'entête de la page de paiement. Insensible à la casse (Six caractères de couleur hexadécimal HTML en ASCII)."
+
+#: The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=\"color:red\">https</strong> is highly encouraged.
+msgid "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=\"color:red\">https</strong> is highly encouraged."
+msgstr "L'ajout d'une image en haut à gauche de la page de paiement (Taille maxi 750x90 pixels. <strong style=\"color:red\"> https</strong>) est fortement conseillé."
+
+#: The merchant account is not yet verified.
+msgid "The merchant account is not yet verified."
+msgstr "Le compte marchand n'est pas encore vérifié."
+
+#: The payment curency does not match any of the merchant\'s balances currency.
+msgid "The payment curency does not match any of the merchant\'s balances currency."
+msgstr "La devise de paiement ne correspond à aucune devise du compte du marchand."
+
+#: The payment eCheck is not yet cleared.
+msgid "The payment eCheck is not yet cleared."
+msgstr "Le chèque électronique de paiement n'est pas encore effacée."
+
+#: The payment is authorized but not settled.
+msgid "The payment is authorized but not settled."
+msgstr "Le paiement est autorisé, mais pas réglé."
+
+#: The payment is pending because it was made to an email address that is not yet registered or confirmed.
+msgid "The payment is pending because it was made to an email address that is not yet registered or confirmed."
+msgstr "Le paiement est en attente car elle a été faite à une adresse email qui n'est pas encore enregistrée ou confirmée."
+
+#: The payment is pending while it is being reviewed by PayPal for risk.
+msgid "The payment is pending while it is being reviewed by PayPal for risk."
+msgstr "Le paiement est en cours alors qu'il est actuellement examiné par PayPal pour un risque potentiel."
+
+#: The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.
+msgid "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status."
+msgstr "Le paiement a été effectué par carte de crédit. Afin de recevoir les fonds pour votre commerce vous devez mettre à niveau le compte en classe Entreprise ou le statut de premier classe."
+
+#: Time of Day
+msgid "Time of Day"
+msgstr "Heure du jour"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Transaction ID
+msgid "Transaction ID"
+msgstr "ID Transaction"
+
+#: Transaction Information
+msgid "Transaction Information"
+msgstr "Information sur les transactions"
+
+#: Transfer Cart Line Items
+msgid "Transfer Cart Line Items"
+msgstr "Transférer les articles dans votre panier"
+
+#: Transfer Shipping Options
+msgid "Transfer Shipping Options"
+msgstr "Options d'expédition de transfert"
+
+#: Triggered Fraud Filters
+msgid "Triggered Fraud Filters"
+msgstr "Activer les filtres anti-fraudes"
+
+#: Unable to cancel Express Checkout.
+msgid "Unable to cancel Express Checkout."
+msgstr "Impossible d'annuler le paiement PayPal Express."
+
+#: Unable to change status. Current status is not correspond to real status.
+msgid "Unable to change status. Current status is not correspond to real status."
+msgstr "Impossible de modifier le statut. Le statut en cours ne correspond pas au vrai statut."
+
+#: Unable to communicate with the PayPal gateway.
+msgid "Unable to communicate with the PayPal gateway."
+msgstr "Communication impossible avec la passerelle PayPal."
+
+#: Unable to initialize Express Checkout review.
+msgid "Unable to initialize Express Checkout review."
+msgstr "Impossible d'initialiser le commentaire PayPal Express."
+
+#: Unable to initialize Express Checkout.
+msgid "Unable to initialize Express Checkout."
+msgstr "Impossible d'initialiser PayPal Express"
+
+#: Unable to place the order.
+msgid "Unable to place the order."
+msgstr "Impossible de passer la commande."
+
+#: Unable to process Express Checkout approval.
+msgid "Unable to process Express Checkout approval."
+msgstr "Impossible de procéder à l'approbation PayPal Express."
+
+#: Unable to start Express Checkout.
+msgid "Unable to start Express Checkout."
+msgstr "Impossible de démarrer PayPal Express."
+
+#: Unable to update shipping method.
+msgid "Unable to update shipping method."
+msgstr "Impossible de mettre à jour le mode de livraison."
+
+#: Unknown reason. Please contact PayPal customer service.
+msgid "Unknown reason. Please contact PayPal customer service."
+msgstr "raison inconnue. S'il vous plaît contactez le service clientèle de PayPal."
+
+#: Update Shipping Method
+msgid "Update Shipping Method"
+msgstr "Changer de mode de livraison"
+
+#: Use Proxy
+msgid "Use Proxy"
+msgstr "Utiliser un proxy"
+
+#: Use colon to specify port. For example: \"test.example.com:5224\".
+msgid "Use colon to specify port. For example: \"test.example.com:5224\"."
+msgstr "Employez les deux points pour spécifier le port. Par exemple : \"test.example.com:5224\"."
+
+#: User
+msgid "User"
+msgstr "Utilisateur"
+
+#: User-initiated Currency Conversion
+msgid "User-initiated Currency Conversion"
+msgstr "L'utilisateur de conversion de devises lancé"
+
+#: Uses store frontend name by default.
+msgid "Uses store frontend name by default."
+msgstr "Utiliser le nom du magasin par défaut."
+
+#: Vendor
+msgid "Vendor"
+msgstr "Vendeur"
+
+#: View
+msgid "View"
+msgstr "Voir"
+
+#: View Demo
+msgid "View Demo"
+msgstr "Voir la Demo"
+
+#: View PayPal solutions.
+msgid "View PayPal solutions."
+msgstr "Voir les solutions PayPal"
+
+#: View Transaction
+msgid "View Transaction"
+msgstr "Voir la transaction"
+
+#: View Transaction Details
+msgid "View Transaction Details"
+msgstr "Voir les détails des transactions"
+
+#: Virtual PayPal Debit Card Transaction
+msgid "Virtual PayPal Debit Card Transaction"
+msgstr "Virtual transaction PayPal par carte de débit"
+
+#: Virtual Terminal Payment
+msgid "Virtual Terminal Payment"
+msgstr "Terminal de paiement virtuel"
+
+#: Void
+msgid "Void"
+msgstr "Invalider"
+
+#: We prefer PayPal (150 X 40)
+msgid "We prefer PayPal (150 X 40)"
+msgstr "Nous préférons PayPal (150 X 40)"
+
+#: We prefer PayPal (150 X 60)
+msgid "We prefer PayPal (150 X 60)"
+msgstr "Nous préférons PayPal (150 X 60)"
+
+#: Website Payments Pro
+msgid "Website Payments Pro"
+msgstr "Website Paiements Pro"
+
+#: Website Payments Pro (Payflow Edition) Settings
+msgid "Website Payments Pro (Payflow Edition) Settings"
+msgstr "Website Payments Pro (Edition Payflow) Paramètres"
+
+#: Website Payments Pro Payflow Edition (includes Express Checkout)
+msgid "Website Payments Pro Payflow Edition (includes Express Checkout)"
+msgstr "Website Payments Pro Payflow Edition (y compris Express Checkout)"
+
+#: Website Payments Pro Settings
+msgid "Website Payments Pro Settings"
+msgstr "Paiements sur site marchand Pro Paramètres"
+
+#: Website Payments Standard
+msgid "Website Payments Standard"
+msgstr "PayPal Standard"
+
+#: Website Payments Standard Payment
+msgid "Website Payments Standard Payment"
+msgstr "Paiement PayPal Standard"
+
+#: Website Payments Standard Settings
+msgid "Website Payments Standard Settings"
+msgstr "Paramètres de PayPal Standard"
+
+#: What is PayPal?
+msgid "What is PayPal?"
+msgstr "Qu'est-ce que PayPal ?"
+
+#: Whether to create a billing agreement, if there are no active billing agreements available.
+msgid "Whether to create a billing agreement, if there are no active billing agreements available."
+msgstr "Créer une entente de facturation, s'il n'y a aucune entente de facturation active disponible."
+
+#: Will appear as a payment option only for customers who have at least one active billing agreement.
+msgid "Will appear as a payment option only for customers who have at least one active billing agreement."
+msgstr "Apparaît comme une option de paiement uniquement pour les clients qui ont au moins une entente de facturation active."
+
+#: WorldLink Withdrawal
+msgid "WorldLink Withdrawal"
+msgstr "Retrait WorldLink"
+
+#: Would you like to sign a billing agreement to streamline further purchases with PayPal?
+msgid "Would you like to sign a billing agreement to streamline further purchases with PayPal?"
+msgstr "Souhaitez-vous signer une entente de facturation afin de rationaliser vos futurs achats avec PayPal ?"
+
+#: Wrong PayPal Express Checkout Token specified.
+msgid "Wrong PayPal Express Checkout Token specified."
+msgstr "Le jeton pour PayPal Express est incorrect."
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: Yes. Matched Address and five-didgit ZIP
+msgid "Yes. Matched Address and five-didgit ZIP"
+msgstr "Oui, Correspondance de l'adresse et du code postal à 5 chiffres"
+
+#: You will be redirected to the PayPal website in a few seconds.
+msgid "You will be redirected to the PayPal website in a few seconds."
+msgstr "Vous serez redirigé vers le site de PayPal dans quelques secondes."
+
+#: You will be redirected to the PayPal website when you place an order.
+msgid "You will be redirected to the PayPal website when you place an order."
+msgstr "Vous serez redirigé vers le site de PayPal à l'issue de votre commande."
+
+#: You will be redirected to the PayPal website.
+msgid "You will be redirected to the PayPal website."
+msgstr "Vous allez être redirigé vers le site PayPal."
+
+#: eBay Auction Payment
+msgid "eBay Auction Payment"
+msgstr "Paiement des enchères eBay"
+
+#: 3D Secure validation is required for Maestro cards.
+msgid "3D Secure validation is required for Maestro cards."
+msgstr "La validation 3D Secure est obligatoire pour les cartes Maestro."
+
+#: By default it is \"/ppreports/outgoing\".
+msgid "By default it is \"/ppreports/outgoing\"."
+msgstr "Par défaut \"/ppreports/outgoing\"."
+
+#: API Authentication Methods
+msgid "API Authentication Methods"
+msgstr "Modes d'authentification de l'API"
+
+#: API Certificate
+msgid "API Certificate"
+msgstr "Certificat d'API"
+
+#: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).
+msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile)."
+msgstr "Valeurs acceptées : \"paypal\", \"primaire\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
+
+#: Billing Agreement Signup
+msgid "Billing Agreement Signup"
+msgstr "Engagement d'entente de facturation "
+
+#: Can not send new order email.
+msgid "Can not send new order email."
+msgstr "Impossible d'envoyer l'email de confirmation de commande."
+
+#: General Funding of PayPal Account
+msgid "General Funding of PayPal Account"
+msgstr "Financement général de compte PayPal"
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.
+msgid "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available."
+msgstr "PayPal est capable de gérer jusqu'à 10 options de livraison. C'est pour cela que Magento transfèrera uniquement les 10 options de livraison les moins chères s'il y en a plus que 10."
+
+#: Pay Now
+msgid "Pay Now"
+msgstr "Régler maintenant"
+
+#: PayPal certificate does not exist.
+msgid "PayPal certificate does not exist."
+msgstr "Le certificat PayPal n'existe pas."
+
+#: PayPal certificate file is empty.
+msgid "PayPal certificate file is empty."
+msgstr "Le fichier de certificat PayPal est vide."
+
+#: PayPal response hasn't required fields.
+msgid "PayPal response hasn't required fields."
+msgstr "La réponse de PayPal ne comporte pas les champs obligatoires."
+
+#: Payflow Link (for USA and Canada)
+msgid "Payflow Link (for USA and Canada)"
+msgstr "Payflow Link (pour les États-Unis et le Canada)"
+
+#: Payflow Link Settings
+msgid "Payflow Link Settings"
+msgstr "Paramètres Payflow Link"
+
+#: Payment has been declined. Please try again.
+msgid "Payment has been declined. Please try again."
+msgstr "Le paiement a été refusé. Veuillez réessayer."
+
+#: Payments by cards + seller protection - <strong style=\"color:red\">Contact PayPal before activating</strong>
+msgid "Payments by cards + seller protection - <strong style=\"color:red\">Contact PayPal before activating</strong>"
+msgstr "Paiement par cartes + protection du commerçant - <strong style=\"color:red\">Contactez PayPal avant activation</strong>"
+
+#: Please do not refresh the page until you complete payment.
+msgid "Please do not refresh the page until you complete payment."
+msgstr "Merci de ne pas rafraîchir la page jusqu'à la fin du paiement."
+
+#: Quick set-up service lets your customers securely complete transactions.
+msgid "Quick set-up service lets your customers securely complete transactions."
+msgstr "Le service de configuration rapide permet à vos clients de valider les transactions en toute sécurité."
+
+#: The payment curency does not match any of the merchant's balances currency.
+msgid "The payment curency does not match any of the merchant's balances currency."
+msgstr "La devise de paiement ne correspond à aucune devise du compte du marchand."
+
+#: There was an error processing your order. Please contact us or try again later.
+msgid "There was an error processing your order. Please contact us or try again later."
+msgstr "Erreur lors du traitement de votre commande, veuillez réessayer plus tard."
+
+#: Website Payments Pro Hosted Solution (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))
+msgid "Website Payments Pro Hosted Solution (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))"
+msgstr "Solution hébergée de paiements pros sur site web (Website Payments Plus (JP) - Integral Evolution (FR) - PayPal Pro (IT) - Pasarela integral (ES))"
+
+#: Website Payments Pro Hosted Solution Settings
+msgid "Website Payments Pro Hosted Solution Settings"
+msgstr "Paramétrage de la solution hébergée de paiements pros sur site web"
+
+#: You will be required to enter your payment details after you place an order.
+msgid "You will be required to enter your payment details after you place an order."
+msgstr "Vouz devrez saisir les informations de paiement après la validation de votre commande."
+
+#: Important: 
+msgid "Important: "
+msgstr "Important : "
+
+#: Cancel URL: 
+msgid "Cancel URL: "
+msgstr "URL d'annulation : "
+
+#: Show confirmation page: 
+msgid "Show confirmation page: "
+msgstr "Afficher la page de confirmation : "
+
+#: Return URL: 
+msgid "Return URL: "
+msgstr "URL de retour : "
+
+#: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal"
+msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal""
+msgstr "sValeurs acceptées : \"paypal\", \"primary\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
+

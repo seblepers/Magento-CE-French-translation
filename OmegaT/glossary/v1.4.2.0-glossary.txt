@@ -1,0 +1,4 @@
+Credit memo	Avoir
+Item	Article
+Wishlist	Liste d'envies
+Product	Produit

@@ -1,0 +1,92 @@
+#: Express Checkout and Order have been canceled.
+msgid "Express Checkout and Order have been canceled."
+msgstr "Le paiement Express Chackout et la commande ont été annulés."
+
+#: Express Checkout has been canceled.
+msgid "Express Checkout has been canceled."
+msgstr "Le paiement Express Checkout a été annulé."
+
+#: Fetch
+msgid "Fetch"
+msgstr "Rapporter"
+
+#: PayPal Express Checkout (Payflow Edition) Shortcut Wrapper
+msgid "PayPal Express Checkout (Payflow Edition) Shortcut Wrapper"
+msgstr "Conteneur de raccourci PayPal Express Checkout (Payflow Edition)"
+
+#: PayPal Express Checkout Token does not exist.
+msgid "PayPal Express Checkout Token does not exist."
+msgstr "Le jeton PayPal Express n'existe pas"
+
+#: PayPal Express Order Review Form
+msgid "PayPal Express Order Review Form"
+msgstr "Formulaire de commentaire de commande PayPal Express"
+
+#: PayPal Settlement Reports
+msgid "PayPal Settlement Reports"
+msgstr "Rapports de règlement PayPal"
+
+#: Pending PayPal
+msgid "Pending PayPal"
+msgstr "En attente de PayPal"
+
+#: Reports
+msgid "Reports"
+msgstr "Rapports"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Solo
+msgid "Solo"
+msgstr "Solo"
+
+#: Switch/Maestro
+msgid "Switch/Maestro"
+msgstr "Switch/Maestro"
+
+#: Unable to cancel Express Checkout.
+msgid "Unable to cancel Express Checkout."
+msgstr "Impossible d'annuler le paiement PayPal Express."
+
+#: Unable to initialize Express Checkout review.
+msgid "Unable to initialize Express Checkout review."
+msgstr "Impossible d'initialiser le commentaire PayPal Express."
+
+#: Unable to place the order.
+msgid "Unable to place the order."
+msgstr "Impossible de passer la commande."
+
+#: Unable to process Express Checkout approval.
+msgid "Unable to process Express Checkout approval."
+msgstr "Impossible de procéder à l'approbation PayPal Express."
+
+#: Unable to start Express Checkout.
+msgid "Unable to start Express Checkout."
+msgstr "Impossible de démarrer PayPal Express."
+
+#: Unable to update shipping method.
+msgid "Unable to update shipping method."
+msgstr "Impossible de mettre à jour le mode de livraison."
+
+#: View
+msgid "View"
+msgstr "Voir"
+
+#: View Transaction
+msgid "View Transaction"
+msgstr "Voir la transaction"
+
+#: Wrong PayPal Express Checkout Token specified.
+msgid "Wrong PayPal Express Checkout Token specified."
+msgstr "Le jeton pour PayPal Express est incorrect."
+
+#: You will be redirected to the PayPal website in a few seconds.
+msgid "You will be redirected to the PayPal website in a few seconds."
+msgstr "Vous serez redirigé vers le site de PayPal dans quelques secondes."
+
+#: Payment has been declined. Please try again.
+msgid "Payment has been declined. Please try again."
+msgstr "Le paiement a été refusé. Veuillez réessayer."
+

@@ -1,0 +1,44 @@
+#: An error occurred while clearing the external full page cache.
+msgid "An error occurred while clearing the external full page cache."
+msgstr "Erreur lors de l'effacement du cache externe de page complète."
+
+#: Cookie Lifetime (seconds)
+msgid "Cookie Lifetime (seconds)"
+msgstr "Durée de vie du cookie (secondes)"
+
+#: Enable External Cache
+msgid "Enable External Cache"
+msgstr "Activer le cache externe"
+
+#: External Cache Control
+msgid "External Cache Control"
+msgstr "Contrôle de cache externe"
+
+#: External Full Page Cache Settings
+msgid "External Full Page Cache Settings"
+msgstr "Paramètres du cache externe de page complète"
+
+#: External full page cache.
+msgid "External full page cache."
+msgstr "Cache externe de page complète."
+
+#: Failed to load external cache control
+msgid "Failed to load external cache control"
+msgstr "Erreur lors du chargement du contrôle de cache externe"
+
+#: Flush External Page Cache
+msgid "Flush External Page Cache"
+msgstr "Vider le cache externe de page"
+
+#: If empty, default value will be used.
+msgid "If empty, default value will be used."
+msgstr "Si ce champ est vide, c'est la valeud par défaut qui sera utilisée."
+
+#: The external full page cache has been cleaned.
+msgid "The external full page cache has been cleaned."
+msgstr "Le cache externe de page complète a été vidé."
+
+#: Zend Full Page Cache
+msgid "Zend Full Page Cache"
+msgstr "Cache de page complète Zend"
+

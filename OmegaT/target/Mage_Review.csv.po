@@ -1,0 +1,352 @@
+#: %d Review(s)
+msgid "%d Review(s)"
+msgstr "%d Commentaire(s)"
+
+#: %s Review(s)
+msgid "%s Review(s)"
+msgstr "%s Commentaire(s)"
+
+#: (Posted on %s)
+msgid "(Posted on %s)"
+msgstr "(Posté le %s)"
+
+#: 1 star
+msgid "1 star"
+msgstr "1 étoile"
+
+#: 2 stars
+msgid "2 stars"
+msgstr "2 étoiles"
+
+#: 3 stars
+msgid "3 stars"
+msgstr "3 étoiles"
+
+#: 4 stars
+msgid "4 stars"
+msgstr "4 étoiles"
+
+#: 5 stars
+msgid "5 stars"
+msgstr "5 étoiles"
+
+#: Add New Review
+msgid "Add New Review"
+msgstr "Ajouter nouveau commentaire"
+
+#: Add Your Review
+msgid "Add Your Review"
+msgstr "Ajoutez votre commentaire"
+
+#: Administrator
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: All Reviews
+msgid "All Reviews"
+msgstr "Tous les commentaires"
+
+#: All Reviews of Customer `%s`
+msgid "All Reviews of Customer `%s`"
+msgstr "Tous les commentaires du client '%s'"
+
+#: Allow Guests to Write Reviews
+msgid "Allow Guests to Write Reviews"
+msgstr "Autoriser les invités à écrire des commentaires"
+
+#: Are you sure you want to do this?
+msgid "Are you sure you want to do this?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Average Customer Rating
+msgid "Average Customer Rating"
+msgstr "Note moyenne"
+
+#: Average Customer Rating:
+msgid "Average Customer Rating:"
+msgstr "Note moyenne des clients :"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Back to Main Product Info
+msgid "Back to Main Product Info"
+msgstr "Retour à la fiche du produit"
+
+#: Back to My Reviews
+msgid "Back to My Reviews"
+msgstr "Retour à mes commentaires"
+
+#: Back to Product Reviews
+msgid "Back to Product Reviews"
+msgstr "Retour aux commentaires"
+
+#: Be the first to review this product
+msgid "Be the first to review this product"
+msgstr "Soyez le premier à commenter ce produit"
+
+#: Catalog Product Review View
+msgid "Catalog Product Review View"
+msgstr "Vue des commentaires de produits"
+
+#: Catalog Product Reviews List
+msgid "Catalog Product Reviews List"
+msgstr "Liste des commentaires de produits"
+
+#: Created On
+msgid "Created On"
+msgstr "Créé le"
+
+#: Customer
+msgid "Customer"
+msgstr "Client"
+
+#: Customer My Account Product Reviews
+msgid "Customer My Account Product Reviews"
+msgstr "Commentaires de produit dans le compte client"
+
+#: Customer My Account Review Details
+msgid "Customer My Account Review Details"
+msgstr "Détails des commentaires dans le compte client"
+
+#: Customer Reviews
+msgid "Customer Reviews"
+msgstr "Commentaires des clients"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Review
+msgid "Delete Review"
+msgstr "Supprimer le commentaire"
+
+#: Detailed Rating
+msgid "Detailed Rating"
+msgstr "Notation détaillée"
+
+#: Edit Review '%s'
+msgid "Edit Review '%s'"
+msgstr "Éditer le commentaire '%s'"
+
+#: Guest
+msgid "Guest"
+msgstr "Invité"
+
+#: How do you rate this product?
+msgid "How do you rate this product?"
+msgstr "Quelle note donneriez-vous à ce produit ?"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Manage Ratings
+msgid "Manage Ratings"
+msgstr "Gérer les notations"
+
+#: My Product Reviews
+msgid "My Product Reviews"
+msgstr "Mes commentaires"
+
+#: My Recent Reviews
+msgid "My Recent Reviews"
+msgstr "Mes derniers commentaires :"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: Name in Store
+msgid "Name in Store"
+msgstr "Nom dans la boutique"
+
+#: New Review
+msgid "New Review"
+msgstr "Nouveau commentaire"
+
+#: Nickname
+msgid "Nickname"
+msgstr "Pseudo"
+
+#: Only registered users can write reviews. Please, <a href=\"%s\">log in</a> or <a href=\"%s\">register</a>
+msgid "Only registered users can write reviews. Please, <a href=\"%s\">log in</a> or <a href=\"%s\">register</a>"
+msgstr "Seuls les utilisateurs inscrits peuvent écrire des commentaires. Veuillez <a href=\"%s\">vous connecter</a> ou <a href=\"%s\">vous enregistrer</a>"
+
+#: Pending Reviews
+msgid "Pending Reviews"
+msgstr "Commentaires en attente"
+
+#: Pending Reviews of Customer `%s`
+msgid "Pending Reviews of Customer `%s`"
+msgstr "Commentaires en attente du client '%s'"
+
+#: Please select a product
+msgid "Please select a product"
+msgstr "Sélectionnez un produit"
+
+#: Please select one of each of the ratings above
+msgid "Please select one of each of the ratings above"
+msgstr "Sélectionnez une notation de chaque parmi les suivantes"
+
+#: Posted By
+msgid "Posted By"
+msgstr "Posté par"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Product
+msgid "Product"
+msgstr "Produit"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Product Rating
+msgid "Product Rating"
+msgstr "Notation du produit"
+
+#: Product Rating:
+msgid "Product Rating:"
+msgstr "Note du produit :"
+
+#: Product Review (submitted on %s):
+msgid "Product Review (submitted on %s):"
+msgstr "<strong>Commentaire</strong> (posté le %s) :"
+
+#: Product Reviews
+msgid "Product Reviews"
+msgstr "Commentaires"
+
+#: Product SKU
+msgid "Product SKU"
+msgstr "SKU Produit"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Rating:
+msgid "Rating:"
+msgstr "Note :"
+
+#: Review
+msgid "Review"
+msgstr "Commentaire"
+
+#: Review (submitted on %s):
+msgid "Review (submitted on %s):"
+msgstr "Commentaire (soumis le %s) :"
+
+#: Review Details
+msgid "Review Details"
+msgstr "Détail du commentaire"
+
+#: Review Form Fields Before
+msgid "Review Form Fields Before"
+msgstr "Avant le formulaire de commentaire"
+
+#: Review by <span>%s</span>
+msgid "Review by <span>%s</span>"
+msgstr "Commentaire par <span>%s</span>"
+
+#: Reviews and Ratings
+msgid "Reviews and Ratings"
+msgstr "Commentaires et notations"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: Save Review
+msgid "Save Review"
+msgstr "Sauvegarder le commentaire"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Submit Review
+msgid "Submit Review"
+msgstr "Poster le commentaire"
+
+#: Summary Rating
+msgid "Summary Rating"
+msgstr "Aperçu des notations"
+
+#: Summary of Review
+msgid "Summary of Review"
+msgstr "Résumé du commentaire"
+
+#: Summary of Your Review
+msgid "Summary of Your Review"
+msgstr "Résumé de votre commentaire"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Unable to post the review.
+msgid "Unable to post the review."
+msgstr "Impossible de poster le commentaire"
+
+#: Update Status
+msgid "Update Status"
+msgstr "Mettre à jour le statut"
+
+#: View All Reviews
+msgid "View All Reviews"
+msgstr "Voir tous les commentaires"
+
+#: View Details
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: Visible In
+msgid "Visible In"
+msgstr "Visible dans"
+
+#: Websites
+msgid "Websites"
+msgstr "Sites web"
+
+#: Write Your Own Review
+msgid "Write Your Own Review"
+msgstr "Rédigez votre propre commentaire"
+
+#: You have submitted no reviews.
+msgid "You have submitted no reviews."
+msgstr "Vous n'avez posté aucun commentaire"
+
+#: You're reviewing:
+msgid "You're reviewing:"
+msgstr "Vous commentez :"
+
+#: Your Rating:
+msgid "Your Rating:"
+msgstr "Votre note :"
+
+#: Your Review (submitted on %s):
+msgid "Your Review (submitted on %s):"
+msgstr "<strong>Votre commentaire</strong> (posté le %s) :"
+
+#: Your review has been accepted for moderation.
+msgid "Your review has been accepted for moderation."
+msgstr "Votre commentaire a été accepté pour modération."
+
+#: Not Approved
+msgid "Not Approved"
+msgstr "Non approuvé"
+

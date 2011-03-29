@@ -1,0 +1,284 @@
+#: %s Item(s)
+msgid "%s Item(s)"
+msgstr "%s article(s)"
+
+#: &copy; 2008 Magento Demo Store. All Rights Reserved.
+msgid "&copy; 2008 Magento Demo Store. All Rights Reserved."
+msgstr "&copy; 2008 Boutique de démo Magento. Tous droits réservés."
+
+#: (Shift-)Click or drag to change value
+msgid "(Shift-)Click or drag to change value"
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
+
+#: (ver. %s)
+msgid "(ver. %s)"
+msgstr "(ver. %s)"
+
+#: - Click on any of the time parts to increase it
+msgid "- Click on any of the time parts to increase it"
+msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
+
+#: - Hold mouse button on any of the above buttons for faster selection.
+msgid "- Hold mouse button on any of the above buttons for faster selection."
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
+
+#: - Use the %s buttons to select month
+msgid "- Use the %s buttons to select month"
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
+
+#: - Use the %s, %s buttons to select year
+msgid "- Use the %s, %s buttons to select year"
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
+
+#: - or Shift-click to decrease it
+msgid "- or Shift-click to decrease it"
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
+
+#: - or click and drag for faster selection.
+msgid "- or click and drag for faster selection."
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: 1 column
+msgid "1 column"
+msgstr "1 colonne"
+
+#: 2 columns with left bar
+msgid "2 columns with left bar"
+msgstr "2 colonnes avec colonne de gauche"
+
+#: 2 columns with right bar
+msgid "2 columns with right bar"
+msgstr "2 colonnes avec colonne de droite"
+
+#: 3 columns
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: About the calendar
+msgid "About the calendar"
+msgstr "À propos du calendrier"
+
+#: All Empty Layout Pages
+msgid "All Empty Layout Pages"
+msgstr "Toutes les pages du gabarit vide"
+
+#: All One-Column Layout Pages
+msgid "All One-Column Layout Pages"
+msgstr "Toutes les pages du gabarit sur 1 colonne"
+
+#: All Pages
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: All Pages (Print Version)
+msgid "All Pages (Print Version)"
+msgstr "Toutes les pages (version imprimable)"
+
+#: All Three-Column Layout Pages
+msgid "All Three-Column Layout Pages"
+msgstr "Toutes les pages du gabarit sur 3 colonnes"
+
+#: All Two-Column Layout Pages (Left Column)
+msgid "All Two-Column Layout Pages (Left Column)"
+msgstr "Toutes les pages du gabarit sur 2 colonnes (colonne de gauche)"
+
+#: All Two-Column Layout Pages (Right Column)
+msgid "All Two-Column Layout Pages (Right Column)"
+msgstr "Toutes les pages du gabarit sur 2 colonnes (colonne de droite)"
+
+#: Breadcrumbs
+msgid "Breadcrumbs"
+msgstr "Fil d'Ariane"
+
+#: Click <a href=\"%s\">here</a> if nothing has happened
+msgid "Click <a href=\"%s\">here</a> if nothing has happened"
+msgstr "Cliquez <a href=\"%s\">ici</a> si rien ne se passe"
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Close Window
+msgid "Close Window"
+msgstr "Fermer la fenêtre"
+
+#: DHTML Date/Time Selector
+msgid "DHTML Date/Time Selector"
+msgstr "Sélecteur de date/heure DHTML"
+
+#: Date selection:
+msgid "Date selection:"
+msgstr "Sélection de date :"
+
+#: Default Description
+msgid "Default Description"
+msgstr "Description par défaut"
+
+#: Default welcome msg!
+msgid "Default welcome msg!"
+msgstr "Message d'accueil par défaut"
+
+#: Display %s first
+msgid "Display %s first"
+msgstr "Afficher d'abord %s"
+
+#: Distributed under GNU LGPL. See %s for details.
+msgid "Distributed under GNU LGPL. See %s for details."
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
+
+#: Drag to move
+msgid "Drag to move"
+msgstr "Glisser pour déplacer"
+
+#: Empty
+msgid "Empty"
+msgstr "Vide"
+
+#: For latest version visit: %s
+msgid "For latest version visit: %s"
+msgstr "Pour la visite de la dernière version : %s"
+
+#: Free Shipping on orders over 50$
+msgid "Free Shipping on orders over 50$"
+msgstr "Livraison gratuite sur les commandes de plus de 50€"
+
+#: Go Today
+msgid "Go Today"
+msgstr "Aller à aujourd'hui"
+
+#: Help Us to Keep Magento Healthy
+msgid "Help Us to Keep Magento Healthy"
+msgstr "Aidez-nous à améliorer Magento"
+
+#: Interface Language
+msgid "Interface Language"
+msgstr "Langage de l'interface"
+
+#: Items %s to %s of %s total
+msgid "Items %s to %s of %s total"
+msgstr "Articles <strong>%s</strong> à <strong>%s</strong> sur un total de <strong>%s</strong>"
+
+#: JavaScript seem to be disabled in your browser.
+msgid "JavaScript seem to be disabled in your browser."
+msgstr "Apparemment, javascript est désactivé sur votre navigateur."
+
+#: Left Column
+msgid "Left Column"
+msgstr "Colonne de gauche"
+
+#: Main Content Area
+msgid "Main Content Area"
+msgstr "Zone de contenu principal"
+
+#: Navigation Bar
+msgid "Navigation Bar"
+msgstr "Barre de navigation"
+
+#: Next
+msgid "Next"
+msgstr "Suivant"
+
+#: Next month (hold for menu)
+msgid "Next month (hold for menu)"
+msgstr "Mois suivant (maintenez pour le menu)"
+
+#: Next year (hold for menu)
+msgid "Next year (hold for menu)"
+msgstr "Année prochaine (maintenez pour le menu)"
+
+#: Page Bottom
+msgid "Page Bottom"
+msgstr "Bas de page"
+
+#: Page Footer
+msgid "Page Footer"
+msgstr "Pied de page"
+
+#: Page Header
+msgid "Page Header"
+msgstr "En-tête de page"
+
+#: Page Top
+msgid "Page Top"
+msgstr "Haut de page"
+
+#: Page:
+msgid "Page:"
+msgstr "Page :"
+
+#: Prev. month (hold for menu)
+msgid "Prev. month (hold for menu)"
+msgstr "Mois précédent (maintenez pour le menu)"
+
+#: Prev. year (hold for menu)
+msgid "Prev. year (hold for menu)"
+msgstr "Année précédente (maintenez pour le menu)"
+
+#: Previous
+msgid "Previous"
+msgstr "Précédent"
+
+#: Redirecting...
+msgid "Redirecting..."
+msgstr "En cours de redirection..."
+
+#: Report All Bugs
+msgid "Report All Bugs"
+msgstr "Signaler un dysfonctionnement"
+
+#: Right Column
+msgid "Right Column"
+msgstr "Colonne de droite"
+
+#: Select Store
+msgid "Select Store"
+msgstr "Choisir un magasin"
+
+#: Select Store:
+msgid "Select Store:"
+msgstr "Choisir un magasin :"
+
+#: Select date
+msgid "Select date"
+msgstr "Sélectionner la date"
+
+#: Show
+msgid "Show"
+msgstr "Afficher"
+
+#: This is a demo store. Any orders placed through this store will not be honored or fulfilled.
+msgid "This is a demo store. Any orders placed through this store will not be honored or fulfilled."
+msgstr "Ceci est une boutique de démonstration. Aucune commande passée sur cette boutique ne sera honorée."
+
+#: Time selection:
+msgid "Time selection:"
+msgstr "Sélection de l'heure :"
+
+#: Time:
+msgid "Time:"
+msgstr "Heure :"
+
+#: Welcome, %s!
+msgid "Welcome, %s!"
+msgstr "Bienvenue, %s !"
+
+#: You must have JavaScript enabled in your browser to utilize the functionality of this website.
+msgid "You must have JavaScript enabled in your browser to utilize the functionality of this website."
+msgstr "Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site."
+
+#: Your Language
+msgid "Your Language"
+msgstr "Langue"
+
+#: Your Language:
+msgid "Your Language:"
+msgstr "Votre langue :"
+
+#: per page
+msgid "per page"
+msgstr "par page"
+

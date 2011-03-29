@@ -1,0 +1,280 @@
+#: %s
+msgid "%s"
+msgstr "%s"
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: Actions
+msgid "Actions"
+msgstr "Actions"
+
+#: Add Layout Update
+msgid "Add Layout Update"
+msgstr "Ajouter une mise à jour d'agencement"
+
+#: Add New Widget Instance
+msgid "Add New Widget Instance"
+msgstr "Ajouter une nouvelle instance de widget"
+
+#: All
+msgid "All"
+msgstr "Tous"
+
+#: All Pages
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: All Product Types
+msgid "All Product Types"
+msgstr "Tous les types de produits"
+
+#: Anchor Categories
+msgid "Anchor Categories"
+msgstr "Catégorie ancrée"
+
+#: Assign to Store Views
+msgid "Assign to Store Views"
+msgstr "Assigner à la vue magasin"
+
+#: Big Image
+msgid "Big Image"
+msgstr "Grande image"
+
+#: Block Reference
+msgid "Block Reference"
+msgstr "Bloc de référence"
+
+#: CMS
+msgid "CMS"
+msgstr "CMS"
+
+#: Categories
+msgid "Categories"
+msgstr "Catégories"
+
+#: Choose...
+msgid "Choose..."
+msgstr "Choisir..."
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Default Template
+msgid "Default Template"
+msgstr "Gabarit par défaut"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Design Package/Theme
+msgid "Design Package/Theme"
+msgstr "Interface/Thème de design"
+
+#: Export to:
+msgid "Export to:"
+msgstr "Exporter vers :"
+
+#: Frontend Properties
+msgid "Frontend Properties"
+msgstr "Propriétés du frontend"
+
+#: Generic Pages
+msgid "Generic Pages"
+msgstr "Pages génériques"
+
+#: Images
+msgid "Images"
+msgstr "Images"
+
+#: Insert Widget
+msgid "Insert Widget"
+msgstr "Insérer un widget"
+
+#: Layout Updates
+msgid "Layout Updates"
+msgstr "Mises à jour d'agencements"
+
+#: Manage Widget Instances
+msgid "Manage Widget Instances"
+msgstr "Gérer les instances de widgets"
+
+#: New Instance
+msgid "New Instance"
+msgstr "Nouvelle instance"
+
+#: New Widget Instance
+msgid "New Widget Instance"
+msgstr "Nouvelle instance de widget"
+
+#: Next page
+msgid "Next page"
+msgstr "Page suivante"
+
+#: Non-Anchor Categories
+msgid "Non-Anchor Categories"
+msgstr "Catégories non ancrées"
+
+#: Not Selected
+msgid "Not Selected"
+msgstr "Non sélectionné"
+
+#: Page
+msgid "Page"
+msgstr "Page"
+
+#: Please Select Block Reference First
+msgid "Please Select Block Reference First"
+msgstr "Veuillez choisir un bloc de référence"
+
+#: Previous page
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Remove Layout Update
+msgid "Remove Layout Update"
+msgstr "Supprimer la mise à jour d\\'agencement"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Select All
+msgid "Select All"
+msgstr "Sélectionner tout"
+
+#: Select Visible
+msgid "Select Visible"
+msgstr "Sélectionner les éléments visibles"
+
+#: Settings
+msgid "Settings"
+msgstr "Paramétrage"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Sort Order of widget instances in the same block reference
+msgid "Sort Order of widget instances in the same block reference"
+msgstr "Ordre des instances de widgets dans le même bloc de référence"
+
+#: Specific %s
+msgid "Specific %s"
+msgstr "Spécifique à %s"
+
+#: Specified Page
+msgid "Specified Page"
+msgstr "Page spécifiée"
+
+#: Template
+msgid "Template"
+msgstr "Gabarit"
+
+#: The information in this tab has been changed.
+msgid "The information in this tab has been changed."
+msgstr "Les informations contenues dans cet onglet ont été changées."
+
+#: The widget instance has been deleted.
+msgid "The widget instance has been deleted."
+msgstr "L'instance de widget a bien été effacée."
+
+#: The widget instance has been saved.
+msgid "The widget instance has been saved."
+msgstr "L'instance de widget a bien été sauvegardée."
+
+#: This tab contains invalid data. Please solve the problem before saving.
+msgid "This tab contains invalid data. Please solve the problem before saving."
+msgstr "Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder."
+
+#: Thumbnail
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: Total %d records found
+msgid "Total %d records found"
+msgstr "%d enregistrement(s) trouvé(s)"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Unselect All
+msgid "Unselect All"
+msgstr "Désélectionner tout"
+
+#: Unselect Visible
+msgid "Unselect Visible"
+msgstr "Désélectionner les éléments visibles"
+
+#: View
+msgid "View"
+msgstr "Voir"
+
+#: Widget
+msgid "Widget"
+msgstr "Widget"
+
+#: Widget \"%s\"
+msgid "Widget \"%s\""
+msgstr "Widget \"%s\""
+
+#: Widget ID
+msgid "Widget ID"
+msgstr "ID de widget"
+
+#: Widget Instance
+msgid "Widget Instance"
+msgstr "Instance de widget"
+
+#: Widget Instance Title
+msgid "Widget Instance Title"
+msgstr "Titre de l'instance de widget"
+
+#: Widget Options
+msgid "Widget Options"
+msgstr "Options du widget"
+
+#: Widget Type
+msgid "Widget Type"
+msgstr "Type de widget"
+
+#: Widget Type is not specified
+msgid "Widget Type is not specified"
+msgstr "Le type du widget n'est pas spécifié"
+
+#: Widget instance is not full complete to create.
+msgid "Widget instance is not full complete to create."
+msgstr "Création impossible, l'instance du widget n'est pas complète."
+
+#: Widgets
+msgid "Widgets"
+msgstr "Widgets"
+
+#: Wrong wigdet instance specified.
+msgid "Wrong wigdet instance specified."
+msgstr "Mauvaise instance de wigdet spécifiée"
+
+#: items selected
+msgid "items selected"
+msgstr "élément(s) sélectionné(s)"
+
+#: of %s pages
+msgid "of %s pages"
+msgstr "sur %s pages"
+
+#: per page
+msgid "per page"
+msgstr "par page"
+

@@ -1,0 +1,164 @@
+#: Authorization
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr "Numéro de vérification"
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr "Type de carte de crédit"
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr "<strong>Type de carte de paiement :</strong> <span class=\"nowrap\">%s</span>"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr "Vérification de carte de paiement"
+
+#: Cybersource (SOAP Toolkit)
+msgid "Cybersource (SOAP Toolkit)"
+msgstr "Cybersource (kit SOAP)"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error in refunding the payment.
+msgid "Error in refunding the payment."
+msgstr "Erreur lors du remboursement."
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: Gateway request error: %s
+msgid "Gateway request error: %s"
+msgstr "Erreur de requête passerelle : %s"
+
+#: Invalid transaction id or token
+msgid "Invalid transaction id or token"
+msgstr "Id ou jeton de transaction invalide"
+
+#: Issue Number
+msgid "Issue Number"
+msgstr "Numéro de problème"
+
+#: JCB
+msgid "JCB"
+msgstr "JCB"
+
+#: Laser
+msgid "Laser"
+msgstr "Laser"
+
+#: Maestro (International)
+msgid "Maestro (International)"
+msgstr "Maestro (Internationnal)"
+
+#: Maestro/Solo(UK Domestic)
+msgid "Maestro/Solo(UK Domestic)"
+msgstr "Maestro / Solo (Royaume-Uni intérieur)"
+
+#: Merchant ID
+msgid "Merchant ID"
+msgstr "ID de marchand"
+
+#: Name on Card
+msgid "Name on Card"
+msgstr "Propriétaire de la carte"
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr "<strong>Nom sur la carte :</strong> <span class=\"nowrap\">%s</span>"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: SOAP extension is not enabled. Please contact us.
+msgid "SOAP extension is not enabled. Please contact us."
+msgstr "L'extension SOAP n'est pas activée. Veuillez nous contacter."
+
+#: Sale
+msgid "Sale"
+msgstr "Vente"
+
+#: Security Key
+msgid "Security Key"
+msgstr "Clé de sécurité"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Start Date
+msgid "Start Date"
+msgstr "Date de début"
+
+#: Switch/Solo/Maestro(UK Domestic) Only
+msgid "Switch/Solo/Maestro(UK Domestic) Only"
+msgstr "Switch/Solo/Maestro(UK Domestic) seulement"
+
+#: Switch/Solo/Maestro(UK Domestic) card issue number: %s
+msgid "Switch/Solo/Maestro(UK Domestic) card issue number: %s"
+msgstr "Numéro de problème de carte Switch/Solo/Maestro(UK Domestic) : %s"
+
+#: Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s
+msgid "Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s"
+msgstr "Date de début de carte Switch/Solo/Maestro(UK Domestic) : %s/%s"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: There is an error in processing the payment. Please try again or contact us.
+msgid "There is an error in processing the payment. Please try again or contact us."
+msgstr "Erreur lors du traitement du paiement. Veuillez réessayer ou nous contacter."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: UATP
+msgid "UATP"
+msgstr "UATP"
+
+#: What is this?
+msgid "What is this?"
+msgstr "Aide ?"
+
+#: Year
+msgid "Year"
+msgstr "Année"
+

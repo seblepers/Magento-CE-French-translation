@@ -1,0 +1,160 @@
+#: --Please Select--
+msgid "--Please Select--"
+msgstr "--Votre choix--"
+
+#: API Login ID
+msgid "API Login ID"
+msgstr "ID de connexion de l'API"
+
+#: Accepted Currency
+msgid "Accepted Currency"
+msgstr "Devise acceptée"
+
+#: Authorize.net Direct Post
+msgid "Authorize.net Direct Post"
+msgstr "Soumission directe Authorize.net"
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr "Numéro de vérification"
+
+#: Card Verification Number Visual Reference
+msgid "Card Verification Number Visual Reference"
+msgstr "Référence visuelle numérique de vérification de carte"
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Credit Card Information
+msgid "Credit Card Information"
+msgstr "Information de carte bancaire"
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr "Type de carte de crédit"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr "Vérification de carte de paiement"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Email Customer
+msgid "Email Customer"
+msgstr "Envoyer un email au client"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: Gateway URL
+msgid "Gateway URL"
+msgstr "URL de passerelle"
+
+#: Maximum Order Total
+msgid "Maximum Order Total"
+msgstr "Montant maxi de commande"
+
+#: Merchant MD5
+msgid "Merchant MD5"
+msgstr "MD5 du commerçant"
+
+#: Merchant's Email
+msgid "Merchant's Email"
+msgstr "Email du commerçant"
+
+#: Minimum Order Total
+msgid "Minimum Order Total"
+msgstr "Montant mini de commande"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Order saving error: %s
+msgid "Order saving error: %s"
+msgstr "Erreur lors de la sauvegarde de la commande : %s"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment authorization error.
+msgid "Payment authorization error."
+msgstr "Erreur d'autorisation de paiement."
+
+#: Payment authorization error. Transacion id is empty.
+msgid "Payment authorization error. Transacion id is empty."
+msgstr "Erreur lors de l'autorisation du paiement. L'id de transaction est vide."
+
+#: Payment error. Order was not found.
+msgid "Payment error. Order was not found."
+msgstr "Erreur de paiement. La commande n'a pas été trouvée."
+
+#: Payment error. Paid amount doesn't match the order amount.
+msgid "Payment error. Paid amount doesn't match the order amount."
+msgstr "Erreur de paiement. Le montant payé ne correspond pas au montant de la commande."
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Please, choose payment method
+msgid "Please, choose payment method"
+msgstr "Choisissez un moyen de paiement"
+
+#: Response hash validation failed. Transaction declined.
+msgid "Response hash validation failed. Transaction declined."
+msgstr "La validation du hash de la réponse a échoué. Transaction refusée."
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: The order has been created.
+msgid "The order has been created."
+msgstr "La commande a été créé."
+
+#: There was an error processing your order. Please contact us or try again later.
+msgid "There was an error processing your order. Please contact us or try again later."
+msgstr "Erreur lors du traitement de votre commande, veuillez réessayer plus tard."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Transaction Key
+msgid "Transaction Key"
+msgstr "Clé de la transaction"
+
+#: What is this?
+msgid "What is this?"
+msgstr "Aide ?"
+
+#: You will be required to enter your payment details before you place an order.
+msgid "You will be required to enter your payment details before you place an order."
+msgstr "Vouz devrez saisir les informations de paiement avant de valider une commande."
+

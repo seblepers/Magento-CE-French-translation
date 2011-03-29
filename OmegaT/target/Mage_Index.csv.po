@@ -1,0 +1,176 @@
+#: %s Index process is working now. Please try run this process later.
+msgid "%s Index process is working now. Please try run this process later."
+msgstr "Le process d'indexation %s est en cours. Réessayez plus tard."
+
+#: %s index was rebuilt.
+msgid "%s index was rebuilt."
+msgstr "L'index %s a été reconstruit."
+
+#: '%s' Index Process Information
+msgid "'%s' Index Process Information"
+msgstr "Informations du process d'indexation '%s'"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Cannot initialize the indexer process.
+msgid "Cannot initialize the indexer process."
+msgstr "Impossible d'initialiser le process d'indexation."
+
+#: Change Index Mode
+msgid "Change Index Mode"
+msgstr "Changer le mode d'indexation"
+
+#: Click here to go to <a href=\"%s\">Cache Management</a> and refresh cache types.
+msgid "Click here to go to <a href=\"%s\">Cache Management</a> and refresh cache types."
+msgstr "Cliquez ici pour aller dans <a href=\"%s\">la gestion du cache</a> et rafraîchir les types de cache."
+
+#: Click here to go to <a href=\"%s\">Index Management</a> and rebuild required indexes.
+msgid "Click here to go to <a href=\"%s\">Index Management</a> and rebuild required indexes."
+msgstr "Cliquez ici pour aller dans <a href=\"%s\">la gestion des indexes</a> et reconstruire les indexes nécessaires."
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Disable
+msgid "Disable"
+msgstr "Désactiver"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: General
+msgid "General"
+msgstr "Général"
+
+#: Index
+msgid "Index"
+msgstr "Index"
+
+#: Index Description
+msgid "Index Description"
+msgstr "Description d'index"
+
+#: Index Management
+msgid "Index Management"
+msgstr "Gestion des indexes"
+
+#: Index Mode
+msgid "Index Mode"
+msgstr "Mode d'indexation"
+
+#: Index Name
+msgid "Index Name"
+msgstr "Nom de l'index"
+
+#: Index mode
+msgid "Index mode"
+msgstr "Mode d'indexation"
+
+#: Indexer code is not defined.
+msgid "Indexer code is not defined."
+msgstr "Le code de l'indexer n'est pas défini."
+
+#: Indexer model is not defined.
+msgid "Indexer model is not defined."
+msgstr "Le modèle de l'indexer n'est pas défini."
+
+#: Indexer model should extend Mage_Index_Model_Indexer_Abstract.
+msgid "Indexer model should extend Mage_Index_Model_Indexer_Abstract."
+msgstr "Le modèle de l'indexer devrait étendre Mage_Index_Model_Indexer_Abstract."
+
+#: Last Run
+msgid "Last Run"
+msgstr "Dernière exécution"
+
+#: Manual Update
+msgid "Manual Update"
+msgstr "Mise à jour manuelle"
+
+#: Mode
+msgid "Mode"
+msgstr "Mode"
+
+#: Never
+msgid "Never"
+msgstr "Jamais"
+
+#: One or more of the Indexes are not up to date:
+msgid "One or more of the Indexes are not up to date:"
+msgstr "Certains indexes ne sont pas à jour :"
+
+#: Pending Events
+msgid "Pending Events"
+msgstr "Événements en attente"
+
+#: Please select Index(es)
+msgid "Please select Index(es)"
+msgstr "Sélectionnez des indexes"
+
+#: Please select Indexes
+msgid "Please select Indexes"
+msgstr "Sélectionnez des indexes"
+
+#: Process Information
+msgid "Process Information"
+msgstr "Informations de process"
+
+#: Processing
+msgid "Processing"
+msgstr "En cours de traitement"
+
+#: Ready
+msgid "Ready"
+msgstr "Prêt"
+
+#: Refresh
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: Reindex Data
+msgid "Reindex Data"
+msgstr "Réindexer"
+
+#: Reindex Required
+msgid "Reindex Required"
+msgstr "Réindexation nécessaire"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: The index has been saved.
+msgid "The index has been saved."
+msgstr "L'index a été sauvegardé."
+
+#: There was a problem with reindexing process.
+msgid "There was a problem with reindexing process."
+msgstr "Problème lors du process d'indexation."
+
+#: There was a problem with saving process.
+msgid "There was a problem with saving process."
+msgstr "Problème lors de la sauvegarde du process."
+
+#: Total of %d index(es) have changed index mode.
+msgid "Total of %d index(es) have changed index mode."
+msgstr "%d mode(s) d'index a (ont) été mis à jour."
+
+#: Total of %d index(es) have reindexed data.
+msgid "Total of %d index(es) have reindexed data."
+msgstr "Les données de %d index(es) ont été mises à jour."
+
+#: Update on Save
+msgid "Update on Save"
+msgstr "Mise à jour à la sauvegarde"
+
+#: Manual Update
+msgid "Manual Update"
+msgstr "Mise à jour manuelle"
+

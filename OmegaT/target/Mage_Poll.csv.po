@@ -1,0 +1,168 @@
+#: Actions
+msgid "Actions"
+msgstr "Actions"
+
+#: Add Answer
+msgid "Add Answer"
+msgstr "Ajouter une réponse"
+
+#: Add New Answer
+msgid "Add New Answer"
+msgstr "Ajouter une nouvelle réponse"
+
+#: Add New Poll
+msgid "Add New Poll"
+msgstr "Ajouter nouveau sondage"
+
+#: Answer Title
+msgid "Answer Title"
+msgstr "Titre de réponse"
+
+#: Answer Title:
+msgid "Answer Title:"
+msgstr "Titre de la réponse :"
+
+#: Answer with the same title in this poll
+msgid "Answer with the same title in this poll"
+msgstr "Réponse avec le même titre dans ce sondage"
+
+#: Are you sure you want to delete it?
+msgid "Are you sure you want to delete it?"
+msgstr "Êtes-vous sûr(e) de vouloir le supprimer ?"
+
+#: Assigned Answers
+msgid "Assigned Answers"
+msgstr "Réponses assignées"
+
+#: Closed
+msgid "Closed"
+msgstr "Fermée"
+
+#: Community Poll
+msgid "Community Poll"
+msgstr "Sondage"
+
+#: Date Closed
+msgid "Date Closed"
+msgstr "Date de fermeture"
+
+#: Date Posted
+msgid "Date Posted"
+msgstr "Posté le"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Answer
+msgid "Delete Answer"
+msgstr "Supprimer la réponse"
+
+#: Delete Poll
+msgid "Delete Poll"
+msgstr "Supprimer le sondage"
+
+#: Disallow Voting in a Poll Multiple Times from Same IP-address
+msgid "Disallow Voting in a Poll Multiple Times from Same IP-address"
+msgstr "Empêcher les votes multiples à un sondage depuis une même adresse IP"
+
+#: Edit Answer '%s'
+msgid "Edit Answer '%s'"
+msgstr "Éditer la réponse '%s'"
+
+#: Edit Poll '%s'
+msgid "Edit Poll '%s'"
+msgstr "Éditer le sondage '%s'"
+
+#: Edit Poll Answer
+msgid "Edit Poll Answer"
+msgstr "Modifier la réponse du sondage"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Invalid Answer.
+msgid "Invalid Answer."
+msgstr "Réponse invalide"
+
+#: New Poll
+msgid "New Poll"
+msgstr "Nouveau sondage"
+
+#: Number of Responses
+msgid "Number of Responses"
+msgstr "Nombre de réponses"
+
+#: Open
+msgid "Open"
+msgstr "Ouvert"
+
+#: Poll Answers
+msgid "Poll Answers"
+msgstr "Réponses du sondage"
+
+#: Poll Information
+msgid "Poll Information"
+msgstr "Informations sondage"
+
+#: Poll Manager
+msgid "Poll Manager"
+msgstr "Gestion des sondages"
+
+#: Poll Question
+msgid "Poll Question"
+msgstr "Question"
+
+#: Poll information
+msgid "Poll information"
+msgstr "Informations sondage"
+
+#: Poll with the same question
+msgid "Poll with the same question"
+msgstr "Sondage avec la même question"
+
+#: Polls
+msgid "Polls"
+msgstr "Sondages"
+
+#: Save Answer
+msgid "Save Answer"
+msgstr "Sauvegarder la réponse"
+
+#: Save Poll
+msgid "Save Poll"
+msgstr "Sauvegarder le sondage"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: The answer has been saved.
+msgid "The answer has been saved."
+msgstr "La réponse a été enregistrée."
+
+#: The poll does not exist.
+msgid "The poll does not exist."
+msgstr "Le sondage n'existe pas."
+
+#: Unable to find an answer to delete.
+msgid "Unable to find an answer to delete."
+msgstr "Impossible de trouver la réponse à effacer."
+
+#: Visible In
+msgid "Visible In"
+msgstr "Visible dans"
+
+#: Vote
+msgid "Vote"
+msgstr "Voter"
+
+#: Votes Count
+msgid "Votes Count"
+msgstr "Compte votes"
+
+#: Votes Count:
+msgid "Votes Count:"
+msgstr "Nombre de votes :"
+

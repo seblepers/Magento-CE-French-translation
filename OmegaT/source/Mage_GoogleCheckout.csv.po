@@ -1,0 +1,400 @@
+#: * Select shipping method
+msgid "* Select shipping method"
+msgstr "* Sélectionnez un mode de livraison"
+
+#: <strong style=\"color:red\">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices.
+msgid "<strong style=\"color:red\">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices."
+msgstr "<strong style=\"color:red\">Attention !</strong> Cette option désactive le frais de port calculés par le marchand. Avec cette option, l'API Google ignore toute tentative de modification des frais de port."
+
+#: A virtual item to reflect the discount total
+msgid "A virtual item to reflect the discount total"
+msgstr "Un produit virtuel pour refléter le total de remise"
+
+#: A virtual item to reflect the tax total
+msgid "A virtual item to reflect the tax total"
+msgstr "Un produit virtuel pour refléter le total de taxes"
+
+#: AVS Status: %s
+msgid "AVS Status: %s"
+msgstr "Statut du système de vérification d'adresse (AVS)"
+
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Add Shipping Method
+msgid "Add Shipping Method"
+msgstr "Ajouter un mode de livraison"
+
+#: Allowed Methods
+msgid "Allowed Methods"
+msgstr "Modes de livraison autorisés"
+
+#: Amount: %s
+msgid "Amount: %s"
+msgstr "Montant : %s"
+
+#: Auto-generated from GoogleCheckout Charge
+msgid "Auto-generated from GoogleCheckout Charge"
+msgstr "Généré automatiquement depuis la facturation GoogleCheckout"
+
+#: Buyer Account Age: %s days
+msgid "Buyer Account Age: %s days"
+msgstr "Âge des comptes acheteurs : %s jours"
+
+#: CC Partial: xxxx-%s
+msgid "CC Partial: xxxx-%s"
+msgstr "Carte de crédit (partiel) : xxxx-%s"
+
+#: CID Status: %s
+msgid "CID Status: %s"
+msgstr "Statut CID : %s"
+
+#: Carrier Calculated Methods
+msgid "Carrier Calculated Methods"
+msgstr "Modes de livraison autorisés par le transporteur"
+
+#: Cart Discount
+msgid "Cart Discount"
+msgstr "Remise panier"
+
+#: Checkout Image Style
+msgid "Checkout Image Style"
+msgstr "Style d'image du règlement"
+
+#: Continue Shopping URL
+msgid "Continue Shopping URL"
+msgstr "URL de \"Poursuivez vos achats\""
+
+#: Credit memo has been created automatically
+msgid "Credit memo has been created automatically"
+msgstr "L'avoir a été créé automatiquement"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Default Package Height (in)
+msgid "Default Package Height (in)"
+msgstr "Hauteur par défaut du paquet (en pouces)"
+
+#: Default Package Length (in)
+msgid "Default Package Length (in)"
+msgstr "Longueur par défaut du paquet (en pouces)"
+
+#: Default Package Width (in)
+msgid "Default Package Width (in)"
+msgstr "Largeur par défaut du paquet (en pouces)"
+
+#: Default Price for Methods
+msgid "Default Price for Methods"
+msgstr "Prix par défaut pour les méthodes"
+
+#: Default price:
+msgid "Default price:"
+msgstr "Prix par défaut :"
+
+#: Delivery Address Category
+msgid "Delivery Address Category"
+msgstr "Catégorie d'adresse de livraison"
+
+#: Delivery Schedule
+msgid "Delivery Schedule"
+msgstr "Délais de livraison"
+
+#: Disable Default Tax Tables
+msgid "Disable Default Tax Tables"
+msgstr "Désactiver les tables de TVA par défault"
+
+#: Discount Tax
+msgid "Discount Tax"
+msgstr "Taxe de remise"
+
+#: Eligible for Protection: %s
+msgid "Eligible for Protection: %s"
+msgstr "Éligible pour la protection : %s"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: Enable Carrier Calculated
+msgid "Enable Carrier Calculated"
+msgstr "Activer Calculé par le transporteur"
+
+#: Enable Digital Delivery
+msgid "Enable Digital Delivery"
+msgstr "Activer la livraison numérique"
+
+#: Enable Flat Rate
+msgid "Enable Flat Rate"
+msgstr "Activer les montants fixes"
+
+#: Enable Merchant Calculated
+msgid "Enable Merchant Calculated"
+msgstr "Activer Calculé par le marchand"
+
+#: Enable this if your checkout request is too big and being cut off.
+msgid "Enable this if your checkout request is too big and being cut off."
+msgstr "Activer ceci si votre requête de passage de commande est trop grosse et doit être découpée."
+
+#: Expiration: %s
+msgid "Expiration: %s"
+msgstr "Expiration : %s"
+
+#: Financial: %s -> %s
+msgid "Financial: %s -> %s"
+msgstr "Financier : %s -> %s"
+
+#: Free Shipping
+msgid "Free Shipping"
+msgstr "Livraison gratuite"
+
+#: Fulfillment: %s -> %s
+msgid "Fulfillment: %s -> %s"
+msgstr "Accomplissement : %s -> %s"
+
+#: Google API
+msgid "Google API"
+msgstr "API Google"
+
+#: Google Authorization:
+msgid "Google Authorization:"
+msgstr "Autorisation Google :"
+
+#: Google Buyer ID: %s
+msgid "Google Buyer ID: %s"
+msgstr "Identifiant d'acheteur Google : %s"
+
+#: Google Charge:
+msgid "Google Charge:"
+msgstr "Tarif Google :"
+
+#: Google Chargeback:
+msgid "Google Chargeback:"
+msgstr "Google Chargeback :"
+
+#: Google Checkout
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: Google Checkout Shipping - Carrier Calculated
+msgid "Google Checkout Shipping - Carrier Calculated"
+msgstr "Livraison Google Checkout - Calculé par transporteur"
+
+#: Google Checkout Shipping - Digital Delivery
+msgid "Google Checkout Shipping - Digital Delivery"
+msgstr "Livraison Google Checkout - Livraison numérique"
+
+#: Google Checkout Shipping - Flat Rate
+msgid "Google Checkout Shipping - Flat Rate"
+msgstr "Livraison Google Checkout - Montant fixe"
+
+#: Google Checkout Shipping - Merchant Calculated
+msgid "Google Checkout Shipping - Merchant Calculated"
+msgstr "Livraison Google Checkout - Calculé par le marchand"
+
+#: Google Checkout: %s
+msgid "Google Checkout: %s"
+msgstr "Google Checkout : %s"
+
+#: Google Order Number: %s
+msgid "Google Order Number: %s"
+msgstr "Numéro de commande Google : %s"
+
+#: Google Order Status Change:
+msgid "Google Order Status Change:"
+msgstr "Changement de statut de commande Google :"
+
+#: Google Refund:
+msgid "Google Refund:"
+msgstr "Remboursement Google :"
+
+#: Google Risk Information:
+msgid "Google Risk Information:"
+msgstr "Informations Google à propos des risques :"
+
+#: Hide Cart Contents
+msgid "Hide Cart Contents"
+msgstr "Cacher les contenus du panier"
+
+#: IP Address: %s
+msgid "IP Address: %s"
+msgstr "Adresse IP : %s"
+
+#: If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if \"Edit Cart\" link was activated.
+msgid "If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if \"Edit Cart\" link was activated."
+msgstr "Si vous l'activez, le contenu du panier sera caché après que le client aura cliqué sur le bouton Google Checkout, puis restauré si le lien \"Éditer le panier\" a été activé."
+
+#: Invoice Auto-Created: %s
+msgid "Invoice Auto-Created: %s"
+msgstr "Facture créée automatiquement : %s"
+
+#: Is Buyer Willing to Receive Marketing Emails: %s
+msgid "Is Buyer Willing to Receive Marketing Emails: %s"
+msgstr "L'acheteur accepte-t-il de recevoir les emails marketing : %s"
+
+#: Large - %s
+msgid "Large - %s"
+msgstr "Grand - %s"
+
+#: Latest Charge: %s
+msgid "Latest Charge: %s"
+msgstr "Derniers frais facturé : %s"
+
+#: Latest Chargeback: %s
+msgid "Latest Chargeback: %s"
+msgstr "Dernier Chargeback : %s"
+
+#: Latest Refund: %s
+msgid "Latest Refund: %s"
+msgstr "Dernier remboursement : %s"
+
+#: Location
+msgid "Location"
+msgstr "Lieu"
+
+#: Medium - %s
+msgid "Medium - %s"
+msgstr "Moyen - %s"
+
+#: Merchant ID
+msgid "Merchant ID"
+msgstr "ID de marchand"
+
+#: Merchant Key
+msgid "Merchant Key"
+msgstr "Clé de marchand"
+
+#: Method
+msgid "Method"
+msgstr "Méthode"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Optional, leave empty for home page.
+msgid "Optional, leave empty for home page."
+msgstr "Facultatif, laisser vide pour la page d'accueil"
+
+#: Rate 1 Amount
+msgid "Rate 1 Amount"
+msgstr "Valeur du taux 1"
+
+#: Rate 1 Ship To Applicable Countries
+msgid "Rate 1 Ship To Applicable Countries"
+msgstr "Pays de livraison applicables pour le taux 1"
+
+#: Rate 1 Ship to Specific Countries
+msgid "Rate 1 Ship to Specific Countries"
+msgstr "Pays de livraison spécifiques pour le taux 1"
+
+#: Rate 1 Title
+msgid "Rate 1 Title"
+msgstr "Libellé du taux 1"
+
+#: Rate 2 Amount
+msgid "Rate 2 Amount"
+msgstr "Valeur du taux 2"
+
+#: Rate 2 Ship To Applicable Countries
+msgid "Rate 2 Ship To Applicable Countries"
+msgstr "Pays de livraison applicables pour le taux 2"
+
+#: Rate 2 Ship to Specific Countries
+msgid "Rate 2 Ship to Specific Countries"
+msgstr "Pays de livraison spécifiques pour le taux 2"
+
+#: Rate 2 Title
+msgid "Rate 2 Title"
+msgstr "Libellé du taux 2"
+
+#: Rate 3 Amount
+msgid "Rate 3 Amount"
+msgstr "Valeur du taux 3"
+
+#: Rate 3 Ship To Applicable Countries
+msgid "Rate 3 Ship To Applicable Countries"
+msgstr "Pays de livraison applicables pour le taux 3"
+
+#: Rate 3 Ship to Specific Countries
+msgid "Rate 3 Ship to Specific Countries"
+msgstr "Pays de livraison spécifiques pour le taux 3"
+
+#: Rate 3 Title
+msgid "Rate 3 Title"
+msgstr "Libellé du taux 3"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Required for live Google Checkout transactions.
+msgid "Required for live Google Checkout transactions."
+msgstr "Obligatoire pour les transactions en direct avec Google Chekcout."
+
+#: Sandbox
+msgid "Sandbox"
+msgstr "Bac à sable (sandbox)"
+
+#: Secure Callback URL
+msgid "Secure Callback URL"
+msgstr "URL d'appel de retour sécurisée"
+
+#: Small - %s
+msgid "Small - %s"
+msgstr "Petit - %s"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Total Chargeback: %s
+msgid "Total Chargeback: %s"
+msgstr "Total de Chargeback : %s"
+
+#: Total Charged: %s
+msgid "Total Charged: %s"
+msgstr "Total facturé : %s"
+
+#: Total Refunded: %s
+msgid "Total Refunded: %s"
+msgstr "Total remboursé : %s"
+
+#: Transparent
+msgid "Transparent"
+msgstr "Transparent"
+
+#: United Kingdom
+msgid "United Kingdom"
+msgstr "Royaume Uni"
+
+#: United States
+msgid "United States"
+msgstr "États-Unis"
+
+#: White Background
+msgid "White Background"
+msgstr "Fond blanc"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: You will be redirected to GoogleCheckout in a few seconds.
+msgid "You will be redirected to GoogleCheckout in a few seconds."
+msgstr "Vous allez être redirigé vers Google Checkout dans quelques secondes."
+
+#: <br />Warning: <strong>%s</strong><br />
+msgid "<br />Warning: <strong>%s</strong><br />"
+msgstr "<br/>Attention : <strong>%s</strong><br/>"
+
+#: The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount
+msgid "The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount"
+msgstr "Le montant de taxe a été appliqué à partir des informations reçues de Google Checkout, car le montant de taxe reçu de Google Checkout diffère de celui calculé."
+

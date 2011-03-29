@@ -1,0 +1,160 @@
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Allow Gift Messages for Order Items
+msgid "Allow Gift Messages for Order Items"
+msgstr "Autoriser les messages cadeau pour chaque article"
+
+#: Allow Gift Messages on Order Level
+msgid "Allow Gift Messages on Order Level"
+msgstr "Autoriser les messages cadeau au niveau de la commande"
+
+#: An error occurred while saving the gift message.
+msgid "An error occurred while saving the gift message."
+msgstr "Erreur lors de la sauvegarde du message cadeau"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Check this checkbox if you want to add gift messages to your items.
+msgid "Check this checkbox if you want to add gift messages to your items."
+msgstr "Cochez cette case si vous voulez ajouter des messages cadeau à vos articles."
+
+#: Check this checkbox if you want to add gift messages.
+msgid "Check this checkbox if you want to add gift messages."
+msgstr "Cochez cette case si vous voulez ajouter des messages cadeau."
+
+#: Do you have any gift items in your order?
+msgid "Do you have any gift items in your order?"
+msgstr "Y a-t-il des articles cadeaux dans votre commande ?"
+
+#: Edit
+msgid "Edit"
+msgstr "Éditer"
+
+#: Enter a gift message for each item in your order.
+msgid "Enter a gift message for each item in your order."
+msgstr "Entrez un message cadeau pour chaque article dans votre commande"
+
+#: Enter a gift message for entire order.
+msgid "Enter a gift message for entire order."
+msgstr "Entrez un message cadeau pour toute la commande"
+
+#: Enter a gift message for this address.
+msgid "Enter a gift message for this address."
+msgstr "Entrez un message cadeau pour cette adresse"
+
+#: From
+msgid "From"
+msgstr "De"
+
+#: Gift Messages
+msgid "Gift Messages"
+msgstr "Messages cadeau"
+
+#: Item %d of %d
+msgid "Item %d of %d"
+msgstr "Article %d sur %d"
+
+#: Message
+msgid "Message"
+msgstr "Message"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Save Gift Message
+msgid "Save Gift Message"
+msgstr "Sauvegarder le message cadeau"
+
+#: The gift message has been removed
+msgid "The gift message has been removed"
+msgstr "Le message cadeau a bien été supprimé"
+
+#: The gift message has been saved
+msgid "The gift message has been saved"
+msgstr "Le message cadeau a bien été sauvegardé."
+
+#: The gift message has been saved.
+msgid "The gift message has been saved."
+msgstr "Le message cadeau a bien été sauvegardé."
+
+#: To
+msgid "To"
+msgstr "À"
+
+#: Unknown entity type
+msgid "Unknown entity type"
+msgstr "Type d'entité inconnu"
+
+#: Use config
+msgid "Use config"
+msgstr "Utiliser la config"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: You can leave this box blank if you do not wish to add a gift message for the item.
+msgid "You can leave this box blank if you do not wish to add a gift message for the item."
+msgstr "Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'article."
+
+#: You can leave this box blank if you do not wish to add a gift message for this address.
+msgid "You can leave this box blank if you do not wish to add a gift message for this address."
+msgstr "Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette adresse."
+
+#: You can leave this box blank if you do not wish to add a gift message for whole order.
+msgid "You can leave this box blank if you do not wish to add a gift message for whole order."
+msgstr "Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'ensemble de la commande."
+
+#: Add gift options
+msgid "Add gift options"
+msgstr "Ajouter des options cadeau"
+
+#: Add gift options for Individual Items
+msgid "Add gift options for Individual Items"
+msgstr "Ajouter des options cadeau pour les articles individuels"
+
+#: Add gift options for the Entire Order
+msgid "Add gift options for the Entire Order"
+msgstr "Ajouter des options cadeau pour toute la commande"
+
+#: Add gift options.
+msgid "Add gift options."
+msgstr "Ajouter des options cadeau"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: Gift Options
+msgid "Gift Options"
+msgstr "Options cadeau"
+
+#: Gift Options for
+msgid "Gift Options for"
+msgstr "Options cadeau pour"
+
+#: Gift Options for Individual Items
+msgid "Gift Options for Individual Items"
+msgstr "Options cadeau pour les articles individuels"
+
+#: Gift Options for the Entire Order.
+msgid "Gift Options for the Entire Order."
+msgstr "Options cadeau pour toute la commande"
+
+#: Gift Options for this address.
+msgid "Gift Options for this address."
+msgstr "Options cadeau pour cette adresse."
+
+#: OK
+msgid "OK"
+msgstr "OK"
+

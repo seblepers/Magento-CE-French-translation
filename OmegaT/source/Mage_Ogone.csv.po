@@ -1,0 +1,236 @@
+#: Authorization
+msgid "Authorization"
+msgstr ""
+
+#: Authorization Waiting from Ogone
+msgid "Authorization Waiting from Ogone"
+msgstr ""
+
+#: Authorization not known: A technical problem arose during authorization process, giving unpredictable result
+msgid "Authorization not known: A technical problem arose during authorization process, giving unpredictable result"
+msgstr ""
+
+#: Background Color of Ogone Template
+msgid "Background Color of Ogone Template"
+msgstr ""
+
+#: Button Background Color of the Ogone Template
+msgid "Button Background Color of the Ogone Template"
+msgstr ""
+
+#: Button Text Color of the Ogone Template
+msgid "Button Text Color of the Ogone Template"
+msgstr ""
+
+#: Cancelled Ogone
+msgid "Cancelled Ogone"
+msgstr ""
+
+#: Debug
+msgid "Debug"
+msgstr ""
+
+#: Declined Ogone
+msgid "Declined Ogone"
+msgstr ""
+
+#: Declined Order on Ogone side.
+msgid "Declined Order on Ogone side."
+msgstr ""
+
+#: Direct Sale
+msgid "Direct Sale"
+msgstr ""
+
+#: E.g: \"Verdana\".
+msgid "E.g: \"Verdana\"."
+msgstr ""
+
+#: E.g: \"black\".
+msgid "E.g: \"black\"."
+msgstr ""
+
+#: E.g: \"white\".
+msgid "E.g: \"white\"."
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Exception not defined
+msgid "Exception not defined"
+msgstr ""
+
+#: Font Family of the Ogone Template
+msgid "Font Family of the Ogone Template"
+msgstr ""
+
+#: For production, replace \"test\" with \"prod\". Example: https://secure.ogone.com/ncol/prod/orderstandard.asp
+msgid "For production, replace \"test\" with \"prod\". Example: https://secure.ogone.com/ncol/prod/orderstandard.asp"
+msgstr ""
+
+#: Gateway URL
+msgid "Gateway URL"
+msgstr ""
+
+#: Horizontally grouped logo with group name on left
+msgid "Horizontally grouped logo with group name on left"
+msgstr ""
+
+#: Horizontally grouped logo with no group name
+msgid "Horizontally grouped logo with no group name"
+msgstr ""
+
+#: If you choose \"No Operation\", Ogone will use default payment procedure setup in Ogone configuration.
+msgid "If you choose \"No Operation\", Ogone will use default payment procedure setup in Ogone configuration."
+msgstr ""
+
+#: If you choose \"Ogone Template\", you will need to fill in all the following fields.
+msgid "If you choose \"Ogone Template\", you will need to fill in all the following fields."
+msgstr ""
+
+#: Layout of Payment Methods
+msgid "Layout of Payment Methods"
+msgstr ""
+
+#: Logo of the Ogone Template
+msgid "Logo of the Ogone Template"
+msgstr ""
+
+#: Magento
+msgid "Magento"
+msgstr ""
+
+#: Ogone
+msgid "Ogone"
+msgstr ""
+
+#: Ogone Default Operation
+msgid "Ogone Default Operation"
+msgstr ""
+
+#: Order can't save
+msgid "Order can't save"
+msgstr ""
+
+#: PSPID
+msgid "PSPID"
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment Template
+msgid "Payment Template"
+msgstr ""
+
+#: Payment transaction has been declined.
+msgid "Payment transaction has been declined."
+msgstr ""
+
+#: Payment uncertain: A technical problem arose during payment process, giving unpredictable result
+msgid "Payment uncertain: A technical problem arose during payment process, giving unpredictable result"
+msgstr ""
+
+#: Pending Ogone
+msgid "Pending Ogone"
+msgstr ""
+
+#: Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds.
+msgid "Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds."
+msgstr ""
+
+#: Processed Ogone Payment
+msgid "Processed Ogone Payment"
+msgstr ""
+
+#: Processed by Ogone
+msgid "Processed by Ogone"
+msgstr ""
+
+#: Processing Ogone Payment
+msgid "Processing Ogone Payment"
+msgstr ""
+
+#: SHA-1- OUT Signature
+msgid "SHA-1- OUT Signature"
+msgstr ""
+
+#: SHA-1-IN Signature
+msgid "SHA-1-IN Signature"
+msgstr ""
+
+#: Start Ogone Processing
+msgid "Start Ogone Processing"
+msgstr ""
+
+#: Table Background Color of the Ogone Template
+msgid "Table Background Color of the Ogone Template"
+msgstr ""
+
+#: Table Text Color of the Ogone Template
+msgid "Table Text Color of the Ogone Template"
+msgstr ""
+
+#: Text Color of the Ogone Template
+msgid "Text Color of the Ogone Template"
+msgstr ""
+
+#: The hash is not valid
+msgid "The hash is not valid"
+msgstr ""
+
+#: The order cannot be canceled for a system reason.
+msgid "The order cannot be canceled for a system reason."
+msgstr ""
+
+#: The order cannot be saved for a system reason.
+msgid "The order cannot be saved for a system reason."
+msgstr ""
+
+#: The order cannot be saved.
+msgid "The order cannot be saved."
+msgstr ""
+
+#: The order is not valid
+msgid "The order is not valid"
+msgstr ""
+
+#: The order was canceled on ogone side.
+msgid "The order was canceled on ogone side."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Title of the Ogone Template
+msgid "Title of the Ogone Template"
+msgstr ""
+
+#: URL/filename of the logo.<br />The URL must be absolute and stored on a secure server.
+msgid "URL/filename of the logo.<br />The URL must be absolute and stored on a secure server."
+msgstr ""
+
+#: Unknown exception
+msgid "Unknown exception"
+msgstr ""
+
+#: Verical list
+msgid "Verical list"
+msgstr ""
+
+#: Waiting Authorization
+msgid "Waiting Authorization"
+msgstr ""
+
+#: You can arrange the layout/list of the payment methods on Ogone payment page.
+msgid "You can arrange the layout/list of the payment methods on Ogone payment page."
+msgstr ""
+
+#: You will be redirected to Ogone website when you place an order.
+msgid "You will be redirected to Ogone website when you place an order."
+msgstr ""
+

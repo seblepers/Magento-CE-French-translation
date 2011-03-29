@@ -1,0 +1,240 @@
+#: Absolute path to private certificate file.
+msgid "Absolute path to private certificate file."
+msgstr ""
+
+#: Absolute path to private key file.
+msgid "Absolute path to private key file."
+msgstr ""
+
+#: Absolute path to public payment provider certificate file.
+msgid "Absolute path to public payment provider certificate file."
+msgstr ""
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr ""
+
+#: An error has occurred with the transaction #%s.
+msgid "An error has occurred with the transaction #%s."
+msgstr ""
+
+#: An error has occurred. You will be redirected back to store.
+msgid "An error has occurred. You will be redirected back to store."
+msgstr ""
+
+#: An error occurred while processing your iDEAL transaction. Please contact the web shop or try again later. The transaction number is %s.
+msgid "An error occurred while processing your iDEAL transaction. Please contact the web shop or try again later. The transaction number is %s."
+msgstr ""
+
+#: Begin to check transaction status if order was made {N} hours ago.
+msgid "Begin to check transaction status if order was made {N} hours ago."
+msgstr ""
+
+#: Check Begin
+msgid "Check Begin"
+msgstr ""
+
+#: Check End
+msgid "Check End"
+msgstr ""
+
+#: Click <a href=\"%s\">here</a> to continue shopping.
+msgid "Click <a href=\"%s\">here</a> to continue shopping."
+msgstr ""
+
+#: Customer has canceled payment.
+msgid "Customer has canceled payment."
+msgstr ""
+
+#: Customer has successfully returned from iDEAL.
+msgid "Customer has successfully returned from iDEAL."
+msgstr ""
+
+#: Customer was redirected to iDEAL. Please, check the status of the transaction via the ING iDEAL Dashboard before delivery of the goods purchased.
+msgid "Customer was redirected to iDEAL. Please, check the status of the transaction via the ING iDEAL Dashboard before delivery of the goods purchased."
+msgstr ""
+
+#: Customer was rejected by iDEAL.
+msgid "Customer was rejected by iDEAL."
+msgstr ""
+
+#: Debug
+msgid "Debug"
+msgstr ""
+
+#: Do not check transaction status if order older than {N} days.
+msgid "Do not check transaction status if order older than {N} days."
+msgstr ""
+
+#: Dutch
+msgid "Dutch"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: English
+msgid "English"
+msgstr ""
+
+#: Ideal: %s
+msgid "Ideal: %s"
+msgstr ""
+
+#: In minutes. Minimum is 1 minute and maximum is 60.
+msgid "In minutes. Minimum is 1 minute and maximum is 60."
+msgstr ""
+
+#: Issuer
+msgid "Issuer"
+msgstr ""
+
+#: Issuer: %s
+msgid "Issuer: %s"
+msgstr ""
+
+#: Language
+msgid "Language"
+msgstr ""
+
+#: Leave empty for default value.
+msgid "Leave empty for default value."
+msgstr ""
+
+#: Merchant ID
+msgid "Merchant ID"
+msgstr ""
+
+#: Merchant Key
+msgid "Merchant Key"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Notification from iDEAL was received with status %s.
+msgid "Notification from iDEAL was received with status %s."
+msgstr ""
+
+#: Notification from iDEAL was received with status %s. The invoice was created. Please check the status of a transaction via the ING iDEAL Dashboard before delivery of the goods purchased.
+msgid "Notification from iDEAL was received with status %s. The invoice was created. Please check the status of a transaction via the ING iDEAL Dashboard before delivery of the goods purchased."
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Payment was canceled by the customer.
+msgid "Payment was canceled by the customer."
+msgstr ""
+
+#: Please Select
+msgid "Please Select"
+msgstr ""
+
+#: Private Certificate
+msgid "Private Certificate"
+msgstr ""
+
+#: Private Key
+msgid "Private Key"
+msgstr ""
+
+#: Private Key Password
+msgid "Private Key Password"
+msgstr ""
+
+#: Required fields are missing.
+msgid "Required fields are missing."
+msgstr ""
+
+#: Secure URL (production)
+msgid "Secure URL (production)"
+msgstr ""
+
+#: Secure URL (test mode)
+msgid "Secure URL (test mode)"
+msgstr ""
+
+#: Selected currency code (%s) is not compatible with iDEAL.
+msgid "Selected currency code (%s) is not compatible with iDEAL."
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Store name will be used if left empty.
+msgid "Store name will be used if left empty."
+msgstr ""
+
+#: Test Mode
+msgid "Test Mode"
+msgstr ""
+
+#: The customer canceled payment.
+msgid "The customer canceled payment."
+msgstr ""
+
+#: The customer has returned from iDEAL.
+msgid "The customer has returned from iDEAL."
+msgstr ""
+
+#: The customer was redirected to iDEAL.
+msgid "The customer was redirected to iDEAL."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Transaction Description
+msgid "Transaction Description"
+msgstr ""
+
+#: Transaction Expire Period
+msgid "Transaction Expire Period"
+msgstr ""
+
+#: Transaction Status Update: canceled by the customer.
+msgid "Transaction Status Update: canceled by the customer."
+msgstr ""
+
+#: Transaction Status Update: finished successfully.
+msgid "Transaction Status Update: finished successfully."
+msgstr ""
+
+#: Transaction Status Update: rejected by iDEAL.
+msgid "Transaction Status Update: rejected by iDEAL."
+msgstr ""
+
+#: You will be redirected to bank in a few seconds.
+msgid "You will be redirected to bank in a few seconds."
+msgstr ""
+
+#: You will be redirected to iDEAL in a few seconds.
+msgid "You will be redirected to iDEAL in a few seconds."
+msgstr ""
+
+#: You will be redirected to the website of your bank when you place an order.
+msgid "You will be redirected to the website of your bank when you place an order."
+msgstr ""
+
+#: iDEAL Advanced
+msgid "iDEAL Advanced"
+msgstr ""
+
+#: iDEAL Basic
+msgid "iDEAL Basic"
+msgstr ""
+
+#: iDEAL Certificate
+msgid "iDEAL Certificate"
+msgstr ""
+

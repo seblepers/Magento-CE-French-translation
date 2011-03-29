@@ -1,0 +1,53 @@
+<!--@subject Confirmation de création de compte pour {{var customer.name}} @-->
+<!--@vars
+{"store url=\"\"":"Url de la boutique",
+"skin url=\"images/logo_email.gif\" _area='frontend'":"Logo de l'email",
+"store url=\"customer/account/\"":"Url du compte client",
+"htmlescape var=$customer.name":"Nom du client",
+"var customer.email":"Email du client",
+"store url=\"customer/account/confirm/\" _query_id=$customer.id _query_key=$customer.confirmation _query_back_url=$back_url":"Url de confirmation",
+"htmlescape var=$customer.password":"Mot de passe du client"}
+@-->
+
+<!--@styles
+body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
+@-->
+
+<div style="font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;">
+    <table cellspacing="0" cellpadding="0" border="0" width="98%" style="margin-top:10px; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; margin-bottom:10px;">
+        <tr>
+            <td align="center" valign="top">
+                <!-- [ header starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                            <a href="{{store url=""}}"><img src="{{skin url="images/logo_email.gif" _area='frontend'}}" alt="{{var store.getFrontendName()}}"  style="margin-bottom:10px;" border="0"/></a></td>
+                    </tr>
+                </table>
+
+                <!-- [ middle starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                            <p><strong>Cher {{htmlescape var=$customer.name}}</strong>, <br/> Bienvenue sur la boutique {{var store.getFrontendName()}}.</p>
+
+                            <p>Votre email {{var customer.email}} doit être confirmé avant de pouvoir vous connecter dans notre boutique.</p>
+
+                            <p>Pour le confirmer et vous connecter directement, utilisez <a href="{{store url="customer/account/confirm/" _query_id=$customer.id _query_key=$customer.confirmation _query_back_url=$back_url}}" style="color:#1E7EC8;">ce lien de confirmation</a>. Ce lien n'est valide qu'une seule fois.</p>
+
+                            <p style="border:1px solid #BEBCB7; padding:13px 18px; background:#F8F7F5; ">
+                                Lors de vos futures connexions, utilisez les données suivantes dans l'écran de connexion :<br/>
+                                Email : {{var customer.email}}<br/>
+                                Mot de passe : {{htmlescape var=$customer.password}}<p>
+
+                            <p>Si vous avez des questions au sujet de votre compte ou à tout autre sujet, n'hésitez pas à nous contacter à <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a> ou par téléphone au {{config path='general/store_information/phone'}}.</p>
+
+							<p><strong>{{var store.getFrontendName()}}</strong></p>
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+</div>

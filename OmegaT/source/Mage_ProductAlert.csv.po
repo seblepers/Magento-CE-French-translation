@@ -1,0 +1,140 @@
+#: Alert Email Sender
+msgid "Alert Email Sender"
+msgstr "Expéditeur du mail d'alerte"
+
+#: Alert subscription has been saved.
+msgid "Alert subscription has been saved."
+msgstr "L'inscription à l'alerte a été sauvegardée."
+
+#: Allow Alert When Product Comes Back in Stock
+msgid "Allow Alert When Product Comes Back in Stock"
+msgstr "Autoriser l'alerte de disponibilité de produit."
+
+#: Allow Alert When Product Price Changes
+msgid "Allow Alert When Product Price Changes"
+msgstr "Autoriser l'alerte de changement de prix."
+
+#: Click here not to receive alerts for this product
+msgid "Click here not to receive alerts for this product"
+msgstr "Cliquez ici pour ne plus recevoir d'alerte pour ce produit"
+
+#: Error Email Recipient
+msgid "Error Email Recipient"
+msgstr "Erreur de mail destinataire"
+
+#: Error Email Sender
+msgid "Error Email Sender"
+msgstr "Expéditeur du mail d'erreur"
+
+#: Error Email Template
+msgid "Error Email Template"
+msgstr "Gabarit du mail d'erreur"
+
+#: Frequency
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: Not enough parameters.
+msgid "Not enough parameters."
+msgstr "Pas assez de paramètres."
+
+#: Price Alert Email Template
+msgid "Price Alert Email Template"
+msgstr "Gabarit du mail d'alerte de changement de prix"
+
+#: Price:
+msgid "Price:"
+msgstr "Prix :"
+
+#: Product Alerts
+msgid "Product Alerts"
+msgstr "Alertes du produit"
+
+#: Product Alerts Run Settings
+msgid "Product Alerts Run Settings"
+msgstr "Paramétrage d'exécution des alertes de produit"
+
+#: Product alerts Cron error
+msgid "Product alerts Cron error"
+msgstr "Erreur de cron pour les alertes produits"
+
+#: Product price alert
+msgid "Product price alert"
+msgstr "Alerte de prix produit"
+
+#: Product stock alert
+msgid "Product stock alert"
+msgstr "Alerte de disponibilité de produit"
+
+#: Regular Price:
+msgid "Regular Price:"
+msgstr "Prix normal :"
+
+#: Sign up for price alert
+msgid "Sign up for price alert"
+msgstr "Enregistrez-vous pour recevoir une alerte de modification de prix"
+
+#: Sign up to get notified when this product is back in stock
+msgid "Sign up to get notified when this product is back in stock"
+msgstr "Enregistrez-vous pour être averti quand le produit sera de nouveau disponible"
+
+#: Special price:
+msgid "Special price:"
+msgstr "Prix promotionnel :"
+
+#: Start Time
+msgid "Start Time"
+msgstr "Heure de début"
+
+#: Stock Alert Email Template
+msgid "Stock Alert Email Template"
+msgstr "Gabarit du mail d'alerte de disponibilité"
+
+#: The alert subscription has been deleted.
+msgid "The alert subscription has been deleted."
+msgstr "L'inscription à l'alerte a été supprimée."
+
+#: The alert subscription has been saved.
+msgid "The alert subscription has been saved."
+msgstr "L'inscription à l'alerte a été sauvegardée."
+
+#: The product is not found.
+msgid "The product is not found."
+msgstr "Le produit n'a pas été trouvé."
+
+#: The product was not found.
+msgid "The product was not found."
+msgstr "Le produit n'a pas été trouvé."
+
+#: Unable to update the alert subscription.
+msgid "Unable to update the alert subscription."
+msgstr "Impossible de mettre à jour l'inscription à l'alerte."
+
+#: Unsubscribe from all price alerts
+msgid "Unsubscribe from all price alerts"
+msgstr "Se désabonner de toutes les alertes de prix"
+
+#: Unsubscribe from all stock alerts
+msgid "Unsubscribe from all stock alerts"
+msgstr "Se désabonner de toutes les alertes de disponibilité"
+
+#: You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:
+msgid "You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:"
+msgstr "Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont de nouveau disponibles :"
+
+#: You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:
+msgid "You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:"
+msgstr "Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont modifiés :"
+
+#: You will no longer receive price alerts for this product.
+msgid "You will no longer receive price alerts for this product."
+msgstr "Vous ne recevrez plus d'alertes de changement de prix pour ce produit."
+
+#: You will no longer receive stock alerts for this product.
+msgid "You will no longer receive stock alerts for this product."
+msgstr "Vous ne recevrez plus d'alertes de disponibilité pour ce produit."
+
+#: You will no longer receive stock alerts.
+msgid "You will no longer receive stock alerts."
+msgstr "Vous ne recevrez plus d'alertes de disponibilité."
+

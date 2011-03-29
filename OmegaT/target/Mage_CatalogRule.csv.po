@@ -1,0 +1,240 @@
+#: %d Catalog Price Rules based on \"%s\" attribute have been disabled.
+msgid "%d Catalog Price Rules based on \"%s\" attribute have been disabled."
+msgstr "%d règles de prix catalogue basées sur l'attribut \"%s\" ont été désactivées."
+
+#: Actions
+msgid "Actions"
+msgstr "Actions"
+
+#: Active
+msgid "Active"
+msgstr "Actif"
+
+#: Add New Rule
+msgid "Add New Rule"
+msgstr "Ajouter une nouvelle règle"
+
+#: An error occurred while deleting the rule. Please review the log and try again.
+msgid "An error occurred while deleting the rule. Please review the log and try again."
+msgstr "Erreur lors de la suppression de la règle. Vérifiez les logs et réessayez."
+
+#: An error occurred while saving the rule data. Please review the log and try again.
+msgid "An error occurred while saving the rule data. Please review the log and try again."
+msgstr "Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez."
+
+#: Apply Rules
+msgid "Apply Rules"
+msgstr "Appliquer les règles"
+
+#: Attribute Set
+msgid "Attribute Set"
+msgstr "Jeu d'attributs"
+
+#: Catalog
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: Catalog Price Rule
+msgid "Catalog Price Rule"
+msgstr "Règle de prix catalogue"
+
+#: Catalog Price Rules
+msgid "Catalog Price Rules"
+msgstr "Règles de prix catalogue"
+
+#: Category
+msgid "Category"
+msgstr "Catégorie"
+
+#: Conditions
+msgid "Conditions"
+msgstr "Conditions"
+
+#: Conditions (leave blank for all products)
+msgid "Conditions (leave blank for all products)"
+msgstr "Conditions (laisser vide pour appliquer à tous les produits)"
+
+#: Conditions Combination
+msgid "Conditions Combination"
+msgstr "Combinaison de conditions"
+
+#: Customer Groups
+msgid "Customer Groups"
+msgstr "Groupes clients"
+
+#: Customer Registered: %s
+msgid "Customer Registered: %s"
+msgstr "Client enregistré : %s"
+
+#: Customer is a New Buyer: %s
+msgid "Customer is a New Buyer: %s"
+msgstr "Le client est un nouvel acheteur : %s"
+
+#: Date Expire
+msgid "Date Expire"
+msgstr "Date d'expiration"
+
+#: Date From
+msgid "Date From"
+msgstr "Entre le"
+
+#: Date Start
+msgid "Date Start"
+msgstr "Date de démarrage"
+
+#: Date To
+msgid "Date To"
+msgstr "et le"
+
+#: Delete Rule
+msgid "Delete Rule"
+msgstr "Supprimer la règle"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Description: %s
+msgid "Description: %s"
+msgstr "Description : %s"
+
+#: Edit Rule
+msgid "Edit Rule"
+msgstr "Éditer la règle"
+
+#: Edit Rule '%s'
+msgid "Edit Rule '%s'"
+msgstr "Éditer la règle '%s'"
+
+#: Expire at: %s
+msgid "Expire at: %s"
+msgstr "Expire le : %s"
+
+#: From Date
+msgid "From Date"
+msgstr "Date de début"
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Inactive
+msgid "Inactive"
+msgstr "Inactif"
+
+#: NOT LOGGED IN
+msgid "NOT LOGGED IN"
+msgstr "SESSION FERMEE"
+
+#: Name: %s
+msgid "Name: %s"
+msgstr "Nom : %s"
+
+#: New Rule
+msgid "New Rule"
+msgstr "Nouvelle règle"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Options
+msgid "Options"
+msgstr "Options"
+
+#: Priority
+msgid "Priority"
+msgstr "Priorité"
+
+#: Product Attribute
+msgid "Product Attribute"
+msgstr "Attribut du produit"
+
+#: Promotions
+msgid "Promotions"
+msgstr "Promotions"
+
+#: Rule Information
+msgid "Rule Information"
+msgstr "Informations règle"
+
+#: Rule Name
+msgid "Rule Name"
+msgstr "Nom de la règle"
+
+#: Save Rule
+msgid "Save Rule"
+msgstr "Sauvegarder la règle"
+
+#: Save and Apply
+msgid "Save and Apply"
+msgstr "Sauvegarder et appliquer"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Start at: %s
+msgid "Start at: %s"
+msgstr "Débute le : %s"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Stop Further Rules Processing
+msgid "Stop Further Rules Processing"
+msgstr "Ne pas traiter les règles suivantes (non cumulable)"
+
+#: The rule has been deleted.
+msgid "The rule has been deleted."
+msgstr "La règle a été supprimée."
+
+#: The rule has been saved.
+msgid "The rule has been saved."
+msgstr "La règle a été sauvegardée."
+
+#: The rules have been applied.
+msgid "The rules have been applied."
+msgstr "Les règles ont bien été appliquées."
+
+#: There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.
+msgid "There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog."
+msgstr "Certaines règles ont changé mais n'ont pas pu être appliquées. Cliquez sur 'Appliquer les règles' afin d'en voir le résultat immédiat."
+
+#: This rule no longer exists.
+msgid "This rule no longer exists."
+msgstr "Cette règle n'existe plus."
+
+#: To Date
+msgid "To Date"
+msgstr "Date de fin"
+
+#: Unable to apply rules.
+msgid "Unable to apply rules."
+msgstr "Impossible d'appliquer les règles."
+
+#: Unable to find a rule to delete.
+msgid "Unable to find a rule to delete."
+msgstr "Impossible de trouver la règle à supprimer."
+
+#: Update product's %s %s: %s
+msgid "Update product's %s %s: %s"
+msgstr "Mettre à jour le %s du produit %s : %s"
+
+#: Websites
+msgid "Websites"
+msgstr "Sites web"
+
+#: Wrong rule specified.
+msgid "Wrong rule specified."
+msgstr "Mauvaise règle spécifiée"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+

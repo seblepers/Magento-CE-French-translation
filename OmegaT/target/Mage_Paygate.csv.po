@@ -1,0 +1,276 @@
+#: API Login ID
+msgid "API Login ID"
+msgstr "ID de connexion de l'API"
+
+#: Accepted Currency
+msgid "Accepted Currency"
+msgstr "Devise acceptée"
+
+#: Authorize Only
+msgid "Authorize Only"
+msgstr "Autorisation seulement"
+
+#: Authorize and Capture
+msgid "Authorize and Capture"
+msgstr "Autorisation et collecte"
+
+#: Authorize.net
+msgid "Authorize.net"
+msgstr "Authorize.net"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr "Vérification de carte de paiement"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Email Customer
+msgid "Email Customer"
+msgstr "Envoyer un email au client"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error in capturing the payment.
+msgid "Error in capturing the payment."
+msgstr "Erreur lors de la capture du paiement."
+
+#: Error in payment gateway.
+msgid "Error in payment gateway."
+msgstr "Erreur sur la passerelle de paiement"
+
+#: Error in refunding the payment.
+msgid "Error in refunding the payment."
+msgstr "Erreur lors du remboursement."
+
+#: Gateway error: %s
+msgid "Gateway error: %s"
+msgstr "Erreur de la passerelle : %s"
+
+#: Invalid amount for authorization.
+msgid "Invalid amount for authorization."
+msgstr "Montant invalide pour autorisation."
+
+#: Invalid transaction ID.
+msgid "Invalid transaction ID."
+msgstr "Identifiant de transaction invalide."
+
+#: Maximum Order Total
+msgid "Maximum Order Total"
+msgstr "Montant maxi de commande"
+
+#: Merchant's Email
+msgid "Merchant's Email"
+msgstr "Email du commerçant"
+
+#: Minimum Order Total
+msgid "Minimum Order Total"
+msgstr "Montant mini de commande"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment authorization error.
+msgid "Payment authorization error."
+msgstr "Erreur d'autorisation de paiement."
+
+#: Payment authorization transaction has been declined.
+msgid "Payment authorization transaction has been declined."
+msgstr "La transaction de paiement a été refusée."
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Transaction Key
+msgid "Transaction Key"
+msgstr "Clé de la transaction"
+
+#: %s %s %s - %s. %s. %s
+msgid "%s %s %s - %s. %s. %s"
+msgstr "%s %s %s - %s. %s. %s"
+
+#: 3D Secure
+msgid "3D Secure"
+msgstr "3D Secure"
+
+#: 3D Secure Card Validation
+msgid "3D Secure Card Validation"
+msgstr "Validation carte 3D Secure"
+
+#: Allow Partial Authorization
+msgid "Allow Partial Authorization"
+msgstr "Permettre l'autorisation partielle"
+
+#: Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.
+msgid "Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment."
+msgstr "Êtes-vous sûr(e) de vouloir annuler votre paiement ? Cliquez sur OK pour annuler votre paiement et libérer le montant bloqué. Cliquez sur Annuler pour saisir une autre carte bancaire et continuer le paiement."
+
+#: Authorize.Net Transaction ID %s
+msgid "Authorize.Net Transaction ID %s"
+msgstr "Id de transaction Authorize.Net %s"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Centinel Api URL
+msgid "Centinel Api URL"
+msgstr "URL Api de Centinel"
+
+#: Credit Card: xxxx-%s
+msgid "Credit Card: xxxx-%s"
+msgstr "Numéro de carte bancaire : xxxx-%s"
+
+#: Gateway actions are locked because the gateway cannot complete one or more of the transactions. Please log in to your Authorize.Net account to manually resolve the issue(s).
+msgid "Gateway actions are locked because the gateway cannot complete one or more of the transactions. Please log in to your Authorize.Net account to manually resolve the issue(s)."
+msgstr "Les actions de la passerelle sont verrouillées car une ou plusieurs transations ne peuvent pas aboutir sur la passerelle de paiement. Veuillez vous connecter à votre compte Authorize.Net pour résoudre manuellement les problèmes."
+
+#: If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.
+msgid "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement."
+msgstr "Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce."
+
+#: Invalid amount for capture.
+msgid "Invalid amount for capture."
+msgstr "Montant de capture invalide"
+
+#: Invalid amount for partial authorization.
+msgid "Invalid amount for partial authorization."
+msgstr "Montant invalide pour autorisation partielle."
+
+#: Invalid amount for refund.
+msgid "Invalid amount for refund."
+msgstr "Montant invalide pour le remboursement."
+
+#: Invalid split tenderId ID.
+msgid "Invalid split tenderId ID."
+msgstr "ID de tenderId invalide"
+
+#: Payment canceling error.
+msgid "Payment canceling error."
+msgstr "Erreur d'annulation de paiement."
+
+#: Payment capturing error.
+msgid "Payment capturing error."
+msgstr "Erreur de capture de paiement."
+
+#: Payment partial authorization error.
+msgid "Payment partial authorization error."
+msgstr "Erreur d'autorisation partielle de paiement."
+
+#: Payment refunding error.
+msgid "Payment refunding error."
+msgstr "Erreur de remboursement de paiement."
+
+#: Payment voiding error.
+msgid "Payment voiding error."
+msgstr "Erreur lors de l'annulation de paiement."
+
+#: Processed Amount
+msgid "Processed Amount"
+msgstr "Montant traité"
+
+#: Remaining Balance
+msgid "Remaining Balance"
+msgstr "Solde restant"
+
+#: Severe 3D Secure Card Validation
+msgid "Severe 3D Secure Card Validation"
+msgstr "Vérification 3D Secure stricte"
+
+#: Severe Validation Removes Chargeback Liability on Merchant
+msgid "Severe Validation Removes Chargeback Liability on Merchant"
+msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand"
+
+#: Shopping cart contents and/or address has been changed.
+msgid "Shopping cart contents and/or address has been changed."
+msgstr "Le contenu du panier et/ou l'adresse a/ont été modifié(s)."
+
+#: The amount on your credit card is insufficient to complete your purchase. The available amount has been put on hold. To complete your purchase click OK and specify additional credit card number. To cancel the purchase and release the amount on hold, click Cancel.
+msgid "The amount on your credit card is insufficient to complete your purchase. The available amount has been put on hold. To complete your purchase click OK and specify additional credit card number. To cancel the purchase and release the amount on hold, click Cancel."
+msgstr "Les fonds disponibles sur votre carte sont insuffisants pour terminer la commande. Le montant disponible a été mis en attente. Pour finaliser votre achat cliquez sur OK et spécifiez un autre numéro de carte bancaire. Pour annuler la commande et libérer le montant en attente, cliquez sur Annuler."
+
+#: There was an error canceling transactions. Please contact us or try again later.
+msgid "There was an error canceling transactions. Please contact us or try again later."
+msgstr "Erreur lors de l'annulation de transactions. Veuillez nous contacter ou réessayez ultérieurement."
+
+#: You have reached the maximum number of credit card allowed to be used for the payment.
+msgid "You have reached the maximum number of credit card allowed to be used for the payment."
+msgstr "Vous avez atteint le nombre maximum de cartes bancaires autorisées pour un paiement."
+
+#: You have reached the maximum number of credit cards that can be used for one payment. The available amounts on all used cards were insufficient to complete payment. The payment has been cancelled and amounts on hold have been released.
+msgid "You have reached the maximum number of credit cards that can be used for one payment. The available amounts on all used cards were insufficient to complete payment. The payment has been cancelled and amounts on hold have been released."
+msgstr "Vous avez atteint le nombre maximum de cartes bancaires autorisées pour un paiement. Les fonds disponibles sur toutes les cartes utilisées étaient insuffisants pour terminer le paiement. Le paiement a été annulé et les montants en attente ont été libérés."
+
+#: Your credit card has been declined. Click OK to specify another credit card to complete your purchase. Click Cancel to release the amount on hold and select another payment method.
+msgid "Your credit card has been declined. Click OK to specify another credit card to complete your purchase. Click Cancel to release the amount on hold and select another payment method."
+msgstr "Votre carte bancaire a été refusée. Cliquez sur OK pour utiliser une autre carte pour terminer votre commande. Cliquez sur Annuler pour libérer le montant en attente et sélectionner un autre moyen de paiement."
+
+#: Your order has not been placed, because contents of the shopping cart and/or address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process for your recent cart contents.
+msgid "Your order has not been placed, because contents of the shopping cart and/or address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process for your recent cart contents."
+msgstr "Votre commande n'a pas été validée parce que le contenu du panier et/ou l'adresse a/ont été modifié(s). Les montants autorisés du paiement précédent et qui étaient en attente ont été libérés. Veuillez recommencer les étapes de la commande afin de valider le contenu récent du panier."
+
+#: Your payment has been cancelled. All authorized amounts have been released.
+msgid "Your payment has been cancelled. All authorized amounts have been released."
+msgstr "Votre paiement a été annulé. Tous les montants autorisés ont été libérés."
+
+#: amount %s
+msgid "amount %s"
+msgstr "montant %s"
+
+#: authorize
+msgid "authorize"
+msgstr "autoriser"
+
+#: authorize and capture
+msgid "authorize and capture"
+msgstr "autoriser et capturer"
+
+#: capture
+msgid "capture"
+msgstr "capturer"
+
+#: failed
+msgid "failed"
+msgstr "échec"
+
+#: refund
+msgid "refund"
+msgstr "rembourser"
+
+#: successful
+msgid "successful"
+msgstr "réussi"
+
+#: void
+msgid "void"
+msgstr "invalider"
+

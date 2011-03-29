@@ -1,0 +1,112 @@
+#: 1 star
+msgid "1 star"
+msgstr "1 étoile"
+
+#: 2 stars
+msgid "2 stars"
+msgstr "2 étoiles"
+
+#: 3 stars
+msgid "3 stars"
+msgstr "3 étoiles"
+
+#: 4 stars
+msgid "4 stars"
+msgstr "4 étoiles"
+
+#: 5 stars
+msgid "5 stars"
+msgstr "5 étoiles"
+
+#: Add New Rating
+msgid "Add New Rating"
+msgstr "Ajouter une notation"
+
+#: Assigned Options
+msgid "Assigned Options"
+msgstr "Options attribuées"
+
+#: Be the first to review this product
+msgid "Be the first to review this product"
+msgstr "Soyez le premier à commenter ce produit"
+
+#: Default Value
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: Delete Rating
+msgid "Delete Rating"
+msgstr "Supprimer la notation"
+
+#: Edit Rating
+msgid "Edit Rating"
+msgstr "Modifier la notation"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: If you do not specify a rating title for a store, the default value will be used.
+msgid "If you do not specify a rating title for a store, the default value will be used."
+msgstr "Si vous ne spécifiez pas de titre d'évaluation pour un magasin, la valeur par défaut sera utilisée."
+
+#: Manage Ratings
+msgid "Manage Ratings"
+msgstr "Gérer les notations"
+
+#: New Rating
+msgid "New Rating"
+msgstr "Nouvelle notation"
+
+#: Option Label
+msgid "Option Label"
+msgstr "Option"
+
+#: Option Title
+msgid "Option Title"
+msgstr "Titre de l'option"
+
+#: Option Title:
+msgid "Option Title:"
+msgstr "Titre de l'option :"
+
+#: Please select one of each ratings above
+msgid "Please select one of each ratings above"
+msgstr "Sélectionnez une note pour chaque critère ci-dessus"
+
+#: Rating Information
+msgid "Rating Information"
+msgstr "Informations de notation"
+
+#: Rating Name
+msgid "Rating Name"
+msgstr "Nom de notation"
+
+#: Rating Options
+msgid "Rating Options"
+msgstr "Options de notation"
+
+#: Rating Title
+msgid "Rating Title"
+msgstr "Libellé de notation"
+
+#: Rating Visibility
+msgid "Rating Visibility"
+msgstr "Visibilité de classement"
+
+#: Rating isn't Available
+msgid "Rating isn't Available"
+msgstr "Les notations ne sont pas activées"
+
+#: Rating with the same title
+msgid "Rating with the same title"
+msgstr "Note avec le même titre"
+
+#: Save Rating
+msgid "Save Rating"
+msgstr "Sauvegarder la notation"
+
+#: Visible In
+msgid "Visible In"
+msgstr "Visible dans"
+

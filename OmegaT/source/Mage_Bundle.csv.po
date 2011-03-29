@@ -1,0 +1,228 @@
+#: -- Select --
+msgid "-- Select --"
+msgstr "-- Votre choix --"
+
+#: Add New Option
+msgid "Add New Option"
+msgstr "Ajouter une option"
+
+#: Add Selection
+msgid "Add Selection"
+msgstr "Ajouter une sélection"
+
+#: As Low as
+msgid "As Low as"
+msgstr "À partir de"
+
+#: As low as
+msgid "As low as"
+msgstr "À partir de"
+
+#: Bundle Items
+msgid "Bundle Items"
+msgstr "Articles packagés"
+
+#: Bundle Product
+msgid "Bundle Product"
+msgstr "Produit packagé"
+
+#: Buy %1$s with %2$s discount each
+msgid "Buy %1$s with %2$s discount each"
+msgstr "Achetez-en %1$s et profitez d'une remise de %2$s par produit"
+
+#: Catalog Product View (Bundle)
+msgid "Catalog Product View (Bundle)"
+msgstr "Vue produit catalogue (Packagé)"
+
+#: Checkbox
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: Choose a selection...
+msgid "Choose a selection..."
+msgstr "Choisissez une sélection"
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Default
+msgid "Default"
+msgstr "Par défaut"
+
+#: Default Qty
+msgid "Default Qty"
+msgstr "Qté par défaut"
+
+#: Default Title
+msgid "Default Title"
+msgstr "Titre par défaut"
+
+#: Drop-down
+msgid "Drop-down"
+msgstr "Liste déroulante"
+
+#: Dynamic
+msgid "Dynamic"
+msgstr "Dynamique"
+
+#: Excl. Tax
+msgid "Excl. Tax"
+msgstr "HT"
+
+#: Fixed
+msgid "Fixed"
+msgstr "Fixé"
+
+#: From
+msgid "From"
+msgstr "De"
+
+#: From:
+msgid "From:"
+msgstr "De :"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: Incl. Tax
+msgid "Incl. Tax"
+msgstr "TTC"
+
+#: Input Type
+msgid "Input Type"
+msgstr "Type de saisie"
+
+#: Is Required
+msgid "Is Required"
+msgstr "Obligatoire"
+
+#: Message:
+msgid "Message:"
+msgstr "Message :"
+
+#: Multiple Select
+msgid "Multiple Select"
+msgstr "Sélection multiple"
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: No options of this product are available.
+msgid "No options of this product are available."
+msgstr "Aucune option n'est disponible pour ce produit."
+
+#: None
+msgid "None"
+msgstr "Aucun"
+
+#: Percent
+msgid "Percent"
+msgstr "Pourcent"
+
+#: Percent Discount
+msgid "Percent Discount"
+msgstr "Remise en pourcentage"
+
+#: Please Select Products to Add
+msgid "Please Select Products to Add"
+msgstr "Sélectionnez les produits à ajouter"
+
+#: Please enter search conditions to view products.
+msgid "Please enter search conditions to view products."
+msgstr "Veuillez entrer des conditions de recherche pour voir des produits."
+
+#: Please select options for product.
+msgid "Please select options for product."
+msgstr "Veuillez choisir les options pour le produit."
+
+#: Please specify product option(s).
+msgid "Please specify product option(s)."
+msgstr "Veuillez préciser la ou les options de produits."
+
+#: Position
+msgid "Position"
+msgstr "Position"
+
+#: Price Range
+msgid "Price Range"
+msgstr "Tranche de prix"
+
+#: Price Type
+msgid "Price Type"
+msgstr "Type de prix"
+
+#: Price as configured
+msgid "Price as configured"
+msgstr "Prix de cette configuration"
+
+#: Qty:
+msgid "Qty:"
+msgstr "Quantité :"
+
+#: Radio Buttons
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: Required options are not selected.
+msgid "Required options are not selected."
+msgstr "Les options obligatoires ne sont pas sélectionnées."
+
+#: Selected required options are not available.
+msgid "Selected required options are not available."
+msgstr "Les options obligatoires sélectionnées ne sont pas disponibles."
+
+#: Separately
+msgid "Separately"
+msgstr "Séparément"
+
+#: Ship Bundle Items
+msgid "Ship Bundle Items"
+msgstr "Livrer les articles packagés"
+
+#: Shipment
+msgid "Shipment"
+msgstr "Expédition"
+
+#: Store View Title
+msgid "Store View Title"
+msgstr "Titre de la vue magasin"
+
+#: There is no defined renderer for \"%s\" option type.
+msgid "There is no defined renderer for \"%s\" option type."
+msgstr "Il n'y a pas de générateur d'affichage pour le type d'option \"%s\"."
+
+#: This product is also part of bundle(s)
+msgid "This product is also part of bundle(s)"
+msgstr "Ce produit fait aussi partie des packages"
+
+#: To
+msgid "To"
+msgstr "À"
+
+#: To:
+msgid "To:"
+msgstr "À :"
+
+#: Together
+msgid "Together"
+msgstr "Ensemble"
+
+#: Use Default Value
+msgid "Use Default Value"
+msgstr "Utiliser la valeur par défaut"
+
+#: User Defined Qty
+msgid "User Defined Qty"
+msgstr "Quantité définie par l'utilisateur"
+
+#: Delete Option bundle
+msgid "Delete Option"
+msgstr "Supprimer cette option"
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr "* Champs obligatoires"
+

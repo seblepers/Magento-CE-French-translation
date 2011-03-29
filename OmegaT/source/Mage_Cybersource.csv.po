@@ -1,0 +1,164 @@
+#: Authorization
+msgid "Authorization"
+msgstr ""
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr ""
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr ""
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr ""
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr ""
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr ""
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr ""
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr ""
+
+#: Cybersource (SOAP Toolkit)
+msgid "Cybersource (SOAP Toolkit)"
+msgstr ""
+
+#: Debug
+msgid "Debug"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Error in refunding the payment.
+msgid "Error in refunding the payment."
+msgstr ""
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr ""
+
+#: Gateway request error: %s
+msgid "Gateway request error: %s"
+msgstr ""
+
+#: Invalid transaction id or token
+msgid "Invalid transaction id or token"
+msgstr ""
+
+#: Issue Number
+msgid "Issue Number"
+msgstr ""
+
+#: JCB
+msgid "JCB"
+msgstr ""
+
+#: Laser
+msgid "Laser"
+msgstr ""
+
+#: Maestro (International)
+msgid "Maestro (International)"
+msgstr ""
+
+#: Maestro/Solo(UK Domestic)
+msgid "Maestro/Solo(UK Domestic)"
+msgstr ""
+
+#: Merchant ID
+msgid "Merchant ID"
+msgstr ""
+
+#: Name on Card
+msgid "Name on Card"
+msgstr ""
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: SOAP extension is not enabled. Please contact us.
+msgid "SOAP extension is not enabled. Please contact us."
+msgstr ""
+
+#: Sale
+msgid "Sale"
+msgstr ""
+
+#: Security Key
+msgid "Security Key"
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Start Date
+msgid "Start Date"
+msgstr ""
+
+#: Switch/Solo/Maestro(UK Domestic) Only
+msgid "Switch/Solo/Maestro(UK Domestic) Only"
+msgstr ""
+
+#: Switch/Solo/Maestro(UK Domestic) card issue number: %s
+msgid "Switch/Solo/Maestro(UK Domestic) card issue number: %s"
+msgstr ""
+
+#: Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s
+msgid "Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s"
+msgstr ""
+
+#: Test Mode
+msgid "Test Mode"
+msgstr ""
+
+#: There is an error in processing the payment. Please try again or contact us.
+msgid "There is an error in processing the payment. Please try again or contact us."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: UATP
+msgid "UATP"
+msgstr ""
+
+#: What is this?
+msgid "What is this?"
+msgstr ""
+
+#: Year
+msgid "Year"
+msgstr ""
+

@@ -1,0 +1,108 @@
+#: Account Number
+msgid "Account Number"
+msgstr ""
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr ""
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr ""
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr ""
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr ""
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr ""
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr ""
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr ""
+
+#: Debug Flag
+msgid "Debug Flag"
+msgstr ""
+
+#: Demo Mode
+msgid "Demo Mode"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr ""
+
+#: Flo2Cash Payment Web Service
+msgid "Flo2Cash Payment Web Service"
+msgstr ""
+
+#: For \"Authorize\" or \"Capture\" transactions only.
+msgid "For \"Authorize\" or \"Capture\" transactions only."
+msgstr ""
+
+#: For \"Purchase\" transactions only.
+msgid "For \"Purchase\" transactions only."
+msgstr ""
+
+#: Name on Card
+msgid "Name on Card"
+msgstr ""
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Password
+msgid "Password"
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Please Select
+msgid "Please Select"
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Username
+msgid "Username"
+msgstr ""
+
+#: What is this?
+msgid "What is this?"
+msgstr ""
+

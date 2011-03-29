@@ -1,0 +1,3220 @@
+#: \"%s\" coupon code is not valid.
+msgid "\"%s\" coupon code is not valid."
+msgstr "Le bon de réduction \"%s\" n'est pas valide."
+
+#: %s
+msgid "%s"
+msgstr "%s"
+
+#: %s / %s rate:
+msgid "%s / %s rate:"
+msgstr "Taux %s / %s :"
+
+#: %s for %s
+msgid "%s for %s"
+msgstr "%s pour %s"
+
+#: %s order(s) cannot be canceled
+msgid "%s order(s) cannot be canceled"
+msgstr "%s commandes ne peuvent pas être annulées"
+
+#: %s order(s) have been canceled.
+msgid "%s order(s) have been canceled."
+msgstr "%s commandes ont été annulées."
+
+#: %s order(s) have been put on hold.
+msgid "%s order(s) have been put on hold."
+msgstr "%s commandes ont été bloquées."
+
+#: %s order(s) have been released from holding status.
+msgid "%s order(s) have been released from holding status."
+msgstr "%s commandes ont été débloquées."
+
+#: %s order(s) were not put on hold.
+msgid "%s order(s) were not put on hold."
+msgstr "%s commandes n'ont pas été bloquées."
+
+#: %s order(s) were not released from holding status.
+msgid "%s order(s) were not released from holding status."
+msgstr "%s commandes n'ont pas été débloquées."
+
+#: * - Enter custom price excluding tax
+msgid "* - Enter custom price excluding tax"
+msgstr "* - Saisissez le prix hors taxe"
+
+#: * - Enter custom price including tax
+msgid "* - Enter custom price including tax"
+msgstr "* - Saisissez le prix toutes taxes comprises"
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: -- Please Select Billing Agreement--
+msgid "-- Please Select Billing Agreement--"
+msgstr "-- Veuillez choisir l'entente de facturation--"
+
+#: About This Order:
+msgid "About This Order:"
+msgstr "À propos de cette commande :"
+
+#: About This Profile:
+msgid "About This Profile:"
+msgstr "À propos de ce profil :"
+
+#: About Your Invoice
+msgid "About Your Invoice"
+msgstr "À propos de votre facture"
+
+#: About Your Order
+msgid "About Your Order"
+msgstr "À propos de votre commande"
+
+#: About Your Refund
+msgid "About Your Refund"
+msgstr "À propos de votre remboursement"
+
+#: About Your Shipment
+msgid "About Your Shipment"
+msgstr "À propos de votre expédition"
+
+#: Accept Payment
+msgid "Accept Payment"
+msgstr "Acceptez le paiement"
+
+#: Accept or Deny Payment
+msgid "Accept or Deny Payment"
+msgstr "Accepter ou refuser un paiement"
+
+#: Account Information
+msgid "Account Information"
+msgstr "Informations du compte"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Actions
+msgid "Actions"
+msgstr "Actions"
+
+#: Activate
+msgid "Activate"
+msgstr "Activez"
+
+#: Active
+msgid "Active"
+msgstr "Actif"
+
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Add Gift Messsage
+msgid "Add Gift Messsage"
+msgstr "Ajouter un message cadeau"
+
+#: Add New Address
+msgid "Add New Address"
+msgstr "Ajouter une nouvelle adresse"
+
+#: Add Order Comments
+msgid "Add Order Comments"
+msgstr "Ajouter des commentaires de commande"
+
+#: Add Products
+msgid "Add Products"
+msgstr "Ajouter des produits"
+
+#: Add Selected Product(s) to Option
+msgid "Add Selected Product(s) to Option"
+msgstr "Ajouter les produits sélectionnés à l'option"
+
+#: Add Selected Product(s) to Order
+msgid "Add Selected Product(s) to Order"
+msgstr "Ajouter les produits sélectionnés à la commande"
+
+#: Add To Order
+msgid "Add To Order"
+msgstr "Ajouter à la commande"
+
+#: Add Tracking Number
+msgid "Add Tracking Number"
+msgstr "Ajouter un numéro de suivi"
+
+#: Add a gift message for <strong>each gift item</strong>
+msgid "Add a gift message for <strong>each gift item</strong>"
+msgstr "Ajouter un message cadeau pour <strong>chaque article cadeau</strong>"
+
+#: Add a gift message for the <strong>entire order</strong>
+msgid "Add a gift message for the <strong>entire order</strong>"
+msgstr "Ajouter un message cadeau pour <strong>toute la commande</strong>"
+
+#: Add comment to order
+msgid "Add comment to order"
+msgstr "Ajouter un commentaire à la commande"
+
+#: Add new comment to shipment
+msgid "Add new comment to shipment"
+msgstr "Ajouter un commentaire à la livraison"
+
+#: Add new tracking number
+msgid "Add new tracking number"
+msgstr "Ajouter un numéro de suivi"
+
+#: Add to Cart
+msgid "Add to Cart"
+msgstr "Ajouter au panier"
+
+#: Address
+msgid "Address"
+msgstr "Adresse"
+
+#: Address model is not defined.
+msgid "Address model is not defined."
+msgstr "Le modèle d'adresse n'est pas défini."
+
+#: Adjustment Fee
+msgid "Adjustment Fee"
+msgstr "Frais de dossier"
+
+#: Adjustment Refund
+msgid "Adjustment Refund"
+msgstr "Remboursement des frais de dossier"
+
+#: Agreement Information
+msgid "Agreement Information"
+msgstr "Information de l'entente"
+
+#: Allow Reorder
+msgid "Allow Reorder"
+msgstr "Autoriser le renouvellement de commande"
+
+#: Amount
+msgid "Amount"
+msgstr "Montant"
+
+#: Amount: %s.
+msgid "Amount: %s."
+msgstr "Montant : %s."
+
+#: An item option with code %s already exists.
+msgid "An item option with code %s already exists."
+msgstr "Une option article avec le code %s existe déjà."
+
+#: Append Comments
+msgid "Append Comments"
+msgstr "Ajouter les commentaires"
+
+#: Apply
+msgid "Apply"
+msgstr "Appliquer"
+
+#: Apply Coupon Code
+msgid "Apply Coupon Code"
+msgstr "Appliquer un bon de réduction"
+
+#: Approved the payment online.
+msgid "Approved the payment online."
+msgstr "Approuvé le paiement en ligne."
+
+#: Are you sure you want to accept this payment?
+msgid "Are you sure you want to accept this payment?"
+msgstr "Êtes-vous sûr(e) de vouloir accepter ce paiement ?"
+
+#: Are you sure you want to cancel this order?
+msgid "Are you sure you want to cancel this order?"
+msgstr "Êtes-vous sûr(e) de vouloir annuler cet commande ?"
+
+#: Are you sure you want to deny this payment?
+msgid "Are you sure you want to deny this payment?"
+msgstr "Êtes-vous sûr(e) de vouloir refuser ce paiement ?"
+
+#: Are you sure you want to do this?
+msgid "Are you sure you want to do this?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+
+#: Are you sure you want to send Creditmemo email to customer?
+msgid "Are you sure you want to send Creditmemo email to customer?"
+msgstr "Êtes-vous sûr(e) de vouloir envoyer l\\'avoir par email au client ?   "
+
+#: Are you sure you want to send Invoice email to customer?
+msgid "Are you sure you want to send Invoice email to customer?"
+msgstr "Êtes-vous sûr(e) de vouloir de vouloir envoyer la facture par email au client ?"
+
+#: Are you sure you want to send Shipment email to customer?
+msgid "Are you sure you want to send Shipment email to customer?"
+msgstr "Êtes-vous sûr(e) de vouloir envoyer les information de livraison par email au client ?"
+
+#: Are you sure you want to send order email to customer?
+msgid "Are you sure you want to send order email to customer?"
+msgstr "Êtes-vous sûr(e) de vouloir envoyer le bon de commande par email au client ?"
+
+#: Are you sure you want to void the payment?
+msgid "Are you sure you want to void the payment?"
+msgstr "Êtes-vous sûr(e) de vouloir envoyer le rejet de paiement par email au client ?"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Are you sure? This order will be canceled and a new one will be created instead
+msgid "Are you sure? This order will be canceled and a new one will be created instead"
+msgstr "Voulez-vous continuer ? Cette commande sera supprimée et une nouvelle sera créée à la place"
+
+#: At least a payment ID must be set.
+msgid "At least a payment ID must be set."
+msgstr "Au moins un ID de paiement doit être sélectionné."
+
+#: Authorization
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: Authorized amount of %s.
+msgid "Authorized amount of %s."
+msgstr "Montant autorisé de %s."
+
+#: Authorizing amount of %s is pending approval on gateway.
+msgid "Authorizing amount of %s is pending approval on gateway."
+msgstr "Saisir le montant de %s est en attente d'approbation sur la passerelle."
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Back to Billing Agreements
+msgid "Back to Billing Agreements"
+msgstr "Retour aux ententes de facturation"
+
+#: Back to My Orders
+msgid "Back to My Orders"
+msgstr "Retour à mes commandes"
+
+#: Back to Recurring Profiles
+msgid "Back to Recurring Profiles"
+msgstr "Retour aux profils récurrents"
+
+#: Backordered
+msgid "Backordered"
+msgstr "En attente de stock"
+
+#: Bestsellers
+msgid "Bestsellers"
+msgstr "Meilleures ventes"
+
+#: Bill to Name
+msgid "Bill to Name"
+msgstr "Nom (Fact.)"
+
+#: Billing
+msgid "Billing"
+msgstr "Facturation"
+
+#: Billing Address
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+#: Billing Agreement
+msgid "Billing Agreement"
+msgstr "Entente de facturation"
+
+#: Billing Agreement # %s
+msgid "Billing Agreement # %s"
+msgstr "Entente de facturation n°%s"
+
+#: Billing Agreement #%s
+msgid "Billing Agreement #%s"
+msgstr "Entente de facturation n°%s"
+
+#: Billing Agreement View
+msgid "Billing Agreement View"
+msgstr "Vue de l'entente de facturation"
+
+#: Billing Agreements
+msgid "Billing Agreements"
+msgstr "Ententes de facturation"
+
+#: Buy %s for price %s
+msgid "Buy %s for price %s"
+msgstr "Achetez-en %s pour le prix de %s"
+
+#: CSV
+msgid "CSV"
+msgstr "CSV"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Cancel invoice
+msgid "Cancel invoice"
+msgstr "Annuler la facture"
+
+#: Cancel order
+msgid "Cancel order"
+msgstr "Annuler la commande"
+
+#: Canceled
+msgid "Canceled"
+msgstr "Annulée"
+
+#: Canceled order offline.
+msgid "Canceled order offline."
+msgstr "Commande annulée hors ligne."
+
+#: Canceled order online.
+msgid "Canceled order online."
+msgstr "Commande annulée en ligne."
+
+#: Cannot add order history.
+msgid "Cannot add order history."
+msgstr "Impossible d'ajouter l'historique des commandes."
+
+#: Cannot create an empty shipment.
+msgid "Cannot create an empty shipment."
+msgstr "Impossible de créer une livraison vide."
+
+#: Cannot determine the field name.
+msgid "Cannot determine the field name."
+msgstr "Impossible de déterminer le nom du champ."
+
+#: Cannot do invoice for order.
+msgid "Cannot do invoice for order."
+msgstr "Impossible de faire la facture de la commande."
+
+#: Cannot do shipment for order.
+msgid "Cannot do shipment for order."
+msgstr "Impossible de faire l'expédition de la commande."
+
+#: Cannot get order instance
+msgid "Cannot get order instance"
+msgstr "Impossible de mettre la commande instance"
+
+#: Cannot get the order instance.
+msgid "Cannot get the order instance."
+msgstr "Impossible d'obtenir l'instance de la commande."
+
+#: Cannot register an existing credit memo.
+msgid "Cannot register an existing credit memo."
+msgstr "Impossible d'enregistrer une note de crédit existantes."
+
+#: Cannot register existing invoice
+msgid "Cannot register existing invoice"
+msgstr "Impossible d'enregistrer une facture existante"
+
+#: Cannot register existing shipment
+msgid "Cannot register existing shipment"
+msgstr "Impossible d'enregistrer l'expédition existants"
+
+#: Capture
+msgid "Capture"
+msgstr "Capturer"
+
+#: Capture Amount
+msgid "Capture Amount"
+msgstr "Capturer le montant"
+
+#: Capture Offline
+msgid "Capture Offline"
+msgstr "Capturer hors ligne"
+
+#: Capture Online
+msgid "Capture Online"
+msgstr "Capturer en ligne"
+
+#: Capture invoice
+msgid "Capture invoice"
+msgstr "Capturer la facture"
+
+#: Captured amount of %s online.
+msgid "Captured amount of %s online."
+msgstr "Encaissement d'un montant de %s en ligne"
+
+#: Capturing amount of %s is pending approval on gateway.
+msgid "Capturing amount of %s is pending approval on gateway."
+msgstr "La capture d'un montant de %s est en attente d'approbation sur la passerelle."
+
+#: Carrier
+msgid "Carrier"
+msgstr "Transporteur"
+
+#: Carrier/Method
+msgid "Carrier/Method"
+msgstr "Transporteur/Méthode"
+
+#: Change status, add comments
+msgid "Change status, add comments"
+msgstr "Modifier le statut, ajouter des commentaires"
+
+#: Checkout Totals Sort Order
+msgid "Checkout Totals Sort Order"
+msgstr "Ordre de tri des totaux de commande"
+
+#: City
+msgid "City"
+msgstr "Ville"
+
+#: Click to change shipping method
+msgid "Click to change shipping method"
+msgstr "Cliquer pour changer le mode de livraison"
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Closed
+msgid "Closed"
+msgstr "Fermée"
+
+#: Comma-separated.
+msgid "Comma-separated."
+msgstr "Séparées par des virgules."
+
+#: Comment
+msgid "Comment"
+msgstr "Commentaire"
+
+#: Comment Text
+msgid "Comment Text"
+msgstr "Texte du commentaire"
+
+#: Comments
+msgid "Comments"
+msgstr "Commentaires"
+
+#: Comments History
+msgid "Comments History"
+msgstr "Historique de commentaires"
+
+#: Company
+msgid "Company"
+msgstr "Société"
+
+#: Complete
+msgid "Complete"
+msgstr "Terminée"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Coupons
+msgid "Coupons"
+msgstr "Bons de réduction"
+
+#: Create
+msgid "Create"
+msgstr "Créer"
+
+#: Create New Customer
+msgid "Create New Customer"
+msgstr "Créer un nouveau client"
+
+#: Create New Order
+msgid "Create New Order"
+msgstr "Créer une nouvelle commande"
+
+#: Create New Order for %s
+msgid "Create New Order for %s"
+msgstr "Créer une nouvelle commande pour %s"
+
+#: Create New Order for %s in %s
+msgid "Create New Order for %s in %s"
+msgstr "Créer une nouvelle commande pour %s dans %s"
+
+#: Create New Order for New Customer
+msgid "Create New Order for New Customer"
+msgstr "Créer une nouvelle commande pour un nouveau client"
+
+#: Create New Order for New Customer in %s
+msgid "Create New Order for New Customer in %s"
+msgstr "Créer une nouvelle commande pour un nouveau client dans %s"
+
+#: Create Shipment
+msgid "Create Shipment"
+msgstr "Créer la livraison"
+
+#: Create new invoice for order
+msgid "Create new invoice for order"
+msgstr "Créer une facture pour la commande"
+
+#: Create new shipment for order
+msgid "Create new shipment for order"
+msgstr "Créer une livraison pour la commande"
+
+#: Create...
+msgid "Create..."
+msgstr "Créer..."
+
+#: Created At
+msgid "Created At"
+msgstr "Créé le"
+
+#: Created billing agreement #%s.
+msgid "Created billing agreement #%s."
+msgstr "Entente de facturation n°%s créée."
+
+#: Created:
+msgid "Created:"
+msgstr "Créé :"
+
+#: Credit Memo
+msgid "Credit Memo"
+msgstr "Avoir"
+
+#: Credit Memo #
+msgid "Credit Memo #"
+msgstr "Avoir n°"
+
+#: Credit Memo #%1$s | %3$s | %2$s (%4$s)
+msgid "Credit Memo #%1$s | %3$s | %2$s (%4$s)"
+msgstr "Avoir n° %1$s | %3$s | %2$s (%4$s)"
+
+#: Credit Memo Comment Email Sender
+msgid "Credit Memo Comment Email Sender"
+msgstr "Expéditeur du mail de commentaire d'avoir"
+
+#: Credit Memo Comment Email Template
+msgid "Credit Memo Comment Email Template"
+msgstr "Gabarit de mail de commentaire d'avoir pour un invité"
+
+#: Credit Memo Comment Email Template for Guest
+msgid "Credit Memo Comment Email Template for Guest"
+msgstr "Gabarit de mail de commentaire d'avoir pour un invité"
+
+#: Credit Memo Comments
+msgid "Credit Memo Comments"
+msgstr "Commentaires d'avoir"
+
+#: Credit Memo Email Sender
+msgid "Credit Memo Email Sender"
+msgstr "Expéditeur du mail d'avoir"
+
+#: Credit Memo Email Template
+msgid "Credit Memo Email Template"
+msgstr "Gabarit de mail d'avoir"
+
+#: Credit Memo Email Template for Guest
+msgid "Credit Memo Email Template for Guest"
+msgstr "Gabarit de mail d'avoir pour un invité"
+
+#: Credit Memo Update
+msgid "Credit Memo Update"
+msgstr "Mise à jour de l'avoir"
+
+#: Credit Memo Update for Guest
+msgid "Credit Memo Update for Guest"
+msgstr "Mise à jour de l'avoir pour un invité"
+
+#: Credit Memos
+msgid "Credit Memos"
+msgstr "Avoirs"
+
+#: Credit memo has been created automatically
+msgid "Credit memo has been created automatically"
+msgstr "L'avoir a été créé automatiquement"
+
+#: Creditmemo
+msgid "Creditmemo"
+msgstr "Avoir"
+
+#: Custom Options
+msgid "Custom Options"
+msgstr "Options personnalisables"
+
+#: Custom Price
+msgid "Custom Price"
+msgstr "Prix personnalisé"
+
+#: Custom Value
+msgid "Custom Value"
+msgstr "Valeur personnalisée"
+
+#: Customer
+msgid "Customer"
+msgstr "Client"
+
+#: Customer Can Define Start Date
+msgid "Customer Can Define Start Date"
+msgstr "Le client peut définir la date de début"
+
+#: Customer Email
+msgid "Customer Email"
+msgstr "Email du client"
+
+#: Customer Group
+msgid "Customer Group"
+msgstr "Groupe de clients"
+
+#: Customer Last Name
+msgid "Customer Last Name"
+msgstr "Nom de famille du client"
+
+#: Customer My Account Order Creditmemo View
+msgid "Customer My Account Order Creditmemo View"
+msgstr "Client - Mon compte - Commande - Avoir"
+
+#: Customer My Account Order History
+msgid "Customer My Account Order History"
+msgstr "Client - Mon compte - Commande - Historique"
+
+#: Customer My Account Order Invoice View
+msgid "Customer My Account Order Invoice View"
+msgstr "Client - Mon compte - Commande - Facture - Vue"
+
+#: Customer My Account Order Shipment View
+msgid "Customer My Account Order Shipment View"
+msgstr "Client - Mon compte - Commande - Expédition - Vue"
+
+#: Customer My Account Order View
+msgid "Customer My Account Order View"
+msgstr "Client - Mon compte - Commande - Expédition"
+
+#: Customer Name
+msgid "Customer Name"
+msgstr "Nom du client"
+
+#: Customer\'s Current Activities
+msgid "Customer\'s Current Activities"
+msgstr "Activités en cours du client"
+
+#: Date
+msgid "Date"
+msgstr "Date"
+
+#: Date Shipped
+msgid "Date Shipped"
+msgstr "Date d'expédition"
+
+#: Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png)
+msgid "Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png)"
+msgstr "Logo par défaut, utilisé dans les documents PDF et HTML.<br />(jpeg, tiff, png)"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Denied the payment online.
+msgid "Denied the payment online."
+msgstr "Refuser le paiement en ligne."
+
+#: Deny Payment
+msgid "Deny Payment"
+msgstr "Refuser de paiement"
+
+#: Description Message
+msgid "Description Message"
+msgstr "Message de description"
+
+#: Discount
+msgid "Discount"
+msgstr "Remise"
+
+#: Discount (%s)
+msgid "Discount (%s)"
+msgstr "Remise (%s)"
+
+#: Discount Amount
+msgid "Discount Amount"
+msgstr "Remise"
+
+#: Display Order ID in Header
+msgid "Display Order ID in Header"
+msgstr "Afficher l'identifiant de commande dans l'en-tête"
+
+#: Edit
+msgid "Edit"
+msgstr "Éditer"
+
+#: Edit Gift Messsage
+msgid "Edit Gift Messsage"
+msgstr "Éditer le message cadeau"
+
+#: Edit Order
+msgid "Edit Order"
+msgstr "Éditer la commande"
+
+#: Edit Order #%s
+msgid "Edit Order #%s"
+msgstr "Modifier la commande n°%s"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Email Copy of Credit Memo
+msgid "Email Copy of Credit Memo"
+msgstr "Envoyer une copie de l'avoir par mail"
+
+#: Email Copy of Invoice
+msgid "Email Copy of Invoice"
+msgstr "Envoyer une copie de la facture par mail"
+
+#: Email Copy of Shipment
+msgid "Email Copy of Shipment"
+msgstr "Envoyer une copie de la livraison par mail"
+
+#: Email Order Confirmation
+msgid "Email Order Confirmation"
+msgstr "Envoyer la confirmation de commande par mail"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error to Show in Shopping Cart
+msgid "Error to Show in Shopping Cart"
+msgstr "Erreur lors de l'affichage dans le panier"
+
+#: Excel
+msgid "Excel"
+msgstr "Excel"
+
+#: Excl. Tax
+msgid "Excl. Tax"
+msgstr "HT"
+
+#: Expired
+msgid "Expired"
+msgstr "Expiré"
+
+#: Failed to cancel the billing agreement.
+msgid "Failed to cancel the billing agreement."
+msgstr "Impossible d'annuler l'entente de facturation."
+
+#: Failed to create billing agreement for this order.
+msgid "Failed to create billing agreement for this order."
+msgstr "Impossible de créer une entente de facturation pour cette commande."
+
+#: Failed to finish billing agreement wizard.
+msgid "Failed to finish billing agreement wizard."
+msgstr "Impossible de terminer l'assistant d'entente de facturation."
+
+#: Failed to send the order email.
+msgid "Failed to send the order email."
+msgstr "Échec de l'envoi de la commande par email"
+
+#: Failed to start billing agreement wizard.
+msgid "Failed to start billing agreement wizard."
+msgstr "Impossible d'exécuter l'assistant de l'entente de facturation."
+
+#: Failed to update the payment.
+msgid "Failed to update the payment."
+msgstr "Impossible de mettre à jour le paiement."
+
+#: Failed to update the profile.
+msgid "Failed to update the profile."
+msgstr "Impossible de mettre à jour le profil."
+
+#: Failed to void the payment.
+msgid "Failed to void the payment."
+msgstr "Échec : Annulation du paiement impossible"
+
+#: Fetch
+msgid "Fetch"
+msgstr "Rapporter"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: From
+msgid "From"
+msgstr "De"
+
+#: From Name
+msgid "From Name"
+msgstr "De la part de"
+
+#: From:
+msgid "From:"
+msgstr "De :"
+
+#: G.T. (Base)
+msgid "G.T. (Base)"
+msgstr "Montant total<br/>(Devise de base)"
+
+#: G.T. (Purchased)
+msgid "G.T. (Purchased)"
+msgstr "Montant total<br/>(Devise de la commande)"
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: Get Payment Update
+msgid "Get Payment Update"
+msgstr "Obtenir la mise à jour de paiement"
+
+#: Get Update
+msgid "Get Update"
+msgstr "Obtenir la mise à jour"
+
+#: Get shipping methods and rates
+msgid "Get shipping methods and rates"
+msgstr "Récupérer les modes de livraison et les taux"
+
+#: Gift
+msgid "Gift"
+msgstr "Cadeau"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: Gift Message for This Order
+msgid "Gift Message for This Order"
+msgstr "Message cadeau pour cette commande"
+
+#: Gift Message for the Entire Order
+msgid "Gift Message for the Entire Order"
+msgstr "Message cadeau pour toute la commande"
+
+#: Gift Message for this Order
+msgid "Gift Message for this Order"
+msgstr "Message cadeau pour cette commande"
+
+#: Grand Total
+msgid "Grand Total"
+msgstr "Montant global"
+
+#: Grand Total to be Charged
+msgid "Grand Total to be Charged"
+msgstr "Total à facturer"
+
+#: Guest
+msgid "Guest"
+msgstr "Invité"
+
+#: Hold
+msgid "Hold"
+msgstr "Bloquer"
+
+#: Hold action is not available.
+msgid "Hold action is not available."
+msgstr "L'action bloquer n'est pas disponible"
+
+#: Hold order
+msgid "Hold order"
+msgstr "Bloquer la commande"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: ID #
+msgid "ID #"
+msgstr "ID"
+
+#: If empty, the default description above will be used.
+msgid "If empty, the default description above will be used."
+msgstr "Si ce champ n'est pas rempli, la description par défaut ci-dessus sera utilisée"
+
+#: If empty, the default error above will be used.
+msgid "If empty, the default error above will be used."
+msgstr "Si ce champ n'est pas rempli, l'erreur par défaut ci-dessus sera utilisée"
+
+#: If the invoice was created offline, try creating an offline creditmemo.
+msgid "If the invoice was created offline, try creating an offline creditmemo."
+msgstr "La facture à été crée hors-ligne, essayez de créer l'avoir hors-ligne"
+
+#: Incl. Tax
+msgid "Incl. Tax"
+msgstr "TTC"
+
+#: Information
+msgid "Information"
+msgstr "Informations"
+
+#: Initial Fee
+msgid "Initial Fee"
+msgstr "Frais initiale"
+
+#: Initial Fees
+msgid "Initial Fees"
+msgstr "Frais initiaux"
+
+#: Initial period payment
+msgid "Initial period payment"
+msgstr "Période de paiement initial"
+
+#: Invalid block: %s.
+msgid "Invalid block: %s."
+msgstr "Bloc invalide : %s."
+
+#: Invalid carrier specified.
+msgid "Invalid carrier specified."
+msgstr "Transporteur spécifié invalide."
+
+#: Invalid draw line data. Please define \"lines\" array.
+msgid "Invalid draw line data. Please define \"lines\" array."
+msgstr "Données de ligne invalides. Veuillez définir un jeu de lignes."
+
+#: Invalid entity model
+msgid "Invalid entity model"
+msgstr "Modèle entité invalide"
+
+#: Invalid item option format.
+msgid "Invalid item option format."
+msgstr "Format d'option d'élément invalide."
+
+#: Invalid qty to invoice item \"%s\"
+msgid "Invalid qty to invoice item \"%s\""
+msgstr "Quantité à facturer invalide pour l'article \"%s\""
+
+#: Invalid qty to refund item \"%s\"
+msgid "Invalid qty to refund item \"%s\""
+msgstr "Quantité à rembourser invalide pour l'article \"%s\""
+
+#: Invalid qty to ship for item \"%s\"
+msgid "Invalid qty to ship for item \"%s\""
+msgstr "Quantité à livrer invalide pour l'article \"%s\""
+
+#: Invalid renderer model
+msgid "Invalid renderer model"
+msgstr "Modèle invalide"
+
+#: Invalid request for adding product to quote.
+msgid "Invalid request for adding product to quote."
+msgstr "Demande invalide d'ajout de produit au panier."
+
+#: Invoice
+msgid "Invoice"
+msgstr "Facturer"
+
+#: Invoice #
+msgid "Invoice #"
+msgstr "Facture n°"
+
+#: Invoice # 
+msgid "Invoice # "
+msgstr "Facture n° "
+
+#: Invoice #%1$s | %2$s | %4$s (%3$s)
+msgid "Invoice #%1$s | %2$s | %4$s (%3$s)"
+msgstr "Facture n°%1$s | %2$s | %4$s (%3$s)"
+
+#: Invoice #%s
+msgid "Invoice #%s"
+msgstr "Facture n°%s"
+
+#: Invoice Comment Email Sender
+msgid "Invoice Comment Email Sender"
+msgstr "Expéditeur du mail de commentaire de facture"
+
+#: Invoice Comment Email Template
+msgid "Invoice Comment Email Template"
+msgstr "Gabarit de mail commentaire de facture"
+
+#: Invoice Comment Email Template for Guest
+msgid "Invoice Comment Email Template for Guest"
+msgstr "Gabarit de mail de commentaire de facture pour un invité"
+
+#: Invoice Comments
+msgid "Invoice Comments"
+msgstr "Commentaires de facture"
+
+#: Invoice Date
+msgid "Invoice Date"
+msgstr "Date de facturation"
+
+#: Invoice Email Sender
+msgid "Invoice Email Sender"
+msgstr "Expéditeur du mail de facture"
+
+#: Invoice Email Template
+msgid "Invoice Email Template"
+msgstr "Gabarit mail de facture"
+
+#: Invoice Email Template for Guest
+msgid "Invoice Email Template for Guest"
+msgstr "Gabarit de mail de facture pour un invité"
+
+#: Invoice Update
+msgid "Invoice Update"
+msgstr "Mise à jour de facture"
+
+#: Invoice Update for Guest
+msgid "Invoice Update for Guest"
+msgstr "Mise à jour de facture pour un invité"
+
+#: Invoice and Packing Slip Design
+msgid "Invoice and Packing Slip Design"
+msgstr "Design de facture et de bordereau de livraison"
+
+#: Invoice and Ship
+msgid "Invoice and Ship"
+msgstr "Facturer et expédier"
+
+#: Invoice canceling problem.
+msgid "Invoice canceling problem."
+msgstr "Problème de l'annulation de la facture."
+
+#: Invoice cannot be canceled.
+msgid "Invoice cannot be canceled."
+msgstr "La facture ne peut pas être annulée"
+
+#: Invoice cannot be captured.
+msgid "Invoice cannot be captured."
+msgstr "La facture ne peut pas être capturée"
+
+#: Invoice cannot be voided.
+msgid "Invoice cannot be voided."
+msgstr "La facture ne peut pas être invalidée"
+
+#: Invoice capturing problem.
+msgid "Invoice capturing problem."
+msgstr "Facture capturant le problème."
+
+#: Invoice void problem
+msgid "Invoice void problem"
+msgstr "Problème lors de l'invalidation de facture"
+
+#: Invoice will be created without communication with payment gateway.
+msgid "Invoice will be created without communication with payment gateway."
+msgstr "La facture sera crée sans retour de la passerelle de paiement."
+
+#: Invoiced
+msgid "Invoiced"
+msgstr "Facturé"
+
+#: Invoices
+msgid "Invoices"
+msgstr "Factures"
+
+#: Is Closed
+msgid "Is Closed"
+msgstr "Est fermé"
+
+#: Item
+msgid "Item"
+msgstr "Article"
+
+#: Item Status
+msgid "Item Status"
+msgstr "Statut"
+
+#: Item object is not specified.
+msgid "Item object is not specified."
+msgstr "L'objet article n'est pas spécifié."
+
+#: Item options declaration error.
+msgid "Item options declaration error."
+msgstr "Erreur de déclaration d'options d'article"
+
+#: Item ordered qty
+msgid "Item ordered qty"
+msgstr "Qté commandée"
+
+#: Item qty declaration error.
+msgid "Item qty declaration error."
+msgstr "Erreur de déclaration de la quantité d'articles"
+
+#: Items
+msgid "Items"
+msgstr "Articles"
+
+#: Items Invoiced
+msgid "Items Invoiced"
+msgstr "Articles facturés"
+
+#: Items Ordered
+msgid "Items Ordered"
+msgstr "Articles commandés"
+
+#: Items Refunded
+msgid "Items Refunded"
+msgstr "Articles remboursés"
+
+#: Items Shipped
+msgid "Items Shipped"
+msgstr "Articles expédiés"
+
+#: Items maximum quantity or price do not allow checkout.
+msgid "Items maximum quantity or price do not allow checkout."
+msgstr "La quantité maximum ou le prix d'articles ne permettent pas le contrôle."
+
+#: Items options declaration error.
+msgid "Items options declaration error."
+msgstr "Erreur de déclaration d'options d'articles."
+
+#: Items to Refund
+msgid "Items to Refund"
+msgstr "Articles à rembourser"
+
+#: Items to Ship
+msgid "Items to Ship"
+msgstr "Articles à expédier"
+
+#: Key
+msgid "Key"
+msgstr "Clé"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
+
+#: Last Ordered Items
+msgid "Last Ordered Items"
+msgstr "Derniers articles commandés"
+
+#: Link to the New Order
+msgid "Link to the New Order"
+msgstr "Lien vers la nouvelle commande"
+
+#: Link to the Previous Order
+msgid "Link to the Previous Order"
+msgstr "Lien vers la commande précédente"
+
+#: Logo for HTML Print View
+msgid "Logo for HTML Print View"
+msgstr "Logo pour l'aperçu avant impression HTML"
+
+#: Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+msgid "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)"
+msgstr "Logo pour les documents HTML seulement. Sinon, c'est le logo par défaut qui sera utilisé.<br />(jpeg, gif, png)"
+
+#: Logo for PDF Print-outs (200x50)
+msgid "Logo for PDF Print-outs (200x50)"
+msgstr "Logo pour les impressions PDF (200x50)"
+
+#: Manage
+msgid "Manage"
+msgstr "Gérer"
+
+#: Maximum shipping amount allowed to refund is: %s
+msgid "Maximum shipping amount allowed to refund is: %s"
+msgstr "Montant maximum des expéditions permettant le remboursement : %s"
+
+#: Message
+msgid "Message"
+msgstr "Message"
+
+#: Message:
+msgid "Message:"
+msgstr "Message :"
+
+#: Minimum Amount
+msgid "Minimum Amount"
+msgstr "Montant minimum"
+
+#: Minimum Order Amount
+msgid "Minimum Order Amount"
+msgstr "Montant de commande minimum"
+
+#: Mixed
+msgid "Mixed"
+msgstr "Mixte"
+
+#: Move to Shopping Cart
+msgid "Move to Shopping Cart"
+msgstr "Placer dans le panier"
+
+#: Move to Wishlist
+msgid "Move to Wishlist"
+msgstr "Ajouter à la <br/>liste d'envies"
+
+#: Multi-address Description Message
+msgid "Multi-address Description Message"
+msgstr "Message de description multi-adresse"
+
+#: Multi-address Error to Show in Shopping Cart
+msgid "Multi-address Error to Show in Shopping Cart"
+msgstr "Erreur multi-adresse à afficher dans le panier"
+
+#: My Orders
+msgid "My Orders"
+msgstr "Mes commandes"
+
+#: My Orders - Details
+msgid "My Orders - Details"
+msgstr "Mes commandes - Détails"
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New
+msgid "New"
+msgstr "Nouveau"
+
+#: New Billing Agreement
+msgid "New Billing Agreement"
+msgstr "Nouvelle entente de facturation"
+
+#: New Credit Memo
+msgid "New Credit Memo"
+msgstr "Nouvel avoir"
+
+#: New Credit Memo for Guest
+msgid "New Credit Memo for Guest"
+msgstr "Nouvel avoir pour un invité"
+
+#: New Invoice
+msgid "New Invoice"
+msgstr "Nouvelle facture"
+
+#: New Invoice and Shipment for Order #%s
+msgid "New Invoice and Shipment for Order #%s"
+msgstr "Nouvelles facture et expédition pour la commande n°%s"
+
+#: New Invoice for Guest
+msgid "New Invoice for Guest"
+msgstr "Nouvelle facture pour un invité"
+
+#: New Invoice for Order #%s
+msgid "New Invoice for Order #%s"
+msgstr "Nouvelle facture pour la commande n°%s"
+
+#: New Order
+msgid "New Order"
+msgstr "Nouvelle commande"
+
+#: New Order Confirmation Email Sender
+msgid "New Order Confirmation Email Sender"
+msgstr "Expéditeur du mail de confirmation de commande"
+
+#: New Order Confirmation Template
+msgid "New Order Confirmation Template"
+msgstr "Gabarit de confirmation de nouvelle commande"
+
+#: New Order Confirmation Template for Guest
+msgid "New Order Confirmation Template for Guest"
+msgstr "Gabarit de confirmation de nouvelle commande pour un invité"
+
+#: New Order RSS
+msgid "New Order RSS"
+msgstr "Flux RSS des nouvelles commandes"
+
+#: New Order for Guest
+msgid "New Order for Guest"
+msgstr "Nouvelle commande pour un invité"
+
+#: New Shipment
+msgid "New Shipment"
+msgstr "Nouvelle livraison"
+
+#: New Shipment for Guest
+msgid "New Shipment for Guest"
+msgstr "Nouvelle expédition pour un invité"
+
+#: New Shipment for Order #%s
+msgid "New Shipment for Order #%s"
+msgstr "Nouvelle expédition pour la commande n°%s"
+
+#: Newsletter Subscription
+msgid "Newsletter Subscription"
+msgstr "Abonnement à la newsletter"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No Items
+msgid "No Items"
+msgstr "Aucun article"
+
+#: No Items To Refund
+msgid "No Items To Refund"
+msgstr "Aucun article à rembourser"
+
+#: No Payment Methods
+msgid "No Payment Methods"
+msgstr "Aucun mode de paiement"
+
+#: No detail for number \"%s\"
+msgid "No detail for number \"%s\""
+msgstr "Aucun détail pour le numéro \"%s\""
+
+#: No information available.
+msgid "No information available."
+msgstr "Aucune information disponible"
+
+#: No items
+msgid "No items"
+msgstr "Aucun article"
+
+#: No order(s) were put on hold.
+msgid "No order(s) were put on hold."
+msgstr "Aucune commande n'a été bloquée."
+
+#: No order(s) were released from holding status.
+msgid "No order(s) were released from holding status."
+msgstr "Aucune commande n'a été débloquée."
+
+#: No ordered items
+msgid "No ordered items"
+msgstr "Aucun article commandé"
+
+#: No shipping information available
+msgid "No shipping information available"
+msgstr "Aucune information de livraison disponible"
+
+#: No valid transaction found for this payment review.
+msgid "No valid transaction found for this payment review."
+msgstr "Aucune transaction valide n'a été trouvée pour cette révision des paiements."
+
+#: Nominal Items
+msgid "Nominal Items"
+msgstr "Articles nominale"
+
+#: Nominal item can be purchased standalone only. To proceed please remove other items from the quote.
+msgid "Nominal item can be purchased standalone only. To proceed please remove other items from the quote."
+msgstr "Article nominal peut être acheté uniquement. Pour continuer, s'il vous plaît supprimer les autres éléments de la citation."
+
+#: Nominal order registered.
+msgid "Nominal order registered."
+msgstr "Commande nominale enregistrée."
+
+#: Not Capture
+msgid "Not Capture"
+msgstr "Pas de capture"
+
+#: Not Initialized
+msgid "Not Initialized"
+msgstr "Non initialisé"
+
+#: Not Notified
+msgid "Not Notified"
+msgstr "Non notifié"
+
+#: Not enough valid data to save the parent transaction ID.
+msgid "Not enough valid data to save the parent transaction ID."
+msgstr "Pas assez de données valides pour sauvegarder l'identifiant de transaction mère."
+
+#: Notification Not Applicable
+msgid "Notification Not Applicable"
+msgstr "Notification non-applicable"
+
+#: Notified
+msgid "Notified"
+msgstr "Notifié"
+
+#: Notify Customer by Email
+msgid "Notify Customer by Email"
+msgstr "Avertir le client par email"
+
+#: Number
+msgid "Number"
+msgstr "Numéro"
+
+#: Number of Invoiced Orders
+msgid "Number of Invoiced Orders"
+msgstr "Nombre de commandes facturées"
+
+#: Number of Orders
+msgid "Number of Orders"
+msgstr "Nombre de commandes"
+
+#: Number of Refunded Orders
+msgid "Number of Refunded Orders"
+msgstr "Nombre de commandes remboursées"
+
+#: Offline Refunded
+msgid "Offline Refunded"
+msgstr "Remboursement hors ligne"
+
+#: On Hold
+msgid "On Hold"
+msgstr "Bloquée"
+
+#: Online Refunded
+msgid "Online Refunded"
+msgstr "Remboursé en ligne"
+
+#: Order
+msgid "Order"
+msgstr "Commande"
+
+#: Order #
+msgid "Order #"
+msgstr "Commande n°"
+
+#: Order # 
+msgid "Order # "
+msgstr "Commande n° "
+
+#: Order # %s
+msgid "Order # %s"
+msgstr "Commande n°%s"
+
+#: Order # %s %s | %s
+msgid "Order # %s %s | %s"
+msgstr "Commande n°%s %s | %s"
+
+#: Order #%s
+msgid "Order #%s"
+msgstr "Commande n°%s"
+
+#: Order #%s - %s
+msgid "Order #%s - %s"
+msgstr "Commande n°%s - <small><em>%s</em></small>"
+
+#: Order API
+msgid "Order API"
+msgstr "API de commande"
+
+#: Order Comment
+msgid "Order Comment"
+msgstr "Commentaire de la commande"
+
+#: Order Comment Email Sender
+msgid "Order Comment Email Sender"
+msgstr "Expéditeur du mail de commentaire de commande"
+
+#: Order Comment Email Template
+msgid "Order Comment Email Template"
+msgstr "Gabarit de mail de commentaire de commande"
+
+#: Order Comment Email Template for Guest
+msgid "Order Comment Email Template for Guest"
+msgstr "Gabarit de mail de commentaire de commande pour un invité"
+
+#: Order Comments
+msgid "Order Comments"
+msgstr "Commentaires de commande"
+
+#: Order Credit Memos
+msgid "Order Credit Memos"
+msgstr "Avoirs de la commande"
+
+#: Order Currency:
+msgid "Order Currency:"
+msgstr "Devise de la commande :"
+
+#: Order Date
+msgid "Order Date"
+msgstr "Date de commande"
+
+#: Order Date (%s)
+msgid "Order Date (%s)"
+msgstr "Date de commande (%s)"
+
+#: Order Date:
+msgid "Order Date:"
+msgstr "Date de commande :"
+
+#: Order Date: 
+msgid "Order Date: "
+msgstr "Date de commande : "
+
+#: Order Date: %s
+msgid "Order Date: %s"
+msgstr "<strong>Date de commande :</strong> %s"
+
+#: Order Details
+msgid "Order Details"
+msgstr "Détails de la commande"
+
+#: Order Grand Total
+msgid "Order Grand Total"
+msgstr "Montant global"
+
+#: Order History
+msgid "Order History"
+msgstr "Historique"
+
+#: Order History Info
+msgid "Order History Info"
+msgstr "Informations d'historique de commande"
+
+#: Order ID
+msgid "Order ID"
+msgstr "ID Commande"
+
+#: Order Information
+msgid "Order Information"
+msgstr "Informations commande"
+
+#: Order Invoices
+msgid "Order Invoices"
+msgstr "Factures de la commande"
+
+#: Order Shipments
+msgid "Order Shipments"
+msgstr "Livraisons de la commande"
+
+#: Order Status
+msgid "Order Status"
+msgstr "Statut"
+
+#: Order Subtotal
+msgid "Order Subtotal"
+msgstr "Sous-total de la commande"
+
+#: Order Taxes Report Grouped by Tax Rates
+msgid "Order Taxes Report Grouped by Tax Rates"
+msgstr "Rapport de taxes de commande groupés par taux d'imposition"
+
+#: Order Total
+msgid "Order Total"
+msgstr "Total de la commande"
+
+#: Order Totals
+msgid "Order Totals"
+msgstr "Totaux commande"
+
+#: Order Update
+msgid "Order Update"
+msgstr "Mise à jour de commande"
+
+#: Order Update for Guest
+msgid "Order Update for Guest"
+msgstr "Mise à jour de commande pour un invité"
+
+#: Order View
+msgid "Order View"
+msgstr "Vue de commande"
+
+#: Order does not allow to be canceled.
+msgid "Order does not allow to be canceled."
+msgstr "La commande ne peut être annulée."
+
+#: Order invoice
+msgid "Order invoice"
+msgstr "Facture de la commande"
+
+#: Order object is not specified.
+msgid "Order object is not specified."
+msgstr "L'objet commande n'est pas spécifié."
+
+#: Order saving error: %s
+msgid "Order saving error: %s"
+msgstr "Erreur lors de la sauvegarde de la commande : %s"
+
+#: Order shipments
+msgid "Order shipments"
+msgstr "Livraisons de la commande"
+
+#: Order was placed using %s
+msgid "Order was placed using %s"
+msgstr "La commande a été passée dans la devise : %s"
+
+#: Ordered
+msgid "Ordered"
+msgstr "Commandé"
+
+#: Orders
+msgid "Orders"
+msgstr "Commandes"
+
+#: Original Price
+msgid "Original Price"
+msgstr "Prix d'origine"
+
+#: Original order item that recurring payment profile correspondss to.
+msgid "Original order item that recurring payment profile correspondss to."
+msgstr "Article original d'ordre que le profil périodique de paiement correspond à."
+
+#: PDF Credit Memos
+msgid "PDF Credit Memos"
+msgstr "Avoirs en PDF"
+
+#: PDF Invoices
+msgid "PDF Invoices"
+msgstr "Factures en PDF"
+
+#: PDF Packingslips
+msgid "PDF Packingslips"
+msgstr "Bordereaux de livraison en PDF"
+
+#: PDF Print-outs
+msgid "PDF Print-outs"
+msgstr "Impressions PDF"
+
+#: PDF object is not specified.
+msgid "PDF object is not specified."
+msgstr "L'objet PDF n'est pas spécifié."
+
+#: PDF page object is not specified.
+msgid "PDF page object is not specified."
+msgstr "L'objet de page PDF n'est pas spécifié."
+
+#: PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default
+msgid "PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default"
+msgstr "Le modèle total de pdf devrait se prolonger Mage_Sales_Model_Order_Pdf_Total_Default"
+
+#: Packingslip #
+msgid "Packingslip #"
+msgstr "Bordereau de livraison n°"
+
+#: Packingslip # 
+msgid "Packingslip # "
+msgstr "Bordereau de livraison n° "
+
+#: Paid
+msgid "Paid"
+msgstr "Payée"
+
+#: Paid Amount
+msgid "Paid Amount"
+msgstr "Montant réglé"
+
+#: Parent Transaction ID
+msgid "Parent Transaction ID"
+msgstr "ID de transaction principale"
+
+#: Parent transaction ID must have a transaction ID.
+msgid "Parent transaction ID must have a transaction ID."
+msgstr "ID de transaction principale doit avoir un ID de transaction."
+
+#: Partial
+msgid "Partial"
+msgstr "Partiel"
+
+#: Payment Failed
+msgid "Payment Failed"
+msgstr "Erreur lors du paiement"
+
+#: Payment Information
+msgid "Payment Information"
+msgstr "Informations de paiement"
+
+#: Payment Method
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+#: Payment Method Name
+msgid "Payment Method Name"
+msgstr "Nom de méthode de paiement"
+
+#: Payment Method:
+msgid "Payment Method:"
+msgstr "Mode de paiement :"
+
+#: Payment Review
+msgid "Payment Review"
+msgstr "Vérification du paiement"
+
+#: Payment disallow storing objects.
+msgid "Payment disallow storing objects."
+msgstr "Le paiment déduit du stock."
+
+#: Payment transactions disallow storing objects.
+msgid "Payment transactions disallow storing objects."
+msgstr "Les transactions de paiement rejettent de stocker des objets."
+
+#: Payment type
+msgid "Payment type"
+msgstr "Type de paiement"
+
+#: Payment update has been made.
+msgid "Payment update has been made."
+msgstr "La mise à jour de paiement a été effectué."
+
+#: Pending
+msgid "Pending"
+msgstr "En attente"
+
+#: Pending Payment
+msgid "Pending Payment"
+msgstr "En attente de paiement"
+
+#: Period
+msgid "Period"
+msgstr "Période"
+
+#: Place Order Using Billing Agreements
+msgid "Place Order Using Billing Agreements"
+msgstr "Passez la commande utilisant des ententes de facturation"
+
+#: Placed from IP
+msgid "Placed from IP"
+msgstr "Adresse IP"
+
+#: Please Select Products to Add
+msgid "Please Select Products to Add"
+msgstr "Sélectionnez les produits à ajouter"
+
+#: Please Select a Customer
+msgid "Please Select a Customer"
+msgstr "Sélectionnez un client"
+
+#: Please Select a Store
+msgid "Please Select a Store"
+msgstr "Sélectionnez un magasin"
+
+#: Please define PDF object before using.
+msgid "Please define PDF object before using."
+msgstr "Veuillez définir un objet PDF avant de l'utiliser."
+
+#: Please enter positive number in this field.
+msgid "Please enter positive number in this field."
+msgstr "Saisissez un nombre positif"
+
+#: Please specify a valid grid column alias name that exists in grid table.
+msgid "Please specify a valid grid column alias name that exists in grid table."
+msgstr "S'il vous plaît spécifier une colonne de la grille en cours de validité alias nom qui existe dans le tableau de la grille."
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Print
+msgid "Print"
+msgstr "Imprimer"
+
+#: Print All
+msgid "Print All"
+msgstr "Tout imprimer"
+
+#: Print All Invoices
+msgid "Print All Invoices"
+msgstr "Imprimer toutes les factures"
+
+#: Print All Refunds
+msgid "Print All Refunds"
+msgstr "Imprimer tous les avoirs"
+
+#: Print All Shipments
+msgid "Print All Shipments"
+msgstr "Imprimer toutes les livraisons"
+
+#: Print Credit Memos
+msgid "Print Credit Memos"
+msgstr "Imprimer les avoirs"
+
+#: Print Invoice
+msgid "Print Invoice"
+msgstr "Imprimer la facture"
+
+#: Print Invoices
+msgid "Print Invoices"
+msgstr "Imprimer les factures"
+
+#: Print Order
+msgid "Print Order"
+msgstr "Imprimer la commande"
+
+#: Print Order # %s
+msgid "Print Order # %s"
+msgstr "Imprimer la commande n°%s"
+
+#: Print Packingslips
+msgid "Print Packingslips"
+msgstr "Imprimer les bordereaux de livraison"
+
+#: Print Refund
+msgid "Print Refund"
+msgstr "Imprimer l'avoir"
+
+#: Print Shipment
+msgid "Print Shipment"
+msgstr "Imprimer la livraison"
+
+#: Processing
+msgid "Processing"
+msgstr "En cours de traitement"
+
+#: Product
+msgid "Product"
+msgstr "Produit"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Products Bestsellers Report
+msgid "Products Bestsellers Report"
+msgstr "Rapport des meilleures ventes"
+
+#: Products in Comparison List
+msgid "Products in Comparison List"
+msgstr "Produits dans la liste de comparaison"
+
+#: Profile #%s
+msgid "Profile #%s"
+msgstr "Profil n°%s"
+
+#: Profile Information
+msgid "Profile Information"
+msgstr "Informations sur le profil"
+
+#: Profile State
+msgid "Profile State"
+msgstr "État de profil"
+
+#: Profit
+msgid "Profit"
+msgstr "Bénéfice"
+
+#: Promotion Coupons Usage Report
+msgid "Promotion Coupons Usage Report"
+msgstr "Rapport d'utilisation des bons de promotion"
+
+#: Proper payment object must be set.
+msgid "Proper payment object must be set."
+msgstr "Le paiement approprié doit être défini."
+
+#: Purchased From
+msgid "Purchased From"
+msgstr "Acheté sur"
+
+#: Purchased From (Store)
+msgid "Purchased From (Store)"
+msgstr "Acheté sur (Magasin)"
+
+#: Purchased Item
+msgid "Purchased Item"
+msgstr "Article acheté"
+
+#: Purchased On
+msgid "Purchased On"
+msgstr "Date d'achat"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Qty Invoiced
+msgid "Qty Invoiced"
+msgstr "Qté facturée"
+
+#: Qty Ordered
+msgid "Qty Ordered"
+msgstr "Qté commandée"
+
+#: Qty Shipped
+msgid "Qty Shipped"
+msgstr "Qté livrée"
+
+#: Qty To Add
+msgid "Qty To Add"
+msgstr "Qté à ajouter"
+
+#: Qty to Add
+msgid "Qty to Add"
+msgstr "Qté à ajouter"
+
+#: Qty to Invoice
+msgid "Qty to Invoice"
+msgstr "Qté à facturer"
+
+#: Qty to Refund
+msgid "Qty to Refund"
+msgstr "Qté à rembourser"
+
+#: Qty to Ship
+msgid "Qty to Ship"
+msgstr "Qté à expédier"
+
+#: Quantity Ordered
+msgid "Quantity Ordered"
+msgstr "Quantité commandée"
+
+#: Rate
+msgid "Rate"
+msgstr "Taux"
+
+#: Recent Orders
+msgid "Recent Orders"
+msgstr "Commandes récentes"
+
+#: Recently Compared Products
+msgid "Recently Compared Products"
+msgstr "Derniers produits comparés"
+
+#: Recently Viewed
+msgid "Recently Viewed"
+msgstr "Vu récemment"
+
+#: Recently Viewed Products
+msgid "Recently Viewed Products"
+msgstr "Derniers produits consultés"
+
+#: Recurring Profile # %s
+msgid "Recurring Profile # %s"
+msgstr "Profil récurrent n°%s"
+
+#: Recurring Profile Initial Fee
+msgid "Recurring Profile Initial Fee"
+msgstr "Frais initiaux de profil récurrent"
+
+#: Recurring Profiles
+msgid "Recurring Profiles"
+msgstr "Profils récurrents"
+
+#: Recurring Profiles (beta)
+msgid "Recurring Profiles (beta)"
+msgstr "Profils récurrents (beta)"
+
+#: Reference ID
+msgid "Reference ID"
+msgstr "Réference ID"
+
+#: Reference ID:
+msgid "Reference ID:"
+msgstr "ID de réference :"
+
+#: Refresh
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: Refund
+msgid "Refund"
+msgstr "Rembourser"
+
+#: Refund #
+msgid "Refund #"
+msgstr "Remboursement n°"
+
+#: Refund #%s
+msgid "Refund #%s"
+msgstr "Remboursement n°%s"
+
+#: Refund Amount
+msgid "Refund Amount"
+msgstr "Montant du remboursement"
+
+#: Refund Offline
+msgid "Refund Offline"
+msgstr "Remboursement hors ligne"
+
+#: Refund Shipping
+msgid "Refund Shipping"
+msgstr "Remboursement de livraison"
+
+#: Refund Shipping (Excl. Tax)
+msgid "Refund Shipping (Excl. Tax)"
+msgstr "Remboursement livraison (HT)"
+
+#: Refund Shipping (Incl. Tax)
+msgid "Refund Shipping (Incl. Tax)"
+msgstr "Remboursement livraison (TTC)"
+
+#: Refund Totals
+msgid "Refund Totals"
+msgstr "Total remboursé"
+
+#: Refunded
+msgid "Refunded"
+msgstr "Remboursé"
+
+#: Refunded amount of %s offline.
+msgid "Refunded amount of %s offline."
+msgstr "Montant remboursé hors-ligne : %s"
+
+#: Refunded amount of %s online.
+msgid "Refunded amount of %s online."
+msgstr "Montant remboursé en ligne : %s"
+
+#: Refunds
+msgid "Refunds"
+msgstr "Remboursements"
+
+#: Registered a Void notification.
+msgid "Registered a Void notification."
+msgstr "Notifier une annulation"
+
+#: Registered notification about approved payment.
+msgid "Registered notification about approved payment."
+msgstr "Notification enregistré au sujet de paiement approuvé."
+
+#: Registered notification about authorized amount of %s.
+msgid "Registered notification about authorized amount of %s."
+msgstr "Notifier lors d'une autorisation d'un montant de %s."
+
+#: Registered notification about captured amount of %s.
+msgid "Registered notification about captured amount of %s."
+msgstr "Notifier lors d'un encaissement d'un montant de %s."
+
+#: Registered notification about denied payment.
+msgid "Registered notification about denied payment."
+msgstr "Notification enregistré sur le paiement refusé."
+
+#: Registered notification about refunded amount of %s.
+msgid "Registered notification about refunded amount of %s."
+msgstr "Notifier lors d'un remboursement d'un montant de %s."
+
+#: Registered update about approved payment.
+msgid "Registered update about approved payment."
+msgstr "Mise à jour enregistrée au sujet de paiement approuvé."
+
+#: Registered update about denied payment.
+msgid "Registered update about denied payment."
+msgstr "Mise à jour enregistrée au sujet de paiement refusé."
+
+#: Regular Payment
+msgid "Regular Payment"
+msgstr "Paiement régulier"
+
+#: Related Orders
+msgid "Related Orders"
+msgstr "Les commandes connexes"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Remove Coupon Code
+msgid "Remove Coupon Code"
+msgstr "Supprimer le code de bon de réduction"
+
+#: Remove tracking number
+msgid "Remove tracking number"
+msgstr "Supprimer le numéro de suivi"
+
+#: Reorder
+msgid "Reorder"
+msgstr "Renouveler"
+
+#: Retrieve invoice info
+msgid "Retrieve invoice info"
+msgstr "Récupérer les informations de facturation"
+
+#: Retrieve invoice information
+msgid "Retrieve invoice information"
+msgstr "Récupérer les informations de facturation"
+
+#: Retrieve list of invoices by filters
+msgid "Retrieve list of invoices by filters"
+msgstr "Récupérer la liste filtrée des factures"
+
+#: Retrieve list of orders by filters
+msgid "Retrieve list of orders by filters"
+msgstr "Récupérer la liste filtrée des commandes"
+
+#: Retrieve list of shipments by filters
+msgid "Retrieve list of shipments by filters"
+msgstr "Récupérer la liste filtrée des livraisons"
+
+#: Retrieve order information
+msgid "Retrieve order information"
+msgstr "Récupérer les informations de commande"
+
+#: Retrieve orders info
+msgid "Retrieve orders info"
+msgstr "Récupérer les informations de commande"
+
+#: Retrieve shipment info
+msgid "Retrieve shipment info"
+msgstr "Récupérer les informations de livraison"
+
+#: Retrieve shipment information
+msgid "Retrieve shipment information"
+msgstr "Récupérer les informations de livraison"
+
+#: Return to Stock
+msgid "Return to Stock"
+msgstr "Remettre en stock"
+
+#: Returned
+msgid "Returned"
+msgstr "Retourné"
+
+#: Revenue
+msgid "Revenue"
+msgstr "Revenu"
+
+#: Row Subtotal
+msgid "Row Subtotal"
+msgstr "Sous-total de la ligne"
+
+#: Row Total
+msgid "Row Total"
+msgstr "Total ligne"
+
+#: SHIP TO:
+msgid "SHIP TO:"
+msgstr "LIVRÉ À :"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: SOLD TO:
+msgid "SOLD TO:"
+msgstr "VENDU À :"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Sales Discount
+msgid "Sales Discount"
+msgstr "Remises"
+
+#: Sales Emails
+msgid "Sales Emails"
+msgstr "Mails des ventes"
+
+#: Sales Emails Section
+msgid "Sales Emails Section"
+msgstr "Section emails de vente"
+
+#: Sales Invoice Print View
+msgid "Sales Invoice Print View"
+msgstr "Imprimer les factures"
+
+#: Sales Items
+msgid "Sales Items"
+msgstr "Articles vendus"
+
+#: Sales Order Print View
+msgid "Sales Order Print View"
+msgstr "Imprimer les commandes"
+
+#: Sales Section
+msgid "Sales Section"
+msgstr "Sections ventes"
+
+#: Sales Shipment Print View
+msgid "Sales Shipment Print View"
+msgstr "Imprimer les expéditions"
+
+#: Sales Shipping
+msgid "Sales Shipping"
+msgstr "Expéditions"
+
+#: Sales Tax
+msgid "Sales Tax"
+msgstr "Taxes"
+
+#: Sales Total
+msgid "Sales Total"
+msgstr "Total des ventes"
+
+#: Same As Billing Address
+msgid "Same As Billing Address"
+msgstr "Identique à l'adresse de facturation"
+
+#: Save and Close Message
+msgid "Save and Close Message"
+msgstr "Sauvegarder et fermer le message"
+
+#: Save in address book
+msgid "Save in address book"
+msgstr "Enregistrer dans le carnet d'adresses"
+
+#: Schedule
+msgid "Schedule"
+msgstr "Programme"
+
+#: Select from existing customer addresses:
+msgid "Select from existing customer addresses:"
+msgstr "Sélectionner d'une adresse client existante"
+
+#: Send Credit Memo Comment Email Copy To
+msgid "Send Credit Memo Comment Email Copy To"
+msgstr "Envoyer une copie du mail de commentaire d'avoir à"
+
+#: Send Credit Memo Email Copy To
+msgid "Send Credit Memo Email Copy To"
+msgstr "Envoyer une copie du mail d'avoir à"
+
+#: Send Email
+msgid "Send Email"
+msgstr "Envoyer un email"
+
+#: Send Invoice Comment Email Copy To
+msgid "Send Invoice Comment Email Copy To"
+msgstr "Envoyer une copie du mail de commentaire de facture à"
+
+#: Send Invoice Email Copy To
+msgid "Send Invoice Email Copy To"
+msgstr "Envoyer une copie du mail de facture à"
+
+#: Send Order Comment Email Copy To
+msgid "Send Order Comment Email Copy To"
+msgstr "Envoyer une copie du mail de commentaire de commande à"
+
+#: Send Order Email Copy Method
+msgid "Send Order Email Copy Method"
+msgstr "Envoyer une copie du mail de commande en utilisant la méthode"
+
+#: Send Order Email Copy To
+msgid "Send Order Email Copy To"
+msgstr "Envoyer une copie du mail de commande à"
+
+#: Send Sales Emails
+msgid "Send Sales Emails"
+msgstr "Envoyer email des ventes"
+
+#: Send Shipment Comment Email Copy To
+msgid "Send Shipment Comment Email Copy To"
+msgstr "Envoyer une copie du mail de commentaire de livraison"
+
+#: Send Shipment Email Copy To
+msgid "Send Shipment Email Copy To"
+msgstr "Envoyer une copie du mail de livraison à"
+
+#: Send Tracking Information
+msgid "Send Tracking Information"
+msgstr "Envoyer les informations de suivi"
+
+#: Set order for existing transactions not allowed
+msgid "Set order for existing transactions not allowed"
+msgstr "Placez la commande pour des transactions existantes non permise"
+
+#: Ship
+msgid "Ship"
+msgstr "Expédier"
+
+#: Ship To
+msgid "Ship To"
+msgstr "Livré à"
+
+#: Ship to Name
+msgid "Ship to Name"
+msgstr "Nom (Livr.)"
+
+#: Shipment
+msgid "Shipment"
+msgstr "Expédition"
+
+#: Shipment #
+msgid "Shipment #"
+msgstr "Expédition n°"
+
+#: Shipment #%1$s | %3$s (%2$s)
+msgid "Shipment #%1$s | %3$s (%2$s)"
+msgstr "Expédition n°%1$s | %3$s (%2$s)"
+
+#: Shipment #%s
+msgid "Shipment #%s"
+msgstr "Livraison n°%s"
+
+#: Shipment Comment Email Sender
+msgid "Shipment Comment Email Sender"
+msgstr "Expéditeur du mail de commentaire de livraison"
+
+#: Shipment Comment Email Template
+msgid "Shipment Comment Email Template"
+msgstr "Gabarit du mail de commentaire de livraison"
+
+#: Shipment Comment Email Template for Guest
+msgid "Shipment Comment Email Template for Guest"
+msgstr "Gabarit de mail de commentaire d'expédition pour un invité"
+
+#: Shipment Comments
+msgid "Shipment Comments"
+msgstr "Commentaires de livraison"
+
+#: Shipment Email Sender
+msgid "Shipment Email Sender"
+msgstr "Expéditeur du mail d'expédition"
+
+#: Shipment Email Template
+msgid "Shipment Email Template"
+msgstr "Gabarit de mail de livraison"
+
+#: Shipment Email Template for Guest
+msgid "Shipment Email Template for Guest"
+msgstr "Gabarit de mail d'expédition pour un invité"
+
+#: Shipment Update
+msgid "Shipment Update"
+msgstr "Mise à jour de l'expédition"
+
+#: Shipment Update for Guest
+msgid "Shipment Update for Guest"
+msgstr "Mise à jour de l'expédition pour un invité"
+
+#: Shipments
+msgid "Shipments"
+msgstr "Expéditions"
+
+#: Shipped
+msgid "Shipped"
+msgstr "Livré"
+
+#: Shipped By
+msgid "Shipped By"
+msgstr "Livré par"
+
+#: Shipping
+msgid "Shipping"
+msgstr "Livraison"
+
+#: Shipping & Handling
+msgid "Shipping & Handling"
+msgstr "Frais de port"
+
+#: Shipping &amp; Handling
+msgid "Shipping &amp; Handling"
+msgstr "Frais de port"
+
+#: Shipping &amp; Handling Information
+msgid "Shipping &amp; Handling Information"
+msgstr "Informations de livraison"
+
+#: Shipping Address
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+#: Shipping Amount
+msgid "Shipping Amount"
+msgstr "Montant de la livraison"
+
+#: Shipping Information
+msgid "Shipping Information"
+msgstr "Informations de livraison"
+
+#: Shipping Method
+msgid "Shipping Method"
+msgstr "Mode de livraison"
+
+#: Shipping Method:
+msgid "Shipping Method:"
+msgstr "Mode de livraison :"
+
+#: Shipping Refund
+msgid "Shipping Refund"
+msgstr "Remboursement de la livraison"
+
+#: Shipping and Tracking Information
+msgid "Shipping and Tracking Information"
+msgstr "Informations de livraison et de suivi"
+
+#: Shopping Cart
+msgid "Shopping Cart"
+msgstr "Panier"
+
+#: Signed Up From
+msgid "Signed Up From"
+msgstr "Inscrit sur"
+
+#: Sku
+msgid "Sku"
+msgstr "Réf."
+
+#: Some of the products below do not have all the required options. Please remove them and add again with all the required options.
+msgid "Some of the products below do not have all the required options. Please remove them and add again with all the required options."
+msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires."
+
+#: Sorry, no quotes are available for this order at this time.
+msgid "Sorry, no quotes are available for this order at this time."
+msgstr "Aucun mode de livraison n'est disponible pour votre adresse."
+
+#: Source object is not specified.
+msgid "Source object is not specified."
+msgstr "L'objet source n'est pas spécifié."
+
+#: Specified profile does not exist.
+msgid "Specified profile does not exist."
+msgstr "Le profil spécifique n'existe pas."
+
+#: State/Province
+msgid "State/Province"
+msgstr "État/Région"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Status:
+msgid "Status:"
+msgstr "Statut :"
+
+#: Store Credit
+msgid "Store Credit"
+msgstr "Carte de crédit du magasin"
+
+#: Street Address
+msgid "Street Address"
+msgstr "Adresse"
+
+#: Submit Comment
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: Submit Credit Memo
+msgid "Submit Credit Memo"
+msgstr "Sauvegarder l'avoir"
+
+#: Submit Order
+msgid "Submit Order"
+msgstr "Envoyer la commande"
+
+#: Submit Shipment
+msgid "Submit Shipment"
+msgstr "Valider l'expédition"
+
+#: Subscribe to Newsletter
+msgid "Subscribe to Newsletter"
+msgstr "S'abonner à la newsletter"
+
+#: Subscribe to Order Status
+msgid "Subscribe to Order Status"
+msgstr "S'abonner au statut de commande"
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: Subtotal after discount.
+msgid "Subtotal after discount."
+msgstr "Sous-total après remise"
+
+#: Subtotal:
+msgid "Subtotal:"
+msgstr "Sous-total :"
+
+#: Suspected Fraud
+msgid "Suspected Fraud"
+msgstr "Fraude suspectée."
+
+#: Suspend
+msgid "Suspend"
+msgstr "Suspendre"
+
+#: Suspended
+msgid "Suspended"
+msgstr "Suspendu"
+
+#: Tax
+msgid "Tax"
+msgstr "TVA & autres taxes"
+
+#: Tax Amount
+msgid "Tax Amount"
+msgstr "Montant TVA"
+
+#: Tax Percent
+msgid "Tax Percent"
+msgstr "Taux de TVA"
+
+#: Telephone
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: The Order State \"%s\" must not be set manually.
+msgid "The Order State \"%s\" must not be set manually."
+msgstr "L'état de la commande \"%s\" ne peut être modifié manuellement."
+
+#: The address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract.
+msgid "The address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract."
+msgstr "Le modèle de l'adresse total devrait être porté de Mage_Sales_Model_Quote_Address_Total_Abstract."
+
+#: The billing agreement \"%s\" has been canceled.
+msgid "The billing agreement \"%s\" has been canceled."
+msgstr "L'entente de facturation \"%s\" a été annulée."
+
+#: The billing agreement \"%s\" has been created.
+msgid "The billing agreement \"%s\" has been created."
+msgstr "L'entente de facturation \"%s\" a été créée."
+
+#: The coupon code has been accepted.
+msgid "The coupon code has been accepted."
+msgstr "Le code promo a été retenue"
+
+#: The message has been sent.
+msgid "The message has been sent."
+msgstr "Le message a été envoyé"
+
+#: The message was sent.
+msgid "The message was sent."
+msgstr "L'email a été envoyé."
+
+#: The order email has been sent.
+msgid "The order email has been sent."
+msgstr "L'email de commande a été envoyé."
+
+#: The order has been cancelled.
+msgid "The order has been cancelled."
+msgstr "La commande a été annulée."
+
+#: The order has been created.
+msgid "The order has been created."
+msgstr "La commande a été créé."
+
+#: The order has been put on hold.
+msgid "The order has been put on hold."
+msgstr "La commande a été bloquée."
+
+#: The order has been released from holding status.
+msgid "The order has been released from holding status."
+msgstr "La commande a été débloquée."
+
+#: The order has not been cancelled.
+msgid "The order has not been cancelled."
+msgstr "La commande n'a pas été annulé."
+
+#: The order was not put on hold.
+msgid "The order was not put on hold."
+msgstr "La commande n'a pas été débloquée."
+
+#: The order was not unheld.
+msgid "The order was not unheld."
+msgstr "La commande n'a pas été non tenu."
+
+#: The order was placed using %s
+msgid "The order was placed using %s"
+msgstr "La commande a été passée en %s"
+
+#: The order(s) cannot be canceled
+msgid "The order(s) cannot be canceled"
+msgstr "Commande(s) ne pouvant être annulée"
+
+#: The payment has been accepted.
+msgid "The payment has been accepted."
+msgstr "Le paiement a été accepté."
+
+#: The payment has been denied.
+msgid "The payment has been denied."
+msgstr "Le paiement a été refusé."
+
+#: The payment has been voided.
+msgid "The payment has been voided."
+msgstr "Le paiement a été annulé."
+
+#: The profile has been updated.
+msgid "The profile has been updated."
+msgstr "Le profil a été mis à jour."
+
+#: The profile has no changes.
+msgid "The profile has no changes."
+msgstr "Le profil n'a aucun changement."
+
+#: The profile state has been updated.
+msgid "The profile state has been updated."
+msgstr "L'état profil a été mis à jour."
+
+#: The requested Payment Method is not available.
+msgid "The requested Payment Method is not available."
+msgstr "La méthode demandée de paiement n'est pas disponible."
+
+#: The transaction \"%s\" (%s) is already closed.
+msgid "The transaction \"%s\" (%s) is already closed."
+msgstr "La transaction \"%s\" (%s) est déjà close."
+
+#: The transaction \"%s\" cannot be captured yet.
+msgid "The transaction \"%s\" cannot be captured yet."
+msgstr "La transaction \"%s\" ne peuvent être capturés pour le moment."
+
+#: There are no billing agreements yet.
+msgid "There are no billing agreements yet."
+msgstr "Il n'existe aucune entente de facturation pour le moment."
+
+#: There are no printable documents related to selected orders.
+msgid "There are no printable documents related to selected orders."
+msgstr "Il n'y a pas de documents imprimables en relation avec les commandes sélectionnées."
+
+#: There is no need to approve this payment.
+msgid "There is no need to approve this payment."
+msgstr "Il n'est pas nécessaire d'approuver ce paiement."
+
+#: There is no need to deny this payment.
+msgid "There is no need to deny this payment."
+msgstr "Il n'est pas nécessaire de refuser ce paiement."
+
+#: There is no update for the payment.
+msgid "There is no update for the payment."
+msgstr "Il n'ya pas de mise à jour pour le paiement."
+
+#: This message will be shown in shopping cart when subtotal after discount less than minimum amount.
+msgid "This message will be shown in shopping cart when subtotal after discount less than minimum amount."
+msgstr "Ce message sera affiché dans le panier quand le sous-total après remise sera inférieur au montant mini."
+
+#: This operation requires an existing transaction object.
+msgid "This operation requires an existing transaction object."
+msgstr "Cette opération nécessite l'existance d'une transaction."
+
+#: This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.
+msgid "This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed."
+msgstr "Cette commande contient des articles %s et ne peut donc pas être modifiée via l\\'interface d\\'administration. Si vous souhaitez l\\'éditer, les articles %s seront supprimés, la commande sera annulée et une nouvelle commande sera créée."
+
+#: This order no longer exists.
+msgid "This order no longer exists."
+msgstr "Cette commande n'existe plus."
+
+#: This profile state cannot be changed to \"%s\".
+msgid "This profile state cannot be changed to \"%s\"."
+msgstr "Cet état profil ne peut pas être modifié pour \"%s\"."
+
+#: This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you wish to proceed?
+msgid "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you wish to proceed?"
+msgstr "Cela créera une restitution en mode hors connexion. Pour créer une restitution en ligne, ouvrez une facture et de créer une note de crédit pour cela. Voulez-vous continuer ?"
+
+#: Tier Pricing
+msgid "Tier Pricing"
+msgstr "Tarification par palier"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: To
+msgid "To"
+msgstr "À"
+
+#: To Name
+msgid "To Name"
+msgstr "Pour (nom)"
+
+#: To:
+msgid "To:"
+msgstr "À :"
+
+#: Total
+msgid "Total"
+msgstr "Total"
+
+#: Total %d product(s)
+msgid "Total %d product(s)"
+msgstr "%d produit(s) au total"
+
+#: Total (ex)
+msgid "Total (ex)"
+msgstr "Total (HT)"
+
+#: Total (inc)
+msgid "Total (inc)"
+msgstr "Total (TTC)"
+
+#: Total Due
+msgid "Total Due"
+msgstr "Total dû"
+
+#: Total Invoiced
+msgid "Total Invoiced"
+msgstr "Total de la facture"
+
+#: Total Invoiced Paid
+msgid "Total Invoiced Paid"
+msgstr "Total facture payée"
+
+#: Total Invoiced VS Paid Report
+msgid "Total Invoiced VS Paid Report"
+msgstr "Rapport du facturé en fonction du payé"
+
+#: Total Invoiced not Paid
+msgid "Total Invoiced not Paid"
+msgstr "Total de la facture n'est pas payée"
+
+#: Total Ordered Report
+msgid "Total Ordered Report"
+msgstr "Rapport du total commandé"
+
+#: Total Paid
+msgid "Total Paid"
+msgstr "Total payé"
+
+#: Total Qty
+msgid "Total Qty"
+msgstr "Qté totale"
+
+#: Total Refund
+msgid "Total Refund"
+msgstr "Remboursement total"
+
+#: Total Refunded
+msgid "Total Refunded"
+msgstr "Total remboursé"
+
+#: Total Refunded Report
+msgid "Total Refunded Report"
+msgstr "Rapport des remboursements"
+
+#: Total Sales Shipping
+msgid "Total Sales Shipping"
+msgstr "Total des ventes d'expédition"
+
+#: Total Shipped Report
+msgid "Total Shipped Report"
+msgstr "Rapport des expéditions"
+
+#: Total Shipping
+msgid "Total Shipping"
+msgstr "Total expédition"
+
+#: Total Shipping Charges
+msgid "Total Shipping Charges"
+msgstr "Montant total de la livraison"
+
+#: Total Tax
+msgid "Total Tax"
+msgstr "TVA"
+
+#: Track Order
+msgid "Track Order"
+msgstr "Suivre la commande"
+
+#: Track all shipment(s)
+msgid "Track all shipment(s)"
+msgstr "Suivre toutes les livraisons"
+
+#: Track all shipments
+msgid "Track all shipments"
+msgstr "Suivre toutes les livraisons"
+
+#: Track this shipment
+msgid "Track this shipment"
+msgstr "Suivre cette livraison"
+
+#: Track your order
+msgid "Track your order"
+msgstr "Suivre votre commande"
+
+#: Tracking
+msgid "Tracking"
+msgstr "Suivi"
+
+#: Tracking Number
+msgid "Tracking Number"
+msgstr "Numéro de suivi"
+
+#: Tracking Number(s):
+msgid "Tracking Number(s):"
+msgstr "Numéro(s) de suivi :"
+
+#: Transaction \"%s\" was already processed.
+msgid "Transaction \"%s\" was already processed."
+msgstr "La transaction \"%s\" est déjà en cours"
+
+#: Transaction ID
+msgid "Transaction ID"
+msgstr "ID Transaction"
+
+#: Transaction ID must not be empty.
+msgid "Transaction ID must not be empty."
+msgstr "ID Transaction ne doit pas être vide."
+
+#: Transaction ID: \"%s\".
+msgid "Transaction ID: \"%s\"."
+msgstr "Référence de transaction : \"%s\"."
+
+#: Transaction Type
+msgid "Transaction Type"
+msgstr "Type de transaction"
+
+#: Transactions
+msgid "Transactions"
+msgstr "Transactions"
+
+#: Trial 
+msgid "Trial "
+msgstr "Essai  "
+
+#: Trial Payment
+msgid "Trial Payment"
+msgstr "Paiement d'essai"
+
+#: Trial Period
+msgid "Trial Period"
+msgstr "Période d'essai"
+
+#: Trial period payment
+msgid "Trial period payment"
+msgstr "Paiement de période d'essai"
+
+#: Unhold
+msgid "Unhold"
+msgstr "Débloquer"
+
+#: Unhold action is not available.
+msgid "Unhold action is not available."
+msgstr "L'action débloquer n'est pas disponible."
+
+#: Unhold order
+msgid "Unhold order"
+msgstr "Débloquer la commande"
+
+#: Unknown State
+msgid "Unknown State"
+msgstr "État inconnu"
+
+#: Unknown Status
+msgid "Unknown Status"
+msgstr "Statut inconnu"
+
+#: Unsupported transaction type \"%s\".
+msgid "Unsupported transaction type \"%s\"."
+msgstr "Type de transaction non pris en charge \"%s\"."
+
+#: Update Changes
+msgid "Update Changes"
+msgstr "Mettre à jour les modifications"
+
+#: Update Items and Qty\'s
+msgid "Update Items and Qty\'s"
+msgstr "Mettre à jour les articles et quantités"
+
+#: Update Qty's
+msgid "Update Qty's"
+msgstr "Mettre à jour les qtés"
+
+#: Updated At
+msgid "Updated At"
+msgstr "Mise à jour à"
+
+#: Updated:
+msgid "Updated:"
+msgstr "Modifié :"
+
+#: Use Aggregated Data (beta)
+msgid "Use Aggregated Data (beta)"
+msgstr "Utiliser les données cumulatives (beta)"
+
+#: Validate Each Address Separately in Multi-address Checkout
+msgid "Validate Each Address Separately in Multi-address Checkout"
+msgstr "Valider séparément les adresses lors de commandes multi-adresses"
+
+#: Value
+msgid "Value"
+msgstr "Valeur"
+
+#: View
+msgid "View"
+msgstr "Voir"
+
+#: View All
+msgid "View All"
+msgstr "Tout voir"
+
+#: View Order
+msgid "View Order"
+msgstr "Visualiser"
+
+#: Visible on Frontend
+msgid "Visible on Frontend"
+msgstr "Visible sur le site coté client"
+
+#: Void
+msgid "Void"
+msgstr "Invalider"
+
+#: Void invoice
+msgid "Void invoice"
+msgstr "Invalider la facture"
+
+#: Voided authorization.
+msgid "Voided authorization."
+msgstr "Autorisation refusée"
+
+#: Website
+msgid "Website"
+msgstr "Site web"
+
+#: Whether buyer can define the date when billing for the profile begins.
+msgid "Whether buyer can define the date when billing for the profile begins."
+msgstr "Si l'acheteur peut définir la date en facturant pour le profil a venir."
+
+#: Wishlist
+msgid "Wishlist"
+msgstr "Liste d'envies"
+
+#: Wrong billing agreement ID specified.
+msgid "Wrong billing agreement ID specified."
+msgstr "L'ID d'entente de facturation spécifié est incorrect."
+
+#: Wrong state: \"%s\".
+msgid "Wrong state: \"%s\"."
+msgstr "État incorrect : \"%s\"."
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: You have placed no orders.
+msgid "You have placed no orders."
+msgstr "Vous n'avez jamais commandé."
+
+#: You will be redirected to the payment system website.
+msgid "You will be redirected to the payment system website."
+msgstr "Vous allez être redirigé vers le site Web du système de paiement."
+
+#: Your credit card will be charged for
+msgid "Your credit card will be charged for"
+msgstr "Votre carte de crédit sera débitée de"
+
+#: ZIP/Post Code
+msgid "ZIP/Post Code"
+msgstr "ZIP/Code postal"
+
+#: Zip/Postal Code
+msgid "Zip/Postal Code"
+msgstr "Code postal"
+
+#: the credit memo email is not sent
+msgid "the credit memo email is not sent"
+msgstr "l'email n'a pas été envoyé"
+
+#: the credit memo email was sent
+msgid "the credit memo email was sent"
+msgstr "l'email a été envoyé"
+
+#: the invoice email is not sent
+msgid "the invoice email is not sent"
+msgstr "l'email n'a pas été envoyé"
+
+#: the invoice email was sent
+msgid "the invoice email was sent"
+msgstr "l'email a été envoyé"
+
+#: the order confirmation email is not sent
+msgid "the order confirmation email is not sent"
+msgstr "l'email de confirmation n'a pas été envoyé"
+
+#: the order confirmation email was sent
+msgid "the order confirmation email was sent"
+msgstr "l'email de confirmation a été envoyé"
+
+#: the shipment email is not sent
+msgid "the shipment email is not sent"
+msgstr "l'email d'expédition n'a pas été envoyé"
+
+#: the shipment email was sent
+msgid "the shipment email was sent"
+msgstr "l'email d'expédition a été envoyé"
+
+#: Recurring Profile
+msgid "Recurring Profile"
+msgstr "Profil récurrent"
+
+#: New Credit Memo for Order #%s
+msgid "New Credit Memo for Order #%s"
+msgstr "Nouvel avoir pour la facture n°%s"
+
+#: Fixed Product Tax
+msgid "Fixed Product Tax"
+msgstr "Taxe Fixe de Produit"
+
+#: Improves dashboard performance but provides non-realtime data.
+msgid "Improves dashboard performance but provides non-realtime data."
+msgstr "Améliore les performances du tableau de bord, mais ne fournit pas des données en temps réel."
+
+#: Customer's Current Activities
+msgid "Customer's Current Activities"
+msgstr "Activités en cours du client"
+
+#: Update Items and Qty's
+msgid "Update Items and Qty's"
+msgstr "Mettre à jour les articles et quantités"
+
+#: Additional Product Info
+msgid "Additional Product Info"
+msgstr "Complément d'information de produit"
+
+#: An error occurred while assigning order status. Status has not been assigned.
+msgid "An error occurred while assigning order status. Status has not been assigned."
+msgstr "Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné."
+
+#: An error occurred while saving order status. The status has not been added.
+msgid "An error occurred while saving order status. The status has not been added."
+msgstr "Erreur lors de la sauvegarde du statut de commande. Le statut n'a pas été ajouté."
+
+#: An error occurred while unassigning order status.
+msgid "An error occurred while unassigning order status."
+msgstr "Erreur lors de la désaffectation du statut de commande."
+
+#: An error occurred while updating the order address. The address has not been changed.
+msgid "An error occurred while updating the order address. The address has not been changed."
+msgstr "Erreur lors de la mise à jour de l'adresse de commande. L'adresse n'a pas été modifiée."
+
+#: Assign Order Status to State
+msgid "Assign Order Status to State"
+msgstr "Assigner un statut de commande à un état"
+
+#: Assign Status to State
+msgid "Assign Status to State"
+msgstr "Assigner un statut à un état"
+
+#: Assignment Information
+msgid "Assignment Information"
+msgstr "Information d'affectation"
+
+#: Changing address information will not recalculate shipping, tax or other order amount.
+msgid "Changing address information will not recalculate shipping, tax or other order amount."
+msgstr "Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montant de la commande."
+
+#: Configure
+msgid "Configure"
+msgstr "Configurer"
+
+#: Configure and Add to Order
+msgid "Configure and Add to Order"
+msgstr "Configurer et ajouter à la commande"
+
+#: Create New Order Status
+msgid "Create New Order Status"
+msgstr "Créer un nouveau statut de commande"
+
+#: Create New Status
+msgid "Create New Status"
+msgstr "Créer un statut"
+
+#: Default Status
+msgid "Default Status"
+msgstr "Statut par défaut"
+
+#: Edit Order %s %s Address
+msgid "Edit Order %s %s Address"
+msgstr "Éditer pour la commande n°%s l'adresse de %s"
+
+#: Edit Order %1$s %2$s Address
+msgid "Edit Order %1$s %2$s Address"
+msgstr "Éditer l'adresse de %2$s pour la commande n°%1$s "
+
+#: Edit Order Status
+msgid "Edit Order Status"
+msgstr "Éditer le statut de commande"
+
+#: Excel XML
+msgid "Excel XML"
+msgstr "XML d'Excel"
+
+#: Gift Options
+msgid "Gift Options"
+msgstr "Options cadeau"
+
+#: Last status can't be unassigned from state.
+msgid "Last status can't be unassigned from state."
+msgstr "Il n'est pas possible d'annuler l'assignation du dernier statut d'un état."
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Order Address Information
+msgid "Order Address Information"
+msgstr "Informations d'adresse de commande"
+
+#: Order State
+msgid "Order State"
+msgstr "État de commande"
+
+#: Order Status Information
+msgid "Order Status Information"
+msgstr "Informations du statut de commande"
+
+#: Order Statuses
+msgid "Order Statuses"
+msgstr "Statuts de commande"
+
+#: Order is suspended as its capture amount %s is suspected to be fraudulent.
+msgid "Order is suspended as its capture amount %s is suspected to be fraudulent."
+msgstr "La commande est suspendue car le montant de capture %s pourrait être frauduleux."
+
+#: Order status does not exist.
+msgid "Order status does not exist."
+msgstr "Le statut de commande n'existe pas."
+
+#: Order status with the same status code already exist.
+msgid "Order status with the same status code already exist."
+msgstr "Un statut de commande ayant le même code existe déjà."
+
+#: Ordered amount of %s.
+msgid "Ordered amount of %s."
+msgstr "Montant commandé de %s"
+
+#: Ordering amount of %s is pending approval on gateway.
+msgid "Ordering amount of %s is pending approval on gateway."
+msgstr "La capture d'un montant de %s est en attente d'approbation sur la passerelle."
+
+#: Quote item id is not received.
+msgid "Quote item id is not received."
+msgstr "L'identifiant de l'article de la commande n'a pas été reçu."
+
+#: Quote item is not loaded.
+msgid "Quote item is not loaded."
+msgstr "L'article n'est pas chargé."
+
+#: Save Order Address
+msgid "Save Order Address"
+msgstr "Enregistrer l'adresse de la commande"
+
+#: Save Status
+msgid "Save Status"
+msgstr "Enregistrer le statut"
+
+#: Save Status Assignment
+msgid "Save Status Assignment"
+msgstr "Enregistrer l'assignation du statut"
+
+#: Send Order Email
+msgid "Send Order Email"
+msgstr "Envoyer l'email de commande"
+
+#: Some of the products below do not have all the required options. Please edit them and configure all the required options.
+msgid "Some of the products below do not have all the required options. Please edit them and configure all the required options."
+msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires."
+
+#: State Code [State Title]
+msgid "State Code [State Title]"
+msgstr "Code de l'état [Titre de l'état]"
+
+#: Status Code
+msgid "Status Code"
+msgstr "Code du statut"
+
+#: Status Label
+msgid "Status Label"
+msgstr "Libellé du statut"
+
+#: Store View Specific Labels
+msgid "Store View Specific Labels"
+msgstr "Libellés spécifiques par vue magasin"
+
+#: Submit Invoice
+msgid "Submit Invoice"
+msgstr "Soumettre la facture"
+
+#: Submit Invoice and Shipment
+msgid "Submit Invoice and Shipment"
+msgstr "Soumettre la facture et l'expédition"
+
+#: The order address has been updated.
+msgid "The order address has been updated."
+msgstr "L'adresse de commande a été mise à  jour."
+
+#: The order status has been assigned.
+msgid "The order status has been assigned."
+msgstr "Le statut de commande a été assigné."
+
+#: The order status has been saved.
+msgid "The order status has been saved."
+msgstr "Le statut de commande a été enregistré."
+
+#: The order status has been unassigned.
+msgid "The order status has been unassigned."
+msgstr "Le statut de commande n'est plus assigné à l'état."
+
+#: This product does not have any configurable options.
+msgid "This product does not have any configurable options."
+msgstr "Ce produit n'a aucune option configurable."
+
+#: This product has not been configured.
+msgid "This product has not been configured."
+msgstr "Ce produit n'a pas été configuré."
+
+#: Trial
+msgid "Trial"
+msgstr "Essai "
+
+#: Unassign
+msgid "Unassign"
+msgstr "Annuler l'assignation"
+
+#: Use Order Status As Default
+msgid "Use Order Status As Default"
+msgstr "Utiliser ce statut comme valeur par défaut"
+
+#: Wrong quote item id to update configuration.
+msgid "Wrong quote item id to update configuration."
+msgstr "Mauvais id d'article de commande pour mettre à jour la configuration."
+
+#: You can leave a box blank if you don't wish to add a gift message for whole order
+msgid "You can leave a box blank if you don't wish to add a gift message for whole order"
+msgstr "Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette commande."
+
+#: Items to Invoice
+msgid "Items to Invoice"
+msgstr "Articles à facturer"
+
+#: Items to Invoice and Ship
+msgid "Items to Invoice and Ship"
+msgstr "Articles à facturer et expédier"
+

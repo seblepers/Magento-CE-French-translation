@@ -1,0 +1,300 @@
+#: in rows:
+msgid "in rows:"
+msgstr "dans les lignes :"
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract
+msgid "Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract"
+msgstr "L'adapter doit être une instance de Mage_ImportExport_Model_Import_Adapter_Abstract"
+
+#: Adapter type must be a non empty string
+msgid "Adapter type must be a non empty string"
+msgstr "Le type d'adapter ne doit pas être vide"
+
+#: Can not determine attribute filter type
+msgid "Can not determine attribute filter type"
+msgstr "Impossible de déterminer le type de filtre de l'attribut"
+
+#: Can not find required columns:
+msgid "Can not find required columns:"
+msgstr "Impossible de trouver les colonnes obligatoires :"
+
+#: Can not get autoincrement value
+msgid "Can not get autoincrement value"
+msgstr "Impossible de récupérer la valeur de l'auto incrément"
+
+#: Check Data
+msgid "Check Data"
+msgstr "Vérifier les données"
+
+#: Column names has duplicates
+msgid "Column names has duplicates"
+msgstr "Il y a des doublons parmi les noms de colonnes"
+
+#: Column names is empty or is not an array
+msgid "Column names is empty or is not an array"
+msgstr "La liste des noms de colonnes est vide ou n'est pas un tableau"
+
+#: Column names: \"%s\" are invalid
+msgid "Column names: \"%s\" are invalid"
+msgstr "Les noms de colonnes suivants sont invalides : \"%s\""
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Data is invalid or file is not uploaded
+msgid "Data is invalid or file is not uploaded"
+msgstr "Les données sont invalides ou le fichier n'a pas été uploadé"
+
+#: Destination directory is not writable
+msgid "Destination directory is not writable"
+msgstr "Le répertoire de destination n'a pas les droits en écriture"
+
+#: Destination file is not writable
+msgid "Destination file is not writable"
+msgstr "Le fichier de destination n'a pas les droits en écriture"
+
+#: Destination file path must be a string
+msgid "Destination file path must be a string"
+msgstr "Le chemin du fichier de destination doit être une chaîne de caractères"
+
+#: Entity Attributes
+msgid "Entity Attributes"
+msgstr "Attributs d'entité"
+
+#: Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract
+msgid "Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract"
+msgstr "L'objet adapter d'entité doit être une instance de Mage_ImportExport_Model_Import_Entity_Abstract"
+
+#: Entity is unknown
+msgid "Entity is unknown"
+msgstr "L'entité est inconnue"
+
+#: Entity type model must be an instance of Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract
+msgid "Entity type model must be an instance of Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract"
+msgstr "Le modèle du type d'entité doit être une instance de Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract"
+
+#: Entity type model must be an instance of Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract
+msgid "Entity type model must be an instance of Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract"
+msgstr "Le modèle du type d'entité doit être une instance de Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract"
+
+#: Error in data structure: behaviors are mixed
+msgid "Error in data structure: behaviors are mixed"
+msgstr "Erreur dans la structure des données : les comportements sont mélangés"
+
+#: Error in data structure: entity codes are mixed
+msgid "Error in data structure: entity codes are mixed"
+msgstr "Erreur dans la structure des données : les codes d'entités sont mélangés"
+
+#: Export
+msgid "Export"
+msgstr "Exporter"
+
+#: Export FAQ
+msgid "Export FAQ"
+msgstr "FAQ d'export"
+
+#: FAQ
+msgid "FAQ"
+msgstr "FAQ"
+
+#: File does not contain data. Please upload another one
+msgid "File does not contain data. Please upload another one"
+msgstr "Le fichier ne contient pas de données. Veuillez en uploader un autre."
+
+#: File format is unknown
+msgid "File format is unknown"
+msgstr "Le format de fichier n'est pas reconnu"
+
+#: File is partially valid, but import is not possible
+msgid "File is partially valid, but import is not possible"
+msgstr "Le fichier est partiellement valide, mais l'import est impossible."
+
+#: File is totally invalid. Please fix errors and re-upload file
+msgid "File is totally invalid. Please fix errors and re-upload file"
+msgstr "Le fichier est complètement invalide. Corrigez les erreurs et uploadez à nouveau le fichier"
+
+#: File is valid! To start import process press \"Import\" button
+msgid "File is valid! To start import process press \"Import\" button"
+msgstr "Le fichier est valide. Cliquez sur le bouton \"Importer\" pour démarrer le processus d'import."
+
+#: File is valid, but import is not possible
+msgid "File is valid, but import is not possible"
+msgstr "Le fichier est valide, mais l'import est impossible."
+
+#: Header column names already set
+msgid "Header column names already set"
+msgstr "L'en-tête des noms de colonnes a déjà été défini"
+
+#: Import
+msgid "Import"
+msgstr "Importer"
+
+#: Import / Export FAQ (Frequently Asked Questions)
+msgid "Import / Export FAQ (Frequently Asked Questions)"
+msgstr "Import / export de FAQ (Foire aux questions)"
+
+#: Import FAQ
+msgid "Import FAQ"
+msgstr "Importer la FAQ"
+
+#: Import successfully done.
+msgid "Import successfully done."
+msgstr "Import terminé avec succès."
+
+#: Import/Export
+msgid "Import/Export"
+msgstr "Importer/Exporter"
+
+#: In/Out
+msgid "In/Out"
+msgstr "Entrée / sortie"
+
+#: Input entity code is not equal to entity adapter code
+msgid "Input entity code is not equal to entity adapter code"
+msgstr "Le code d'entité d'entrée est différent du code d'adapter d'entité"
+
+#: Invalid entity
+msgid "Invalid entity"
+msgstr "Entité invalide"
+
+#: Invalid file format
+msgid "Invalid file format"
+msgstr "Format de fichier invalide"
+
+#: Invalid parameters
+msgid "Invalid parameters"
+msgstr "Paramètres invalides"
+
+#: Invalid seek position
+msgid "Invalid seek position"
+msgstr "Position de recherche invalide"
+
+#: Invalid value for '%s'
+msgid "Invalid value for '%s'"
+msgstr "Valeur incorrecte pour '%s'"
+
+#: No filter data provided
+msgid "No filter data provided"
+msgstr "Aucune donnée de filtre fournie"
+
+#: No source specified
+msgid "No source specified"
+msgstr "Aucune source spécifiée"
+
+#: No valid data sent
+msgid "No valid data sent"
+msgstr "Aucune donnée valide envoyée"
+
+#: No writer specified
+msgid "No writer specified"
+msgstr "Aucun writer spécifié"
+
+#: Node does not has model token tag
+msgid "Node does not has model token tag"
+msgstr "Le nœud n'a pas d'attribut modèle"
+
+#: Not implemented yet
+msgid "Not implemented yet"
+msgstr "Pas encore implémenté"
+
+#: Please fix errors and re-upload file
+msgid "Please fix errors and re-upload file"
+msgstr "Veuillez corriger les erreurs et uploadez de nouveau le fichier"
+
+#: Please fix errors and re-upload file or simply press \"Import\" button to skip rows with errors
+msgid "Please fix errors and re-upload file or simply press \"Import\" button to skip rows with errors"
+msgstr "Veuillez corriger les erreurs et uploadez de nouveau le fichier ou cliquez simplement sur le bouton \"Importer\" pour ignorer les lignes comportant des erreurs"
+
+#: Some other FAQ
+msgid "Some other FAQ"
+msgstr "Autre FAQ"
+
+#: Source file moving failed
+msgid "Source file moving failed"
+msgstr "Erreur lors du déplacement du fichier source"
+
+#: Source file path must be a string
+msgid "Source file path must be a string"
+msgstr "Le chemin du fichier source doit être une chaîne de caractères"
+
+#: Source is not set
+msgid "Source is not set"
+msgstr "La source n'est pas définie"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: System busy
+msgid "System busy"
+msgstr "Le système est occupé"
+
+#: There are no product types available for export
+msgid "There are no product types available for export"
+msgstr "Aucun type de produit disponible pour l'export"
+
+#: Total size of uploadable files must not exceed %s
+msgid "Total size of uploadable files must not exceed %s"
+msgstr "La taille totale des fichiers téléchargeables ne doit pas excéder %s"
+
+#: Uploaded file has no extension
+msgid "Uploaded file has no extension"
+msgstr "Le fichier uploadé n'a pas d'extension"
+
+#: Validation Results
+msgid "Validation Results"
+msgstr "Résultat de validation"
+
+#: Import Settings
+msgid "Import Settings"
+msgstr "Paramètres d'import"
+
+#: Import Behavior
+msgid "Import Behavior"
+msgstr "Comportement d'import"
+
+#: Append Complex Data
+msgid "Append Complex Data"
+msgstr "Ajouter des données complexes"
+
+#: Replace Existing Complex Data
+msgid "Replace Existing Complex Data"
+msgstr "Remplacer les données complexes existantes"
+
+#: Delete Entities
+msgid "Delete Entities"
+msgstr "Effacer les entités"
+
+#: Select File to Import
+msgid "Select File to Import"
+msgstr "Sélectionner le fichier à importer"
+
+#: Skip
+msgid "Skip"
+msgstr "Ignorer"
+
+#: Export Settings
+msgid "Export Settings"
+msgstr "Paramètres d'export"
+
+#: Export File Format
+msgid "Export File Format"
+msgstr "Format du fichier d'export"
+
+#: 
+msgid ""
+
+#: 
+msgid ""
+
+#: 
+msgid ""
+
+#: 
+msgid ""
+

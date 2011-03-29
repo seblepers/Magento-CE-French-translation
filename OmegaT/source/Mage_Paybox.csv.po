@@ -1,0 +1,424 @@
+#: --Please Select--
+msgid "--Please Select--"
+msgstr ""
+
+#: AMEX
+msgid "AMEX"
+msgstr ""
+
+#: AURORE
+msgid "AURORE"
+msgstr ""
+
+#: Activated Key
+msgid "Activated Key"
+msgstr ""
+
+#: Amount does not match.
+msgid "Amount does not match."
+msgstr ""
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr ""
+
+#: Authorization
+msgid "Authorization"
+msgstr ""
+
+#: CARTE
+msgid "CARTE"
+msgstr ""
+
+#: CB
+msgid "CB"
+msgstr ""
+
+#: Cannot create the invoice.
+msgid "Cannot create the invoice."
+msgstr ""
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr ""
+
+#: Cart Type
+msgid "Cart Type"
+msgstr ""
+
+#: Click <a href=\"%s\">here</a> to continue shopping.
+msgid "Click <a href=\"%s\">here</a> to continue shopping."
+msgstr ""
+
+#: Command Line Mode
+msgid "Command Line Mode"
+msgstr ""
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr ""
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr ""
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr ""
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr ""
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr ""
+
+#: Customer Choise
+msgid "Customer Choise"
+msgstr ""
+
+#: DEU (German)
+msgid "DEU (German)"
+msgstr ""
+
+#: DINERS
+msgid "DINERS"
+msgstr ""
+
+#: Debug Flag
+msgid "Debug Flag"
+msgstr ""
+
+#: Delay in Displaying the Intermediary Page (in msec)
+msgid "Delay in Displaying the Intermediary Page (in msec)"
+msgstr ""
+
+#: E CARD
+msgid "E CARD"
+msgstr ""
+
+#: ESP (Spanish)
+msgid "ESP (Spanish)"
+msgstr ""
+
+#: EUROCARD & MASTERCARD
+msgid "EUROCARD & MASTERCARD"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Error in refunding the payment
+msgid "Error in refunding the payment"
+msgstr ""
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr ""
+
+#: FRA (French)
+msgid "FRA (French)"
+msgstr ""
+
+#: GBR (English)
+msgid "GBR (English)"
+msgstr ""
+
+#: GET
+msgid "GET"
+msgstr ""
+
+#: HTML Form
+msgid "HTML Form"
+msgstr ""
+
+#: ITA (Italian)
+msgid "ITA (Italian)"
+msgstr ""
+
+#: JCB
+msgid "JCB"
+msgstr ""
+
+#: Language of the Payment Page
+msgid "Language of the Payment Page"
+msgstr ""
+
+#: Management Mode of the Intermediary Page
+msgid "Management Mode of the Intermediary Page"
+msgstr ""
+
+#: Mode A
+msgid "Mode A"
+msgstr ""
+
+#: Mode B
+msgid "Mode B"
+msgstr ""
+
+#: Mode C
+msgid "Mode C"
+msgstr ""
+
+#: Mode D
+msgid "Mode D"
+msgstr ""
+
+#: Mode E
+msgid "Mode E"
+msgstr ""
+
+#: Mode of Retrieval of Information
+msgid "Mode of Retrieval of Information"
+msgstr ""
+
+#: NLD (Dutch)
+msgid "NLD (Dutch)"
+msgstr ""
+
+#: Name of the Button on the Intermediary Page
+msgid "Name of the Button on the Intermediary Page"
+msgstr ""
+
+#: Name on Card
+msgid "Name on Card"
+msgstr ""
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Only if the \"HTML From\" mode selected.
+msgid "Only if the \"HTML From\" mode selected."
+msgstr ""
+
+#: Only with \"Command Line\" mode.
+msgid "Only with \"Command Line\" mode."
+msgstr ""
+
+#: Order does not match.
+msgid "Order does not match."
+msgstr ""
+
+#: PAYBOX Identifier
+msgid "PAYBOX Identifier"
+msgstr ""
+
+#: PAYNOVA
+msgid "PAYNOVA"
+msgstr ""
+
+#: PAYPAL
+msgid "PAYPAL"
+msgstr ""
+
+#: POST
+msgid "POST"
+msgstr ""
+
+#: Paybox CGI File
+msgid "Paybox CGI File"
+msgstr ""
+
+#: Paybox Direct
+msgid "Paybox Direct"
+msgstr ""
+
+#: Paybox System
+msgid "Paybox System"
+msgstr ""
+
+#: Paybox payment gateway is not available right now
+msgid "Paybox payment gateway is not available right now"
+msgstr ""
+
+#: Payment
+msgid "Payment"
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment Type
+msgid "Payment Type"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Ping Flag
+msgid "Ping Flag"
+msgstr ""
+
+#: Please Select
+msgid "Please Select"
+msgstr ""
+
+#: Rank Number
+msgid "Rank Number"
+msgstr ""
+
+#: SWE (Swedish)
+msgid "SWE (Swedish)"
+msgstr ""
+
+#: SYMPASS
+msgid "SYMPASS"
+msgstr ""
+
+#: Screen Background of the Intermediary Page
+msgid "Screen Background of the Intermediary Page"
+msgstr ""
+
+#: Site Number (TPE)
+msgid "Site Number (TPE)"
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Specify the URL of the primary backup payment server if different from default.
+msgid "Specify the URL of the primary backup payment server if different from default."
+msgstr ""
+
+#: Specify the URL of the primary payment server if different from default.
+msgid "Specify the URL of the primary payment server if different from default."
+msgstr ""
+
+#: Specify the URL of the second backup payment server if different from default.
+msgid "Specify the URL of the second backup payment server if different from default."
+msgstr ""
+
+#: Specify the URL of the third backup payment server if different from default.
+msgid "Specify the URL of the third backup payment server if different from default."
+msgstr ""
+
+#: TCP Port
+msgid "TCP Port"
+msgstr ""
+
+#: TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443).
+msgid "TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443)."
+msgstr ""
+
+#: TERMINEO
+msgid "TERMINEO"
+msgstr ""
+
+#: Text on the Intermediary Page
+msgid "Text on the Intermediary Page"
+msgstr ""
+
+#: The URL of the Backup Payment Server
+msgid "The URL of the Backup Payment Server"
+msgstr ""
+
+#: The URL of the Primary Backup Payment Server
+msgid "The URL of the Primary Backup Payment Server"
+msgstr ""
+
+#: The URL of the Primary Payment Server
+msgid "The URL of the Primary Payment Server"
+msgstr ""
+
+#: The URL of the Second Backup Payment Server
+msgid "The URL of the Second Backup Payment Server"
+msgstr ""
+
+#: The URL of the Third Backup Payment Server
+msgid "The URL of the Third Backup Payment Server"
+msgstr ""
+
+#: The customer has returned from Paybox.
+msgid "The customer has returned from Paybox."
+msgstr ""
+
+#: The customer was redirected to Paybox
+msgid "The customer was redirected to Paybox"
+msgstr ""
+
+#: The customer was redirected to Paybox using 'command line' mode.
+msgid "The customer was redirected to Paybox using 'command line' mode."
+msgstr ""
+
+#: The customer was refused by Paybox.
+msgid "The customer was refused by Paybox."
+msgstr ""
+
+#: The customer was rejected by Paybox.
+msgid "The customer was rejected by Paybox."
+msgstr ""
+
+#: The invoice has been created.
+msgid "The invoice has been created."
+msgstr ""
+
+#: The order was canceled by the customer.
+msgid "The order was canceled by the customer."
+msgstr ""
+
+#: There are no orders.
+msgid "There are no orders."
+msgstr ""
+
+#: There has been an error processing your payment.
+msgid "There has been an error processing your payment."
+msgstr ""
+
+#: There has been an error processing your payment. Please try later or contact us for help.
+msgid "There has been an error processing your payment. Please try later or contact us for help."
+msgstr ""
+
+#: Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds)."
+msgstr ""
+
+#: Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds)."
+msgstr ""
+
+#: Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds)."
+msgstr ""
+
+#: Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds)."
+msgstr ""
+
+#: Timeout for Checking
+msgid "Timeout for Checking"
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: VISA
+msgid "VISA"
+msgstr ""
+
+#: What is this?
+msgid "What is this?"
+msgstr ""
+
+#: You will be redirected to Paybox in a few seconds.
+msgid "You will be redirected to Paybox in a few seconds."
+msgstr ""
+
+#: You will be redirected to the Paybox website when you place an order.
+msgid "You will be redirected to the Paybox website when you place an order."
+msgstr ""
+

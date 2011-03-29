@@ -1,0 +1,108 @@
+#: Account Number
+msgid "Account Number"
+msgstr "Numéro de compte"
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr "Numéro de vérification"
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr "Type de carte de crédit"
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr "<strong>Type de carte de paiement :</strong> <span class=\"nowrap\">%s</span>"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr "Vérification de carte de paiement"
+
+#: Debug Flag
+msgid "Debug Flag"
+msgstr "Indicateur de débug"
+
+#: Demo Mode
+msgid "Demo Mode"
+msgstr "Mode démo"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: Flo2Cash Payment Web Service
+msgid "Flo2Cash Payment Web Service"
+msgstr "Service web de paiement Flo2Cash"
+
+#: For \"Authorize\" or \"Capture\" transactions only.
+msgid "For \"Authorize\" or \"Capture\" transactions only."
+msgstr "Pour les transactions de capture ou d'autorisations uniquement."
+
+#: For \"Purchase\" transactions only.
+msgid "For \"Purchase\" transactions only."
+msgstr "Pour les transactions d'achat uniquement."
+
+#: Name on Card
+msgid "Name on Card"
+msgstr "Propriétaire de la carte"
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr "<strong>Nom sur la carte :</strong> <span class=\"nowrap\">%s</span>"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Please Select
+msgid "Please Select"
+msgstr "Veuillez sélectionner"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Username
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: What is this?
+msgid "What is this?"
+msgstr "Aide ?"
+

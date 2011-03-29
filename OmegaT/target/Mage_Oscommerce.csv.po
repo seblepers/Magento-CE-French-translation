@@ -1,0 +1,524 @@
+#: %s Store
+msgid "%s Store"
+msgstr "Boutique %s"
+
+#: About Your Order
+msgid "About Your Order"
+msgstr "À propos de votre commande"
+
+#: Account Information
+msgid "Account Information"
+msgstr "Informations du compte"
+
+#: Adapter Name
+msgid "Adapter Name"
+msgstr "Nom de l'adapter"
+
+#: Arabic
+msgid "Arabic"
+msgstr "Arabique"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Back to My Orders
+msgid "Back to My Orders"
+msgstr "Retour à mes commandes"
+
+#: Baltic
+msgid "Baltic"
+msgstr "Baltique"
+
+#: Billing Address
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+#: Billing to Name
+msgid "Billing to Name"
+msgstr "Nom (fact.)"
+
+#: Categories
+msgid "Categories"
+msgstr "Catégories"
+
+#: Category %s cannot be saved because of %s.
+msgid "Category %s cannot be saved because of %s."
+msgstr "La catégorie %s ne peut pas être sauvegardée à cause de %s"
+
+#: Central European
+msgid "Central European"
+msgstr "Europe centrale"
+
+#: Check Requirements
+msgid "Check Requirements"
+msgstr "Vérifier les pré-requis"
+
+#: Comments History
+msgid "Comments History"
+msgstr "Historique de commentaires"
+
+#: Create under default website
+msgid "Create under default website"
+msgstr "Créer sous le site web par défaut"
+
+#: Created At
+msgid "Created At"
+msgstr "Créé le"
+
+#: Currency
+msgid "Currency"
+msgstr "Devise"
+
+#: Customer Name
+msgid "Customer Name"
+msgstr "Nom du client"
+
+#: Customers
+msgid "Customers"
+msgstr "Clients"
+
+#: Cyrillic
+msgid "Cyrillic"
+msgstr "Cyrillique"
+
+#: DB Name
+msgid "DB Name"
+msgstr "Nom de la base de données"
+
+#: DB Password
+msgid "DB Password"
+msgstr "Mot de passe de la base de données"
+
+#: DB Username
+msgid "DB Username"
+msgstr "Nom d'utilisateur de la base de données"
+
+#: Database Connection Charset
+msgid "Database Connection Charset"
+msgstr "Jeu de caractères de la connection de base de données"
+
+#: Database Data Charset
+msgid "Database Data Charset"
+msgstr "Jeu de caractères des données"
+
+#: Date
+msgid "Date"
+msgstr "Date"
+
+#: Delete Profile
+msgid "Delete Profile"
+msgstr "Effacer le profil"
+
+#: Delivery Address
+msgid "Delivery Address"
+msgstr "Adresse de livraison"
+
+#: East Asian
+msgid "East Asian"
+msgstr "Asie orientale"
+
+#: Edit osCommerce Profile
+msgid "Edit osCommerce Profile"
+msgstr "Éditer le profil osCommerce"
+
+#: Edit osCommerce Profile :: %s
+msgid "Edit osCommerce Profile :: %s"
+msgstr "Éditer le profil osCommerce : %s"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Email %s cannot be saved because of %s.
+msgid "Email %s cannot be saved because of %s."
+msgstr "L'email %s ne peut pas être sauvegardée à cause de %s"
+
+#: Error for checking store locale!
+msgid "Error for checking store locale!"
+msgstr "Erreur lors de la vérificatio de la locale de la boutique."
+
+#: Final Price
+msgid "Final Price"
+msgstr "Prix final"
+
+#: Finished profile execution.
+msgid "Finished profile execution."
+msgstr "Exécution du profil terminée."
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: Greek
+msgid "Greek"
+msgstr "Grec"
+
+#: Hebrew
+msgid "Hebrew"
+msgstr "Hébreu"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: IP or Hostname
+msgid "IP or Hostname"
+msgstr "IP ou nom d'hôte"
+
+#: Import Options
+msgid "Import Options"
+msgstr "Options d'import"
+
+#: Import and Export
+msgid "Import and Export"
+msgstr "Importer et exporter"
+
+#: Importing...
+msgid "Importing..."
+msgstr "Import en cours..."
+
+#: Items Ordered
+msgid "Items Ordered"
+msgstr "Articles commandés"
+
+#: Japanese
+msgid "Japanese"
+msgstr "Japonais"
+
+#: Korean
+msgid "Korean"
+msgstr "Coréen"
+
+#: Languages table error
+msgid "Languages table error"
+msgstr "Erreur de la table de langues"
+
+#: Locale Selection
+msgid "Locale Selection"
+msgstr "Sélection de locale"
+
+#: My Previous Orders
+msgid "My Previous Orders"
+msgstr "Mes commandes précédentes"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: Need to check Customers for Orders
+msgid "Need to check Customers for Orders"
+msgstr "Nécessité de vérifier les clients pour les commandes"
+
+#: New Profile
+msgid "New Profile"
+msgstr "Nouveau profil"
+
+#: New osCommerce Profile
+msgid "New osCommerce Profile"
+msgstr "Nouveau profil osCommerce"
+
+#: No osCommerce profile
+msgid "No osCommerce profile"
+msgstr "Pas de profil osCommerce"
+
+#: No osCommerce profile loaded...
+msgid "No osCommerce profile loaded..."
+msgstr "Aucun profil osCommerce chargé..."
+
+#: Notice: Please place all images under MAGENTO_ROOT/media/import/ with writable permission to all files including sub folders.
+msgid "Notice: Please place all images under MAGENTO_ROOT/media/import/ with writable permission to all files including sub folders."
+msgstr "Remarque : Veuillez placer les images sous REPERTOIRE_MAGENTO/media/import en donnant les droits d'écriture à tous les fichiers et les sous-répertoires."
+
+#: Order
+msgid "Order"
+msgstr "Commande"
+
+#: Order #
+msgid "Order #"
+msgstr "Commande n°"
+
+#: Order # %s
+msgid "Order # %s"
+msgstr "Commande n°%s"
+
+#: Order #%s failed to import because the customer ID #%s associated with this order could not be found.
+msgid "Order #%s failed to import because the customer ID #%s associated with this order could not be found."
+msgstr "La commande n°%s a échoué à l'import parce que l'identifiant de client %s associé à cette commande n'a pas été trouvé."
+
+#: Order Date
+msgid "Order Date"
+msgstr "Date de commande"
+
+#: Order Date:
+msgid "Order Date:"
+msgstr "Date de commande :"
+
+#: Order Status
+msgid "Order Status"
+msgstr "Statut"
+
+#: Order Total
+msgid "Order Total"
+msgstr "Total de la commande"
+
+#: Order Totals
+msgid "Order Totals"
+msgstr "Totaux commande"
+
+#: Orders
+msgid "Orders"
+msgstr "Commandes"
+
+#: Payment Information
+msgid "Payment Information"
+msgstr "Informations de paiement"
+
+#: Please check at least an option in Import Options\n
+msgid "Please check at least an option in Import Options\n"
+msgstr "Veuillez choisir au moins une option dans les options d'import\n"
+
+#: Please check default website or input website code in General Information\n
+msgid "Please check default website or input website code in General Information\n"
+msgstr "Veuillez choisir le site web par défaut ou le code du site web dans Informations générales\n"
+
+#: Please select a timezone\n
+msgid "Please select a timezone\n"
+msgstr "Choisissez un fuseau horaire\n"
+
+#: Port (Default as 3306)
+msgid "Port (Default as 3306)"
+msgstr "Port (3306 par défaut)"
+
+#: Prefix
+msgid "Prefix"
+msgstr "Préfixe"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Product
+msgid "Product"
+msgstr "Produit"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Purchased Date
+msgid "Purchased Date"
+msgstr "Date de commande"
+
+#: Purchased Month
+msgid "Purchased Month"
+msgstr "Mois de la commande"
+
+#: Purchased Year
+msgid "Purchased Year"
+msgstr "Année de la commande"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Qty Ordered
+msgid "Qty Ordered"
+msgstr "Qté commandée"
+
+#: Root Category for %s
+msgid "Root Category for %s"
+msgstr "Catégorie racine pour %s"
+
+#: Run Profile
+msgid "Run Profile"
+msgstr "Lancer le profil"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: SKU %s cannot be saved because of %s.
+msgid "SKU %s cannot be saved because of %s."
+msgstr "Le SKU %s ne peut pas être sauvegardée à cause de %s"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Save Profile
+msgid "Save Profile"
+msgstr "Sauvegarder le profil"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Select a Connection Charset
+msgid "Select a Connection Charset"
+msgstr "Choisissez un jeu de caractères de connection"
+
+#: Select a Data Charset
+msgid "Select a Data Charset"
+msgstr "Choisissez un jeu de caractères de données"
+
+#: Select a timezone
+msgid "Select a timezone"
+msgstr "Choisissez un fuseau horaire"
+
+#: Select a website
+msgid "Select a website"
+msgstr "Choisissez un site web"
+
+#: Send Subscription Notification to Customers
+msgid "Send Subscription Notification to Customers"
+msgstr "Envoyer les notification d'inscription aux clients"
+
+#: Ship To
+msgid "Ship To"
+msgstr "Livré à"
+
+#: Ship to Name
+msgid "Ship to Name"
+msgstr "Nom (Livr.)"
+
+#: Shipping & Handling Information
+msgid "Shipping & Handling Information"
+msgstr "Informations de livraison et de traitement"
+
+#: Shipping Address
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+#: Shipping Method
+msgid "Shipping Method"
+msgstr "Mode de livraison"
+
+#: Simplified Chinese
+msgid "Simplified Chinese"
+msgstr "Chinois simplifié"
+
+#: South Asian
+msgid "South Asian"
+msgstr "Asie du sud"
+
+#: Start Running
+msgid "Start Running"
+msgstr "Démarrer"
+
+#: Starting profile execution, please wait...
+msgid "Starting profile execution, please wait..."
+msgstr "Démarrage de l'exécution du profil, veuillez patienter..."
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: Thai
+msgid "Thai"
+msgstr "Thaï"
+
+#: The data has been imported.
+msgid "The data has been imported."
+msgstr "Les données ont été importées."
+
+#: The osCommerce profile has been deleted.
+msgid "The osCommerce profile has been deleted."
+msgstr "Le profil osCommerce a été supprimé."
+
+#: The osCommerce profile has been saved.
+msgid "The osCommerce profile has been saved."
+msgstr "Le profil osCommerce a été enregistré."
+
+#: This order no longer exists.
+msgid "This order no longer exists."
+msgstr "Cette commande n'existe plus."
+
+#: Timezone
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#: To import orders, Magento requires that customers also be imported.
+msgid "To import orders, Magento requires that customers also be imported."
+msgstr "Pour importer des commandes, il est nécessaire d'importer les clients."
+
+#: Total imported <strong>%s</strong> records (%s)
+msgid "Total imported <strong>%s</strong> records (%s)"
+msgstr "<strong>%s</strong> enregistrements (%s) importés au total"
+
+#: Traditional Chinese
+msgid "Traditional Chinese"
+msgstr "Chinois traditionnel"
+
+#: Unicode
+msgid "Unicode"
+msgstr "Unicode"
+
+#: Updated At
+msgid "Updated At"
+msgstr "Mise à jour à"
+
+#: View #%s
+msgid "View #%s"
+msgstr "Voir n°%s"
+
+#: View Order
+msgid "View Order"
+msgstr "Visualiser"
+
+#: Warning: Please do not close window during importing/exporting data.
+msgid "Warning: Please do not close window during importing/exporting data."
+msgstr "Attention : ne fermez pas la fenêtre pendant l'import/export de données."
+
+#: Website Code
+msgid "Website Code"
+msgstr "Code du site web"
+
+#: Western
+msgid "Western"
+msgstr "Occidental"
+
+#: osCommerce
+msgid "osCommerce"
+msgstr "osCommerce"
+
+#: osCommerce Orders
+msgid "osCommerce Orders"
+msgstr "Commandes osCommerce"
+
+#: osCommerce Profile
+msgid "osCommerce Profile"
+msgstr "Profil osCommerce"
+
+#: osCommerce Profiles
+msgid "osCommerce Profiles"
+msgstr "Profils osCommerce"
+
+#: records
+msgid "records"
+msgstr "enregistrements"
+
+#: Page
+msgid "Page"
+msgstr "Page"
+
+#: Billing to Name
+msgid "Billing to Name"
+msgstr "Nom (fact.)"
+
+#: Purchased Year
+msgid "Purchased Year"
+msgstr "Année de la commande"
+
+#: processed <strong>%s%% %s/%s</strong> records
+msgid "processed <strong>%s%% %s/%s</strong> records"
+msgstr "<strong>%s%% %s/%d</strong> enregistrements traités"
+

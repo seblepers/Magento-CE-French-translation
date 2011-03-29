@@ -1,0 +1,308 @@
+#: Add New Row
+msgid "Add New Row"
+msgstr "Ajouter une ligne"
+
+#: Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.
+msgid "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'."
+msgstr "Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par \\'_\\'."
+
+#: An error occurred while getting requested content. Please contact the store owner.
+msgid "An error occurred while getting requested content. Please contact the store owner."
+msgstr "Erreur lors de la récupération du contenu demandé. Contactez le service client."
+
+#: An error occurred while getting the requested content.
+msgid "An error occurred while getting the requested content."
+msgstr "Erreur lors de la récupération du contenu demandé."
+
+#: An error occurred while getting the requested content. Please contact the store owner.
+msgid "An error occurred while getting the requested content. Please contact the store owner."
+msgstr "Erreur lors de la récupération du contenu demandé. Contactez le service client."
+
+#: An error occurred while saving the file(s).
+msgid "An error occurred while saving the file(s)."
+msgstr "Une erreur est survenue pendant l\\'enregistrement des fichiers."
+
+#: Availability:
+msgid "Availability:"
+msgstr "Disponibilité :"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Canceled
+msgid "Canceled"
+msgstr "Annulée"
+
+#: Cannot connect to remote host, error: %s.
+msgid "Cannot connect to remote host, error: %s."
+msgstr "Impossible de se connecter à l'hôte distant. Erreur : %s."
+
+#: Catalog Product View (Downloadable)
+msgid "Catalog Product View (Downloadable)"
+msgstr "Vue du produit (téléchargeable)"
+
+#: Customer My Account Downloadable Items
+msgid "Customer My Account Downloadable Items"
+msgstr "Téléchargements dans le compte client"
+
+#: Date
+msgid "Date"
+msgstr "Date"
+
+#: Default Link Title
+msgid "Default Link Title"
+msgstr "Titre de lien par défaut"
+
+#: Default Maximum Number of Downloads
+msgid "Default Maximum Number of Downloads"
+msgstr "Nombre maximum de téléchargements par défaut"
+
+#: Default Sample Title
+msgid "Default Sample Title"
+msgstr "Titre de l'exemple par défaut"
+
+#: Disable Guest Checkout if Cart Contains Downloadable Items
+msgid "Disable Guest Checkout if Cart Contains Downloadable Items"
+msgstr "Désactiver le passage de commande en tant qu'invité si le panier contient des produits téléchargeables"
+
+#: Downloadable Information
+msgid "Downloadable Information"
+msgstr "Informations téléchargements"
+
+#: Downloadable Product
+msgid "Downloadable Product"
+msgstr "Produit téléchargeable"
+
+#: Downloadable Product Options
+msgid "Downloadable Product Options"
+msgstr "Options du produit téléchargeable"
+
+#: Downloadable product Section
+msgid "Downloadable product Section"
+msgstr "Section du produit téléchargeable"
+
+#: Excl. Tax
+msgid "Excl. Tax"
+msgstr "HT"
+
+#: File
+msgid "File"
+msgstr "Fichier"
+
+#: From:
+msgid "From:"
+msgstr "De :"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: Go to <a href=\"%s\">My Downloadable Products</a>
+msgid "Go to <a href=\"%s\">My Downloadable Products</a>"
+msgstr "Aller à <a href=\"%s\">Mes produits téléchargeables</a>"
+
+#: Guest checkout will only work with shareable.
+msgid "Guest checkout will only work with shareable."
+msgstr "Le passage de commande en tant qu'invité ne fonctionnera qu'avec les partageables."
+
+#: In stock
+msgid "In stock"
+msgstr "En stock"
+
+#: Incl. Tax
+msgid "Incl. Tax"
+msgstr "TTC"
+
+#: Invalid download URL host.
+msgid "Invalid download URL host."
+msgstr "L'hôte de l'URL de téléchargement est invalide."
+
+#: Invalid download URL scheme.
+msgid "Invalid download URL scheme."
+msgstr "Le schéma de l'URL de téléchargement est invalide."
+
+#: Invalid download link type.
+msgid "Invalid download link type."
+msgstr "Le type de lien de téléchargement est invalide."
+
+#: Invoiced
+msgid "Invoiced"
+msgstr "Facturé"
+
+#: Links can be purchased separately
+msgid "Links can be purchased separately"
+msgstr "Les liens peuvent être achetés séparément"
+
+#: Max. Downloads
+msgid "Max. Downloads"
+msgstr "Téléchargements max."
+
+#: Message:
+msgid "Message:"
+msgstr "Message :"
+
+#: Move to Wishlist
+msgid "Move to Wishlist"
+msgstr "Ajouter à la <br/>liste d'envies"
+
+#: My Downloadable Products
+msgid "My Downloadable Products"
+msgstr "Mes produits téléchargeables"
+
+#: Open Links in New Window
+msgid "Open Links in New Window"
+msgstr "Ouvrir les liens dans une nouvelle fenêtre"
+
+#: Order #
+msgid "Order #"
+msgstr "Commande n°"
+
+#: Order # 
+msgid "Order # "
+msgstr "Commande n° "
+
+#: Order Item Status to Enable Downloads
+msgid "Order Item Status to Enable Downloads"
+msgstr "Statut du produit commandé pour activer le téléchargement"
+
+#: Ordered
+msgid "Ordered"
+msgstr "Commandé"
+
+#: Out of stock
+msgid "Out of stock"
+msgstr "Épuisé"
+
+#: Pending
+msgid "Pending"
+msgstr "En attente"
+
+#: Please log in to download your product.
+msgid "Please log in to download your product."
+msgstr "Veuillez vous connecter pour pouvoir télécharger votre produit."
+
+#: Please set resource file and link type.
+msgid "Please set resource file and link type."
+msgstr "Renseignez le fichier de ressource et le type de lien."
+
+#: Please specify product link(s).
+msgid "Please specify product link(s)."
+msgstr "Spécifiez le ou les liens des produits"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Refunded
+msgid "Refunded"
+msgstr "Remboursé"
+
+#: Remaining Downloads
+msgid "Remaining Downloads"
+msgstr "Téléchargements restants"
+
+#: Remove Item
+msgid "Remove Item"
+msgstr "Supprimer l'article"
+
+#: Requested link does not exist.
+msgid "Requested link does not exist."
+msgstr "Le lien demandé n'existe pas."
+
+#: Sample
+msgid "Sample"
+msgstr "Exemple"
+
+#: Shareable
+msgid "Shareable"
+msgstr "Partage"
+
+#: Shipped
+msgid "Shipped"
+msgstr "Livré"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Start Download
+msgid "Start Download"
+msgstr "Démarrage du téléchargement"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: The file does not exist.
+msgid "The file does not exist."
+msgstr "Le fichier n'existe pas."
+
+#: The link has expired.
+msgid "The link has expired."
+msgstr "Le lien a expiré."
+
+#: The link is not available.
+msgid "The link is not available."
+msgstr "Le lien n'est pas disponible."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: To:
+msgid "To:"
+msgstr "À :"
+
+#: U
+msgid "U"
+msgstr "U"
+
+#: Unlimited
+msgid "Unlimited"
+msgstr "Illimité"
+
+#: Use Content-Disposition
+msgid "Use Content-Disposition"
+msgstr "Utiliser la disposition de contenu"
+
+#: View Order
+msgid "View Order"
+msgstr "Visualiser"
+
+#: You have not purchased any downloadable products yet.
+msgid "You have not purchased any downloadable products yet."
+msgstr "Vous n'avez pas encore commandé de produits téléchargeables."
+
+#: attachment
+msgid "attachment"
+msgstr "pièce jointe"
+
+#: download
+msgid "download"
+msgstr "téléchargement"
+
+#: inline
+msgid "inline"
+msgstr "en ligne"
+
+#: sample
+msgid "sample"
+msgstr "exemple"
+
+#: Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.
+msgid "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'."
+msgstr "Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores."
+
+#: Edit
+msgid "Edit"
+msgstr "Éditer"
+
+#: Edit item parameters
+msgid "Edit item parameters"
+msgstr "Éditer les paramètres de l'article"
+

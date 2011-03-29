@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.7.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Locale_Mage_community_fr_FR</name>
+ <channel>connect.magentocommerce.com/community</channel>
+ <summary>Magento Community Modules - French (France) Language Pack </summary>
+ <description>Magento Community Modules - French (France) Language Pack
+
+Ce pack contient les fichiers de traductions française de Magento ainsi que les emails traduits.</description>
+ <lead>
+  <name>SeL</name>
+  <user>seb.lepers</user>
+  <email>seb.lepers@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-02-03</date>
+ <time>22:31:33</time>
+ <version>
+  <release>1.4.2.0</release>
+  <api>1.4.2.0</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/academic.php">AFL v3.0</license>
+ <notes>v1.4.2.0 :
+ - Mise à jour pour Magento CE v1.4.2.0
+
+v1.4.1.1 :
+ - Correction du bug BO : produits téléchargeables.
+ - Correction du bug BO : Instance de widgets.
+
+v1.4.1.0 :
+ - Mise à jour pour Magento CE v1.4.1
+
+v1.4.0.0 :
+ - Mise à jour pour Magento CE v1.4
+
+v1.3.0.4 :
+ - Pas de modifications. Extension repackagée suite à des pbs sur Magento Connect
+
+v1.3.0.1 à v1.3.0.3 :
+ - Ajout de libellés manquants
+
+v1.3.0 :
+ - Mise à jour pour Magento v1.3.0
+ - Ajout de libellés manquants
+
+v1.2.0.2 :
+ - Correction de l&apos;erreur de manip de la v1.2.0.1.1. Retour à la v1.2.0.1.
+
+v1.2.0.1.1 :
+ - Erreur de publication à l&apos;aide des outils Varien
+
+v1.2.0.1 :
+ - Ajout de libellés manquants (merci à Arnaud)
+
+v1.2.0 :
+ - Ajout des nouveaux libellés de la v1.2.x de Magento (merci à Benoît et Kiwii)
+
+v1.1.7 :
+ - Correction d&apos;un libellé qui provoque une erreur javascript : &quot;Saisissez une liste d\&apos;adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com&quot;
+
+v1.1.6 :
+ - Mise à jour pour la v1.1.7
+ - Correction du bug des produits bundle et des options personnalisables.
+ - Ajout de la traduction de plusieurs termes non traduits auparavant
+
+v1.1.5 :
+ - Suppression d&apos;un fichier inutile.
+
+v1.1.4 :
+ - Mise à jour du libellé &quot;Quantité définie par l\&apos;utilisateur&quot; dans Mage_Bundle.csv qui cause un bug javascript.
+
+v1.1.3 :
+ - Attention, les emails contenus dans cette publication ne sont pas compatibles avec la version 1.0 de Magento.
+Les fichiers csv de traduction sont compatibles avec la v1.0.
+ </notes>
+ <contents>
+  <dir name="/">
+   <dir name="adminhtml">
+    <dir name="default">
+     <dir name="default">
+      <dir name="locale">
+       <dir name="fr_FR">
+        <file md5sum="9840d2d42fadfe8ad836739fd420a67e" name="translate.csv" role="magedesign" />
+       </dir> <!-- /adminhtml/default/default/locale/fr_FR -->
+      </dir> <!-- /adminhtml/default/default/locale -->
+     </dir> <!-- /adminhtml/default/default -->
+    </dir> <!-- /adminhtml/default -->
+   </dir> <!-- /adminhtml -->
+   <dir name="frontend">
+    <dir name="default">
+     <dir name="default">
+      <dir name="locale">
+       <dir name="fr_FR">
+        <file md5sum="78082acbd4d2094a8604ec0d957a5afe" name="translate.csv" role="magedesign" />
+       </dir> <!-- /frontend/default/default/locale/fr_FR -->
+      </dir> <!-- /frontend/default/default/locale -->
+     </dir> <!-- /frontend/default/default -->
+    </dir> <!-- /frontend/default -->
+   </dir> <!-- /frontend -->
+   <dir name="fr_FR">
+    <dir name="">
+     <dir name="template">
+      <dir name="email">
+       <dir name="sales">
+        <file md5sum="def090f10fb5e87d47b8e09ecfb48337" name="creditmemo_new.html" role="magelocale" />
+        <file md5sum="7c4cdeb37f199833f7d4b83a85a02b03" name="creditmemo_new_guest.html" role="magelocale" />
+        <file md5sum="2dd40d3298287fa89cf5dad6712cdbd4" name="creditmemo_update.html" role="magelocale" />
+        <file md5sum="3c02aab13fca7c62eb873aa86dfff145" name="creditmemo_update_guest.html" role="magelocale" />
+        <file md5sum="e04599f823868a04c425591e39fbe43c" name="invoice_new.html" role="magelocale" />
+        <file md5sum="5950348de032781eaa6229a0929cc1d3" name="invoice_new_guest.html" role="magelocale" />
+        <file md5sum="ebc47b689c6bd0725d3609f43f3dac09" name="invoice_update.html" role="magelocale" />
+        <file md5sum="5fb0662dce045b7eda2dfeada45c9aea" name="invoice_update_guest.html" role="magelocale" />
+        <file md5sum="868344a90df4f8d8ec0447fbe04ddcfc" name="order_new.html" role="magelocale" />
+        <file md5sum="1b7c9fcd4fc534fd6f8da61e75e8097c" name="order_new_guest.html" role="magelocale" />
+        <file md5sum="729b18a769fe25b2c17a30bd51c9bb64" name="order_update.html" role="magelocale" />
+        <file md5sum="7aaac07e52adcd00222dc911e12b8827" name="order_update_guest.html" role="magelocale" />
+        <file md5sum="77bad8e14c4022e3eaec971d81a01403" name="shipment_new.html" role="magelocale" />
+        <file md5sum="ac11f8406c94585a524373c23a95d8a0" name="shipment_new_guest.html" role="magelocale" />
+        <file md5sum="6b3c50ccea978c779a28d6cf47a03cdd" name="shipment_update.html" role="magelocale" />
+        <file md5sum="0e2b813f34d32eab2e42f3da6e6f4a19" name="shipment_update_guest.html" role="magelocale" />
+       </dir> <!-- /fr_FR//template/email/sales -->
+       <file md5sum="66aab6382880363b7e690586dbc3d091" name="account_new.html" role="magelocale" />
+       <file md5sum="67f5ff30cf27cf4c8048121f828635e3" name="account_new_confirmation.html" role="magelocale" />
+       <file md5sum="440d40ebe9888624c74c2c40f9ec9d9b" name="account_new_confirmed.html" role="magelocale" />
+       <file md5sum="b2e4fa1fbd64b1c3a3cf758cbc5ae748" name="admin_password_new.html" role="magelocale" />
+       <file md5sum="9a5af8f947771c5825abfdb644cf7da9" name="contact_form.html" role="magelocale" />
+       <file md5sum="b817ac36358b1152c8277c89553e9b7e" name="currency_update_warning.html" role="magelocale" />
+       <file md5sum="fb309621970d1e38b3ed24d257c57d73" name="log_clean_warning.html" role="magelocale" />
+       <file md5sum="d813d9b665c4b9cb0b38066967e0d498" name="moneybookers_activateemail.html" role="magelocale" />
+       <file md5sum="44e2a092011f40d8745c8197ff57eb2b" name="newsletter_subscr_confirm.html" role="magelocale" />
+       <file md5sum="da140e1409bf1b7a0ed4403a6fed8cc3" name="newsletter_subscr_success.html" role="magelocale" />
+       <file md5sum="e6f63f91c4753f6be980a0295cef0e5c" name="newsletter_unsub_success.html" role="magelocale" />
+       <file md5sum="1f9c73cf005de7659b0a14606ab25989" name="password_new.html" role="magelocale" />
+       <file md5sum="7a5b527e33f74e7eb800b329e54067d2" name="payment_failed.html" role="magelocale" />
+       <file md5sum="398cd111d4225bf1ca1149c955f984b0" name="product_alert_cron_error.html" role="magelocale" />
+       <file md5sum="dc747aff89368d8ae1c22e630dbc4688" name="product_price_alert.html" role="magelocale" />
+       <file md5sum="be0de6147d5fe21b79f7df3180246f80" name="product_share.html" role="magelocale" />
+       <file md5sum="53d7720b16c28b8b579cb53eec685516" name="product_stock_alert.html" role="magelocale" />
+       <file md5sum="d34453bb8fb40d9226056e659901c55a" name="sitemap_generate_warning.html" role="magelocale" />
+       <file md5sum="7a483d164d9340407a8af1730cd15247" name="wishlist_share.html" role="magelocale" />
+      </dir> <!-- /fr_FR//template/email -->
+     </dir> <!-- /fr_FR//template -->
+    </dir> <!-- /fr_FR/ -->
+    <file md5sum="95d4adfa24b5398409cb7ca6215ae7db" name="Find_Feed.csv" role="magelocale" />
+    <file md5sum="7095d265de6df38ed4bc3e67d4b53c7c" name="Mage_Adminhtml.csv" role="magelocale" />
+    <file md5sum="edd3dcb7463afdee85dd2cd0744a8b07" name="Mage_AdminNotification.csv" role="magelocale" />
+    <file md5sum="1a398f6702fedc24f8058d51ec3f11a8" name="Mage_Api.csv" role="magelocale" />
+    <file md5sum="27979488cc44c302d4144f5cb2bf9ef4" name="Mage_Backup.csv" role="magelocale" />
+    <file md5sum="e8e671a0efb018392b86d719f86a7809" name="Mage_Bundle.csv" role="magelocale" />
+    <file md5sum="828c30d6350081e12720588039aa16c5" name="Mage_Catalog.csv" role="magelocale" />
+    <file md5sum="751d86280c388fcd7511b5cdc9ed4c9b" name="Mage_CatalogInventory.csv" role="magelocale" />
+    <file md5sum="794076432548cf5d4569f3f14bc2501a" name="Mage_CatalogRule.csv" role="magelocale" />
+    <file md5sum="55501475048671960c41c876ae7a94ba" name="Mage_CatalogSearch.csv" role="magelocale" />
+    <file md5sum="224138b16ad703886bedb71d7d459f9e" name="Mage_Centinel.csv" role="magelocale" />
+    <file md5sum="c1c6a93d79d304e18dfae8598470ca03" name="Mage_Checkout.csv" role="magelocale" />
+    <file md5sum="073c0918aeb2965100c48d1982f7ff47" name="Mage_Cms.csv" role="magelocale" />
+    <file md5sum="97b2c6d0a602b8e1364855ecff2f2b6b" name="Mage_Compiler.csv" role="magelocale" />
+    <file md5sum="de2dc4eddb9414bd2d208e58c4802c5a" name="Mage_Connect.csv" role="magelocale" />
+    <file md5sum="7f1ce02da2fc8afc404b6e2b7de6cb93" name="Mage_Contacts.csv" role="magelocale" />
+    <file md5sum="897c51128224a21181cb7dc4d54b0355" name="Mage_Core.csv" role="magelocale" />
+    <file md5sum="0e158662da33f551cba4de5acd8759b5" name="Mage_Cron.csv" role="magelocale" />
+    <file md5sum="199529b951c224bdf8b034004426e3f0" name="Mage_Customer.csv" role="magelocale" />
+    <file md5sum="55301d07949837589c4570714ee05eae" name="Mage_Dataflow.csv" role="magelocale" />
+    <file md5sum="1d135eb3871ebc0f9400ac31909eece5" name="Mage_Directory.csv" role="magelocale" />
+    <file md5sum="9246b2499081b5c430d7504d829be8e1" name="Mage_Downloadable.csv" role="magelocale" />
+    <file md5sum="237f92624dc618e136cc16dad2125d4c" name="Mage_Eav.csv" role="magelocale" />
+    <file md5sum="5824e8d90b48a70c5234e7b5924238e2" name="Mage_GiftMessage.csv" role="magelocale" />
+    <file md5sum="3160d134d6df516d7eceb8afb0ff4594" name="Mage_GoogleAnalytics.csv" role="magelocale" />
+    <file md5sum="4c71fdc8009c2af73fbdc930f7e7e407" name="Mage_GoogleBase.csv" role="magelocale" />
+    <file md5sum="5d5ad0a6081daa4f19049228ff17d90e" name="Mage_GoogleCheckout.csv" role="magelocale" />
+    <file md5sum="3810b3429f6dea97dc306f8e52eda1f4" name="Mage_GoogleOptimizer.csv" role="magelocale" />
+    <file md5sum="284c7e35862a94cea4b2f9ef05a89107" name="Mage_Index.csv" role="magelocale" />
+    <file md5sum="46d116c166f3d33693141bf1304be109" name="Mage_Install.csv" role="magelocale" />
+    <file md5sum="cfd4e6fdef5c96e08542cb1da700fe2a" name="Mage_Log.csv" role="magelocale" />
+    <file md5sum="89dccdd18c952935905581a830c906c6" name="Mage_Media.csv" role="magelocale" />
+    <file md5sum="2d4269cd55bb377deba7a5c816cdd508" name="Mage_Newsletter.csv" role="magelocale" />
+    <file md5sum="a07094e78ffeed215a4af1fd021a6e06" name="Mage_Page.csv" role="magelocale" />
+    <file md5sum="0752febc8570b117c464f8f36db10453" name="Mage_Paygate.csv" role="magelocale" />
+    <file md5sum="e244873ee494e53dd9a5ff269b06dcee" name="Mage_Payment.csv" role="magelocale" />
+    <file md5sum="16edd8ed67676080d772e3d0ddea7e6a" name="Mage_Paypal.csv" role="magelocale" />
+    <file md5sum="b433723bc15893e2e6df3fc413090a0a" name="Mage_PaypalUk.csv" role="magelocale" />
+    <file md5sum="8f6e2991898fd8556a76cc7d5561a68e" name="Mage_Poll.csv" role="magelocale" />
+    <file md5sum="5d79b8fc73643af7f8f62531cf721514" name="Mage_ProductAlert.csv" role="magelocale" />
+    <file md5sum="a6e9e7aac66fe5d2c47f699c3ec1ad97" name="Mage_Rating.csv" role="magelocale" />
+    <file md5sum="4d4ae45c9bb645e6fc6dc0dccff88f8d" name="Mage_Reports.csv" role="magelocale" />
+    <file md5sum="f34608ea219c6e9af2a7700eac213883" name="Mage_Review.csv" role="magelocale" />
+    <file md5sum="75f9a2b30373a11d1ead53cacdf0bff8" name="Mage_Rss.csv" role="magelocale" />
+    <file md5sum="c0b21b705852655184483f3babdc506c" name="Mage_Rule.csv" role="magelocale" />
+    <file md5sum="fd0dfd5a3bc5e169c7e371327e1bc29a" name="Mage_Sales.csv" role="magelocale" />
+    <file md5sum="b63440cb4bf69d97cbe511156aef169d" name="Mage_SalesRule.csv" role="magelocale" />
+    <file md5sum="f298973634146b17bf286a3b0919d696" name="Mage_Sendfriend.csv" role="magelocale" />
+    <file md5sum="cb3d7f1d93f830712fa6eebfd2d7f7b3" name="Mage_Shipping.csv" role="magelocale" />
+    <file md5sum="3b90a06f3da033c7b1684a6e471eaadd" name="Mage_Sitemap.csv" role="magelocale" />
+    <file md5sum="dc0a2516280fb0fdf09e6639d702e5d4" name="Mage_Tag.csv" role="magelocale" />
+    <file md5sum="e3a7f5c9accb97c40e3ca83766f180ef" name="Mage_Tax.csv" role="magelocale" />
+    <file md5sum="b6e0970c9f9466c54c658594c7a9bda2" name="Mage_Usa.csv" role="magelocale" />
+    <file md5sum="441c663a2dc0752db549fe8cc8e0d2d2" name="Mage_Weee.csv" role="magelocale" />
+    <file md5sum="432f7d0663ff66f8cf1e6c7521473b28" name="Mage_Widget.csv" role="magelocale" />
+    <file md5sum="da77d49b1e08bcd8594813c46a42203b" name="Mage_Wishlist.csv" role="magelocale" />
+    <file md5sum="430ca9f72051f5cbecaa938507cd33a9" name="Phoenix_Moneybookers.csv" role="magelocale" />
+   </dir> <!-- /fr_FR -->
+  </dir> <!-- / -->
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.0</min>
+    <max>6.0.0</max>
+   </php>
+   <pearinstaller>
+    <min>1.6.2</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>

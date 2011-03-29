@@ -1,0 +1,76 @@
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: An error occurred while writing to the backup file \"%s\".
+msgid "An error occurred while writing to the backup file \"%s\"."
+msgstr "Erreur lors de l'écriture dans le fichier de sauvegarde \"%s\"."
+
+#: Backup file \"%s\" cannot be read from or written to.
+msgid "Backup file \"%s\" cannot be read from or written to."
+msgstr "Impossible de lire ou d'écrire dans le fichier de sauvegarde \"%s\"."
+
+#: Backup file \"%s\" does not exist.
+msgid "Backup file \"%s\" does not exist."
+msgstr "Le fichier de sauvegarde \"%s\" n'existe pas."
+
+#: Backup file does not exist.
+msgid "Backup file does not exist."
+msgstr "Le fichier de sauvegarde n'existe pas."
+
+#: Backup file handler was unspecified.
+msgid "Backup file handler was unspecified."
+msgstr "Le gestionnaire de fichier de sauvegarde n'a pas été spécifié."
+
+#: Backup file path was not specified.
+msgid "Backup file path was not specified."
+msgstr "Le chemin du fichier de sauvegarde n'a pas été spécifié."
+
+#: Backups
+msgid "Backups"
+msgstr "Sauvegardes"
+
+#: Cannot read backup file.
+msgid "Cannot read backup file."
+msgstr "Impossible de lire le fichier de sauvegarde."
+
+#: Create Backup
+msgid "Create Backup"
+msgstr "Créer une sauvegarde"
+
+#: DB
+msgid "DB"
+msgstr "BDD"
+
+#: Database was successfuly backed up.
+msgid "Database was successfuly backed up."
+msgstr "La base de données a été sauvegardée avec succès !"
+
+#: Download
+msgid "Download"
+msgstr "Télécharger"
+
+#: Size, Bytes
+msgid "Size, Bytes"
+msgstr "Taille en octets"
+
+#: The file was compressed with Zlib, but this extension is not installed on server.
+msgid "The file was compressed with Zlib, but this extension is not installed on server."
+msgstr "Le fichier a été compressé avec Zlib, mais cette extension n'est pas installée sur le serveur."
+
+#: Time
+msgid "Time"
+msgstr "Heure"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Unable to create backup. Please, try again later.
+msgid "Unable to create backup. Please, try again later."
+msgstr "Impossible de faire une sauvegarde. Veuillez réessayer ultérieurement."
+
+#: Wrong order of creation for new backup.
+msgid "Wrong order of creation for new backup."
+msgstr "Ordre de création erroné pour la nouvelle sauvegarde."
+

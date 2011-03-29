@@ -1,0 +1,140 @@
+#: There was an error occurred during paying process.
+msgid "There was an error occurred during paying process."
+msgstr "Erreur lors du process de paiement."
+
+#: An error has occured
+msgid "An error has occured"
+msgstr "Une erreur est survenue"
+
+#: An error occurred during the payment process.
+msgid "An error occurred during the payment process."
+msgstr "Erreur lors du process de paiement."
+
+#: Bank
+msgid "Bank"
+msgstr "Banque"
+
+#: Credit Mutuel
+msgid "Credit Mutuel"
+msgstr "Crédit Mutuel"
+
+#: Customer Interface language
+msgid "Customer Interface language"
+msgstr "Langue de l'interface client"
+
+#: Customer has returned from Cybermut.
+msgid "Customer has returned from Cybermut."
+msgstr "Le client est revenu de Cybermut."
+
+#: Customer was redirected to Cybermut
+msgid "Customer was redirected to Cybermut"
+msgstr "Le client a été redirigé vers Cybermut"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Dutch
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: English
+msgid "English"
+msgstr "Anglais"
+
+#: French
+msgid "French"
+msgstr "Français"
+
+#: German
+msgid "German"
+msgstr "Allemand"
+
+#: Groupe CIC
+msgid "Groupe CIC"
+msgstr "Groupe CIC"
+
+#: Italian
+msgid "Italian"
+msgstr "Italien"
+
+#: Key
+msgid "Key"
+msgstr "Clé"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: OBC
+msgid "OBC"
+msgstr "OBC"
+
+#: Order #%s
+msgid "Order #%s"
+msgstr "Commande n°%s"
+
+#: Order number will be used if left empty.
+msgid "Order number will be used if left empty."
+msgstr "C'est le numéro de commande qui sera utilisé si ce champ est vide."
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Returned MAC is invalid. Order cancelled.
+msgid "Returned MAC is invalid. Order cancelled."
+msgstr "Le code MAC retourné est invalide. La commande a été annulée."
+
+#: SHA Key
+msgid "SHA Key"
+msgstr "Clé SHA"
+
+#: Site Code
+msgid "Site Code"
+msgstr "Code du site"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Spain
+msgid "Spain"
+msgstr "Espagne"
+
+#: TPE Number
+msgid "TPE Number"
+msgstr "Numéro de TPE"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: The customer successfully returned from Cybermut.
+msgid "The customer successfully returned from Cybermut."
+msgstr "Le client est revenu de Cybermut."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Transaction Description
+msgid "Transaction Description"
+msgstr "Description de la transaction"
+
+#: You will be redirected to Cybermut in a few seconds.
+msgid "You will be redirected to Cybermut in a few seconds."
+msgstr "Vous serez redirigé vers le site de Cybermut dans quelques secondes."
+
+#: You will be redirected to Cybermut website when you place an order.
+msgid "You will be redirected to Cybermut website when you place an order."
+msgstr "Vous serez redirigé vers le site de Cybermut à l'issue de votre commande."
+

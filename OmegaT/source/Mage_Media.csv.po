@@ -1,0 +1,12 @@
+#: An error occurred while creating the image.
+msgid "An error occurred while creating the image."
+msgstr "Erreur lors de la création de l'image."
+
+#: The image does not exist or is invalid.
+msgid "The image does not exist or is invalid."
+msgstr "L'image n'existe pas ou est invalide."
+
+#: This content requires last version of Adobe Flash Player. <a href=\"%s\">Get Flash</a>
+msgid "This content requires last version of Adobe Flash Player. <a href=\"%s\">Get Flash</a>"
+msgstr "Ce contenu nécessite la dernière version d'Adobe Flash Player. <a href=\"%s\">Télécharger Flash</a>"
+

@@ -1,0 +1,336 @@
+#:  for more information or 
+msgid " for more information or "
+msgstr " pour plus d'information ou "
+
+#: # of Items (and above)
+msgid "# of Items (and above)"
+msgstr "Nombre d'articles (et au-delà)"
+
+#: # of Items vs. Destination
+msgid "# of Items vs. Destination"
+msgstr "Nombre d'articles par destination"
+
+#: Allow Shipping to Multiple Addresses
+msgid "Allow Shipping to Multiple Addresses"
+msgstr "Autoriser la livraison à plusieurs adresses"
+
+#: An error occurred while import table rates.
+msgid "An error occurred while import table rates."
+msgstr "Erreur lors de l'import du tableau des taux."
+
+#: Calculate Handling Fee
+msgid "Calculate Handling Fee"
+msgstr "Calculer les frais de dossier"
+
+#: Carrier:
+msgid "Carrier:"
+msgstr "Transporteur :"
+
+#: City
+msgid "City"
+msgstr "Ville"
+
+#: Close Window
+msgid "Close Window"
+msgstr "Fermer la fenêtre"
+
+#: Condition
+msgid "Condition"
+msgstr "Condition"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Date
+msgid "Date"
+msgstr "Date"
+
+#: Delivered on:
+msgid "Delivered on:"
+msgstr "Livré le :"
+
+#: Delivered to:
+msgid "Delivered to:"
+msgstr "Livré à :"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Displayed Error Message
+msgid "Displayed Error Message"
+msgstr "Message d'erreur affiché"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error:
+msgid "Error:"
+msgstr "Erreur :"
+
+#: Export
+msgid "Export"
+msgstr "Exporter"
+
+#: Fixed
+msgid "Fixed"
+msgstr "Fixé"
+
+#: Flat Rate
+msgid "Flat Rate"
+msgstr "Tarif unique"
+
+#: Free Shipping
+msgid "Free Shipping"
+msgstr "Livraison gratuite"
+
+#: Google Sitemap Section
+msgid "Google Sitemap Section"
+msgstr "Section Google Sitemap"
+
+#: Handling Fee
+msgid "Handling Fee"
+msgstr "Frais de traitement"
+
+#: Import
+msgid "Import"
+msgstr "Importer"
+
+#: Include Virtual Products in Price Calculation
+msgid "Include Virtual Products in Price Calculation"
+msgstr "Inclure les produits virtuels dans le calcul de prix"
+
+#: Info:
+msgid "Info:"
+msgstr "Info :"
+
+#: Invalid Table Rate code for type %s: %s
+msgid "Invalid Table Rate code for type %s: %s"
+msgstr "Code de tableau de taux non valide pour le type %s : %s"
+
+#: Invalid Table Rate code type: %s
+msgid "Invalid Table Rate code type: %s"
+msgstr "Type de code de tableau de taux non valide : %s"
+
+#: Invalid Table Rates File Format
+msgid "Invalid Table Rates File Format"
+msgstr "Format de fichier de tarification invalide"
+
+#: Local Time
+msgid "Local Time"
+msgstr "Heure locale"
+
+#: Location
+msgid "Location"
+msgstr "Lieu"
+
+#: Maximum Qty Allowed for Shipping to Multiple Addresses
+msgid "Maximum Qty Allowed for Shipping to Multiple Addresses"
+msgstr "Qté maxi autorisée pour la livraison à plusieurs adresses"
+
+#: Method Name
+msgid "Method Name"
+msgstr "Nom de méthode"
+
+#: Minimum Order Amount
+msgid "Minimum Order Amount"
+msgstr "Montant de commande minimum"
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: None
+msgid "None"
+msgstr "Aucun"
+
+#: Options
+msgid "Options"
+msgstr "Options"
+
+#: Order Subtotal (and above)
+msgid "Order Subtotal (and above)"
+msgstr "Sous-total de la commande (et au-delà)"
+
+#: Origin
+msgid "Origin"
+msgstr "Origine"
+
+#: Per Order
+msgid "Per Order"
+msgstr "Par commande"
+
+#: Per Package
+msgid "Per Package"
+msgstr "Par paquet"
+
+#: Percent
+msgid "Percent"
+msgstr "Pourcent"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Price vs. Destination
+msgid "Price vs. Destination"
+msgstr "Prix par destination"
+
+#: Region/State
+msgid "Region/State"
+msgstr "Région/État"
+
+#: Service Type:
+msgid "Service Type:"
+msgstr "Type de service :"
+
+#: Ship to Applicable Countries
+msgid "Ship to Applicable Countries"
+msgstr "Livrer aux pays applicables"
+
+#: Ship to Specific Countries
+msgid "Ship to Specific Countries"
+msgstr "Livrer aux pays spécifiques"
+
+#: Shipment #
+msgid "Shipment #"
+msgstr "Expédition n°"
+
+#: Shipment Tracking Popup
+msgid "Shipment Tracking Popup"
+msgstr "Popup de suivi de livraison"
+
+#: Shipped or billed on:
+msgid "Shipped or billed on:"
+msgstr "Livré ou facturé le :"
+
+#: Shipping Methods
+msgid "Shipping Methods"
+msgstr "Modes de livraison"
+
+#: Shipping Methods Section
+msgid "Shipping Methods Section"
+msgstr "Section des modes de livraison"
+
+#: Shipping Settings
+msgid "Shipping Settings"
+msgstr "Paramètres de livraison"
+
+#: Shipping Settings Section
+msgid "Shipping Settings Section"
+msgstr "Section des paramètres de livraison"
+
+#: Show Method if Not Applicable
+msgid "Show Method if Not Applicable"
+msgstr "Afficher le mode s'il n'est pas applicable"
+
+#: Signed by:
+msgid "Signed by:"
+msgstr "Signé par :"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Status:
+msgid "Status:"
+msgstr "Statut :"
+
+#: Store Pickup
+msgid "Store Pickup"
+msgstr "Retrait en magasin"
+
+#: Table Rates
+msgid "Table Rates"
+msgstr "Tarification"
+
+#: The shipping module is not available for selected delivery country.
+msgid "The shipping module is not available for selected delivery country."
+msgstr "Le module de livraison n'est pas disponible pour le pays de destination choisi."
+
+#: The shipping module is not available.
+msgid "The shipping module is not available."
+msgstr "Le module de livraison n'est pas disponible."
+
+#: There is no tracking available for this shipment.
+msgid "There is no tracking available for this shipment."
+msgstr "Aucun suivi disponible pour la livraison"
+
+#: There is no tracking available.
+msgid "There is no tracking available."
+msgstr "Aucun suivi disponible."
+
+#: This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.
+msgid "This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us."
+msgstr "Ce mode de livraison est actuellement indisponible. Si vous souhaitez être livré par ce mode, veuillez nous contacter."
+
+#: This shipping method is not available, please specify ZIP-code
+msgid "This shipping method is not available, please specify ZIP-code"
+msgstr "Le mode de livraison n'est pas disponible, précisez le code postal."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Track:
+msgid "Track:"
+msgstr "Suivre :"
+
+#: Tracking Information
+msgid "Tracking Information"
+msgstr "Informations de suivi"
+
+#: Tracking Number:
+msgid "Tracking Number:"
+msgstr "Numéro de suivi :"
+
+#: Tracking information is currently not available. Please 
+msgid "Tracking information is currently not available. Please "
+msgstr "Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez  "
+
+#: Tracking information is currently unavailable.
+msgid "Tracking information is currently unavailable."
+msgstr "Les informations de suivi ne sont pas disponibles pour le moment."
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Weight (and above)
+msgid "Weight (and above)"
+msgstr "Poids (et au-delà)"
+
+#: Weight vs. Destination
+msgid "Weight vs. Destination"
+msgstr "Poids par destination"
+
+#: Weight:
+msgid "Weight:"
+msgstr "Poids :"
+
+#: ZIP/Postal Code
+msgid "ZIP/Postal Code"
+msgstr "Code postal"
+
+#: contact us
+msgid "contact us"
+msgstr "nous contacter"
+
+#: email us at 
+msgid "email us at "
+msgstr "nous envoyer un email à  "
+
+#: for more information or
+msgid "for more information or"
+msgstr "pour plus d'information ou"
+
+#: Tracking information is currently not available. Please
+msgid "Tracking information is currently not available. Please"
+msgstr "Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez "
+
+#: email us at
+msgid "email us at"
+msgstr "nous envoyer un email à "
+

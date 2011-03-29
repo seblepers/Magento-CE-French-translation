@@ -1,0 +1,188 @@
+#: %s is not a supported currency.
+msgid "%s is not a supported currency."
+msgstr ""
+
+#: Accept
+msgid "Accept"
+msgstr ""
+
+#: Basic
+msgid "Basic"
+msgstr ""
+
+#: Cannot retrieve rate from %s to %s.
+msgid "Cannot retrieve rate from %s to %s."
+msgstr ""
+
+#: Cannot retrieve rate from Strikeiron.
+msgid "Cannot retrieve rate from Strikeiron."
+msgstr ""
+
+#: Check All Email Servers
+msgid "Check All Email Servers"
+msgstr ""
+
+#: Complete
+msgid "Complete"
+msgstr ""
+
+#: Country/Region/Postal Code Combination
+msgid "Country/Region/Postal Code Combination"
+msgstr ""
+
+#: Customer Tax Class
+msgid "Customer Tax Class"
+msgstr ""
+
+#: Email Verification
+msgid "Email Verification"
+msgstr ""
+
+#: Enable Email Verification
+msgid "Enable Email Verification"
+msgstr ""
+
+#: Enable Foreign Exchange Rate
+msgid "Enable Foreign Exchange Rate"
+msgstr ""
+
+#: Enable Global Address Verification
+msgid "Enable Global Address Verification"
+msgstr ""
+
+#: Enable Sales and Use Tax
+msgid "Enable Sales and Use Tax"
+msgstr ""
+
+#: Enable US Address Verification
+msgid "Enable US Address Verification"
+msgstr ""
+
+#: Error Address Action
+msgid "Error Address Action"
+msgstr ""
+
+#: Error Email Recipient
+msgid "Error Email Recipient"
+msgstr ""
+
+#: Error Email Sender
+msgid "Error Email Sender"
+msgstr ""
+
+#: Error Email Template
+msgid "Error Email Template"
+msgstr ""
+
+#: Foreign Exchange Rates
+msgid "Foreign Exchange Rates"
+msgstr ""
+
+#: Global Address Verification
+msgid "Global Address Verification"
+msgstr ""
+
+#: If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate.
+msgid "If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate."
+msgstr ""
+
+#: Invalid email address.
+msgid "Invalid email address."
+msgstr ""
+
+#: Maximum Tax Rate
+msgid "Maximum Tax Rate"
+msgstr ""
+
+#: Minimum Tax Rate
+msgid "Minimum Tax Rate"
+msgstr ""
+
+#: Password
+msgid "Password"
+msgstr ""
+
+#: Pop up warning and accept
+msgid "Pop up warning and accept"
+msgstr ""
+
+#: Product Tax Class
+msgid "Product Tax Class"
+msgstr ""
+
+#: Reject
+msgid "Reject"
+msgstr ""
+
+#: Sales and Use Tax
+msgid "Sales and Use Tax"
+msgstr ""
+
+#: Sales and Use Tax Type
+msgid "Sales and Use Tax Type"
+msgstr ""
+
+#: Strikeiron
+msgid "Strikeiron"
+msgstr ""
+
+#: Strikeiron Config
+msgid "Strikeiron Config"
+msgstr ""
+
+#: Strikeiron Section
+msgid "Strikeiron Section"
+msgstr ""
+
+#: Strikeiron foreign exchange rate is disabled.
+msgid "Strikeiron foreign exchange rate is disabled."
+msgstr ""
+
+#: Tax
+msgid "Tax"
+msgstr ""
+
+#: The email address cannot be verified. Please check again and make sure your email address is entered correctly.
+msgid "The email address cannot be verified. Please check again and make sure your email address is entered correctly."
+msgstr ""
+
+#: There are no more hits remaining for the foreign Exchange Rate Service.
+msgid "There are no more hits remaining for the foreign Exchange Rate Service."
+msgstr ""
+
+#: There is an error in retrieving the tax rate. Please contact us.
+msgid "There is an error in retrieving the tax rate. Please contact us."
+msgstr ""
+
+#: There is an error in verifying an email. Please contact us.
+msgid "There is an error in verifying an email. Please contact us."
+msgstr ""
+
+#: There is no response back from Strikeiron server.
+msgid "There is no response back from Strikeiron server."
+msgstr ""
+
+#: US Address Verification
+msgid "US Address Verification"
+msgstr ""
+
+#: Undetermined Email Action
+msgid "Undetermined Email Action"
+msgstr ""
+
+#: Use
+msgid "Use"
+msgstr ""
+
+#: User ID
+msgid "User ID"
+msgstr ""
+
+#: Verify Address in Admin
+msgid "Verify Address in Admin"
+msgstr ""
+
+#: Verify Email in Admin
+msgid "Verify Email in Admin"
+msgstr ""
+

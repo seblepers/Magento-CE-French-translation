@@ -1,0 +1,696 @@
+#: Abandoned Carts
+msgid "Abandoned Carts"
+msgstr "Paniers abandonnés"
+
+#: Abandoned carts
+msgid "Abandoned carts"
+msgstr "Paniers abandonnés"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add to Cart
+msgid "Add to Cart"
+msgstr "Ajouter au panier"
+
+#: Add to Compare
+msgid "Add to Compare"
+msgstr "Ajouter au comparateur"
+
+#: Add to Wishlist
+msgid "Add to Wishlist"
+msgstr "Ajouter à la liste d'envies"
+
+#: Any
+msgid "Any"
+msgstr "Tous"
+
+#: Applied Coupon
+msgid "Applied Coupon"
+msgstr "Coupons utilisés"
+
+#: Applies to Any of the Specified Order Statuses
+msgid "Applies to Any of the Specified Order Statuses"
+msgstr "S'applique à tous les statuts de commande spécifiés"
+
+#: Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.
+msgid "Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation."
+msgstr "Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement."
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Avg. Approved Rating
+msgid "Avg. Approved Rating"
+msgstr "Moyenne des notes approuvées"
+
+#: Avg. Rating
+msgid "Avg. Rating"
+msgstr "Moyenne des notes"
+
+#: Bestsellers
+msgid "Bestsellers"
+msgstr "Meilleures ventes"
+
+#: Bought from wishlists
+msgid "Bought from wishlists"
+msgstr "Acheté à partir de la liste d'envies"
+
+#: CSV
+msgid "CSV"
+msgstr "CSV"
+
+#: Carts
+msgid "Carts"
+msgstr "Paniers"
+
+#: Compared Products Grid Template
+msgid "Compared Products Grid Template"
+msgstr "Gabarit de grille de produits comparés"
+
+#: Compared Products List Template
+msgid "Compared Products List Template"
+msgstr "Gabarit de liste de produits comparés"
+
+#: Coupons
+msgid "Coupons"
+msgstr "Bons de réduction"
+
+#: Coupons Usage Report
+msgid "Coupons Usage Report"
+msgstr "Rapport des utilisations des bons de réduction"
+
+#: Created At
+msgid "Created At"
+msgstr "Créé le"
+
+#: Current Month Starts
+msgid "Current Month Starts"
+msgstr "Le mois en cours commence le"
+
+#: Customer
+msgid "Customer"
+msgstr "Client"
+
+#: Customer Name
+msgid "Customer Name"
+msgstr "Nom du client"
+
+#: Customer Tags
+msgid "Customer Tags"
+msgstr "Tags client"
+
+#: Customers
+msgid "Customers"
+msgstr "Clients"
+
+#: Customers Report
+msgid "Customers Report"
+msgstr "Rapport clients"
+
+#: Customers Reviews
+msgid "Customers Reviews"
+msgstr "Clients ayant commenté"
+
+#: Customers Tags
+msgid "Customers Tags"
+msgstr "Clients ayant proposé des tags"
+
+#: Customers by Number of Orders
+msgid "Customers by Number of Orders"
+msgstr "Clients par nombre de commandes"
+
+#: Customers by Orders Total
+msgid "Customers by Orders Total"
+msgstr "Clients par montant de commande"
+
+#: Customers by number of orders
+msgid "Customers by number of orders"
+msgstr "Clients par nombre de commandes"
+
+#: Customers by orders total
+msgid "Customers by orders total"
+msgstr "Clients par montant de commande"
+
+#: Customers that have wishlist: %s%
+msgid "Customers that have wishlist: %s%"
+msgstr "Clients ayant une liste d'envies : %s%"
+
+#: Dashboard
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: Day
+msgid "Day"
+msgstr "Jour"
+
+#: Default Recently Compared Products Count
+msgid "Default Recently Compared Products Count"
+msgstr "Nombre de produits récemment comparés par défaut"
+
+#: Default Recently Viewed Products Count
+msgid "Default Recently Viewed Products Count"
+msgstr "Nombre de produits récemment consultés par défaut"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Detail
+msgid "Detail"
+msgstr "Détail"
+
+#: Downloads
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Empty Rows
+msgid "Empty Rows"
+msgstr "Lignes vides"
+
+#: Excel
+msgid "Excel"
+msgstr "Excel"
+
+#: Filter
+msgid "Filter"
+msgstr "Filtre"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: From
+msgid "From"
+msgstr "De"
+
+#: Guest
+msgid "Guest"
+msgstr "Invité"
+
+#: Hits
+msgid "Hits"
+msgstr "Vues"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: IP Address
+msgid "IP Address"
+msgstr "Adresse IP"
+
+#: Index model name must be defined
+msgid "Index model name must be defined"
+msgstr "Le nom du modèle d'index doit être défini"
+
+#: Invalid date specified.
+msgid "Invalid date specified."
+msgstr "Date invalide"
+
+#: Invoiced
+msgid "Invoiced"
+msgstr "Facturé"
+
+#: Items in Cart
+msgid "Items in Cart"
+msgstr "Articles dans le panier"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
+
+#: Last Review
+msgid "Last Review"
+msgstr "Dernier commentaire"
+
+#: Link
+msgid "Link"
+msgstr "Lien"
+
+#: List of Products Recently Compared and Removed from the Compare List by Visitor
+msgid "List of Products Recently Compared and Removed from the Compare List by Visitor"
+msgstr "Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur"
+
+#: List of Products Recently Viewed by Visitor
+msgid "List of Products Recently Viewed by Visitor"
+msgstr "Liste des derniers produits vus par le visiteur"
+
+#: Low Stock
+msgid "Low Stock"
+msgstr "Stock bas"
+
+#: Low stock
+msgid "Low stock"
+msgstr "Stock bas"
+
+#: Match Period To
+msgid "Match Period To"
+msgstr "Faire correspondre la période à"
+
+#: Month
+msgid "Month"
+msgstr "Mois"
+
+#: Most Viewed
+msgid "Most Viewed"
+msgstr "Les plus consultés"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New Accounts
+msgid "New Accounts"
+msgstr "Nouveaux comptes"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No records found for this period.
+msgid "No records found for this period."
+msgstr "Aucune donnée pour cette période."
+
+#: Number Added
+msgid "Number Added"
+msgstr "Nombre ajouté"
+
+#: Number Fulfilled
+msgid "Number Fulfilled"
+msgstr "Nombre réalisés"
+
+#: Number Of Reviews
+msgid "Number Of Reviews"
+msgstr "Nombre de commentaires"
+
+#: Number Purchased
+msgid "Number Purchased"
+msgstr "Nombre acheté"
+
+#: Number Viewed
+msgid "Number Viewed"
+msgstr "Nombre de vues"
+
+#: Number of Items
+msgid "Number of Items"
+msgstr "Nombre d'articles"
+
+#: Number of New Accounts
+msgid "Number of New Accounts"
+msgstr "Nombre de nouveaux comptes"
+
+#: Number of Products to display
+msgid "Number of Products to display"
+msgstr "Nombre de produits à afficher"
+
+#: Number of Reviews
+msgid "Number of Reviews"
+msgstr "Nombre de commentaires"
+
+#: Number of Times Deleted
+msgid "Number of Times Deleted"
+msgstr "Nombre de fois effacé"
+
+#: Number of Total Tags
+msgid "Number of Total Tags"
+msgstr "Nombre de tags total"
+
+#: Number of Unique Tags
+msgid "Number of Unique Tags"
+msgstr "Nombre de tags uniques"
+
+#: Number of Views
+msgid "Number of Views"
+msgstr "Nombre de consultations"
+
+#: Number of items bought from a wishlist: %s
+msgid "Number of items bought from a wishlist: %s"
+msgstr "Nombre d'articles achetés depuis une liste d'envies : %s"
+
+#: Number of times wishlists have been shared (emailed): %s
+msgid "Number of times wishlists have been shared (emailed): %s"
+msgstr "Nombre de fois que la liste d'envies a été partagée (envoyée par mail) : %s"
+
+#: Number of wishlist conversions: %s
+msgid "Number of wishlist conversions: %s"
+msgstr "Nombre de conversion de listes d'envies : %s"
+
+#: Number of wishlist referrals: %s
+msgid "Number of wishlist referrals: %s"
+msgstr "Nombre de référents de la liste d'envies : %s"
+
+#: Number of wishlists: %s
+msgid "Number of wishlists: %s"
+msgstr "Nombre de listes d'envies : %s"
+
+#: Order Status
+msgid "Order Status"
+msgstr "Statut"
+
+#: Order Taxes Report Grouped by Tax Rate
+msgid "Order Taxes Report Grouped by Tax Rate"
+msgstr "Rapport de TVA & taxes groupées par taux de taxe"
+
+#: Orders
+msgid "Orders"
+msgstr "Commandes"
+
+#: Out of stock
+msgid "Out of stock"
+msgstr "Épuisé"
+
+#: Period
+msgid "Period"
+msgstr "Période"
+
+#: Poducts Report
+msgid "Poducts Report"
+msgstr "Rapport produits"
+
+#: Popular Tags
+msgid "Popular Tags"
+msgstr "Mots clés populaires"
+
+#: Popularity
+msgid "Popularity"
+msgstr "Popularité"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Product Reviews
+msgid "Product Reviews"
+msgstr "Commentaires"
+
+#: Product SKU
+msgid "Product SKU"
+msgstr "SKU Produit"
+
+#: Product Tags
+msgid "Product Tags"
+msgstr "Mots clés du produit"
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Products Ordered
+msgid "Products Ordered"
+msgstr "Produits commandés"
+
+#: Products Report
+msgid "Products Report"
+msgstr "Rapport produits"
+
+#: Products Reviews
+msgid "Products Reviews"
+msgstr "Produits commentés"
+
+#: Products Tags
+msgid "Products Tags"
+msgstr "Produits taggés"
+
+#: Products in carts
+msgid "Products in carts"
+msgstr "Produits dans des paniers"
+
+#: Purchases
+msgid "Purchases"
+msgstr "Commandes"
+
+#: Quantity Ordered
+msgid "Quantity Ordered"
+msgstr "Quantité commandée"
+
+#: Quantity of Items
+msgid "Quantity of Items"
+msgstr "Quantité d'articles"
+
+#: Recently Compared
+msgid "Recently Compared"
+msgstr "Dernières comparaisons"
+
+#: Recently Compared Products
+msgid "Recently Compared Products"
+msgstr "Derniers produits comparés"
+
+#: Recently Viewed
+msgid "Recently Viewed"
+msgstr "Vu récemment"
+
+#: Recently Viewed Products
+msgid "Recently Viewed Products"
+msgstr "Derniers produits consultés"
+
+#: Recently Viewed/Compared Products
+msgid "Recently Viewed/Compared Products"
+msgstr "Produits récemment consultés/comparés"
+
+#: Refresh Lifetime Statistics
+msgid "Refresh Lifetime Statistics"
+msgstr "Rafraichir les statistiques depuis le début"
+
+#: Refresh Statistics
+msgid "Refresh Statistics"
+msgstr "Actualiser les statistiques"
+
+#: Refresh Statistics for the Last Day
+msgid "Refresh Statistics for the Last Day"
+msgstr "Rafraichir les statistiques pour le dernier jour"
+
+#: Refunds
+msgid "Refunds"
+msgstr "Remboursements"
+
+#: Report
+msgid "Report"
+msgstr "Rapport"
+
+#: Reports
+msgid "Reports"
+msgstr "Rapports"
+
+#: Results
+msgid "Results"
+msgstr "Résultats"
+
+#: Revenue
+msgid "Revenue"
+msgstr "Revenu"
+
+#: Review
+msgid "Review"
+msgstr "Commentaire"
+
+#: Reviews
+msgid "Reviews"
+msgstr "Commentaires"
+
+#: Reviews for %s
+msgid "Reviews for %s"
+msgstr "Commentaires pour %s"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Sales Report
+msgid "Sales Report"
+msgstr "Rapport des ventes"
+
+#: Search Query
+msgid "Search Query"
+msgstr "Termes de recherche"
+
+#: Search Terms
+msgid "Search Terms"
+msgstr "Termes de recherche"
+
+#: Select day of the month.
+msgid "Select day of the month."
+msgstr "Choisissez le jour du mois."
+
+#: Shipping
+msgid "Shipping"
+msgstr "Livraison"
+
+#: Shopping Cart
+msgid "Shopping Cart"
+msgstr "Panier"
+
+#: Show Actual Values
+msgid "Show Actual Values"
+msgstr "Montrer les valeurs actuelles"
+
+#: Show Report
+msgid "Show Report"
+msgstr "Afficher le rapport"
+
+#: Show for Current
+msgid "Show for Current"
+msgstr "Afficher pour le"
+
+#: Specified
+msgid "Specified"
+msgstr "Spécifié"
+
+#: Statistics
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: Stock Qty
+msgid "Stock Qty"
+msgstr "Quantité en stock"
+
+#: Submitted In
+msgid "Submitted In"
+msgstr "Soumis dans"
+
+#: Submitted On
+msgid "Submitted On"
+msgstr "Soumis le"
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: Tag
+msgid "Tag"
+msgstr "Mot clé"
+
+#: Tag \"%s\" details
+msgid "Tag \"%s\" details"
+msgstr "Détails du tag \"%s\""
+
+#: Tag Detail
+msgid "Tag Detail"
+msgstr "Détail du tag"
+
+#: Tag Name
+msgid "Tag Name"
+msgstr "Nom du mot clé"
+
+#: Tag Use
+msgid "Tag Use"
+msgstr "Utilisation du tag"
+
+#: Tags Submitted by %s
+msgid "Tags Submitted by %s"
+msgstr "Tags soumis par %s"
+
+#: Tags submitted to %s
+msgid "Tags submitted to %s"
+msgstr "Tags soumis pour %s"
+
+#: Tax
+msgid "Tax"
+msgstr "TVA & autres taxes"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: To
+msgid "To"
+msgstr "À"
+
+#: Total
+msgid "Total"
+msgstr "Total"
+
+#: Total Invoiced vs. Paid Report
+msgid "Total Invoiced vs. Paid Report"
+msgstr "Rapport du facturé en fonction du payé"
+
+#: Total Ordered Report
+msgid "Total Ordered Report"
+msgstr "Rapport du total commandé"
+
+#: Total Refunded Report
+msgid "Total Refunded Report"
+msgstr "Rapport des remboursements"
+
+#: Total Shipped Report
+msgid "Total Shipped Report"
+msgstr "Rapport des expéditions"
+
+#: Total Tags
+msgid "Total Tags"
+msgstr "Nb total de tags"
+
+#: Total invoiced
+msgid "Total invoiced"
+msgstr "Total facturé"
+
+#: Total refunded
+msgid "Total refunded"
+msgstr "Total remboursé"
+
+#: Updated At
+msgid "Updated At"
+msgstr "Mise à jour à"
+
+#: Viewed Products Grid Template
+msgid "Viewed Products Grid Template"
+msgstr "Gabarit de grille de produits vus"
+
+#: Viewed Products List Template
+msgid "Viewed Products List Template"
+msgstr "Gabarit de liste de produits vus"
+
+#: Visible In
+msgid "Visible In"
+msgstr "Visible dans"
+
+#: Wishlist Report
+msgid "Wishlist Report"
+msgstr "Listes d'envies"
+
+#: Wishlist vs. Regular Order
+msgid "Wishlist vs. Regular Order"
+msgstr "Liste d'envies vs. Commande normale"
+
+#: Wishlists
+msgid "Wishlists"
+msgstr "Liste d'envies"
+
+#: Year
+msgid "Year"
+msgstr "Année"
+
+#: Year-To-Date Starts
+msgid "Year-To-Date Starts"
+msgstr "L'année en cours commence le"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: Your Recently Compared
+msgid "Your Recently Compared"
+msgstr "Vos dernières comparaisons"
+
+#: Your Recently Viewed
+msgid "Your Recently Viewed"
+msgstr "Derniers articles consultés"
+
+#: undefined
+msgid "undefined"
+msgstr "indéfini"
+
+#: Excel XML
+msgid "Excel XML"
+msgstr "XML d'Excel"
+

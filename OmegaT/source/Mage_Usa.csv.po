@@ -1,0 +1,848 @@
+#:  was not delivered nor scanned
+msgid " was not delivered nor scanned"
+msgstr " n'a été ni livré ni scanné"
+
+#: 1 Day Freight
+msgid "1 Day Freight"
+msgstr "Frêt 1 jour"
+
+#: 2 Day Freight
+msgid "2 Day Freight"
+msgstr "Frêt 2 jours"
+
+#: 2Day
+msgid "2Day"
+msgstr "2 jours"
+
+#: 2nd Day Air
+msgid "2nd Day Air"
+msgstr "2nd Day Air"
+
+#: 2nd Day Air AM
+msgid "2nd Day Air AM"
+msgstr "2nd Day Air AM"
+
+#: 2nd Day Air AM Letter
+msgid "2nd Day Air AM Letter"
+msgstr "2nd Day Air AM Letter"
+
+#: 2nd Day Air Letter
+msgid "2nd Day Air Letter"
+msgstr "2nd Day Air Letter"
+
+#: 3 Day Freight
+msgid "3 Day Freight"
+msgstr "Frêt 3 jours"
+
+#: 3 Day Select
+msgid "3 Day Select"
+msgstr "3 Day Select"
+
+#: Access ID
+msgid "Access ID"
+msgstr "ID d'accès"
+
+#: Access License Number
+msgid "Access License Number"
+msgstr "Numéro de permis d'accès"
+
+#: Account ID
+msgid "Account ID"
+msgstr "ID de compte"
+
+#: Account Number
+msgid "Account Number"
+msgstr "Numéro de compte"
+
+#: Additional Protection Configuration Value
+msgid "Additional Protection Configuration Value"
+msgstr "Valeur de configuration de protection supplémentaire"
+
+#: Additional Protection Enabled
+msgid "Additional Protection Enabled"
+msgstr "Protection supplémentaire activée"
+
+#: Additional Protection Min Subtotal
+msgid "Additional Protection Min Subtotal"
+msgstr "Sous-total mini de protection supplémentaire"
+
+#: Additional Protection Value
+msgid "Additional Protection Value"
+msgstr "Valeur de protection supplémentaire"
+
+#: Additional Protection Value Rounding Method
+msgid "Additional Protection Value Rounding Method"
+msgstr "Méthode d'arrondi de valeur de protection supplémentaire"
+
+#: All Services
+msgid "All Services"
+msgstr "Tous les services"
+
+#: Allowed Methods
+msgid "Allowed Methods"
+msgstr "Modes de livraison autorisés"
+
+#: Bound Printed Matter
+msgid "Bound Printed Matter"
+msgstr "Imprimé"
+
+#: Business Service Center
+msgid "Business Service Center"
+msgstr "Centre de service d'affaires"
+
+#: Calculate Handling Fee
+msgid "Calculate Handling Fee"
+msgstr "Calculer les frais de dossier"
+
+#: Canada Standard
+msgid "Canada Standard"
+msgstr "Canada standard"
+
+#: Cannot retrieve shipping rates
+msgid "Cannot retrieve shipping rates"
+msgstr "Impossible de récupérer les taux de livraison"
+
+#: Commercial
+msgid "Commercial"
+msgstr "Commercial"
+
+#: Configuration
+msgid "Configuration"
+msgstr "Configuration"
+
+#: Container
+msgid "Container"
+msgstr "Container"
+
+#: Customer Packaging
+msgid "Customer Packaging"
+msgstr "Paquet fait par le client"
+
+#: DHL
+msgid "DHL"
+msgstr "DHL"
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Default Package Height
+msgid "Default Package Height"
+msgstr "Hauteur par défaut du paquet"
+
+#: Default Package Length
+msgid "Default Package Length"
+msgstr "Longueur par défaut du paquet"
+
+#: Default Package Width
+msgid "Default Package Width"
+msgstr "Largeur par défaut du paquet"
+
+#: Delivered
+msgid "Delivered"
+msgstr "Livré"
+
+#: Destination Type
+msgid "Destination Type"
+msgstr "Type de destination"
+
+#: Development
+msgid "Development"
+msgstr "Développement"
+
+#: Displayed Error Message
+msgid "Displayed Error Message"
+msgstr "Message d'erreur affiché"
+
+#: Domestic Shipment Days
+msgid "Domestic Shipment Days"
+msgstr "Domestic Shipment Days"
+
+#: Drop Box
+msgid "Drop Box"
+msgstr "Boîte de dépôt"
+
+#: Dropoff
+msgid "Dropoff"
+msgstr "Déposer"
+
+#: Empty response
+msgid "Empty response"
+msgstr "Réponse vide"
+
+#: Enable Negotiated Rates
+msgid "Enable Negotiated Rates"
+msgstr "Activer les taux négociés"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Enables/Disables SSL verification of Magento server by UPS.
+msgid "Enables/Disables SSL verification of Magento server by UPS."
+msgstr "Active/désactive la vérification SSL du server Magento par UPS."
+
+#: Error #%s : %s (%s)
+msgid "Error #%s : %s (%s)"
+msgstr "Erreur n°%s : %s (%s)"
+
+#: Error #%s: %s
+msgid "Error #%s: %s"
+msgstr "Erreur n°%s : %s"
+
+#: Europe First Priority
+msgid "Europe First Priority"
+msgstr "Prioritaire Europe"
+
+#: Express
+msgid "Express"
+msgstr "Express"
+
+#: Express 10:30 AM
+msgid "Express 10:30 AM"
+msgstr "Express 10:30 AM"
+
+#: Express Mail
+msgid "Express Mail"
+msgstr "Courrier Express"
+
+#: Express Saturday
+msgid "Express Saturday"
+msgstr "Samedi Express"
+
+#: Express Saver
+msgid "Express Saver"
+msgstr "Express économe"
+
+#: Failed to parse xml document: %s
+msgid "Failed to parse xml document: %s"
+msgstr "Impossible de parser le document xml : %s"
+
+#: FedEx
+msgid "FedEx"
+msgstr "FedEx"
+
+#: FedEx 10kg Box
+msgid "FedEx 10kg Box"
+msgstr "Boîte 10kg FedEx"
+
+#: FedEx 25kg Box
+msgid "FedEx 25kg Box"
+msgstr "Boîte 25kg FedEx"
+
+#: FedEx Box
+msgid "FedEx Box"
+msgstr "Boîte FedEx"
+
+#: FedEx Envelope
+msgid "FedEx Envelope"
+msgstr "Enveloppe FedEx"
+
+#: FedEx Pak
+msgid "FedEx Pak"
+msgstr "Pack FedEx"
+
+#: FedEx Tube
+msgid "FedEx Tube"
+msgstr "Tube FedEx"
+
+#: First Overnight
+msgid "First Overnight"
+msgstr "Lendemain"
+
+#: First-Class
+msgid "First-Class"
+msgstr "Première classe"
+
+#: Flat
+msgid "Flat"
+msgstr "Plat"
+
+#: Flat-Rate Box
+msgid "Flat-Rate Box"
+msgstr "Boîte taux fixe"
+
+#: Flat-Rate Envelope
+msgid "Flat-Rate Envelope"
+msgstr "Enveloppe taux fixe"
+
+#: Free Method
+msgid "Free Method"
+msgstr "Mode gratuit"
+
+#: Free Shipping with Minimum Order Amount
+msgid "Free Shipping with Minimum Order Amount"
+msgstr "Livraison gratuite avec un montant de commande mini"
+
+#: Gateway URL
+msgid "Gateway URL"
+msgstr "URL de passerelle"
+
+#: Gateway XML URL
+msgid "Gateway XML URL"
+msgstr "URL XML de passerelle"
+
+#: Ground
+msgid "Ground"
+msgstr "Sol"
+
+#: Ground Commercial
+msgid "Ground Commercial"
+msgstr "Ground Commercial"
+
+#: Ground Residential
+msgid "Ground Residential"
+msgstr "Ground Residential"
+
+#: Handling Applied
+msgid "Handling Applied"
+msgstr "Frais de dossier appliqués"
+
+#: Handling Fee
+msgid "Handling Fee"
+msgstr "Frais de traitement"
+
+#: Home Delivery
+msgid "Home Delivery"
+msgstr "Livraison à domicile"
+
+#: International Economy
+msgid "International Economy"
+msgstr "International éco"
+
+#: International Express
+msgid "International Express"
+msgstr "International Express"
+
+#: International First
+msgid "International First"
+msgstr "Premier international"
+
+#: International Priority
+msgid "International Priority"
+msgstr "Priorité internationale"
+
+#: International Shipment Days
+msgid "International Shipment Days"
+msgstr "International Shipment Days"
+
+#: Intl Economy Freight
+msgid "Intl Economy Freight"
+msgstr "Frêt éco international"
+
+#: Intl Priority Freight
+msgid "Intl Priority Freight"
+msgstr "Frêt prioritaire international"
+
+#: Invalid DHL XML code for type %s: %s.
+msgid "Invalid DHL XML code for type %s: %s."
+msgstr "Code XML DHL invalide pour le type %s : %s."
+
+#: Invalid DHL XML code type: %s.
+msgid "Invalid DHL XML code type: %s."
+msgstr "Type de code XML DHL invalide : %s."
+
+#: Invalid FedEx XML code for type %s: %s
+msgid "Invalid FedEx XML code for type %s: %s"
+msgstr "Code XML FedEx non valide pour le type %s : %s"
+
+#: Invalid FedEx XML code type: %s
+msgid "Invalid FedEx XML code type: %s"
+msgstr "Type de code XML FedEx non valide : %s"
+
+#: Invalid UPS CGI code for type %s: %s
+msgid "Invalid UPS CGI code for type %s: %s"
+msgstr "Code CGI UPS non valide pour le type %s : %s"
+
+#: Invalid UPS CGI code type: %s
+msgid "Invalid UPS CGI code type: %s"
+msgstr "Type de code CGI UPS non valide : %s"
+
+#: Invalid USPS XML code for type %s: %s
+msgid "Invalid USPS XML code for type %s: %s"
+msgstr "Code XML USPS non valide pour le type %s : %s"
+
+#: Invalid USPS XML code type: %s
+msgid "Invalid USPS XML code type: %s"
+msgstr "Type de code XML USPS non valide : %s"
+
+#: Kilograms
+msgid "Kilograms"
+msgstr "Kilos"
+
+#: Large
+msgid "Large"
+msgstr "Grand"
+
+#: Letter
+msgid "Letter"
+msgstr "Lettre"
+
+#: Library
+msgid "Library"
+msgstr "Bibliothèque"
+
+#: Live
+msgid "Live"
+msgstr "En production"
+
+#: Machinable
+msgid "Machinable"
+msgstr "Machinable"
+
+#: Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)
+msgid "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)"
+msgstr "Poids maxi du paquet (consultez votre transporteur)"
+
+#: Media Mail
+msgid "Media Mail"
+msgstr "Courrier media"
+
+#: Minimum Order Amount for Free Shipping
+msgid "Minimum Order Amount for Free Shipping"
+msgstr "Montant de commande mini pour la livraison gratuite"
+
+#: Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)
+msgid "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)"
+msgstr "Poids mini du paquet (consultez votre transporteur)"
+
+#: Mode
+msgid "Mode"
+msgstr "Mode"
+
+#: Next Afternoon
+msgid "Next Afternoon"
+msgstr "Après-midi suivante"
+
+#: Next Day Air
+msgid "Next Day Air"
+msgstr "Next Day Air"
+
+#: Next Day Air Early AM
+msgid "Next Day Air Early AM"
+msgstr "Next Day Air Early AM"
+
+#: Next Day Air Early AM Letter
+msgid "Next Day Air Early AM Letter"
+msgstr "Next Day Air Early AM Letter"
+
+#: Next Day Air Intra (Puerto Rico)
+msgid "Next Day Air Intra (Puerto Rico)"
+msgstr "Next Day Air Intra (Puerto Rico)"
+
+#: Next Day Air Letter
+msgid "Next Day Air Letter"
+msgstr "Next Day Air Letter"
+
+#: Next Day Air Saver
+msgid "Next Day Air Saver"
+msgstr "Next Day Air Saver"
+
+#: Next Day Air Saver Letter
+msgid "Next Day Air Saver Letter"
+msgstr "Next Day Air Saver Letter"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Non-rectangular
+msgid "Non-rectangular"
+msgstr "Non rectangulaire"
+
+#: Order
+msgid "Order"
+msgstr "Commande"
+
+#: Origin of the Shipment
+msgid "Origin of the Shipment"
+msgstr "Origine de la livraison"
+
+#: Oversize
+msgid "Oversize"
+msgstr "Trop grand"
+
+#: Package
+msgid "Package"
+msgstr "Interface"
+
+#: Package Description
+msgid "Package Description"
+msgstr "Description du paquet"
+
+#: Packaging
+msgid "Packaging"
+msgstr "Emballage"
+
+#: Parcel
+msgid "Parcel"
+msgstr "Colis"
+
+#: Parcel Post
+msgid "Parcel Post"
+msgstr "Colis postal"
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Pickup Method
+msgid "Pickup Method"
+msgstr "Retrait"
+
+#: Please enter the package weight
+msgid "Please enter the package weight"
+msgstr "Saisissez le poids du paquet"
+
+#: Please make sure to use only digits here. No dashes are allowed.
+msgid "Please make sure to use only digits here. No dashes are allowed."
+msgstr "Veuillez utiliser uniquement des chiffres. Les tirets ne sont pas acceptés."
+
+#: Pounds
+msgid "Pounds"
+msgstr "Livres"
+
+#: Priority Mail
+msgid "Priority Mail"
+msgstr "Courrier prioritaire"
+
+#: Priority Overnight
+msgid "Priority Overnight"
+msgstr "Lendemain (prioritaire)"
+
+#: Receiver
+msgid "Receiver"
+msgstr "Destinataire"
+
+#: Rectangular
+msgid "Rectangular"
+msgstr "Rectangulaire"
+
+#: Regular
+msgid "Regular"
+msgstr "Régulier"
+
+#: Regular Pickup
+msgid "Regular Pickup"
+msgstr "Ramassage régulier"
+
+#: Request Courier
+msgid "Request Courier"
+msgstr "Demander un coursier"
+
+#: Residential
+msgid "Residential"
+msgstr "Residential"
+
+#: Residential Delivery
+msgid "Residential Delivery"
+msgstr "Residential Delivery"
+
+#: Response is in the wrong format
+msgid "Response is in the wrong format"
+msgstr "La réponse n'est pas dans le bon format"
+
+#: Round
+msgid "Round"
+msgstr "Arrondi"
+
+#: Second Day Service
+msgid "Second Day Service"
+msgstr "Service deuxième jour"
+
+#: Sender
+msgid "Sender"
+msgstr "Expéditeur"
+
+#: Ship to Applicable Countries
+msgid "Ship to Applicable Countries"
+msgstr "Livrer aux pays applicables"
+
+#: Ship to Specific Countries
+msgid "Ship to Specific Countries"
+msgstr "Livrer aux pays spécifiques"
+
+#: Shipment Contains Hazardous Materials
+msgid "Shipment Contains Hazardous Materials"
+msgstr "La livraison comprend des produits dangereux"
+
+#: Shipment Dutiable
+msgid "Shipment Dutiable"
+msgstr "Livraison taxable"
+
+#: Shipment Duty Payment Type
+msgid "Shipment Duty Payment Type"
+msgstr "Type de paiement de taxe de livraison"
+
+#: Shipment Type
+msgid "Shipment Type"
+msgstr "Type de livraison"
+
+#: Shipment is not available.
+msgid "Shipment is not available."
+msgstr "La livraison n'est pas disponible."
+
+#: Shipment picked up
+msgid "Shipment picked up"
+msgstr "Colis récupéré"
+
+#: Shipper Number
+msgid "Shipper Number"
+msgstr "Numéro du livreur"
+
+#: Shipping Key
+msgid "Shipping Key"
+msgstr "Clé de livraison"
+
+#: Shipping Key (International)
+msgid "Shipping Key (International)"
+msgstr "Clé de livraison (international)"
+
+#: Show Method if Not Applicable
+msgid "Show Method if Not Applicable"
+msgstr "Afficher le mode s'il n'est pas applicable"
+
+#: Size
+msgid "Size"
+msgstr "Taille"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Standard Overnight
+msgid "Standard Overnight"
+msgstr "Standard Overnight"
+
+#: Station
+msgid "Station"
+msgstr "Gare"
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: Subtotal With Discount
+msgid "Subtotal With Discount"
+msgstr "Sous-total avec remise"
+
+#: The response is in wrong format.
+msgid "The response is in wrong format."
+msgstr "La réponse n'est pas dans le bon format."
+
+#: There is no available method for selected shipping address.
+msgid "There is no available method for selected shipping address."
+msgstr "Il n'y a pas de mode disponible pour l'adresse de livraison choisie."
+
+#: Third Party
+msgid "Third Party"
+msgstr "Tiers"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: To Lower
+msgid "To Lower"
+msgstr "Vers le bas"
+
+#: To Upper
+msgid "To Upper"
+msgstr "Vers le haut"
+
+#: Tracking XML URL
+msgid "Tracking XML URL"
+msgstr "URL XML de suivi"
+
+#: UPS
+msgid "UPS"
+msgstr "UPS"
+
+#: UPS Expedited
+msgid "UPS Expedited"
+msgstr "UPS Expedited"
+
+#: UPS Express
+msgid "UPS Express"
+msgstr "UPS Express"
+
+#: UPS Express Box
+msgid "UPS Express Box"
+msgstr "UPS Express Box"
+
+#: UPS Express Early A.M.
+msgid "UPS Express Early A.M."
+msgstr "UPS Express Early A.M."
+
+#: UPS Express Plus
+msgid "UPS Express Plus"
+msgstr "UPS Express Plus"
+
+#: UPS Ground
+msgid "UPS Ground"
+msgstr "UPS Ground"
+
+#: UPS Letter Envelope
+msgid "UPS Letter Envelope"
+msgstr "UPS Letter Envelope"
+
+#: UPS Next Day Air
+msgid "UPS Next Day Air"
+msgstr "UPS Next Day Air"
+
+#: UPS Next Day Air Early A.M.
+msgid "UPS Next Day Air Early A.M."
+msgstr "UPS Next Day Air Early A.M."
+
+#: UPS Next Day Air Saver
+msgid "UPS Next Day Air Saver"
+msgstr "UPS Next Day Air Saver"
+
+#: UPS Saver
+msgid "UPS Saver"
+msgstr "UPS Saver"
+
+#: UPS Second Day Air
+msgid "UPS Second Day Air"
+msgstr "UPS Second Day Air"
+
+#: UPS Second Day Air A.M.
+msgid "UPS Second Day Air A.M."
+msgstr "UPS Second Day Air A.M."
+
+#: UPS Standard
+msgid "UPS Standard"
+msgstr "UPS Standard"
+
+#: UPS Three-Day Select
+msgid "UPS Three-Day Select"
+msgstr "UPS Three-Day Select"
+
+#: UPS Today Dedicated Courrier
+msgid "UPS Today Dedicated Courrier"
+msgstr "UPS Today Dedicated Courrier"
+
+#: UPS Today Express
+msgid "UPS Today Express"
+msgstr "UPS Today Express"
+
+#: UPS Today Express Saver
+msgid "UPS Today Express Saver"
+msgstr "UPS Today Express Saver"
+
+#: UPS Today Intercity
+msgid "UPS Today Intercity"
+msgstr "UPS Today Intercity"
+
+#: UPS Today Standard
+msgid "UPS Today Standard"
+msgstr "UPS Today Standard"
+
+#: UPS Tube
+msgid "UPS Tube"
+msgstr "UPS Tube"
+
+#: UPS Type
+msgid "UPS Type"
+msgstr "UPS Type"
+
+#: UPS Worldwide 10 kilo
+msgid "UPS Worldwide 10 kilo"
+msgstr "UPS Worldwide 10 kilo"
+
+#: UPS Worldwide 25 kilo
+msgid "UPS Worldwide 25 kilo"
+msgstr "UPS Worldwide 25 kilo"
+
+#: UPS Worldwide Expedited
+msgid "UPS Worldwide Expedited"
+msgstr "UPS Worldwide Expedited"
+
+#: UPS Worldwide Express
+msgid "UPS Worldwide Express"
+msgstr "UPS Worldwide Express"
+
+#: UPS Worldwide Express Plus
+msgid "UPS Worldwide Express Plus"
+msgstr "UPS Worldwide Express Plus"
+
+#: UPS Worldwide Express PlusSM
+msgid "UPS Worldwide Express PlusSM"
+msgstr "UPS Worldwide Express PlusSM"
+
+#: USPS
+msgid "USPS"
+msgstr "USPS"
+
+#: Unable to retrieve tracking
+msgid "Unable to retrieve tracking"
+msgstr "Impossible de récupérer les informations de suivi"
+
+#: United Parcel Service
+msgid "United Parcel Service"
+msgstr "United Parcel Service"
+
+#: United Parcel Service XML
+msgid "United Parcel Service XML"
+msgstr "XML UPS"
+
+#: Unknown error
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+#: Used only when \"Additional Protection Value\" is set to \"Configuration\". Can contain only numeric amount.
+msgid "Used only when \"Additional Protection Value\" is set to \"Configuration\". Can contain only numeric amount."
+msgstr "Utilisé uniquement si \"Valeur de protection supplémentaire\" est fixé à \"Configuration\". Ne peut obtenir que des montants numériques."
+
+#: User ID
+msgid "User ID"
+msgstr "ID utilisateur"
+
+#: UserId
+msgid "UserId"
+msgstr "ID utilisateur"
+
+#: Variable
+msgid "Variable"
+msgstr "Variable"
+
+#: Weight Unit
+msgid "Weight Unit"
+msgstr "Unité de poids"
+
+#: Worldwide Expedited
+msgid "Worldwide Expedited"
+msgstr "Worldwide Expedited"
+
+#: Worldwide Express
+msgid "Worldwide Express"
+msgstr "Worldwide Express"
+
+#: Worldwide Express Letter
+msgid "Worldwide Express Letter"
+msgstr "Worldwide Express Letter"
+
+#: Worldwide Express Plus
+msgid "Worldwide Express Plus"
+msgstr "Worldwide Express Plus"
+
+#: Worldwide Express Plus Letter
+msgid "Worldwide Express Plus Letter"
+msgstr "Worldwide Express Plus Letter"
+
+#: Worldwide Express Saver
+msgid "Worldwide Express Saver"
+msgstr "Worldwide Express Saver"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: Your Packaging
+msgid "Your Packaging"
+msgstr "Votre paquet"
+
+#: was not delivered nor scanned
+msgid "was not delivered nor scanned"
+msgstr "n'a été ni livré ni scanné"
+

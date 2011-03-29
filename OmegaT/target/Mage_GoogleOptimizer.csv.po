@@ -1,0 +1,132 @@
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: Account Registration
+msgid "Account Registration"
+msgstr "Inscription de compte"
+
+#: All fields of script types have to be filled.
+msgid "All fields of script types have to be filled."
+msgstr "Tous les champs des types de script doivent être renseignés."
+
+#: Attributes
+msgid "Attributes"
+msgstr "Attributs"
+
+#: Category View Optimization
+msgid "Category View Optimization"
+msgstr "Optimisation de vue de catégorie"
+
+#: Control Script
+msgid "Control Script"
+msgstr "Script de contrôle"
+
+#: Conversion Page
+msgid "Conversion Page"
+msgstr "Page de conversion"
+
+#: Conversion Page URL
+msgid "Conversion Page URL"
+msgstr "URL de la page de conversion"
+
+#: Conversion Script
+msgid "Conversion Script"
+msgstr "Script de conversion"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: Google Optimizer Scripts
+msgid "Google Optimizer Scripts"
+msgstr "Scripts Google Optimizer"
+
+#: Google Website Optimizer
+msgid "Google Website Optimizer"
+msgstr "Google Website Optimizer"
+
+#: Install Scripts
+msgid "Install Scripts"
+msgstr "Installer les scripts"
+
+#: Multi Address Checkout
+msgid "Multi Address Checkout"
+msgstr "Passage de commande à adresses multiples"
+
+#: One Page Checkout
+msgid "One Page Checkout"
+msgstr "Passage de commande en une seule page"
+
+#: Order Success (Multi Address Checkout)
+msgid "Order Success (Multi Address Checkout)"
+msgstr "Commande réussie (Passage de commande à adresses multiples)"
+
+#: Order Success (One Page Checkout)
+msgid "Order Success (One Page Checkout)"
+msgstr "Commande réussie (Passage de commande en une seule page)"
+
+#: Original Page
+msgid "Original Page"
+msgstr "Page originale"
+
+#: Other
+msgid "Other"
+msgstr "Autre"
+
+#: Page Type
+msgid "Page Type"
+msgstr "Type de page"
+
+#: Page View Optimization
+msgid "Page View Optimization"
+msgstr "Optimisation de page de vue"
+
+#: Please copy and paste this value to experiment edit form
+msgid "Please copy and paste this value to experiment edit form"
+msgstr "Copier/coller cette valeur pour tester le formulaire d'édition"
+
+#: Please copy and paste this value to experiment edit form.
+msgid "Please copy and paste this value to experiment edit form."
+msgstr "Copier/coller cette valeur pour tester le formulaire d'édition"
+
+#: Please select store view to see the URL
+msgid "Please select store view to see the URL"
+msgstr "Sélectionnez la vue magasin pour voir l'URL"
+
+#: Please select store view to see the URL.
+msgid "Please select store view to see the URL."
+msgstr "Sélectionnez la vue magasin pour voir l'URL"
+
+#: Product View Optimization
+msgid "Product View Optimization"
+msgstr "Optimisation de vue de produit"
+
+#: Scripts Install URL
+msgid "Scripts Install URL"
+msgstr "URL d'installation de scripts"
+
+#: Shopping Cart
+msgid "Shopping Cart"
+msgstr "Panier"
+
+#: The limit is 8 attributes only.
+msgid "The limit is 8 attributes only."
+msgstr "La limite est de 8 attributs seulement."
+
+#: Tracking Script
+msgid "Tracking Script"
+msgstr "Script de suivi"
+
+#: Use Default
+msgid "Use Default"
+msgstr "Utiliser la valeur par défaut"
+
+#: Use Default Values
+msgid "Use Default Values"
+msgstr "Utiliser les valeurs par défaut"
+
+#: Variant Page
+msgid "Variant Page"
+msgstr "Page de variante"
+

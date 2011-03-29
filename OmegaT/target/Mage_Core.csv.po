@@ -1,0 +1,1488 @@
+#: %s
+msgid "%s"
+msgstr "%s"
+
+#: %s already exists
+msgid "%s already exists"
+msgstr "%s existe déjà"
+
+#: %s already exists.
+msgid "%s already exists."
+msgstr "%s existe déjà."
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: A category object is required for determining the product request path.
+msgid "A category object is required for determining the product request path."
+msgstr "Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit."
+
+#: Add Block Names to Hints
+msgid "Add Block Names to Hints"
+msgstr "Ajouter les noms des blocs aux astuces"
+
+#: Add Secret Key to URLs
+msgid "Add Secret Key to URLs"
+msgstr "Ajouter une clé secrète aux URLs"
+
+#: Add Store Code to Urls
+msgid "Add Store Code to Urls"
+msgstr "Ajouter le code du magasin aux URLs"
+
+#: Admin
+msgid "Admin"
+msgstr "Administration"
+
+#: Admin Base URL
+msgid "Admin Base URL"
+msgstr "URL de base de l'admin"
+
+#: Admin User Emails
+msgid "Admin User Emails"
+msgstr "Emails de l'administrateur"
+
+#: Advanced
+msgid "Advanced"
+msgstr "Avancé"
+
+#: Allow Countries
+msgid "Allow Countries"
+msgstr "Autoriser les pays"
+
+#: Allowed IPs (comma separated)
+msgid "Allowed IPs (comma separated)"
+msgstr "IPs autorisées (séparées par des virgules)"
+
+#: Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!
+msgid "Allowed file types: ICO, PNG, GIF, JPEG, APNG, SVG. Not all browsers support all these formats!"
+msgstr "Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs."
+
+#: Allows customers to stay logged in when switching between different stores.
+msgid "Allows customers to stay logged in when switching between different stores."
+msgstr "Permet aux clients de rester connectés s'ils basculent entre les différentes boutiques."
+
+#: Alternative text for next link in pagination menu. If empty, default arrow image will used.
+msgid "Alternative text for next link in pagination menu. If empty, default arrow image will used."
+msgstr "Texte alternatif pour le lien « suivant » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par défaut qui sera utilisée."
+
+#: Alternative text for previous link in pagination menu. If empty, default arrow image will used.
+msgid "Alternative text for previous link in pagination menu. If empty, default arrow image will used."
+msgstr "Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par défaut qui sera utilisée."
+
+#: An error occurred while saving. Please review the error log.
+msgid "An error occurred while saving. Please review the error log."
+msgstr "Erreur lors de la sauvegarde. Vérifiez les logs."
+
+#: Anchor Text for Next
+msgid "Anchor Text for Next"
+msgstr "Texte d'ancrage pour Suivant"
+
+#: Anchor Text for Previous
+msgid "Anchor Text for Previous"
+msgstr "Texte d'ancrage pour Précédent"
+
+#: Anchor symbol (#) is not supported in request path
+msgid "Anchor symbol (#) is not supported in request path"
+msgstr "Le symbole dièse (#) n'est pas supporté dans le chemin de requête"
+
+#: Anchor symbol (#) is not supported in url rewrite suffix
+msgid "Anchor symbol (#) is not supported in url rewrite suffix"
+msgstr "Le symbole dièse (#) n'est pas supporté le suffixe de réécriture d'url"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Auto-redirect to Base URL
+msgid "Auto-redirect to Base URL"
+msgstr "Rediriger automatiquement vers l'URL de base"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Backup Options
+msgid "Backup Options"
+msgstr "Options de sauvegarde"
+
+#: Base JavaScript URL
+msgid "Base JavaScript URL"
+msgstr "URL de base Javascript"
+
+#: Base Link URL
+msgid "Base Link URL"
+msgstr "URL de base lien"
+
+#: Base Media URL
+msgid "Base Media URL"
+msgstr "URL de base Media"
+
+#: Base Skin URL
+msgid "Base Skin URL"
+msgstr "URL de base du design"
+
+#: Base URL
+msgid "Base URL"
+msgstr "URL de base"
+
+#: Before modifying the store view code please make sure that it is not used in index.php.
+msgid "Before modifying the store view code please make sure that it is not used in index.php."
+msgstr "Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+
+#: Before modifying the website code please make sure that it is not used in index.php.
+msgid "Before modifying the website code please make sure that it is not used in index.php."
+msgstr "Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+
+#: Block with name \"%s\" already exists
+msgid "Block with name \"%s\" already exists"
+msgstr "Un bloc portant le nom \"%s\" existe déjà"
+
+#: Browser Capabilities Detection
+msgid "Browser Capabilities Detection"
+msgstr "Détection des capacités du navigateur"
+
+#: CSS Settings
+msgid "CSS Settings"
+msgstr "Paramètres CSS"
+
+#: Cache Storage Management
+msgid "Cache Storage Management"
+msgstr "Gestion du cache"
+
+#: Cache storage may contain another data. Are you sure that you want flush it?
+msgid "Cache storage may contain another data. Are you sure that you want flush it?"
+msgstr "Le stockage de cache peut contenir d\\'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
+
+#: Can't retrieve request object
+msgid "Can't retrieve request object"
+msgstr "Impossible de récupérer l'objet de requête"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Cannot complete this operation from non-admin area.
+msgid "Cannot complete this operation from non-admin area."
+msgstr "Impossible d'accomplir cette opération en dehors de la section d'admin."
+
+#: Cannot retrieve entity config: %s
+msgid "Cannot retrieve entity config: %s"
+msgstr "Impossible de retrouver la configuration de l'entité : %s"
+
+#: Card type does not match credit card number.
+msgid "Card type does not match credit card number."
+msgstr "Le type de carte ne correspond pas au numéro de carte."
+
+#: Code
+msgid "Code"
+msgstr "Code"
+
+#: Controller file was loaded but class does not exist
+msgid "Controller file was loaded but class does not exist"
+msgstr "Le fichier de controller a été chargé mais la classe n'existe pas"
+
+#: Cookie Domain
+msgid "Cookie Domain"
+msgstr "Domaine du cookie"
+
+#: Cookie Lifetime
+msgid "Cookie Lifetime"
+msgstr "Durée de vie des cookies"
+
+#: Cookie Path
+msgid "Cookie Path"
+msgstr "Chemin du cookie"
+
+#: Copyright
+msgid "Copyright"
+msgstr "Copyright"
+
+#: Countries Options
+msgid "Countries Options"
+msgstr "Options de pays"
+
+#: Create Store
+msgid "Create Store"
+msgstr "Créer un magasin"
+
+#: Create Store View
+msgid "Create Store View"
+msgstr "Créer une vue magasin"
+
+#: Create Website
+msgid "Create Website"
+msgstr "Créer un site web"
+
+#: Credit card number does not match credit card type.
+msgid "Credit card number does not match credit card type."
+msgstr "Le numéro de carte ne correspond pas au type de carte."
+
+#: Current Package Name
+msgid "Current Package Name"
+msgstr "Nom de l'interface"
+
+#: Custom Admin URL
+msgid "Custom Admin URL"
+msgstr "URL d'admin personnalisé"
+
+#: Custom Design
+msgid "Custom Design"
+msgstr "Design personnalisé"
+
+#: Custom Email 1
+msgid "Custom Email 1"
+msgstr "Email personnalisé 1"
+
+#: Custom Email 2
+msgid "Custom Email 2"
+msgstr "Email personnalisé 2"
+
+#: Custom Variables
+msgid "Custom Variables"
+msgstr "Variables personnalisées"
+
+#: Customer Support
+msgid "Customer Support"
+msgstr "Support client"
+
+#: Dashboard
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: Date From
+msgid "Date From"
+msgstr "Entre le"
+
+#: Date To
+msgid "Date To"
+msgstr "et le"
+
+#: Date/time format \"%s\" is not supported.
+msgid "Date/time format \"%s\" is not supported."
+msgstr "Le format de date/heure \"%s\" n'est pas supporté."
+
+#: Debug
+msgid "Debug"
+msgstr "Déboguage"
+
+#: Default
+msgid "Default"
+msgstr "Par défaut"
+
+#: Default Country
+msgid "Default Country"
+msgstr "Pays par défaut"
+
+#: Default Description
+msgid "Default Description"
+msgstr "Description par défaut"
+
+#: Default Keywords
+msgid "Default Keywords"
+msgstr "Mots-clés par défaut"
+
+#: Default No-route URL
+msgid "Default No-route URL"
+msgstr "URL par défaut de la page pour une ressource non trouvée"
+
+#: Default Pages
+msgid "Default Pages"
+msgstr "Pages par défaut"
+
+#: Default Robots
+msgid "Default Robots"
+msgstr "Robots par défaut"
+
+#: Default Store
+msgid "Default Store"
+msgstr "Magasin par défaut"
+
+#: Default Store View
+msgid "Default Store View"
+msgstr "Vue magasin par défaut"
+
+#: Default Title
+msgid "Default Title"
+msgstr "Titre par défaut"
+
+#: Default Web URL
+msgid "Default Web URL"
+msgstr "URL web par défaut"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Store
+msgid "Delete Store"
+msgstr "Supprimer le magasin"
+
+#: Delete Store View
+msgid "Delete Store View"
+msgstr "Effacer la vue magasin"
+
+#: Delete Website
+msgid "Delete Website"
+msgstr "Supprimer le site web"
+
+#: Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s.
+msgid "Deleting a %1$s will not delete the information associated with the %1$s (e.g. categories, products, etc.), but the %1$s will not be able to be restored. It is suggested that you create a database backup before deleting the %1$s."
+msgstr "Effacer un %1$s n'effacera pas les informations associées avec le %1$s (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1$s. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1$s."
+
+#: Design
+msgid "Design"
+msgstr "Design"
+
+#: Design Change
+msgid "Design Change"
+msgstr "Changement de design"
+
+#: Developer
+msgid "Developer"
+msgstr "Développeur"
+
+#: Developer Client Restrictions
+msgid "Developer Client Restrictions"
+msgstr "Restrictions client développeur"
+
+#: Disable Email Communications
+msgid "Disable Email Communications"
+msgstr "Désactiver les envois d'email"
+
+#: Disable Modules Output
+msgid "Disable Modules Output"
+msgstr "Désactiver la sortie des modules"
+
+#: Display Demo Store Notice
+msgid "Display Demo Store Notice"
+msgstr "Afficher le message d'avertissement de boutique de démo"
+
+#: Duplicate Of Template Name
+msgid "Duplicate Of Template Name"
+msgstr "Duplication du nom de gabarit"
+
+#: Edit Design Change
+msgid "Edit Design Change"
+msgstr "Éditer le changement de design"
+
+#: Edit Store
+msgid "Edit Store"
+msgstr "Modifier le magasin"
+
+#: Edit Store View
+msgid "Edit Store View"
+msgstr "Éditer la vue magasin"
+
+#: Edit Website
+msgid "Edit Website"
+msgstr "Modifier le site web"
+
+#: Empty identifier field name
+msgid "Empty identifier field name"
+msgstr "Vider le nom du champ d'identifiant"
+
+#: Empty main table name
+msgid "Empty main table name"
+msgstr "Nom de table principale vide"
+
+#: Enable Charts
+msgid "Enable Charts"
+msgstr "Activer les graphiques"
+
+#: Enable Prototype Deprecation Log
+msgid "Enable Prototype Deprecation Log"
+msgstr "Activer le log de dépréciation Prototype"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Enabled for Admin
+msgid "Enabled for Admin"
+msgstr "Activée pour l'admin"
+
+#: Enabled for Frontend
+msgid "Enabled for Frontend"
+msgstr "Activée pour le frontend"
+
+#: Error in file: \"%s\" - %s
+msgid "Error in file: \"%s\" - %s"
+msgstr "Erreur dans le fichier : \"%s\" - %s"
+
+#: Error: Passwords do not match
+msgid "Error: Passwords do not match"
+msgstr "Erreur : les mots de passe sont différents"
+
+#: Exceptions Log File Name
+msgid "Exceptions Log File Name"
+msgstr "Nom du fichier de log d'exceptions"
+
+#: Favicon Icon
+msgid "Favicon Icon"
+msgstr "Icône favicon"
+
+#: First Day of Week
+msgid "First Day of Week"
+msgstr "Premier jour de la semaine"
+
+#: Flush Cache Storage
+msgid "Flush Cache Storage"
+msgstr "Purger le stockage du cache"
+
+#: Flush Magento Cache
+msgid "Flush Magento Cache"
+msgstr "Purger le cache Magento"
+
+#: Footer
+msgid "Footer"
+msgstr "Pied de page"
+
+#: Forgot Password Email Sender
+msgid "Forgot Password Email Sender"
+msgstr "Expéditeur du mail d'oubli de mot de passe"
+
+#: Forgot Password Email Template
+msgid "Forgot Password Email Template"
+msgstr "Gabarit du mail d'oubli de mot de passe"
+
+#: General
+msgid "General"
+msgstr "Général"
+
+#: General Contact
+msgid "General Contact"
+msgstr "Contact général"
+
+#: General Settings
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: Global
+msgid "Global"
+msgstr "Global"
+
+#: HTML Head
+msgid "HTML Head"
+msgstr "En-tête HTML"
+
+#: Header
+msgid "Header"
+msgstr "En-tête"
+
+#: Host
+msgid "Host"
+msgstr "Serveur"
+
+#: How many links to display at once.
+msgid "How many links to display at once."
+msgstr "Nombre de liens à afficher à la fois."
+
+#: ID Path for Specified Store
+msgid "ID Path for Specified Store"
+msgstr "Identifiant de chemin pour le magasin spécifié"
+
+#: If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.
+msgid "If the current frame position does not cover utmost pages, will render link to current position plus/minus this value."
+msgstr "Si la trame de pagination ne couvre pas les pages aux extrémités, Magento affichera les liens vers la page en cours plus ou moins la valeur ci-dessus."
+
+#: Incorrect credit card expiration date.
+msgid "Incorrect credit card expiration date."
+msgstr "Mauvaise date d'expiration de carte de crédit."
+
+#: Invalid base url type
+msgid "Invalid base url type"
+msgstr "Type d'URL de base invalide"
+
+#: Invalid block name to set child %s: %s
+msgid "Invalid block name to set child %s: %s"
+msgstr "Nom de bloc non valide pour rattacher l'enfant %s : %s"
+
+#: Invalid block type: %s
+msgid "Invalid block type: %s"
+msgstr "Type de bloc non valide : %s"
+
+#: Invalid block: %s
+msgid "Invalid block: %s"
+msgstr "Bloc non valide : %s"
+
+#: Invalid layout update handle
+msgid "Invalid layout update handle"
+msgstr "Manipulation de mise à jour de l'agencement non valide"
+
+#: Invalid messages storage \"%s\" for layout messages initialization
+msgid "Invalid messages storage \"%s\" for layout messages initialization"
+msgstr "Stockage des messages \"%s\" invalide pour l'initialisation des messages d'agencement"
+
+#: Invalid transactional email code: 
+msgid "Invalid transactional email code: "
+msgstr "Code d'email transactionnel invalide : "
+
+#: Invalid website\'s configuration path: %s
+msgid "Invalid website\'s configuration path: %s"
+msgstr "Chemin de configuration de site web invalide : %s"
+
+#: JavaScript Settings
+msgid "JavaScript Settings"
+msgstr "Paramètres JavaScript"
+
+#: Layout
+msgid "Layout"
+msgstr "Agencement"
+
+#: Leave empty for access from any location.
+msgid "Leave empty for access from any location."
+msgstr "Laissez vide si vous souhaitez y accéder depuis n'importe où."
+
+#: Locale
+msgid "Locale"
+msgstr "Profil local"
+
+#: Locale Options
+msgid "Locale Options"
+msgstr "Options de localisation"
+
+#: Log Settings
+msgid "Log Settings"
+msgstr "Paramètres de log"
+
+#: Logging from Mage::log(). File is located in {{base_dir}}/var/log
+msgid "Logging from Mage::log(). File is located in {{base_dir}}/var/log"
+msgstr "Log depuis Mage::log(). Le fichier se trouve dans {{base_dir}}/var/log"
+
+#: Logging from Mage::logException(). File is located in {{base_dir}}/var/log
+msgid "Logging from Mage::logException(). File is located in {{base_dir}}/var/log"
+msgstr "Log depuis Mage::logException(). Le fichier se trouve dans {{base_dir}}/var/log"
+
+#: Login is Case Sensitive
+msgid "Login is Case Sensitive"
+msgstr "L'identifiant utilisateur est sensible à la casse"
+
+#: Logo Image Alt
+msgid "Logo Image Alt"
+msgstr "Texte alternatif du logo"
+
+#: Logo Image Src
+msgid "Logo Image Src"
+msgstr "Source du logo"
+
+#: Mail Sending Settings
+msgid "Mail Sending Settings"
+msgstr "Paramètres d'envoi des emails"
+
+#: Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/
+msgid "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/"
+msgstr "Assurez-vous que l'URL se termine par un '/' (slash), par ex. http://votredomains/magento/"
+
+#: Manage Stores
+msgid "Manage Stores"
+msgstr "Gestion des magasins"
+
+#: Match expressions in the same order as displayed in the configuration.
+msgid "Match expressions in the same order as displayed in the configuration."
+msgstr "Faire coïncider les expressions dans l'ordre d'affichage de la configuration."
+
+#: Maximum length exceeded.
+msgid "Maximum length exceeded."
+msgstr "Dépassement de la longueur maximum"
+
+#: Merge CSS Files (beta)
+msgid "Merge CSS Files (beta)"
+msgstr "Fusionner les fichiers CSS (beta)"
+
+#: Merge JavaScript Files
+msgid "Merge JavaScript Files"
+msgstr "Fusionner les fichiers javascript"
+
+#: Miscellaneous HTML
+msgid "Miscellaneous HTML"
+msgstr "Code HTML divers"
+
+#: Miscellaneous Scripts
+msgid "Miscellaneous Scripts"
+msgstr "Scripts divers"
+
+#: Model class does not exist: %s.
+msgid "Model class does not exist: %s."
+msgstr "La classe modèle n'existe pas : %s."
+
+#: Model collection resource name is not defined.
+msgid "Model collection resource name is not defined."
+msgstr "Le nom de ressource de collection n'est pas défini."
+
+#: Module \"%1$s\" cannot depend on \"%2$s\".
+msgid "Module \"%1$s\" cannot depend on \"%2$s\"."
+msgstr "Le module \"%1$s\" ne peut pas dépendre de \"%2$s\"."
+
+#: Module \"%1$s\" requires module \"%2$s\".
+msgid "Module \"%1$s\" requires module \"%2$s\"."
+msgstr "Le module \"%1$s\" nécessite le module \"%2$s\"."
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New Design Change
+msgid "New Design Change"
+msgstr "Nouveau changement de design"
+
+#: New Store
+msgid "New Store"
+msgstr "Nouveau magasin"
+
+#: New Store View
+msgid "New Store View"
+msgstr "Nouvelle vue magasin"
+
+#: New Website
+msgid "New Website"
+msgstr "Nouveau site web"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Package
+msgid "Package"
+msgstr "Interface"
+
+#: Pagination
+msgid "Pagination"
+msgstr "Pagination"
+
+#: Pagination Frame
+msgid "Pagination Frame"
+msgstr "Trame de pagination"
+
+#: Pagination Frame Skip
+msgid "Pagination Frame Skip"
+msgstr "Taille de la trame de pagination"
+
+#: Please choose to register or to checkout as a guest
+msgid "Please choose to register or to checkout as a guest"
+msgstr "Choisissez de vous enregistrer ou de passer votre commande en tant qu'invité"
+
+#: Please define flag code.
+msgid "Please define flag code."
+msgstr "Veuillez définir un code de drapeau."
+
+#: Please enter 6 or more characters.
+msgid "Please enter 6 or more characters."
+msgstr "Veuillez saisir au moins 6 caractères."
+
+#: Please enter 6 or more characters. Leading or trailing spaces will be ignored.
+msgid "Please enter 6 or more characters. Leading or trailing spaces will be ignored."
+msgstr "Veuillez saisir au moins 6 caractères. Les espaces en début ou en fin de chaîne seront ignorés."
+
+#: Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.
+msgid "Please enter 7 or more characters. Password should contain both numeric and alphabetic characters."
+msgstr "Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques."
+
+#: Please enter a number 0 or greater in this field.
+msgid "Please enter a number 0 or greater in this field."
+msgstr "Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ."
+
+#: Please enter a number greater than 0 in this field.
+msgid "Please enter a number greater than 0 in this field."
+msgstr "Veuillez saisir un nombre supérieur à 0 dans ce champ."
+
+#: Please enter a number lower than 100.
+msgid "Please enter a number lower than 100."
+msgstr "Veuillez saisir un nombre inférieur à 100."
+
+#: Please enter a valid $ amount. For example $100.00.
+msgid "Please enter a valid $ amount. For example $100.00."
+msgstr "Veuillez saisir un montant valide. Par exemple 100.00 €."
+
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
+msgstr "Veuillez saisir une URL valide. Par exemple \"page-exemple\", \"page-exemple.html\" ou \"niveau/page-exemple\"."
+
+#: Please enter a valid URL. For example http://www.example.com or www.example.com
+msgid "Please enter a valid URL. For example http://www.example.com or www.example.com"
+msgstr "Veuillez saisir une URL valide. Par exemple http://www.exemple.com ou www.exemple.com"
+
+#: Please enter a valid URL. Protocol is required (http://, https:// or ftp://)
+msgid "Please enter a valid URL. Protocol is required (http://, https:// or ftp://)"
+msgstr "Veuillez saisir une URL valide. Le protocole est obligatire (http://, https:// ou ftp://)"
+
+#: Please enter a valid XML-identifier. For example something_1, block5, id-4.
+msgid "Please enter a valid XML-identifier. For example something_1, block5, id-4."
+msgstr "Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, bloc5, id-4."
+
+#: Please enter a valid credit card number.
+msgid "Please enter a valid credit card number."
+msgstr "Veuillez saisir un numéro de carte bancaire valide."
+
+#: Please enter a valid credit card verification number.
+msgid "Please enter a valid credit card verification number."
+msgstr "Veuillez saisir un numéro de vérification de carte bancaire valide."
+
+#: Please enter a valid date.
+msgid "Please enter a valid date."
+msgstr "Veuillez saisir une date valide."
+
+#: Please enter a valid email address. For example johndoe@domain.com.
+msgid "Please enter a valid email address. For example johndoe@domain.com."
+msgstr "Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine.com"
+
+#: Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.
+msgid "Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890."
+msgstr "Veuillez saisir un numéro de fax valide. Par exemple 0123456789."
+
+#: Please enter a valid number in this field.
+msgid "Please enter a valid number in this field."
+msgstr "Veuillez saisir un nombre valide."
+
+#: Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.
+msgid "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890."
+msgstr "Veuillez saisir un numéro de téléphone valide."
+
+#: Please enter a valid social security number. For example 123-45-6789.
+msgid "Please enter a valid social security number. For example 123-45-6789."
+msgstr "Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789."
+
+#: Please enter a valid zip code.
+msgid "Please enter a valid zip code."
+msgstr "Veuillez saisir un code postal valide."
+
+#: Please enter a valid zip code. For example 90602 or 90602-1234.
+msgid "Please enter a valid zip code. For example 90602 or 90602-1234."
+msgstr "Veuillez saisir un code postal valide. Par exemple 92100."
+
+#: Please enter issue number or start date for switch/solo card type.
+msgid "Please enter issue number or start date for switch/solo card type."
+msgstr "Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo."
+
+#: Please enter valid password.
+msgid "Please enter valid password."
+msgstr "Veuillez saisir un mot de passe valide."
+
+#: Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.
+msgid "Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%."
+msgstr "Veuillez saisir une longueur CSS valide. Par exemple 100px ou 77pt ou 20 em ou .5ex ou 50%."
+
+#: Please make sure your passwords match.
+msgid "Please make sure your passwords match."
+msgstr "Vérifiez que vos mots de passe concordent."
+
+#: Please select State/Province.
+msgid "Please select State/Province."
+msgstr "Veuillez choisir un état/province."
+
+#: Please select an option.
+msgid "Please select an option."
+msgstr "Sélectionnez une option"
+
+#: Please select one of the above options.
+msgid "Please select one of the above options."
+msgstr "Veuillez choisir une des options ci-dessus."
+
+#: Please select one of the options.
+msgid "Please select one of the options."
+msgstr "Veuillez choisir une des options."
+
+#: Please specify either a category or a product, or both.
+msgid "Please specify either a category or a product, or both."
+msgstr "Spécifiez une catégorie, un produit ou les deux."
+
+#: Please specify payment method.
+msgid "Please specify payment method."
+msgstr "Choisissez un mode de paiement."
+
+#: Please specify shipping method.
+msgid "Please specify shipping method."
+msgstr "Choisissez un mode de livraison."
+
+#: Please use letters only (a-z or A-Z) in this field.
+msgid "Please use letters only (a-z or A-Z) in this field."
+msgstr "Veuillez utiliser uniquement des lettres (a-z ou A-Z) dans ce champ."
+
+#: Please use letters only (a-z) in this field.
+msgid "Please use letters only (a-z) in this field."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) dans ce champ."
+
+#: Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.
+msgid "Please use numbers only in this field. please avoid spaces or other characters such as dots or commas."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
+
+#: Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
+msgid "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
+
+#: Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.
+msgid "Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
+
+#: Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter.
+msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."
+msgstr "Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre."
+
+#: Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
+msgid "Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
+msgstr "Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
+
+#: Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.
+msgid "Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
+
+#: Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
+msgid "Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commençant par une lettre."
+
+#: Please use only visible characters and spaces.
+msgid "Please use only visible characters and spaces."
+msgstr "Veuillez utiliser uniquement des caractères visibles et des espaces."
+
+#: Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.
+msgid "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
+msgstr "Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012."
+
+#: Please wait, loading...
+msgid "Please wait, loading..."
+msgstr "Veuillez patienter, chargement en cours..."
+
+#: Polls
+msgid "Polls"
+msgstr "Sondages"
+
+#: Port (25)
+msgid "Port (25)"
+msgstr "Port (25)"
+
+#: Profiler
+msgid "Profiler"
+msgstr "Profileur"
+
+#: Request Path for Specified Store
+msgid "Request Path for Specified Store"
+msgstr "Chemin de requête pour le magasin spécifié"
+
+#: Requested invalid store \"%s\"
+msgid "Requested invalid store \"%s\""
+msgstr "Le magasin demandé \"%s\" n'est pas valide"
+
+#: Resource is not set.
+msgid "Resource is not set."
+msgstr "La ressource n'est pas renseignée."
+
+#: Return-Path Email
+msgid "Return-Path Email"
+msgstr "Adresse email de réponse"
+
+#: Root Category
+msgid "Root Category"
+msgstr "Catégorie racine"
+
+#: Sales Representative
+msgid "Sales Representative"
+msgstr "Représentant des ventes"
+
+#: Save
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: Save Store
+msgid "Save Store"
+msgstr "Sauvegarder le magasin"
+
+#: Save Store View
+msgid "Save Store View"
+msgstr "Sauvegarder la vue magasin"
+
+#: Save Website
+msgid "Save Website"
+msgstr "Sauvegarder le site web"
+
+#: Search Engines Optimization
+msgid "Search Engines Optimization"
+msgstr "Optimisation pour les moteurs de recherche"
+
+#: Secure
+msgid "Secure"
+msgstr "Sécurisé"
+
+#: Security
+msgid "Security"
+msgstr "Sécurité"
+
+#: Select Date
+msgid "Select Date"
+msgstr "Sélectionner une date"
+
+#: Sender Email
+msgid "Sender Email"
+msgstr "Expéditeur de l'email"
+
+#: Sender Name
+msgid "Sender Name"
+msgstr "Nom de l'expéditeur"
+
+#: Services
+msgid "Services"
+msgstr "Services"
+
+#: Session Cookie Management
+msgid "Session Cookie Management"
+msgstr "Gestion des cookies de session"
+
+#: Session Lifetime (seconds)
+msgid "Session Lifetime (seconds)"
+msgstr "Durée des sessions (secondes)"
+
+#: Session Validation Settings
+msgid "Session Validation Settings"
+msgstr "Paramètres de validation de session"
+
+#: Set Return-Path
+msgid "Set Return-Path"
+msgstr "Renseigner le chemin de retour"
+
+#: Set as Default
+msgid "Set as Default"
+msgstr "Définir par défaut"
+
+#: Skin (Images / CSS)
+msgid "Skin (Images / CSS)"
+msgstr "Design (Images / CSS)"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Specified date/time \"%1$s\" do not match format \"%2$s\".
+msgid "Specified date/time \"%1$s\" do not match format \"%2$s\"."
+msgstr "La date/heure spécifiée \"%1$s\" ne correspond pas au format \"%2$s\""
+
+#: Start date cannot be greater than end date.
+msgid "Start date cannot be greater than end date."
+msgstr "La date de début doit être antérieure à la date de fin."
+
+#: Startup Page
+msgid "Startup Page"
+msgstr "Page de démarrage"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Store
+msgid "Store"
+msgstr "Magasin"
+
+#: Store Contact Address
+msgid "Store Contact Address"
+msgstr "Adresse de contact du magasin"
+
+#: Store Contact Information
+msgid "Store Contact Information"
+msgstr "Informations de contact du magasin"
+
+#: Store Contact Telephone
+msgid "Store Contact Telephone"
+msgstr "Téléphone de contact du magasin"
+
+#: Store Email Addresses
+msgid "Store Email Addresses"
+msgstr "Adresses email du magasin"
+
+#: Store Information
+msgid "Store Information"
+msgstr "Informations magasin"
+
+#: Store Name
+msgid "Store Name"
+msgstr "Nom du magasin"
+
+#: Store View
+msgid "Store View"
+msgstr "Vue magasin"
+
+#: Store View Information
+msgid "Store View Information"
+msgstr "Information de vue magasin"
+
+#: Store View Name
+msgid "Store View Name"
+msgstr "Nom de vue magasin"
+
+#: Store view doesn't exist
+msgid "Store view doesn't exist"
+msgstr "La vue magasin n'existe pas"
+
+#: Store with the same code
+msgid "Store with the same code"
+msgstr "Magasin avec le même code"
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: System Log File Name
+msgid "System Log File Name"
+msgstr "Nom de fichier de logs système"
+
+#: Template Path Hints
+msgid "Template Path Hints"
+msgstr "Astuce chemin des gabarits"
+
+#: Template Variables
+msgid "Template Variables"
+msgstr "Variables de gabarit"
+
+#: Templates
+msgid "Templates"
+msgstr "Gabarits"
+
+#: Text length does not satisfy specified text range.
+msgid "Text length does not satisfy specified text range."
+msgstr "La longueur du texte ne satisfait pas à plage de texte spécifiée."
+
+#: The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format.
+msgid "The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format."
+msgstr "Le %s que vous avez saisi n'est pas valide. Veuillez vérifier qu'il respecte le format \"http://domaine.com/\"."
+
+#: The model collection resource name is not defined.
+msgid "The model collection resource name is not defined."
+msgstr "Le nom de ressource de collection de modèle n'est pas défini."
+
+#: The store code may contain only letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter
+msgid "The store code may contain only letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
+msgstr "Le code du magasin ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre."
+
+#: The store does not exist
+msgid "The store does not exist"
+msgstr "Le magasin n'existe pas."
+
+#: The store has been deleted.
+msgid "The store has been deleted."
+msgstr "Le magasin a été supprimé."
+
+#: The store has been saved.
+msgid "The store has been saved."
+msgstr "Le magasin a été sauvegardé."
+
+#: The store view has been deleted.
+msgid "The store view has been deleted."
+msgstr "La vue magasin a été supprimée."
+
+#: The store view has been saved
+msgid "The store view has been saved"
+msgstr "La vue magasin a été sauvegardée."
+
+#: The template Name must not be empty.
+msgid "The template Name must not be empty."
+msgstr "Le nom du gabarit ne doit pas être vide."
+
+#: The value is not within the specified range.
+msgid "The value is not within the specified range."
+msgstr "La valeur n'est pas dans la plage spécifiée."
+
+#: The website does not exist.
+msgid "The website does not exist."
+msgstr "Le site web n'existe pas."
+
+#: The website has been deleted.
+msgid "The website has been deleted."
+msgstr "Le site web a été supprimé."
+
+#: The website has been saved.
+msgid "The website has been saved."
+msgstr "Le site web a été sauvegardé."
+
+#: Themes
+msgid "Themes"
+msgstr "Thèmes"
+
+#: This category and all its child elements
+msgid "This category and all its child elements"
+msgstr "Cette catégorie et tous ses descendants"
+
+#: This category and its child categories only
+msgid "This category and its child categories only"
+msgstr "Cette catégorie et toutes ses sous-catégories"
+
+#: This category and its products only
+msgid "This category and its products only"
+msgstr "Cette catégorie et ses produits seulement"
+
+#: This category only
+msgid "This category only"
+msgstr "Cette catégorie seulement"
+
+#: This date is a required value.
+msgid "This date is a required value."
+msgstr "Cette date est obligatoire."
+
+#: This is a required field.
+msgid "This is a required field."
+msgstr "Ce champ est obligatoire."
+
+#: This store cannot be deleted.
+msgid "This store cannot be deleted."
+msgstr "Ce magasin ne peut pas être effacé."
+
+#: This store view cannot be deleted.
+msgid "This store view cannot be deleted."
+msgstr "Cette vue magasin ne peut pas être effacée."
+
+#: This website cannot be deleted.
+msgid "This website cannot be deleted."
+msgstr "Ce site web ne peut pas être effacé."
+
+#: This will be displayed just before body closing tag.
+msgid "This will be displayed just before body closing tag."
+msgstr "Ceci sera affiché juste avant la balise de fermeture de body"
+
+#: This will be included before head closing tag in page HTML.
+msgid "This will be included before head closing tag in page HTML."
+msgstr "Ceci sera inclus juste avant la balise de fermeture de body"
+
+#: Timezone
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#: Title Prefix
+msgid "Title Prefix"
+msgstr "Préfixe du titre"
+
+#: Title Suffix
+msgid "Title Suffix"
+msgstr "Suffixe du titre"
+
+#: Translate Inline
+msgid "Translate Inline"
+msgstr "Traduire en ligne"
+
+#: Translate cache should be disabled for both frontend and admin inline translations.
+msgid "Translate cache should be disabled for both frontend and admin inline translations."
+msgstr "Le cache de traduction devrait être désactivé pour les traductions en ligne du front office ou du back office."
+
+#: Translations
+msgid "Translations"
+msgstr "Traductions"
+
+#: Two and more slashes together are not permitted in request path
+msgid "Two and more slashes together are not permitted in request path"
+msgstr "Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le chemin de requête."
+
+#: Two and more slashes together are not permitted in url rewrite suffix
+msgid "Two and more slashes together are not permitted in url rewrite suffix"
+msgstr "Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le suffixe de réécriture d'URL."
+
+#: Unable to delete store view. Please, try again later.
+msgid "Unable to delete store view. Please, try again later."
+msgstr "Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement."
+
+#: Unable to delete store. Please, try again later.
+msgid "Unable to delete store. Please, try again later."
+msgstr "Impossible de supprimer le magasin. Veuillez réessayer ultérieurement."
+
+#: Unable to delete website. Please, try again later.
+msgid "Unable to delete website. Please, try again later."
+msgstr "Impossible de supprimer le site web. Veuillez réessayer ultérieurement."
+
+#: Unable to proceed. Please, try again
+msgid "Unable to proceed. Please, try again"
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
+
+#: Unable to proceed. Please, try again.
+msgid "Unable to proceed. Please, try again."
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
+
+#: Unknown scope \"%s\".
+msgid "Unknown scope \"%s\"."
+msgstr "Portée inconnue \"%s\"."
+
+#: Unsecure
+msgid "Unsecure"
+msgstr "Non sécurisé"
+
+#: Url Options
+msgid "Url Options"
+msgstr "Options d'URL"
+
+#: Use Custom Admin URL
+msgid "Use Custom Admin URL"
+msgstr "Utiliser une URL d'admin personnalisée"
+
+#: Use HTTP Only
+msgid "Use HTTP Only"
+msgstr "Utiliser uniquement HTTP"
+
+#: Use SID on Frontend
+msgid "Use SID on Frontend"
+msgstr "Utiliser un SID dans le front office"
+
+#: Use Secure URLs in Admin
+msgid "Use Secure URLs in Admin"
+msgstr "Utiliser des URLs sécurisées dans l'administration"
+
+#: Use Secure URLs in Frontend
+msgid "Use Secure URLs in Frontend"
+msgstr "Utiliser des URLs sécurisées pour le front office (mon compte et passage de commande)"
+
+#: Use Web Server Rewrites
+msgid "Use Web Server Rewrites"
+msgstr "Utiliser les réécritures du serveur web"
+
+#: Validate HTTP_USER_AGENT
+msgid "Validate HTTP_USER_AGENT"
+msgstr "Valider HTTP_USER_AGENT"
+
+#: Validate HTTP_VIA
+msgid "Validate HTTP_VIA"
+msgstr "Valider HTTP_VIA"
+
+#: Validate HTTP_X_FORWARDED_FOR
+msgid "Validate HTTP_X_FORWARDED_FOR"
+msgstr "Valider HTTP_X_FORWARDED_FOR"
+
+#: Validate REMOTE_ADDR
+msgid "Validate REMOTE_ADDR"
+msgstr "Valider REMOTE_ADDR"
+
+#: Validation has failed.
+msgid "Validation has failed."
+msgstr "La validation a échoué."
+
+#: Values less than 60 are ignored. Note that changes will apply after logout.
+msgid "Values less than 60 are ignored. Note that changes will apply after logout."
+msgstr "Les valeurs inférieures à 60 sont ignorées. Notez que ces changements prendront effet après déconnexion."
+
+#: Variable Code must be unique.
+msgid "Variable Code must be unique."
+msgstr "Le code de variable doit être unique"
+
+#: Web
+msgid "Web"
+msgstr "Web"
+
+#: Website
+msgid "Website"
+msgstr "Site web"
+
+#: Website Information
+msgid "Website Information"
+msgstr "Informations site web"
+
+#: Website Name
+msgid "Website Name"
+msgstr "Nom du site web"
+
+#: Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter
+msgid "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter"
+msgstr "Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre."
+
+#: Website with the same code
+msgid "Website with the same code"
+msgstr "Site web avec le même code"
+
+#: Weekend Days
+msgid "Weekend Days"
+msgstr "Jours de weekend"
+
+#: Welcome Text
+msgid "Welcome Text"
+msgstr "Texte de bienvenue"
+
+#: Wrong number of arguments for %s
+msgid "Wrong number of arguments for %s"
+msgstr "Nombre d'arguments erroné pour %s"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: Your design change for the specified store intersects with another one, please specify another date range.
+msgid "Your design change for the specified store intersects with another one, please specify another date range."
+msgstr "Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates."
+
+#: Your order cannot be completed at this time as there is no payment methods available for it.
+msgid "Your order cannot be completed at this time as there is no payment methods available for it."
+msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible."
+
+#: Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.
+msgid "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
+msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de livraison n'est disponible pour votre adresse."
+
+#: Your session has been expired, you will be relogged in now.
+msgid "Your session has been expired, you will be relogged in now."
+msgstr "Votre session a expiré, veuillez vous connecter à nouveau."
+
+#: There are no recurring profiles yet.
+msgid "There are no recurring profiles yet."
+msgstr "Aucun profil récurrent."
+
+#: System(config.xml, local.xml) and modules configuration files(config.xml).
+msgid "System(config.xml, local.xml) and modules configuration files(config.xml)."
+msgstr "Système (config.xml, local.xml) et configuration de modules (config.xml)."
+
+#: Layouts
+msgid "Layouts"
+msgstr "Agencements"
+
+#: Layout building instructions.
+msgid "Layout building instructions."
+msgstr "Instructions de construction d'agencement."
+
+#: Blocks HTML output
+msgid "Blocks HTML output"
+msgstr "Sortie de blocs HTML"
+
+#: Page blocks HTML.
+msgid "Page blocks HTML."
+msgstr "Code HTML des blocs de page."
+
+#: Translation files.
+msgid "Translation files."
+msgstr "Fichiers de traduction."
+
+#: Collections Data
+msgid "Collections Data"
+msgstr "Données de collections"
+
+#: Collection data files.
+msgid "Collection data files."
+msgstr "Fichiers de données de collection."
+
+#: EAV types and attributes
+msgid "EAV types and attributes"
+msgstr "Types EAV et attributs"
+
+#: Entity types declaration cache.
+msgid "Entity types declaration cache."
+msgstr "Cache de déclaration des types d'entité."
+
+#: Web Services Configuration
+msgid "Web Services Configuration"
+msgstr "Configuration des Web Services"
+
+#: Web Services definition files (api.xml).
+msgid "Web Services definition files (api.xml)."
+msgstr "Fichiers de définition des Web Services (api.xml)."
+
+#: Small Image
+msgid "Small Image"
+msgstr "Petite image"
+
+#: Base Image
+msgid "Base Image"
+msgstr "Image de base"
+
+#: Example format: 200x300.
+msgid "Example format: 200x300."
+msgstr "Exemple de format : 200x300"
+
+#: Allowed file types: jpeg, gif, png.
+msgid "Allowed file types: jpeg, gif, png."
+msgstr "Types de fichiers autorisés : jpeg, gif, png."
+
+#: I.e. redirect from http://example.com/store/ to http://www.example.com/store/
+msgid "I.e. redirect from http://example.com/store/ to http://www.example.com/store/"
+msgstr "Par ex. redirection de http://example.com/store/ vers http://www.example.com/store/"
+
+#: For Windows server only.
+msgid "For Windows server only."
+msgstr "Pour les serveurs windows uniquement."
+
+#: Experimental. Turn this feature off if there are troubles with relative urls inside css-files.
+msgid "Experimental. Turn this feature off if there are troubles with relative urls inside css-files."
+msgstr "Expérimental. Désactivez cette fonctionnalité si vous rencontrez des problèmes avec les urls contenues dans les fichiers CSS."
+
+#: Your order cannot be completed at this time as there is no shipping methods available for it. Please make neccessary changes in your shipping address.
+msgid "Your order cannot be completed at this time as there is no shipping methods available for it. Please make neccessary changes in your shipping address."
+msgstr "Vous ne pouvez pas poursuivre votre commande car aucun mode de livraison n'est disponible pour votre adresse."
+
+#: <strong style=\"color:red\">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain
+msgid "<strong style=\"color:red\">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain"
+msgstr "<strong style=\"color:red\">Attention !</strong> Lors de l'utilisation de CDN, le code JavaScript peut ne pas fonctionner correctement si le CDN ne se trouve pas dans un sous-domaine."
+
+#: Cache storage may contain additional data. Are you sure that you want flush it?
+msgid "Cache storage may contain additional data. Are you sure that you want flush it?"
+msgstr "Le stockage de cache peut contenir d\\'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
+
+#: File %s does not exist
+msgid "File %s does not exist"
+msgstr "Le fichier %s n'existe pas."
+
+#: File %s is not readable
+msgid "File %s is not readable"
+msgstr "Le fichier %s n'est pas lisible"
+
+#: File system
+msgid "File system"
+msgstr "Système de fichiers"
+
+#: Invalid transactional email code:
+msgid "Invalid transactional email code:"
+msgstr "Code d'email transactionnel invalide :"
+
+#: Invalid website's configuration path: %s
+msgid "Invalid website's configuration path: %s"
+msgstr "Chemin de configuration des sites web non valide : %s"
+
+#: Media Storage
+msgid "Media Storage"
+msgstr "Stockage des medias"
+
+#: Merge CSS Files
+msgid "Merge CSS Files"
+msgstr "Fusionner les fichiers CSS"
+
+#: Parent directory does not exist: %s
+msgid "Parent directory does not exist: %s"
+msgstr "Le répertoire parent n'existe pas : %s"
+
+#: Please enter a valid day (1-%d).
+msgid "Please enter a valid day (1-%d)."
+msgstr "Veuillez saisir un jour valide (1-%d)."
+
+#: Please enter a valid full date
+msgid "Please enter a valid full date"
+msgstr "Veuillez saisir une date complète valide."
+
+#: Please enter a valid month (1-12).
+msgid "Please enter a valid month (1-12)."
+msgstr "Veuillez saisir un mois valide (1-12)."
+
+#: Please enter a valid year (1900-%d).
+msgid "Please enter a valid year (1900-%d)."
+msgstr "Veuillez saisir une année valide (1900-%d)."
+
+#: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
+msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
+msgstr "Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
+
+#: Select Media Database
+msgid "Select Media Database"
+msgstr "Sélectionner la base de données des media"
+
+#: Storage Configuration for Media
+msgid "Storage Configuration for Media"
+msgstr "Configuration du stockage des media"
+
+#: Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.
+msgid "Translate, blocks and other output caches should be disabled for both frontend and admin inline translations."
+msgstr "Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne."
+
+#: Unable to create directory: %s
+msgid "Unable to create directory: %s"
+msgstr "Impossible de créer le répertoire : %s"
+
+#: Unable to save file \"%s\" at \"%s\"
+msgid "Unable to save file \"%s\" at \"%s\""
+msgstr "Impossible d'enregistrer le fichier \"%s\" sur \"%s\""
+
+#: Unable to save file: %s
+msgid "Unable to save file: %s"
+msgstr "Impossible d'enregistrer le fichier"
+
+#: Wrong file info format
+msgid "Wrong file info format"
+msgstr "Mauvais format d'informations de fichier"
+
+#: database \"%s\"
+msgid "database \"%s\""
+msgstr "Base de donnée \"%s\""
+

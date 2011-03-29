@@ -1,0 +1,50 @@
+<!--@subject {{var store.getFrontendName()}} : Mise à jour de l'avoir n°{{var creditmemo.increment_id}} @-->
+<!--@vars
+{"store url=\"\"":"Url de la boutique",
+"skin url=\"images/logo_email.gif\" _area='frontend'":"Logo de l'email",
+"htmlescape var=$order.getCustomerName()":"Nom du client",
+"var order.increment_id":"N° de la commande",
+"var order.getStatusLabel()":"Statut de la commande",
+"store url=\"customer/account/\"":"Url du compte client",
+"var comment":"Commentaire de l'avoir",
+"var store.getFrontendName()":"Nom de la boutique"}
+@-->
+<!--@styles
+body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
+@-->
+
+<div style="font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;">
+<table cellspacing="0" cellpadding="0" border="0" width="98%" style="margin-top:10px; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; margin-bottom:10px;">
+<tr>
+    <td align="center" valign="top">
+        <!-- [ header starts here] -->
+        <table cellspacing="0" cellpadding="0" border="0" width="650">
+        <tr>
+            <td valign="top"><a href="{{store url=""}}"><img src="{{skin url="images/logo_email.gif" _area='frontend'}}" alt="{{var store.getFrontendName()}}"  style="margin-bottom:10px;" border="0"/></a></td>
+        </tr>
+        </table>
+
+        <!-- [ middle starts here] -->
+        <table cellspacing="0" cellpadding="0" border="0" width="650">
+        <tr>
+            <td valign="top">
+                <p>
+                    <strong>Cher {{htmlescape var=$order.getCustomerName()}}</strong>,<br/>
+                    Votre commande n°{{var order.increment_id}} est maintenant <br/>
+                    <strong>{{var order.getStatusLabel()}}</strong>.
+                </p>
+                <p>Vous pouvez suivre votre commande en <a href="{{store url="customer/account/"}}" style="color:#1E7EC8;">vous connectant à votre compte</a>.</p>
+                <p>{{var comment}}</p>
+                <p>
+                	Si vous avez des questions, n'hésitez pas à nous contacter sur
+                    <a href="mailto:{{config path='trans_email/ident_support/email'}}" style="color:#1E7EC8;">{{config path='trans_email/ident_support/email'}}</a>
+                    ou par téléphone au {{config path='general/store_information/phone'}}.
+                </p>
+                <p>Merci,<br/><strong>{{var store.getFrontendName()}}</strong></p>
+            </td>
+        </tr>
+        </table>
+    </td>
+</tr>
+</table>
+</div>

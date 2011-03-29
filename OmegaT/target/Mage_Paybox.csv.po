@@ -1,0 +1,424 @@
+#: --Please Select--
+msgid "--Please Select--"
+msgstr "--Votre choix--"
+
+#: AMEX
+msgid "AMEX"
+msgstr "American Express"
+
+#: AURORE
+msgid "AURORE"
+msgstr "Aurore"
+
+#: Activated Key
+msgid "Activated Key"
+msgstr "Clé activée"
+
+#: Amount does not match.
+msgid "Amount does not match."
+msgstr "Le montant ne correspond pas."
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr "Une erreur est survenue"
+
+#: Authorization
+msgid "Authorization"
+msgstr "Autorisation"
+
+#: CARTE
+msgid "CARTE"
+msgstr "CARTE"
+
+#: CB
+msgid "CB"
+msgstr "CB"
+
+#: Cannot create the invoice.
+msgid "Cannot create the invoice."
+msgstr "Impossible de créer la facture."
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr "Numéro de vérification"
+
+#: Cart Type
+msgid "Cart Type"
+msgstr "Type de carte"
+
+#: Click <a href=\"%s\">here</a> to continue shopping.
+msgid "Click <a href=\"%s\">here</a> to continue shopping."
+msgstr "Cliquez <a href=\"%s\">ici</a> pour continuer vos achats."
+
+#: Command Line Mode
+msgid "Command Line Mode"
+msgstr "Mode ligne de commande"
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr "Type de carte de crédit"
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr "<strong>Type de carte de paiement :</strong> <span class=\"nowrap\">%s</span>"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Customer Choise
+msgid "Customer Choise"
+msgstr "Choix du client"
+
+#: DEU (German)
+msgid "DEU (German)"
+msgstr "DEU (Allemand)"
+
+#: DINERS
+msgid "DINERS"
+msgstr "DINERS"
+
+#: Debug Flag
+msgid "Debug Flag"
+msgstr "Indicateur de débug"
+
+#: Delay in Displaying the Intermediary Page (in msec)
+msgid "Delay in Displaying the Intermediary Page (in msec)"
+msgstr "Delai d'affichage de la page intermédiaire (en millisecondes)"
+
+#: E CARD
+msgid "E CARD"
+msgstr "E CARD"
+
+#: ESP (Spanish)
+msgid "ESP (Spanish)"
+msgstr "ESP (Espagnol)"
+
+#: EUROCARD & MASTERCARD
+msgid "EUROCARD & MASTERCARD"
+msgstr "EUROCARD & MASTERCARD"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error in refunding the payment
+msgid "Error in refunding the payment"
+msgstr "Erreur lors du remboursement"
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: FRA (French)
+msgid "FRA (French)"
+msgstr "FRA (Français)"
+
+#: GBR (English)
+msgid "GBR (English)"
+msgstr "GBR (Anglais)"
+
+#: GET
+msgid "GET"
+msgstr "GET"
+
+#: HTML Form
+msgid "HTML Form"
+msgstr "Formulaire HTML"
+
+#: ITA (Italian)
+msgid "ITA (Italian)"
+msgstr "ITA (Italien)"
+
+#: JCB
+msgid "JCB"
+msgstr "JCB"
+
+#: Language of the Payment Page
+msgid "Language of the Payment Page"
+msgstr "Langue de la page de paiement"
+
+#: Management Mode of the Intermediary Page
+msgid "Management Mode of the Intermediary Page"
+msgstr "Mode de gestion de la page intermédiaire"
+
+#: Mode A
+msgid "Mode A"
+msgstr "Mode A"
+
+#: Mode B
+msgid "Mode B"
+msgstr "Mode B"
+
+#: Mode C
+msgid "Mode C"
+msgstr "Mode C"
+
+#: Mode D
+msgid "Mode D"
+msgstr "Mode D"
+
+#: Mode E
+msgid "Mode E"
+msgstr "Mode E"
+
+#: Mode of Retrieval of Information
+msgid "Mode of Retrieval of Information"
+msgstr "Mode de récupération des informations"
+
+#: NLD (Dutch)
+msgid "NLD (Dutch)"
+msgstr "NLD (Néerlandais)"
+
+#: Name of the Button on the Intermediary Page
+msgid "Name of the Button on the Intermediary Page"
+msgstr "Nom du bouton de la page intermédiaire"
+
+#: Name on Card
+msgid "Name on Card"
+msgstr "Propriétaire de la carte"
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr "<strong>Nom sur la carte :</strong> <span class=\"nowrap\">%s</span>"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Only if the \"HTML From\" mode selected.
+msgid "Only if the \"HTML From\" mode selected."
+msgstr "Seulement si le mode \"Formulaire HTML\" a été sélectionné."
+
+#: Only with \"Command Line\" mode.
+msgid "Only with \"Command Line\" mode."
+msgstr "Seulement pour le mode \"Ligne de commade\"."
+
+#: Order does not match.
+msgid "Order does not match."
+msgstr "La commande ne correspond pas."
+
+#: PAYBOX Identifier
+msgid "PAYBOX Identifier"
+msgstr "Identifiant PAYBOX"
+
+#: PAYNOVA
+msgid "PAYNOVA"
+msgstr "PAYNOVA"
+
+#: PAYPAL
+msgid "PAYPAL"
+msgstr "PAYPAL"
+
+#: POST
+msgid "POST"
+msgstr "POST"
+
+#: Paybox CGI File
+msgid "Paybox CGI File"
+msgstr "Fichier CGI Paybox"
+
+#: Paybox Direct
+msgid "Paybox Direct"
+msgstr "Paybox Direct"
+
+#: Paybox System
+msgid "Paybox System"
+msgstr "Paybox System"
+
+#: Paybox payment gateway is not available right now
+msgid "Paybox payment gateway is not available right now"
+msgstr "La passerelle de paiement Paybox n'est pas disponible pour le moment."
+
+#: Payment
+msgid "Payment"
+msgstr "Paiement"
+
+#: Payment Action
+msgid "Payment Action"
+msgstr "Action de paiement"
+
+#: Payment Type
+msgid "Payment Type"
+msgstr "Type de paiement"
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Ping Flag
+msgid "Ping Flag"
+msgstr "Indicateur de ping"
+
+#: Please Select
+msgid "Please Select"
+msgstr "Veuillez sélectionner"
+
+#: Rank Number
+msgid "Rank Number"
+msgstr "Numéro de rang"
+
+#: SWE (Swedish)
+msgid "SWE (Swedish)"
+msgstr "SWE (Suédois)"
+
+#: SYMPASS
+msgid "SYMPASS"
+msgstr "SYMPASS"
+
+#: Screen Background of the Intermediary Page
+msgid "Screen Background of the Intermediary Page"
+msgstr "Fond d'écran de la page intermédiaire"
+
+#: Site Number (TPE)
+msgid "Site Number (TPE)"
+msgstr "Numéro de site (TPE)"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Specify the URL of the primary backup payment server if different from default.
+msgid "Specify the URL of the primary backup payment server if different from default."
+msgstr "Spécifiez l'URL du serveur de paiement de secours s'il est différent de celui par défaut."
+
+#: Specify the URL of the primary payment server if different from default.
+msgid "Specify the URL of the primary payment server if different from default."
+msgstr "Spécifiez l'URL du serveur de paiement principal s'il est différent de celui par défaut."
+
+#: Specify the URL of the second backup payment server if different from default.
+msgid "Specify the URL of the second backup payment server if different from default."
+msgstr "Spécifiez l'URL du second serveur de paiement de secours s'il est différent de celui par défaut."
+
+#: Specify the URL of the third backup payment server if different from default.
+msgid "Specify the URL of the third backup payment server if different from default."
+msgstr "Spécifiez l'URL du troisième serveur de paiement de secours s'il est différent de celui par défaut."
+
+#: TCP Port
+msgid "TCP Port"
+msgstr "Port TCP"
+
+#: TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443).
+msgid "TCP port used to check the availability of a payment server if \"Ping Flag\" enabled (default port is 443)."
+msgstr "Port TCP utilisé pour vérifier la disponibilité du serveur de paiement si l'indicateur de ping est activé (le port par défaut est 443)."
+
+#: TERMINEO
+msgid "TERMINEO"
+msgstr "TERMINEO"
+
+#: Text on the Intermediary Page
+msgid "Text on the Intermediary Page"
+msgstr "Texte sur la page intermédiaire"
+
+#: The URL of the Backup Payment Server
+msgid "The URL of the Backup Payment Server"
+msgstr "URL du serveur de paiement de secours"
+
+#: The URL of the Primary Backup Payment Server
+msgid "The URL of the Primary Backup Payment Server"
+msgstr "URL du serveur primaire de paiement de secours"
+
+#: The URL of the Primary Payment Server
+msgid "The URL of the Primary Payment Server"
+msgstr "URL du serveur principal de paiement"
+
+#: The URL of the Second Backup Payment Server
+msgid "The URL of the Second Backup Payment Server"
+msgstr "URL du second serveur de paiement de secours"
+
+#: The URL of the Third Backup Payment Server
+msgid "The URL of the Third Backup Payment Server"
+msgstr "URL du troisième serveur de paiement de secours"
+
+#: The customer has returned from Paybox.
+msgid "The customer has returned from Paybox."
+msgstr "Le client est revenu de Paybox."
+
+#: The customer was redirected to Paybox
+msgid "The customer was redirected to Paybox"
+msgstr "Le client a été redirigé vers Paybox"
+
+#: The customer was redirected to Paybox using 'command line' mode.
+msgid "The customer was redirected to Paybox using 'command line' mode."
+msgstr "Le client a été redirigé vers Paybox par le mode 'ligne de commande'."
+
+#: The customer was refused by Paybox.
+msgid "The customer was refused by Paybox."
+msgstr "Le client a été refusé par Paybox."
+
+#: The customer was rejected by Paybox.
+msgid "The customer was rejected by Paybox."
+msgstr "Le client a été rejeté par Paybox."
+
+#: The invoice has been created.
+msgid "The invoice has been created."
+msgstr "La facture a été créée."
+
+#: The order was canceled by the customer.
+msgid "The order was canceled by the customer."
+msgstr "La commande a été annulée par le client."
+
+#: There are no orders.
+msgid "There are no orders."
+msgstr "Il n'y a pas de commande."
+
+#: There has been an error processing your payment.
+msgid "There has been an error processing your payment."
+msgstr "Erreur lors du traitement de votre paiement."
+
+#: There has been an error processing your payment. Please try later or contact us for help.
+msgid "There has been an error processing your payment. Please try later or contact us for help."
+msgstr "Une erreur est survenue lors du traitement de votre paiement. Veuillez réessayer plus tard ou nous contacter pour obtenir de l'aide."
+
+#: Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du serveur principal de paiement de secours (10 secondes par défaut)."
+
+#: Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du serveur principal de paiement (8 secondes par défaut)."
+
+#: Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du second serveur de paiement de secours (20 secondes par défaut)."
+
+#: Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds).
+msgid "Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds)."
+msgstr "Timeout (en secondes) pour la vérification de disponibilité du troisième serveur de paiement de secours (20 secondes par défaut)."
+
+#: Timeout for Checking
+msgid "Timeout for Checking"
+msgstr "Timeout de vérification"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: VISA
+msgid "VISA"
+msgstr "VISA"
+
+#: What is this?
+msgid "What is this?"
+msgstr "Aide ?"
+
+#: You will be redirected to Paybox in a few seconds.
+msgid "You will be redirected to Paybox in a few seconds."
+msgstr "Vous serez redirigé vers Paybox dans quelques secondes."
+
+#: You will be redirected to the Paybox website when you place an order.
+msgid "You will be redirected to the Paybox website when you place an order."
+msgstr "Vous serez redirigé vers le site de Paybox à l'issue de votre commande."
+

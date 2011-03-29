@@ -1,0 +1,124 @@
+#: AUTHENTICATE
+msgid "AUTHENTICATE"
+msgstr ""
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr ""
+
+#: Click <a href=\"%s\">here</a> to continue shopping.
+msgid "Click <a href=\"%s\">here</a> to continue shopping."
+msgstr ""
+
+#: Customer was redirected to Protx
+msgid "Customer was redirected to Protx"
+msgstr ""
+
+#: DEFERRED
+msgid "DEFERRED"
+msgstr ""
+
+#: Debug
+msgid "Debug"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: General contact email will be used if left empty.
+msgid "General contact email will be used if left empty."
+msgstr ""
+
+#: Live
+msgid "Live"
+msgstr ""
+
+#: Mode
+msgid "Mode"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Order total amount does not match protx gross total amount
+msgid "Order total amount does not match protx gross total amount"
+msgstr ""
+
+#: PAYMENT
+msgid "PAYMENT"
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Protx Standard
+msgid "Protx Standard"
+msgstr ""
+
+#: Simulator
+msgid "Simulator"
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Store name will be used if left empty.
+msgid "Store name will be used if left empty."
+msgstr ""
+
+#: Test
+msgid "Test"
+msgstr ""
+
+#: The customer has returned from Protx.
+msgid "The customer has returned from Protx."
+msgstr ""
+
+#: The order %s was canceled by the customer.
+msgid "The order %s was canceled by the customer."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Transaction Description
+msgid "Transaction Description"
+msgstr ""
+
+#: Vendor Email
+msgid "Vendor Email"
+msgstr ""
+
+#: Vendor Email Notification
+msgid "Vendor Email Notification"
+msgstr ""
+
+#: Vendor Encrypted Password
+msgid "Vendor Encrypted Password"
+msgstr ""
+
+#: Vendor Name
+msgid "Vendor Name"
+msgstr ""
+
+#: You will be redirected to protx in a few seconds.
+msgid "You will be redirected to protx in a few seconds."
+msgstr ""
+
+#: You will be redirected to the Protx website when you place an order.
+msgid "You will be redirected to the Protx website when you place an order."
+msgstr ""
+

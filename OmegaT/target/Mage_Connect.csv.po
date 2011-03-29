@@ -1,0 +1,236 @@
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add Author
+msgid "Add Author"
+msgstr "Ajouter un auteur"
+
+#: Add Contents Path
+msgid "Add Contents Path"
+msgstr "Ajouter un chemin de contenus"
+
+#: Add PHP Extension dependency
+msgid "Add PHP Extension dependency"
+msgstr "Ajouter une dépendance d'extension PHP"
+
+#: Add Package dependency
+msgid "Add Package dependency"
+msgstr "Ajouter une dépendance de package"
+
+#: Add files
+msgid "Add files"
+msgstr "Ajouter des fichiers"
+
+#: Authors
+msgid "Authors"
+msgstr "Auteurs"
+
+#: Channel
+msgid "Channel"
+msgstr "Canal"
+
+#: Contents
+msgid "Contents"
+msgstr "Contenu"
+
+#: Create Extension Package
+msgid "Create Extension Package"
+msgstr "Créer un package d'extension"
+
+#: Dependencies
+msgid "Dependencies"
+msgstr "Dépendances"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Edit Extension
+msgid "Edit Extension"
+msgstr "Éditer l'extension"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Extension
+msgid "Extension"
+msgstr "Extension"
+
+#: Extensions
+msgid "Extensions"
+msgstr "Extensions"
+
+#: Failed to create the package.
+msgid "Failed to create the package."
+msgstr "Erreur lors de la création du package"
+
+#: Failed to load the package data.
+msgid "Failed to load the package data."
+msgstr "Erreur lors du chargement des données du package"
+
+#: Failed to save the package.
+msgid "Failed to save the package."
+msgstr "Erreur lors de la sauvegarde du package"
+
+#: Files
+msgid "Files"
+msgstr "Fichiers"
+
+#: Folder
+msgid "Folder"
+msgstr "Répertoire"
+
+#: Ignore
+msgid "Ignore"
+msgstr "Ignorer"
+
+#: Include
+msgid "Include"
+msgstr "Inclure"
+
+#: License
+msgid "License"
+msgstr "Licence"
+
+#: License URI
+msgid "License URI"
+msgstr "URI de la licence"
+
+#: Load Local Package
+msgid "Load Local Package"
+msgstr "Charger un package local"
+
+#: Load local Package
+msgid "Load local Package"
+msgstr "Charger un package local"
+
+#: Magento Connect
+msgid "Magento Connect"
+msgstr "Magento Connect"
+
+#: Magento Connect Manager
+msgid "Magento Connect Manager"
+msgstr "Magento Connect Manager"
+
+#: Max
+msgid "Max"
+msgstr "Max"
+
+#: Maximum
+msgid "Maximum"
+msgstr "Maximum"
+
+#: Min
+msgid "Min"
+msgstr "Min"
+
+#: Minimum
+msgid "Minimum"
+msgstr "Minimum"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New Extension
+msgid "New Extension"
+msgstr "Nouvelle extension"
+
+#: PHP Version
+msgid "PHP Version"
+msgstr "Version de PHP"
+
+#: Package
+msgid "Package"
+msgstr "Interface"
+
+#: Package Extensions
+msgid "Package Extensions"
+msgstr "Packager des extensions"
+
+#: Package File Name
+msgid "Package File Name"
+msgstr "Nom du fichier de package"
+
+#: Package Info
+msgid "Package Info"
+msgstr "Informations du package"
+
+#: Packages
+msgid "Packages"
+msgstr "Packages"
+
+#: Path
+msgid "Path"
+msgstr "Chemin"
+
+#: Release Info
+msgid "Release Info"
+msgstr "Information sur la version"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Save As...
+msgid "Save As..."
+msgstr "Sauvegarder sous..."
+
+#: Save Data and Create Package
+msgid "Save Data and Create Package"
+msgstr "Sauvegarder et créer le package"
+
+#: Save package with custom package file name
+msgid "Save package with custom package file name"
+msgstr "Sauvegarder le package avec un nom du fichier de package personnalisé"
+
+#: Summary
+msgid "Summary"
+msgstr "Résumé"
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: Target
+msgid "Target"
+msgstr "Cible"
+
+#: The package %s data has been loaded.
+msgid "The package %s data has been loaded."
+msgstr "Le package %s a été chargé."
+
+#: The package data has been saved.
+msgid "The package data has been saved."
+msgstr "Les données du package ont bien été enregistrées."
+
+#: There was a problem saving package data
+msgid "There was a problem saving package data"
+msgstr "Problème lors de la sauvegarde des données du package"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: User
+msgid "User"
+msgstr "Utilisateur"
+
+#: 1.5.0.0 & later
+msgid "1.5.0.0 & later"
+msgstr "1.5.0.0 et ultérieures"
+
+#: Pre-1.5.0.0
+msgid "Pre-1.5.0.0"
+msgstr "Antérieur à 1.5.0.0"
+
+#: Supported releases
+msgid "Supported releases"
+msgstr "Versions supportées"
+
+#: Page
+msgid "Page"
+msgstr "Page"
+

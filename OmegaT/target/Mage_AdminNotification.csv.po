@@ -1,0 +1,120 @@
+#: Actions
+msgid "Actions"
+msgstr "Actions"
+
+#: An error occurred while marking notification as read.
+msgid "An error occurred while marking notification as read."
+msgstr "Erreur lors du marquage comme \"lu\" des notifications."
+
+#: An error occurred while marking the messages as read.
+msgid "An error occurred while marking the messages as read."
+msgstr "Erreur lors du marquage comme \"lu\" des messages"
+
+#: An error occurred while removing messages.
+msgid "An error occurred while removing messages."
+msgstr "Erreur lors de la suppression des messages."
+
+#: An error occurred while removing the message.
+msgid "An error occurred while removing the message."
+msgstr "Erreur lors de la suppression du message."
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Date Added
+msgid "Date Added"
+msgstr "Date d'ajout"
+
+#: Last Update
+msgid "Last Update"
+msgstr "Dernière mise à jour"
+
+#: Mark as Read
+msgid "Mark as Read"
+msgstr "Marquer comme lu"
+
+#: Mark as read
+msgid "Mark as read"
+msgstr "Marquer comme lu"
+
+#: Message
+msgid "Message"
+msgstr "Message"
+
+#: Messages Inbox
+msgid "Messages Inbox"
+msgstr "Messages reçus"
+
+#: Notifications
+msgid "Notifications"
+msgstr "Notifications"
+
+#: Please select messages.
+msgid "Please select messages."
+msgstr "Veuillez sélectionner des messages."
+
+#: Read Details
+msgid "Read Details"
+msgstr "Lire les détails"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Severity
+msgid "Severity"
+msgstr "Importance"
+
+#: Show List
+msgid "Show List"
+msgstr "Afficher la liste"
+
+#: Show Toolbar
+msgid "Show Toolbar"
+msgstr "Afficher la barre d'outils"
+
+#: The message has been marked as read.
+msgid "The message has been marked as read."
+msgstr "Le message a bien été marqué comme lu."
+
+#: The message has been removed.
+msgid "The message has been removed."
+msgstr "Le message a bien été supprimé."
+
+#: Total of %d record(s) have been marked as read.
+msgid "Total of %d record(s) have been marked as read."
+msgstr "%d enregistrement(s) a (ont) bien été marqué(s) comme lu(s)."
+
+#: Total of %d record(s) have been removed.
+msgid "Total of %d record(s) have been removed."
+msgstr "%d enregistrement(s) a (ont) bien été supprimé(s)."
+
+#: Unable to proceed. Please, try again.
+msgid "Unable to proceed. Please, try again."
+msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
+
+#: Update Frequency
+msgid "Update Frequency"
+msgstr "Mettre à jour la fréquence"
+
+#: Use HTTPS to Get Feed
+msgid "Use HTTPS to Get Feed"
+msgstr "Utiliser HTTPS pour récupérer le flux"
+
+#: critical
+msgid "critical"
+msgstr "critique"
+
+#: major
+msgid "major"
+msgstr "majeur"
+
+#: minor
+msgid "minor"
+msgstr "mineur"
+
+#: notice
+msgid "notice"
+msgstr "annonce"
+

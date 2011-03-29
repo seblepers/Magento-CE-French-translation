@@ -1,0 +1,488 @@
+#: (Make sure you keep it in a safe place.)
+msgid "(Make sure you keep it in a safe place.)"
+msgstr "(Assurez-vous de la garder dans un endroit sûr)"
+
+#: (Optional. Leave blank for no prefix)
+msgid "(Optional. Leave blank for no prefix)"
+msgstr "(Facultatif, laisser vide si vous ne souhaitez pas de préfixe)"
+
+#: (ver. %s)
+msgid "(ver. %s)"
+msgstr "(ver. %s)"
+
+#: Additional path added after Base URL to access your Administrative Panel (e.g. admin, backend, control etc.).
+msgid "Additional path added after Base URL to access your Administrative Panel (e.g. admin, backend, control etc.)."
+msgstr "Chemin ajouté à la suite de l'URL de base pour accéder à votre console d'administration (par ex. admin, backend, control, etc.)."
+
+#: Admin Path
+msgid "Admin Path"
+msgstr "Chemin de l'administration"
+
+#: After successfull installation please click the button below.
+msgid "After successfull installation please click the button below."
+msgstr "Après une installation réussie, veuillez cliquer sur le bouton ci-dessous"
+
+#: All packages were installed, click 'OK' to continue with installation.
+msgid "All packages were installed, click 'OK' to continue with installation."
+msgstr "Tous les paquets ont été installés. Cliquez sur OK pour continuer l'installation."
+
+#: Alternatively you could try the 'Manual Downloads and Upgrades' method.
+msgid "Alternatively you could try the 'Manual Downloads and Upgrades' method."
+msgstr "Vous pouvez aussi essayer la méthode 'Téléchargements et mises à jour manuels'"
+
+#: Base URL
+msgid "Base URL"
+msgstr "URL de base"
+
+#: Before you continue to your store, please make a note of your encryption key (Magento uses it to encrypt passwords, credit cards and more).
+msgid "Before you continue to your store, please make a note of your encryption key (Magento uses it to encrypt passwords, credit cards and more)."
+msgstr "Avant de continuer vers votre magasin, veuillez noter votre clé de cryptage (Magento l'utilise pour crypter les mots de passe, les numéros de cartes de crédit, ...)"
+
+#: Check out our
+msgid "Check out our"
+msgstr "Jetez un oeil à notre"
+
+#: Check this box only if it is not possible to automatically validate Secure URL, for example if HTTP authentication is required.
+msgid "Check this box only if it is not possible to automatically validate Secure URL, for example if HTTP authentication is required."
+msgstr "Cochez cette case uniquement s'il n'est pas possible de valider automatiquement l'URL sécurisée, par exemple si une authentification HTTP est nécessaire."
+
+#: Check this box only if it is not possible to automatically validate the Base URL.
+msgid "Check this box only if it is not possible to automatically validate the Base URL."
+msgstr "Cochez cette case uniquement s'il n'est pas possible de valider automatiquement l'URL de base."
+
+#: Choose this if you would like to test frontend and backend functionality.
+msgid "Choose this if you would like to test frontend and backend functionality."
+msgstr "Choisissez ceci si vous aimeriez tester la fonctionnalité frontend et backend."
+
+#: Configuration
+msgid "Configuration"
+msgstr "Configuration"
+
+#: Confirm Password
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+#: Connection
+msgid "Connection"
+msgstr "Connexion"
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Continue After Manual Download
+msgid "Continue After Manual Download"
+msgstr "Continuer après le téléchargement manuel"
+
+#: Continue Full Download / SVN Installation
+msgid "Continue Full Download / SVN Installation"
+msgstr "Poursuivre téléchargement complet / installation SVN"
+
+#: Create Admin Account
+msgid "Create Admin Account"
+msgstr "Créer un compte administrateur"
+
+#: Currently this is the most stable state available for Magento packages.
+msgid "Currently this is the most stable state available for Magento packages."
+msgstr "Actuellement, c'est l'état le plus stable disponible pour les paquets Magento."
+
+#: Database
+msgid "Database"
+msgstr "Base de données"
+
+#: Database Connection
+msgid "Database Connection"
+msgstr "Connexion à la base de données"
+
+#: Database Name
+msgid "Database Name"
+msgstr "Nom de base de données"
+
+#: Database Name cannot be empty.
+msgid "Database Name cannot be empty."
+msgstr "Le nom de base de données ne peut pas être vide."
+
+#: Database connection error.
+msgid "Database connection error."
+msgstr "Erreur de connexion à la base de données."
+
+#: Database host
+msgid "Database host"
+msgstr "Serveur de base de données"
+
+#: Database server does not support the InnoDB storage engine.
+msgid "Database server does not support the InnoDB storage engine."
+msgstr "Le serveur de base de données ne supporte pas le moteur de stockage InnoDB."
+
+#: Database user name
+msgid "Database user name"
+msgstr "Nom d'utilisateur de la base de données"
+
+#: Database user password
+msgid "Database user password"
+msgstr "Mot de passe utilisateur de base de données"
+
+#: Default Currency
+msgid "Default Currency"
+msgstr "Devise par défaut"
+
+#: Download
+msgid "Download"
+msgstr "Télécharger"
+
+#: Download Magento Core Modules and Updates
+msgid "Download Magento Core Modules and Updates"
+msgstr "Télécharger les modules de base Magento et les mises à jour"
+
+#: Downloading and installing Magento, please wait...
+msgid "Downloading and installing Magento, please wait..."
+msgstr "Téléchargement et installation de Magento en cours, veuillez patienter..."
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Email Address
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: Enable Charts
+msgid "Enable Charts"
+msgstr "Activer les graphiques"
+
+#: Enable this option if you want the charts to be displayed on Dashboard.
+msgid "Enable this option if you want the charts to be displayed on Dashboard."
+msgstr "Activez cette option si vous souhaitez afficher les graphiques de vente sur le tableau de bord."
+
+#: Enable this option only if you have SSL available.
+msgid "Enable this option only if you have SSL available."
+msgstr "N'activez cette option que si vous avez le SSL"
+
+#: Encryption Key
+msgid "Encryption Key"
+msgstr "Clé de cryptage"
+
+#: File System
+msgid "File System"
+msgstr "Système de fichiers"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: Full Download / SVN Installation
+msgid "Full Download / SVN Installation"
+msgstr "Téléchargement complet / l'installation SVN"
+
+#: Get ready to experience Open-Source eCommerce Evolved.
+msgid "Get ready to experience Open-Source eCommerce Evolved."
+msgstr "Préparez-vous à vivre une expérience avancée de l'eCommerce Open-Source"
+
+#: Go to Backend
+msgid "Go to Backend"
+msgstr "Aller vers le back office"
+
+#: Go to Frontend
+msgid "Go to Frontend"
+msgstr "Aller vers le front office"
+
+#: Having trouble installing Magento?
+msgid "Having trouble installing Magento?"
+msgstr "Vous rencontrez des problèmes pour installer Magento ?"
+
+#: Help Us to Keep Magento Healthy
+msgid "Help Us to Keep Magento Healthy"
+msgstr "Aidez-nous à améliorer Magento"
+
+#: Host
+msgid "Host"
+msgstr "Serveur"
+
+#: I agree to the above terms and conditions.
+msgid "I agree to the above terms and conditions."
+msgstr "J'accepte les conditions d'utilisation ci-dessus."
+
+#: If you are a developer and would like to have the latest public updates, choose this option.
+msgid "If you are a developer and would like to have the latest public updates, choose this option."
+msgstr "Si vous êtes développeur et que vous aimeriez avoir les mises à jour publiques les plus récentes, sélectionnez cette option."
+
+#: If you are running PHP as CGI, your PHP processes may run under the same user as the user you used when uploading Magento files.
+msgid "If you are running PHP as CGI, your PHP processes may run under the same user as the user you used when uploading Magento files."
+msgstr "Si vous lancez PHP en CGI, vos processes peuvent tourner sous le même utilisateur que celui utilisé pour télécharger les fichiers Magento."
+
+#: If you are running the install wizard over a previously downloaded and installed Magento installation, proceed with this method.
+msgid "If you are running the install wizard over a previously downloaded and installed Magento installation, proceed with this method."
+msgstr "Si vous exécutez l'assistant d'installation sur une installation de Magento existante, utilisez cette méthode."
+
+#: If you do not wish or are not able to have Magento folders writeable for the web process, you could use PEAR executable located in the root of Magento installation.
+msgid "If you do not wish or are not able to have Magento folders writeable for the web process, you could use PEAR executable located in the root of Magento installation."
+msgstr "Si vous ne souhaitez pas ou ne pouvez pas donner les droits d'écriture sur les répertoires Magento pour l'installation en mode web, vous pouvez utiliser l'exécutable PEAR situé à la racine de l'installation Magento."
+
+#: If you have downloaded the full package or installed Magento through SVN, you should skip packages installation and validation by clicking the button below.
+msgid "If you have downloaded the full package or installed Magento through SVN, you should skip packages installation and validation by clicking the button below."
+msgstr "Si vous avez téléchargé complètement les paquets ou installé Magento via SVN, vous devez passer l'installation et la validation des paquets en cliquant sur le bouton suivant."
+
+#: If you wish to manage Magento packages through the web admin interface, you will need to have web writeable permissions applied to all Magento folders and files.
+msgid "If you wish to manage Magento packages through the web admin interface, you will need to have web writeable permissions applied to all Magento folders and files."
+msgstr "Si vous souhaitez gérer les paquets Magento à l'aide de l'interface web d'administration, vous devrez donner à l'utilisateur web les droits d'écriture sur tous les répertoires et fichiers Magento."
+
+#: If your server is running on MS Windows, most probably you will not need to change anything.
+msgid "If your server is running on MS Windows, most probably you will not need to change anything."
+msgstr "Si votre serveur tourne sous MS Windows, vous ne devriez normalement rien modifier."
+
+#: In other cases you will need to make Magento files writeable for the user that the web server process is running under.
+msgid "In other cases you will need to make Magento files writeable for the user that the web server process is running under."
+msgstr "Sinon, vous devrez donner les droits en écriture sur tous les fichiers Magento pour l'utilisateur utilisé par le process du serveur web."
+
+#: Installation
+msgid "Installation"
+msgstr "Installation"
+
+#: Installation Guide
+msgid "Installation Guide"
+msgstr "Guide d'installation"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
+
+#: License Agreement
+msgid "License Agreement"
+msgstr "Contrat de licence"
+
+#: Locale
+msgid "Locale"
+msgstr "Profil local"
+
+#: Locale settings
+msgid "Locale settings"
+msgstr "Réglages de locale"
+
+#: Localization
+msgid "Localization"
+msgstr "Localisation"
+
+#: Login Information
+msgid "Login Information"
+msgstr "Information de connexion"
+
+#: Magento
+msgid "Magento"
+msgstr "Magento"
+
+#: Magento Connect Manager Deployment
+msgid "Magento Connect Manager Deployment"
+msgstr "Déploiement Magento Connect Manager"
+
+#: Magento Installation Wizard
+msgid "Magento Installation Wizard"
+msgstr "Assistant d'installation Magento"
+
+#: Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.
+msgid "Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc."
+msgstr "Magento est une marque déposée de Magento Inc. Copyright &copy; %s Magento Inc."
+
+#: Magento uses this key to encrypt passwords, credit cards and more. If this field is left empty the system will create an encryption key for you and will display it on the next page.
+msgid "Magento uses this key to encrypt passwords, credit cards and more. If this field is left empty the system will create an encryption key for you and will display it on the next page."
+msgstr "Magento utilise cette clé pour crypter les mots de passe, numéros de cartes de crédit, etc. Si vous laissez vide ce champ, le système créera une clé automatiquement et vous l'affichera dans l'écran suivant."
+
+#: Manual Downloads and Upgrades
+msgid "Manual Downloads and Upgrades"
+msgstr "Téléchargements et mises à jours manuels"
+
+#: One of PHP Extensions \"%s\" must be loaded.
+msgid "One of PHP Extensions \"%s\" must be loaded."
+msgstr "Une des extensions PHP \"%s\" doit être chargée."
+
+#: PHP Extension '%s' loaded
+msgid "PHP Extension '%s' loaded"
+msgstr "Extension PHP '%s' chargée"
+
+#: PHP extension \"%s\" must be loaded.
+msgid "PHP extension \"%s\" must be loaded."
+msgstr "L'extension PHP \"%s\" doit être chargée."
+
+#: Package Management through the Web
+msgid "Package Management through the Web"
+msgstr "Gestion des paquets via le web"
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Password Confirmation
+msgid "Password Confirmation"
+msgstr "Confirmation du mot de passe"
+
+#: Path \"%s\" must be writable.
+msgid "Path \"%s\" must be writable."
+msgstr "Le chemin \"%s\" doit autoriser l'écriture."
+
+#: Personal Information
+msgid "Personal Information"
+msgstr "Informations personnelles"
+
+#: Please correct the user data and try again.
+msgid "Please correct the user data and try again."
+msgstr "Corrigez les données d'utilisateur et réessayez."
+
+#: Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration.
+msgid "Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration."
+msgstr "Vérifiez que <code>mod_rewrite</code> est activé dans votre configuration Apache."
+
+#: Please note that it is much less stable than beta.
+msgid "Please note that it is much less stable than beta."
+msgstr "Veuillez noter que ceci est beaucoup moins stable que la beta."
+
+#: Please note that only UNIX, Linux and Mac OS X shells are currently supported. For Windows use the '%s' option.
+msgid "Please note that only UNIX, Linux and Mac OS X shells are currently supported. For Windows use the '%s' option."
+msgstr "Notez que seuls les shells UNIX, Linux et Mac OS X sont supportés. Pour Windows utilisez l'option '%s'."
+
+#: Please set all required settings before clicking Continue
+msgid "Please set all required settings before clicking Continue"
+msgstr "Veuillez renseigner tous les réglages obligatoires avant de poursuivre"
+
+#: Preferred stability: %s
+msgid "Preferred stability: %s"
+msgstr "Stabilité privilégiée : %s"
+
+#: Proceed With Automatic Download (%s)
+msgid "Proceed With Automatic Download (%s)"
+msgstr "Procéder au téléchargement automatique (%s)"
+
+#: Provide a complete base URL for SSL connection. For example: %s
+msgid "Provide a complete base URL for SSL connection. For example: %s"
+msgstr "Fournissez une URL de base complète pour la connexion SSL. Par exemple : %s"
+
+#: Report All Bugs
+msgid "Report All Bugs"
+msgstr "Signaler un dysfonctionnement"
+
+#: Required Fields
+msgid "Required Fields"
+msgstr "Champs obligatoires"
+
+#: Response from server isn\'t valid.
+msgid "Response from server isn\'t valid."
+msgstr "La réponse du serveur n\\'est pas valide."
+
+#: Run admin interface with SSL
+msgid "Run admin interface with SSL"
+msgstr "Lancer l'interface d'administration en SSL"
+
+#: Run this in your shell from Magento root folder:
+msgid "Run this in your shell from Magento root folder:"
+msgstr "Lancer ceci dans votre shell depuis votre répertoire racine Magento :"
+
+#: Save Session Data In
+msgid "Save Session Data In"
+msgstr "Enregistrer les données de session dans"
+
+#: Save Session Files In
+msgid "Save Session Files In"
+msgstr "Enregistrer les fichiers de session dans"
+
+#: Secure Base URL
+msgid "Secure Base URL"
+msgstr "URL de base sécurisée"
+
+#: Session Storage Options
+msgid "Session Storage Options"
+msgstr "Options de stockage de session"
+
+#: Setting preferred state to: %s
+msgid "Setting preferred state to: %s"
+msgstr "État privilégié paramétré à : %s"
+
+#: Skip Base URL Validation Before the Next Step
+msgid "Skip Base URL Validation Before the Next Step"
+msgstr "Ne pas procéder à la validation de l'URL de base avant l'étape suivante"
+
+#: Skip Secure URL validation before next step
+msgid "Skip Secure URL validation before next step"
+msgstr "Ne pas procéder à la validation de l'URL sécurisée avant l'étape suivante"
+
+#: Tables Prefix
+msgid "Tables Prefix"
+msgstr "Préfixes des tables"
+
+#: The URL \"%s\" is invalid.
+msgid "The URL \"%s\" is invalid."
+msgstr "L'URL \"%s\" est invalide."
+
+#: The URL \"%s\" is not accessible.
+msgid "The URL \"%s\" is not accessible."
+msgstr "L'URL \"%s\" n'est pas accessible."
+
+#: The database server version does not match system requirements (required: %s, actual: %s).
+msgid "The database server version does not match system requirements (required: %s, actual: %s)."
+msgstr "La version du serveur de base de données ne satisfait pas les pré-requis (nécessaire : %s, actuel : %s)."
+
+#: The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.
+msgid "The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter."
+msgstr "Le préfixe de table ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscores (_). Le premier caractère doit être une lettre."
+
+#: There was a problem installing Magento packages. Please read the log, correct errors and try again.
+msgid "There was a problem installing Magento packages. Please read the log, correct errors and try again."
+msgstr "Problème lors de l'installation des paquets Magento. Consultez les logs, corrigez les problèmes et réessayez."
+
+#: Time Zone
+msgid "Time Zone"
+msgstr "Fuseau horaire"
+
+#: Use Secure URLs (SSL)
+msgid "Use Secure URLs (SSL)"
+msgstr "Utiliser des URLs sécurisées (URL)"
+
+#: Use Web Server (Apache) Rewrites
+msgid "Use Web Server (Apache) Rewrites"
+msgstr "Utiliser les réécriture d'URLs du serveur web (Apache)"
+
+#: User Name
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#: User Password
+msgid "User Password"
+msgstr "Mot de passe utilisateur"
+
+#: Username
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: Validation
+msgid "Validation"
+msgstr "Validation"
+
+#: Web access options
+msgid "Web access options"
+msgstr "Options d'accès web"
+
+#: Welcome
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: Welcome to Magento's Installation Wizard
+msgid "Welcome to Magento's Installation Wizard"
+msgstr "Bienvenue sur l'assistant d'installation de Magento"
+
+#: You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock
+msgid "You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock"
+msgstr "Vous pouvez spécifier un port pour le serveur, par ex.: localhost:3307<br />Si vous n'utilisez pas la socket UNIX par défaut, vous pouvez la spécifier ici au lieu de l'hôte, par ex.: /var/run/mysqld/mysqld.sock"
+
+#: You could enable this option to use web server rewrites functionality for improved search engines optimization.
+msgid "You could enable this option to use web server rewrites functionality for improved search engines optimization."
+msgstr "Vous pouvez activer cette option pour utiliser la fonctionnalité de réécritures du serveur web pour l'optimisation pour les moteurs de recherche"
+
+#: You're All Set
+msgid "You're All Set"
+msgstr "Vous avez terminé"
+
+#: You're All Set!
+msgid "You're All Set!"
+msgstr "C'est terminé !"
+
+#: Response from server isn't valid.
+msgid "Response from server isn't valid."
+msgstr "La réponse du serveur n'est pas valide."
+

@@ -1,0 +1,84 @@
+#: Collected Files Count
+msgid "Collected Files Count"
+msgstr "Nombre de fichiers collectés"
+
+#: Compilation
+msgid "Compilation"
+msgstr "Compilation"
+
+#: Compilation State
+msgid "Compilation State"
+msgstr "État de la compilation"
+
+#: Compilation error
+msgid "Compilation error"
+msgstr "Erreur de compilation"
+
+#: Compiled
+msgid "Compiled"
+msgstr "Compilé"
+
+#: Compiled Scopes Count
+msgid "Compiled Scopes Count"
+msgstr "Compteur des différents champs d'application compilés"
+
+#: Compiler Status
+msgid "Compiler Status"
+msgstr "Statut du compilateur"
+
+#: Compiler include path is disabled.
+msgid "Compiler include path is disabled."
+msgstr "Le chemin d'inclusion du compilateur est désactivé."
+
+#: Compiler include path is enabled.
+msgid "Compiler include path is enabled."
+msgstr "Le chemin d'inclusion du compilateur est activé."
+
+#: Directory \"%s\" must be writeable
+msgid "Directory \"%s\" must be writeable"
+msgstr "Le chemin \"%s\" doit être autorisé en écriture"
+
+#: Disable
+msgid "Disable"
+msgstr "Désactiver"
+
+#: Disabled
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: File \"%s\" must be writeable
+msgid "File \"%s\" must be writeable"
+msgstr "Le fichier \"%s\" doit être autorisé en écriture"
+
+#: Not Compiled
+msgid "Not Compiled"
+msgstr "Non compilé"
+
+#: Run Compilation Process
+msgid "Run Compilation Process"
+msgstr "Lancer le processus de compilation"
+
+#: Scopes Compilation Settings
+msgid "Scopes Compilation Settings"
+msgstr "Paramètres de portée de la compilation"
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: The compilation has completed.
+msgid "The compilation has completed."
+msgstr "La compilation est terminée."
+
+#: Tools
+msgid "Tools"
+msgstr "Outils"
+

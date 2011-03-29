@@ -1,0 +1,180 @@
+#: %s codes deleted
+msgid "%s codes deleted"
+msgstr "%s codes effacés"
+
+#: %s codes imported
+msgid "%s codes imported"
+msgstr "%s codes importés"
+
+#: %s codes not imported
+msgid "%s codes not imported"
+msgstr "%s codes non importés"
+
+#: %s product in feed.
+msgid "%s product in feed."
+msgstr "%s produits dans le flux."
+
+#: %s product not in feed.
+msgid "%s product not in feed."
+msgstr "%s produits pas dans le flux."
+
+#: Add new
+msgid "Add new"
+msgstr "Ajouter"
+
+#: Attrib. Set Name
+msgid "Attrib. Set Name"
+msgstr "Nom du jeu d'attr."
+
+#: Attributes map
+msgid "Attributes map"
+msgstr "Mapping des attributs"
+
+#: Cron Frequency
+msgid "Cron Frequency"
+msgstr "Fréquence du cron"
+
+#: Cron Hour
+msgid "Cron Hour"
+msgstr "Heure du cron"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Eav code
+msgid "Eav code"
+msgstr "Code EAV"
+
+#: FTP Password
+msgid "FTP Password"
+msgstr "Mot de passe FTP"
+
+#: FTP Path
+msgid "FTP Path"
+msgstr "Chemin FTP"
+
+#: FTP Server
+msgid "FTP Server"
+msgstr "Serveur FTP"
+
+#: FTP Settings
+msgid "FTP Settings"
+msgstr "Paramètres FTP"
+
+#: FTP User
+msgid "FTP User"
+msgstr "Utilisateur FTP"
+
+#: FTP: Can't delete files
+msgid "FTP: Can't delete files"
+msgstr "FTP : Impossible d'effacer les fichiers"
+
+#: Feed
+msgid "Feed"
+msgstr "Flux"
+
+#: Feed code
+msgid "Feed code"
+msgstr "Code de flux"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Import
+msgid "Import"
+msgstr "Importer"
+
+#: Import attribute map
+msgid "Import attribute map"
+msgstr "Importer le mapping d'attributs"
+
+#: Import code
+msgid "Import code"
+msgstr "Code d'import"
+
+#: In feed
+msgid "In feed"
+msgstr "Dans le flux"
+
+#: In order to access your FTP account information, you must first register and verify your store in TheFind Merchant Center.  Click <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">here</a> to get started.
+msgid "In order to access your FTP account information, you must first register and verify your store in TheFind Merchant Center.  Click <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">here</a> to get started."
+msgstr "Afin d'accéder aux informations de votre compte FTP, vous devez d'abord vous enregistrer et vérifier votre compte dans le Centre Marchand TheFind. Cliquez <a href=\"https://merchant.thefind.com/mc/claim.fhtml\">ici</a> pour démarrer."
+
+#: Is imported
+msgid "Is imported"
+msgstr "Est importé(e)"
+
+#: Item params
+msgid "Item params"
+msgstr "Paramètres de l'article"
+
+#: Manage attributes
+msgid "Manage attributes"
+msgstr "Gestion des attributs"
+
+#: Manage items
+msgid "Manage items"
+msgstr "Gestion des articles"
+
+#: Not import
+msgid "Not import"
+msgstr "Ne pas importer"
+
+#: Not publish
+msgid "Not publish"
+msgstr "Ne pas publier"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Product import
+msgid "Product import"
+msgstr "Import de produit"
+
+#: Publish
+msgid "Publish"
+msgstr "Publier"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: Settings
+msgid "Settings"
+msgstr "Paramétrage"
+
+#: The Find
+msgid "The Find"
+msgstr "The Find"
+
+#: TheFind Feed Filename
+msgid "TheFind Feed Filename"
+msgstr "Nom de fichier du flux TheFind"
+
+#: TheFind feed
+msgid "TheFind feed"
+msgstr "Flux TheFind"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Unable to process an import. 
+msgid "Unable to process an import. "
+msgstr "Impossible d'exécuter l'import. "
+
+#: Update TheFind Item when Product is Updated
+msgid "Update TheFind Item when Product is Updated"
+msgstr "Mettre à jour l'article TheFind quand le produit est mis à jour"
+
+#: Unable to process an import.
+msgid "Unable to process an import."
+msgstr "Impossible d'exécuter l'import."
+

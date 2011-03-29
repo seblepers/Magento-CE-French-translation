@@ -1,0 +1,516 @@
+#: A block identifier with the same properties already exists in the selected store.
+msgid "A block identifier with the same properties already exists in the selected store."
+msgstr "Il existe déjà un identifiant de bloc ayant les mêmes propriétés dans la boutique sélectionnée."
+
+#: A directory with the same name already exists. Please try another folder name.
+msgid "A directory with the same name already exists. Please try another folder name."
+msgstr "Il existe déjà un répertoire portant le même nom. Choisissez un autre nom."
+
+#: A page URL key for specified store already exists.
+msgid "A page URL key for specified store already exists."
+msgstr "Il existe déjà un e clé d'URL de page pour la boutique sélectionnée."
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add New Block
+msgid "Add New Block"
+msgstr "Ajouter un nouveau bloc"
+
+#: Add New Page
+msgid "Add New Page"
+msgstr "Ajouter une nouvelle page"
+
+#: All Countries
+msgid "All Countries"
+msgstr "Tous les pays"
+
+#: An error occurred while saving the page.
+msgid "An error occurred while saving the page."
+msgstr "Erreur lors de la sauvegarde de la page."
+
+#: Anchor Custom Text
+msgid "Anchor Custom Text"
+msgstr "Présenter un texte personnalisé"
+
+#: Anchor Custom Title
+msgid "Anchor Custom Title"
+msgstr "Présenter un titre personnalisé"
+
+#: Are you sure you want to delete current folder?
+msgid "Are you sure you want to delete current folder?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer le dossier courant ?"
+
+#: Are you sure you want to delete the selected file?
+msgid "Are you sure you want to delete the selected file?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer le fichier sélectionné ?"
+
+#: Block
+msgid "Block"
+msgstr "Bloc"
+
+#: Block Information
+msgid "Block Information"
+msgstr "Information"
+
+#: Block Title
+msgid "Block Title"
+msgstr "Titre du bloc"
+
+#: CMS
+msgid "CMS"
+msgstr "CMS"
+
+#: CMS Content Wrapper
+msgid "CMS Content Wrapper"
+msgstr "Conteneur de contenu CMS"
+
+#: CMS Home Page
+msgid "CMS Home Page"
+msgstr "Page d'accueil CMS"
+
+#: CMS No Cookies Page
+msgid "CMS No Cookies Page"
+msgstr "Page CMS quand les cookies sont désactivés"
+
+#: CMS No Route Page
+msgid "CMS No Route Page"
+msgstr "Page CMS de ressource non trouvée"
+
+#: CMS No-Route Page
+msgid "CMS No-Route Page"
+msgstr "Page CMS de ressource non trouvée"
+
+#: CMS Page
+msgid "CMS Page"
+msgstr "Page CMS"
+
+#: CMS Page Link
+msgid "CMS Page Link"
+msgstr "Lien Page CMS"
+
+#: CMS Page Link Block Template
+msgid "CMS Page Link Block Template"
+msgstr "Gabarit du bloc lien page CMS"
+
+#: CMS Page Link Inline Template
+msgid "CMS Page Link Inline Template"
+msgstr "Gabarit du bloc lien en ligne CMS"
+
+#: CMS Pages (All)
+msgid "CMS Pages (All)"
+msgstr "Pages CMS (toutes)"
+
+#: CMS Static Block
+msgid "CMS Static Block"
+msgstr "Bloc statique CMS"
+
+#: CMS Static Block Default Template
+msgid "CMS Static Block Default Template"
+msgstr "Gabarit par défaut du bloc statique CMS"
+
+#: Cannot create new directory.
+msgid "Cannot create new directory."
+msgstr "Impossible de créer un nouveau répertoire."
+
+#: Cannot delete directory %s.
+msgid "Cannot delete directory %s."
+msgstr "Impossible de supprimer le répertoire %s."
+
+#: Cannot delete root directory %s.
+msgid "Cannot delete root directory %s."
+msgstr "Impossible de supprimer le répertoire racine %s."
+
+#: Cannot upload file.
+msgid "Cannot upload file."
+msgstr "Impossible d'uploader le fichier."
+
+#: Collapse All
+msgid "Collapse All"
+msgstr "Tout réduire"
+
+#: Content
+msgid "Content"
+msgstr "Contenu"
+
+#: Content Heading
+msgid "Content Heading"
+msgstr "En-tête de contenu"
+
+#: Content Management
+msgid "Content Management"
+msgstr "Gestion du contenu"
+
+#: Contents of a Static Block
+msgid "Contents of a Static Block"
+msgstr "Contenu d'un bloc statique"
+
+#: Create Folder...
+msgid "Create Folder..."
+msgstr "Créer un dossier..."
+
+#: Custom Design
+msgid "Custom Design"
+msgstr "Design personnalisé"
+
+#: Custom Design From
+msgid "Custom Design From"
+msgstr "Design personnalisé à partir du"
+
+#: Custom Design To
+msgid "Custom Design To"
+msgstr "Design personnalisé jusqu'au"
+
+#: Custom Layout
+msgid "Custom Layout"
+msgstr "Agencement personnalisé"
+
+#: Custom Layout Update XML
+msgid "Custom Layout Update XML"
+msgstr "XML de mise à jour de l'agencement personnalisé"
+
+#: Custom Theme
+msgid "Custom Theme"
+msgstr "Thème personnalisé"
+
+#: Customer Tax Class Information
+msgid "Customer Tax Class Information"
+msgstr "Classe de taxe client (Information)"
+
+#: Date Created
+msgid "Date Created"
+msgstr "Date de création"
+
+#: Delete Block
+msgid "Delete Block"
+msgstr "Supprimer le bloc"
+
+#: Delete File
+msgid "Delete File"
+msgstr "Supprimer le fichier"
+
+#: Delete Folder
+msgid "Delete Folder"
+msgstr "Supprimer le dossier"
+
+#: Delete Page
+msgid "Delete Page"
+msgstr "Supprimer la page"
+
+#: Description
+msgid "Description"
+msgstr "Description"
+
+#: Design
+msgid "Design"
+msgstr "Design"
+
+#: Disabled
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: Disabled Completely
+msgid "Disabled Completely"
+msgstr "Désactivé complètement"
+
+#: Disabled by Default
+msgid "Disabled by Default"
+msgstr "Désactivé par défaut"
+
+#: Edit Block
+msgid "Edit Block"
+msgstr "Éditer le bloc"
+
+#: Edit Block '%s'
+msgid "Edit Block '%s'"
+msgstr "Éditer le bloc '%s'"
+
+#: Edit Page
+msgid "Edit Page"
+msgstr "Éditer la page"
+
+#: Edit Page '%s'
+msgid "Edit Page '%s'"
+msgstr "Éditer la page '%s'"
+
+#: Enable WYSIWYG Editor
+msgid "Enable WYSIWYG Editor"
+msgstr "Activer l'éditeur WYSIWYG"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Enabled by Default
+msgid "Enabled by Default"
+msgstr "Activé par défaut"
+
+#: Expand All
+msgid "Expand All"
+msgstr "Tout développer"
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: Go to Home Page
+msgid "Go to Home Page"
+msgstr "Aller à la page d'accueil"
+
+#: Home
+msgid "Home"
+msgstr "Accueil"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Identifier
+msgid "Identifier"
+msgstr "Identifiant"
+
+#: If empty, the Page Title will be used
+msgid "If empty, the Page Title will be used"
+msgstr "Si vide, le titre de page sera utilisé"
+
+#: Images (%s)
+msgid "Images (%s)"
+msgstr "Images (%s)"
+
+#: Insert File
+msgid "Insert File"
+msgstr "Insérer le fichier"
+
+#: Invalid folder name. Please, use alphanumeric characters, underscores and dashes.
+msgid "Invalid folder name. Please, use alphanumeric characters, underscores and dashes."
+msgstr "Nom de dossier invalide. Seuls les caractères alphanumériques, underscore (_) et dièse sont autorisés."
+
+#: Keywords
+msgid "Keywords"
+msgstr "Mots clés"
+
+#: Last Modified
+msgid "Last Modified"
+msgstr "Modifié le"
+
+#: Layout
+msgid "Layout"
+msgstr "Agencement"
+
+#: Layout Update XML
+msgid "Layout Update XML"
+msgstr "XML de mise à jour d'agencement"
+
+#: Link to a CMS Page
+msgid "Link to a CMS Page"
+msgstr "Lien vers une page CMS"
+
+#: Manage Pages
+msgid "Manage Pages"
+msgstr "Gestion des pages"
+
+#: Media Storage
+msgid "Media Storage"
+msgstr "Stockage des medias"
+
+#: Meta Data
+msgid "Meta Data"
+msgstr "Données meta"
+
+#: Meta Description
+msgid "Meta Description"
+msgstr "Méta description"
+
+#: Meta Keywords
+msgid "Meta Keywords"
+msgstr "Mots-clés meta"
+
+#: New Block
+msgid "New Block"
+msgstr "Nouveau bloc"
+
+#: New Folder Name:
+msgid "New Folder Name:"
+msgstr "Nouveau nom de dossier :"
+
+#: New Page
+msgid "New Page"
+msgstr "Nouvelle page"
+
+#: No files found
+msgid "No files found"
+msgstr "Aucun fichier trouvé"
+
+#: Page Information
+msgid "Page Information"
+msgstr "Informations de la page"
+
+#: Page Layout
+msgid "Page Layout"
+msgstr "Agencement de page"
+
+#: Page Status
+msgid "Page Status"
+msgstr "Statut de la page"
+
+#: Page Title
+msgid "Page Title"
+msgstr "Titre de page"
+
+#: Pages
+msgid "Pages"
+msgstr "Pages"
+
+#: Product Tax Class Information
+msgid "Product Tax Class Information"
+msgstr "Information sur la classe de taxe produit"
+
+#: Redirect to CMS-page if Cookies are Disabled
+msgid "Redirect to CMS-page if Cookies are Disabled"
+msgstr "Rediriger vers la page CMS si les cookies sont désactivés"
+
+#: Relative to Website Base URL
+msgid "Relative to Website Base URL"
+msgstr "Relatif à l'URL de base du site web"
+
+#: Save Block
+msgid "Save Block"
+msgstr "Sauvegarder le bloc"
+
+#: Save Page
+msgid "Save Page"
+msgstr "Sauvegarder la page"
+
+#: Save Process
+msgid "Save Process"
+msgstr "Process de sauvegarde"
+
+#: Select Block...
+msgid "Select Block..."
+msgstr "Choisir un bloc..."
+
+#: Select Page...
+msgid "Select Page..."
+msgstr "Choisir une page..."
+
+#: Show Breadcrumbs for CMS Pages
+msgid "Show Breadcrumbs for CMS Pages"
+msgstr "Afficher le fil d'Ariane pour les pages CMS"
+
+#: Show Notice if JavaScript is Disabled
+msgid "Show Notice if JavaScript is Disabled"
+msgstr "Afficher un message si javascript est désactivé"
+
+#: Static Blocks
+msgid "Static Blocks"
+msgstr "Blocs statiques"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Storage Root
+msgid "Storage Root"
+msgstr "Racine du stockage"
+
+#: Store View
+msgid "Store View"
+msgstr "Vue magasin"
+
+#: Template
+msgid "Template"
+msgstr "Gabarit"
+
+#: The block has been deleted.
+msgid "The block has been deleted."
+msgstr "Le bloc a bien été effacé."
+
+#: The block has been saved.
+msgid "The block has been saved."
+msgstr "Le bloc a bien été enregistré."
+
+#: The directory %s is not writable by server.
+msgid "The directory %s is not writable by server."
+msgstr "Le répertoire %s n'a pas les droits d'écriture par le serveur web."
+
+#: The page URL key cannot consist only of numbers.
+msgid "The page URL key cannot consist only of numbers."
+msgstr "La clé d'URL de page ne peut pas contenir uniquement des nombres."
+
+#: The page has been deleted.
+msgid "The page has been deleted."
+msgstr "La page a bien été effacée."
+
+#: The page has been saved.
+msgid "The page has been saved."
+msgstr "La page a bien été enregistrée."
+
+#: This block no longer exists.
+msgid "This block no longer exists."
+msgstr "Ce bloc n'existe plus."
+
+#: This page no longer exists.
+msgid "This page no longer exists."
+msgstr "Cette page n'existe plus."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: URL Key
+msgid "URL Key"
+msgstr "Clé d'URL"
+
+#: Unable to find a block to delete.
+msgid "Unable to find a block to delete."
+msgstr "Impossible de trouver un bloc à effacer."
+
+#: Unable to find a page to delete.
+msgid "Unable to find a page to delete."
+msgstr "Impossible de trouver une page à effacer."
+
+#: WYSIWYG Options
+msgid "WYSIWYG Options"
+msgstr "Options WYSIWYG"
+
+#: px.
+msgid "px."
+msgstr "px."
+
+#: The page URL key contains capital letters or disallowed symbols.
+msgid "The page URL key contains capital letters or disallowed symbols."
+msgstr "La clé d'url de page contient des lettres majuscules ou des symboles non autorisés."
+
+#: Insert Widget...
+msgid "Insert Widget..."
+msgstr "Insérer un widget..."
+
+#: Insert Image...
+msgid "Insert Image..."
+msgstr "Insérer une image..."
+
+#: Show / Hide Editor
+msgid "Show / Hide Editor"
+msgstr "Afficher/masquer l'éditeur"
+
+#: Warning
+msgid "Warning"
+msgstr "Attention"
+
+#: Firebug is known to make the WYSIWYG editor slow unless it is turned off or configured properly.
+msgid "Firebug is known to make the WYSIWYG editor slow unless it is turned off or configured properly."
+msgstr "Firebug peut ralentir l'éditeur WYSIWYG à moins de le désactiver ou de le configurer correctement."
+
+#: Hide
+msgid "Hide"
+msgstr "Masquer"
+
+#: Insert Media...
+msgid "Insert Media..."
+msgstr "Insérer un media..."
+
+#: Insert File...
+msgid "Insert File..."
+msgstr "Insérer un fichier..."
+

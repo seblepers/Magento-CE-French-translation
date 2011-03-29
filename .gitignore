@@ -1,0 +1,5 @@
+scripts/tmp/*
+scripts/backups/*
+new-version/*
+*.bak
+

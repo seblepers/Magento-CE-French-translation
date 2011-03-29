@@ -1,0 +1,76 @@
+#: All Websites
+msgid "All Websites"
+msgstr "Tous les sites web"
+
+#: Apply Discounts To FPT
+msgid "Apply Discounts To FPT"
+msgstr "Appliquer les remises au TFP"
+
+#: Apply Tax To FPT
+msgid "Apply Tax To FPT"
+msgstr "Appliquer la taxe au TFP"
+
+#: Display Prices In Emails
+msgid "Display Prices In Emails"
+msgstr "Afficher les prix dans les emails"
+
+#: Display Prices In Product Lists
+msgid "Display Prices In Product Lists"
+msgstr "Afficher les prix dans la liste des produits"
+
+#: Display Prices In Sales Modules
+msgid "Display Prices In Sales Modules"
+msgstr "Afficher les prix dans les modules de paiement"
+
+#: Display Prices On Product View Page
+msgid "Display Prices On Product View Page"
+msgstr "Afficher les prix dans les fiches produits"
+
+#: Enable FPT
+msgid "Enable FPT"
+msgstr "Activer les TFP"
+
+#: Excluding FPT
+msgid "Excluding FPT"
+msgstr "Hors TFP"
+
+#: Excluding FPT, FPT description, final price
+msgid "Excluding FPT, FPT description, final price"
+msgstr "Hors TFP, description des TFP dans le prix final"
+
+#: Fixed Product Tax
+msgid "Fixed Product Tax"
+msgstr "Taxe Fixe de Produit"
+
+#: Fixed Product Taxes
+msgid "Fixed Product Taxes"
+msgstr "Taxes Fixes de Produit"
+
+#: Include FPT In Subtotal
+msgid "Include FPT In Subtotal"
+msgstr "Inclure TFP dans le sous-total"
+
+#: Including FPT and FPT description
+msgid "Including FPT and FPT description"
+msgstr "TFP incluses et description des TFP"
+
+#: Including FPT and FPT description [incl. FPT VAT]
+msgid "Including FPT and FPT description [incl. FPT VAT]"
+msgstr "TFP incluses et description des TFP [dont TFP]"
+
+#: Including FPT only
+msgid "Including FPT only"
+msgstr "FPT incluses uniquement"
+
+#: Total
+msgid "Total"
+msgstr "Total"
+
+#: Total Incl. Tax
+msgid "Total Incl. Tax"
+msgstr "Total TTC"
+
+#: Total incl. tax
+msgid "Total incl. tax"
+msgstr "Total TTC"
+

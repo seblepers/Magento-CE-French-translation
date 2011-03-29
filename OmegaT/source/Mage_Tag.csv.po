@@ -1,0 +1,396 @@
+#: # of Uses
+msgid "# of Uses"
+msgstr "Nombre d'utilisations"
+
+#: %s tag(s) have been accepted for moderation.
+msgid "%s tag(s) have been accepted for moderation."
+msgstr "%s tag(s) a (ont) été accepté(s) pour modération."
+
+#: <strong>Tag Name:</strong> %s
+msgid "<strong>Tag Name:</strong> %s"
+msgstr "<strong>Mot clé :</strong> %s"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add New Tag
+msgid "Add New Tag"
+msgstr "Ajouter un mot clé"
+
+#: Add Tags
+msgid "Add Tags"
+msgstr "Ajouter des mots clés"
+
+#: Add Your Tags:
+msgid "Add Your Tags:"
+msgstr "Ajouter vos mots clés :"
+
+#: Add to Cart
+msgid "Add to Cart"
+msgstr "Ajouter au panier"
+
+#: Add to Wishlist
+msgid "Add to Wishlist"
+msgstr "Ajouter à la liste d'envies"
+
+#: All Tags
+msgid "All Tags"
+msgstr "Tous les mots clés"
+
+#: Approved
+msgid "Approved"
+msgstr "Approuvé"
+
+#: Are you sure you want to delete this tag?
+msgid "Are you sure you want to delete this tag?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce mot clé ?"
+
+#: Are you sure you want to do this?
+msgid "Are you sure you want to do this?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Back to Tags List
+msgid "Back to Tags List"
+msgstr "Retour à la liste de mots clés"
+
+#: Base Popularity
+msgid "Base Popularity"
+msgstr "Popularité"
+
+#: Block Information
+msgid "Block Information"
+msgstr "Information"
+
+#: CSV
+msgid "CSV"
+msgstr "CSV"
+
+#: Catalog Product View
+msgid "Catalog Product View"
+msgstr "Vue produit catalogue"
+
+#: Change status
+msgid "Change status"
+msgstr "Changer le statut"
+
+#: Click on a tag to view your corresponding products.
+msgid "Click on a tag to view your corresponding products."
+msgstr "Cliquez sur le mot clé pour voir les produits correspondants."
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Customer My Account My Tags List
+msgid "Customer My Account My Tags List"
+msgstr "Client - Mon compte - Ma liste de mots clés"
+
+#: Customer My Account Tag View
+msgid "Customer My Account Tag View"
+msgstr "Client - Mon compte - Mots clést"
+
+#: Customer Since
+msgid "Customer Since"
+msgstr "Client depuis"
+
+#: Customers
+msgid "Customers"
+msgstr "Clients"
+
+#: Customers Submitted this Tag
+msgid "Customers Submitted this Tag"
+msgstr "Clients ayant soumis ce mot clé"
+
+#: Customers Tagged '%s'
+msgid "Customers Tagged '%s'"
+msgstr "Mots clés clients '%s'"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Tag
+msgid "Delete Tag"
+msgstr "Supprimer mot clé"
+
+#: Disabled
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: Edit Tag '%s'
+msgid "Edit Tag '%s'"
+msgstr "Éditer mot clé '%s'"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: Grid
+msgid "Grid"
+msgstr "Grille"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
+
+#: List
+msgid "List"
+msgstr "Liste"
+
+#: Manage Tags
+msgid "Manage Tags"
+msgstr "Gérer les mots clés"
+
+#: My Recent Tags
+msgid "My Recent Tags"
+msgstr "Mes mots clés récents"
+
+#: My Tags
+msgid "My Tags"
+msgstr "Mes mot clés"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New Tag
+msgid "New Tag"
+msgstr "Nouveau mot clé"
+
+#: No matches found.
+msgid "No matches found."
+msgstr "Aucune correspondance trouvée."
+
+#: Other people marked this product with these tags:
+msgid "Other people marked this product with these tags:"
+msgstr "Autres personnes ayant marqué ce produit avec ce mot clé :"
+
+#: Pending
+msgid "Pending"
+msgstr "En attente"
+
+#: Pending Tags
+msgid "Pending Tags"
+msgstr "Mots clés en attente"
+
+#: Popular
+msgid "Popular"
+msgstr "Populaire"
+
+#: Popular Tags
+msgid "Popular Tags"
+msgstr "Mots clés populaires"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Product SKU
+msgid "Product SKU"
+msgstr "SKU Produit"
+
+#: Product Tags
+msgid "Product Tags"
+msgstr "Mots clés du produit"
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Products Tagged by Administrators
+msgid "Products Tagged by Administrators"
+msgstr "Mots clés de l'administrateur"
+
+#: Products Tagged by Customers
+msgid "Products Tagged by Customers"
+msgstr "Mots clés des clients"
+
+#: Products Tagged with '%s'
+msgid "Products Tagged with '%s'"
+msgstr "Produits taggés avec '%s'"
+
+#: Products tagged with '%s'
+msgid "Products tagged with '%s'"
+msgstr "Produits taggés avec '%s'"
+
+#: Rebuild Tag aggregation data
+msgid "Rebuild Tag aggregation data"
+msgstr "Reconstruire les données d'aggrégation de mots clés"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: Save Tag
+msgid "Save Tag"
+msgstr "Enregistrer mot clé"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Store View
+msgid "Store View"
+msgstr "Vue magasin"
+
+#: Tag
+msgid "Tag"
+msgstr "Mot clé"
+
+#: Tag \"%s\" has already been added to the product.
+msgid "Tag \"%s\" has already been added to the product."
+msgstr "Le mot clé \"%s\" a déjà été ajouté au produit."
+
+#: Tag \"%s\" has been added to the product.
+msgid "Tag \"%s\" has been added to the product."
+msgstr "Le mot clé \"%s\" a bien été ajouté au produit."
+
+#: Tag \"%s\" has been rejected by administrator.
+msgid "Tag \"%s\" has been rejected by administrator."
+msgstr "Le mot clé \"%s\" a été rejeté par l'administrateur."
+
+#: Tag Aggregation Data
+msgid "Tag Aggregation Data"
+msgstr "Données d'aggrégation de mot clé"
+
+#: Tag Name
+msgid "Tag Name"
+msgstr "Nom du mot clé"
+
+#: Tagged Products List
+msgid "Tagged Products List"
+msgstr "Liste des produits ayant un mot clé"
+
+#: Tags
+msgid "Tags"
+msgstr "Mots clés"
+
+#: Tags List (All Available)
+msgid "Tags List (All Available)"
+msgstr "Liste des mots clés (Ceux disponibles)"
+
+#: Tags List Before
+msgid "Tags List Before"
+msgstr "Liste des mots-clés avant"
+
+#: Tags:
+msgid "Tags:"
+msgstr "Mots clés :"
+
+#: Telephone
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: The tag has been deleted.
+msgid "The tag has been deleted."
+msgstr "Le mot clé a été effacé"
+
+#: There are no tags available.
+msgid "There are no tags available."
+msgstr "Aucun mot clé disponible."
+
+#: Unable to find any products tagged with '%s' in the current store
+msgid "Unable to find any products tagged with '%s' in the current store"
+msgstr "Aucune correspondance d'article pour le mot clé : '%s'"
+
+#: Unable to remove tag. Please, try again later.
+msgid "Unable to remove tag. Please, try again later."
+msgstr "Impossible de supprimer le mot clé. Veuillez recommencer ultèrieurement."
+
+#: Unable to save tag(s).
+msgid "Unable to save tag(s)."
+msgstr "Impossible de sauvegarder le(s) mot(s) clé(s)."
+
+#: Use spaces to separate tags. Use single quotes (') for phrases.
+msgid "Use spaces to separate tags. Use single quotes (') for phrases."
+msgstr "Utilisez un espace pour separer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
+
+#: View All Tags
+msgid "View All Tags"
+msgstr "Voir tous les mots clés"
+
+#: View Customers
+msgid "View Customers"
+msgstr "Voir les clients"
+
+#: View Products
+msgid "View Products"
+msgstr "Voir les produits"
+
+#: XML
+msgid "XML"
+msgstr "XML"
+
+#: You have not tagged any products yet.
+msgid "You have not tagged any products yet."
+msgstr "Vous n'avez taggé aucun produit pour le moment."
+
+#: ZIP/Post Code
+msgid "ZIP/Post Code"
+msgstr "ZIP/Code postal"
+
+#: Fixed Product Taxes
+msgid "Fixed Product Taxes"
+msgstr "Taxes Fixes de Produit"
+
+#: Enable FPT
+msgid "Enable FPT"
+msgstr "Activer les TFP"
+
+#: Display Prices In Product Lists
+msgid "Display Prices In Product Lists"
+msgstr "Afficher les prix dans la liste des produits"
+
+#: Display Prices On Product View Page
+msgid "Display Prices On Product View Page"
+msgstr "Afficher les prix dans les fiches produits"
+
+#: Display Prices In Sales Modules
+msgid "Display Prices In Sales Modules"
+msgstr "Afficher les prix dans les modules de paiement"
+
+#: Display Prices In Emails
+msgid "Display Prices In Emails"
+msgstr "Afficher les prix dans les emails"
+
+#: Apply Discounts To FPT
+msgid "Apply Discounts To FPT"
+msgstr "Appliquer les remises au TFP"
+
+#: Apply Tax To FPT
+msgid "Apply Tax To FPT"
+msgstr "Appliquer la taxe au TFP"
+
+#: Include FPT In Subtotal
+msgid "Include FPT In Subtotal"
+msgstr "Inclure TFP dans le sous-total"
+

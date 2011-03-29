@@ -1,0 +1,152 @@
+#: API Gateway URL
+msgid "API Gateway URL"
+msgstr ""
+
+#: Accepted Currency
+msgid "Accepted Currency"
+msgstr ""
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr ""
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr ""
+
+#: Click <a href=\"%s\">here</a> to continue shopping.
+msgid "Click <a href=\"%s\">here</a> to continue shopping."
+msgstr ""
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr ""
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr ""
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr ""
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr ""
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr ""
+
+#: Credit Card Verification
+msgid "Credit Card Verification"
+msgstr ""
+
+#: Customer ID
+msgid "Customer ID"
+msgstr ""
+
+#: Customer was redirected to eWAY.
+msgid "Customer was redirected to eWAY."
+msgstr ""
+
+#: Debug Flag
+msgid "Debug Flag"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr ""
+
+#: Name on Card
+msgid "Name on Card"
+msgstr ""
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Please Select
+msgid "Please Select"
+msgstr ""
+
+#: Selected currency code (%s) is not compatible with eWAY.
+msgid "Selected currency code (%s) is not compatible with eWAY."
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: The customer has successfully returned from eWAY.
+msgid "The customer has successfully returned from eWAY."
+msgstr ""
+
+#: The customer was rejected by eWAY.
+msgid "The customer was rejected by eWAY."
+msgstr ""
+
+#: There has been an error processing your payment.
+msgid "There has been an error processing your payment."
+msgstr ""
+
+#: There has been an error processing your payment. Please try later or contact us for help.
+msgid "There has been an error processing your payment. Please try later or contact us for help."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Use Beagle Anti-Fraud
+msgid "Use Beagle Anti-Fraud"
+msgstr ""
+
+#: What is this?
+msgid "What is this?"
+msgstr ""
+
+#: You will be redirected to eWAY 3D-Secure in a few seconds.
+msgid "You will be redirected to eWAY 3D-Secure in a few seconds."
+msgstr ""
+
+#: You will be redirected to eWAY 3D-Secure website when you place an order.
+msgid "You will be redirected to eWAY 3D-Secure website when you place an order."
+msgstr ""
+
+#: You will be redirected to eWAY in a few seconds.
+msgid "You will be redirected to eWAY in a few seconds."
+msgstr ""
+
+#: You will be redirected to eWAY website when you place an order.
+msgid "You will be redirected to eWAY website when you place an order."
+msgstr ""
+
+#: eWAY 3D-Secure
+msgid "eWAY 3D-Secure"
+msgstr ""
+
+#: eWAY Direct
+msgid "eWAY Direct"
+msgstr ""
+
+#: eWAY Shared
+msgid "eWAY Shared"
+msgstr ""
+

@@ -1,0 +1,172 @@
+#: -- Please select --
+msgid "-- Please select --"
+msgstr "-- Votre choix --"
+
+#: Allowed Currencies
+msgid "Allowed Currencies"
+msgstr "Devises autorisées"
+
+#: Base Currency
+msgid "Base Currency"
+msgstr "Devise de base"
+
+#: Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (\"Catalog\" > \"Price\" > \"Catalog Price Scope\").
+msgid "Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (\"Catalog\" > \"Price\" > \"Catalog Price Scope\")."
+msgstr "La devise de base est utilisée pour toutes les transactions de paiement en ligne. La portée est définie par la porte des prix de catalogue (\"Catalogue\" > \"Prix\" > \"Portée des prix catalogue\")"
+
+#: Cannot retrieve rate from %s.
+msgid "Cannot retrieve rate from %s."
+msgstr "Impossible de récupérer les taux sur %s."
+
+#: Connection Timeout in Seconds
+msgid "Connection Timeout in Seconds"
+msgstr "Timeout de connexion"
+
+#: Continue &raquo;
+msgid "Continue &raquo;"
+msgstr "Continuer &raquo;"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Country Api
+msgid "Country Api"
+msgstr "API de pays"
+
+#: Country and Format Type combination should be unique
+msgid "Country and Format Type combination should be unique"
+msgstr "La combinaison Pays et Type de format doit être unique"
+
+#: Currency
+msgid "Currency"
+msgstr "Devise"
+
+#: Currency Options
+msgid "Currency Options"
+msgstr "Options de devise"
+
+#: Currency Setup
+msgid "Currency Setup"
+msgstr "Paramétrage des devises"
+
+#: Currency Update Warnings
+msgid "Currency Update Warnings"
+msgstr "Alertes de mise à jour des devises"
+
+#: Default Display Currency
+msgid "Default Display Currency"
+msgstr "Devise à afficher par défaut"
+
+#: Directory
+msgid "Directory"
+msgstr "Répertoire"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error Email Recipient
+msgid "Error Email Recipient"
+msgstr "Erreur de mail destinataire"
+
+#: Error Email Sender
+msgid "Error Email Sender"
+msgstr "Expéditeur du mail d'erreur"
+
+#: Error Email Template
+msgid "Error Email Template"
+msgstr "Gabarit du mail d'erreur"
+
+#: FATAL ERROR:
+msgid "FATAL ERROR:"
+msgstr "ERREUR FATALE :"
+
+#: Frequency
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: Installed Currencies
+msgid "Installed Currencies"
+msgstr "Devises installées"
+
+#: Invalid Import Service specified.
+msgid "Invalid Import Service specified."
+msgstr "Le service d'import spécifié est invalide"
+
+#: Invalid country code: %s
+msgid "Invalid country code: %s"
+msgstr "Code de pays non valide : %s"
+
+#: Invalid rates received
+msgid "Invalid rates received"
+msgstr "Taux reçus non valides"
+
+#: Invalid target currency.
+msgid "Invalid target currency."
+msgstr "La devise cible est invalide."
+
+#: List of countries
+msgid "List of countries"
+msgstr "Liste des pays"
+
+#: List of regions in specified country
+msgid "List of regions in specified country"
+msgstr "Liste des régions dans le pays spécifié"
+
+#: Postal Code is Optional for the following countries
+msgid "Postal Code is Optional for the following countries"
+msgstr "Pays pour lesquels le code postal est optionnel"
+
+#: Region
+msgid "Region"
+msgstr "Région"
+
+#: Region Api
+msgid "Region Api"
+msgstr "API de région"
+
+#: Scheduled Import Settings
+msgid "Scheduled Import Settings"
+msgstr "Paramètres d'import programmé"
+
+#: Select Your Currency
+msgid "Select Your Currency"
+msgstr "Votre devise"
+
+#: Service
+msgid "Service"
+msgstr "Service"
+
+#: Start Time
+msgid "Start Time"
+msgstr "Heure de début"
+
+#: State/Province
+msgid "State/Province"
+msgstr "État/Région"
+
+#: Strikeiron Email Update Warnings
+msgid "Strikeiron Email Update Warnings"
+msgstr "Alertes de mise à jour de l'email Strikeiron"
+
+#: Unable to initialize the import model.
+msgid "Unable to initialize the import model."
+msgstr "Impossible d'initialiser le modèle d'import."
+
+#: Undefined rate from \"%s-%s\".
+msgid "Undefined rate from \"%s-%s\"."
+msgstr "Taux indéfini depuis \"%s-%s\"."
+
+#: WARNING:
+msgid "WARNING:"
+msgstr "ATTENTION :"
+
+#: Webservicex
+msgid "Webservicex"
+msgstr "Webservicex"
+
+#: Your current currency is: %s
+msgid "Your current currency is: %s"
+msgstr "Votre devise actuelle est : %s"
+

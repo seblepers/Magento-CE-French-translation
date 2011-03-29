@@ -1,0 +1,208 @@
+#: Accepted Currency
+msgid "Accepted Currency"
+msgstr ""
+
+#: An error has occurred
+msgid "An error has occurred"
+msgstr ""
+
+#: An error occurred during paying process.
+msgid "An error occurred during paying process."
+msgstr ""
+
+#: An error occurred during the paying process.
+msgid "An error occurred during the paying process."
+msgstr ""
+
+#: Authorize Only
+msgid "Authorize Only"
+msgstr ""
+
+#: Authorize and Capture
+msgid "Authorize and Capture"
+msgstr ""
+
+#: CGI URL
+msgid "CGI URL"
+msgstr ""
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr ""
+
+#: ChronoPay Gateway
+msgid "ChronoPay Gateway"
+msgstr ""
+
+#: ChronoPay Standard
+msgid "ChronoPay Standard"
+msgstr ""
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr ""
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr ""
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr ""
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr ""
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr ""
+
+#: Customer Interface Language
+msgid "Customer Interface Language"
+msgstr ""
+
+#: Debug
+msgid "Debug"
+msgstr ""
+
+#: Dutch
+msgid "Dutch"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: English
+msgid "English"
+msgstr ""
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr ""
+
+#: Gateway request error: %s
+msgid "Gateway request error: %s"
+msgstr ""
+
+#: German
+msgid "German"
+msgstr ""
+
+#: Invalid operation code.
+msgid "Invalid operation code."
+msgstr ""
+
+#: Invalid response format.
+msgid "Invalid response format."
+msgstr ""
+
+#: Issue Number
+msgid "Issue Number"
+msgstr ""
+
+#: Name on Card
+msgid "Name on Card"
+msgstr ""
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr ""
+
+#: New Order Status
+msgid "New Order Status"
+msgstr ""
+
+#: Order #%s
+msgid "Order #%s"
+msgstr ""
+
+#: Order number will be used if left empty.
+msgid "Order number will be used if left empty."
+msgstr ""
+
+#: Payment Action
+msgid "Payment Action"
+msgstr ""
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr ""
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr ""
+
+#: Please Select
+msgid "Please Select"
+msgstr ""
+
+#: Product ID
+msgid "Product ID"
+msgstr ""
+
+#: Russian
+msgid "Russian"
+msgstr ""
+
+#: Shared Secret
+msgid "Shared Secret"
+msgstr ""
+
+#: Site ID
+msgid "Site ID"
+msgstr ""
+
+#: Sort Order
+msgid "Sort Order"
+msgstr ""
+
+#: Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin.
+msgid "Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin."
+msgstr ""
+
+#: Start Date
+msgid "Start Date"
+msgstr ""
+
+#: Switch/Solo Only
+msgid "Switch/Solo Only"
+msgstr ""
+
+#: The customer has successfully returned from Chronopay.
+msgid "The customer has successfully returned from Chronopay."
+msgstr ""
+
+#: The customer was redirected to Chronopay.
+msgid "The customer was redirected to Chronopay."
+msgstr ""
+
+#: The selected currency code (%s) is not compatible with ChronoPay.
+msgid "The selected currency code (%s) is not compatible with ChronoPay."
+msgstr ""
+
+#: The transaction ID is invalid.
+msgid "The transaction ID is invalid."
+msgstr ""
+
+#: Title
+msgid "Title"
+msgstr ""
+
+#: Transaction Description
+msgid "Transaction Description"
+msgstr ""
+
+#: What is this?
+msgid "What is this?"
+msgstr ""
+
+#: You will be redirected to ChronoPay in a few seconds.
+msgid "You will be redirected to ChronoPay in a few seconds."
+msgstr ""
+
+#: You will be redirected to Chronopay website when you place an order.
+msgid "You will be redirected to Chronopay website when you place an order."
+msgstr ""
+

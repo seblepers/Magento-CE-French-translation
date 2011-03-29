@@ -1,0 +1,336 @@
+#: A joint field with this alias (%s) is already declared.
+msgid "A joint field with this alias (%s) is already declared."
+msgstr "Un champ de jointure a déjà été déclaré avec cet alias (%s)."
+
+#: Add Option
+msgid "Add Option"
+msgstr "Ajouter une option"
+
+#: An error occurred while loading a record, aborting. Error: %s
+msgid "An error occurred while loading a record, aborting. Error: %s"
+msgstr "Erreur lors du chargement d'un enregistrement. Erreur : %s"
+
+#: An error occurred while loading the collection, aborting. Error: %s
+msgid "An error occurred while loading the collection, aborting. Error: %s"
+msgstr "Erreur lors du chargement d'une collection. Erreur : %s"
+
+#: An error occurred while saving a record, aborting. Error: 
+msgid "An error occurred while saving a record, aborting. Error: "
+msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur : "
+
+#: Attempt to add an invalid object.
+msgid "Attempt to add an invalid object."
+msgstr "Tentative d'ajout d'un objet invalide."
+
+#: Attribute '%s' used in configurable products.
+msgid "Attribute '%s' used in configurable products."
+msgstr "Attribut '%s' utilisé dans les produits configurables."
+
+#: Attribute Code
+msgid "Attribute Code"
+msgstr "Code"
+
+#: Attribute Label
+msgid "Attribute Label"
+msgstr "Libellé"
+
+#: Attribute Properties
+msgid "Attribute Properties"
+msgstr "Propriétés de l'attribut"
+
+#: Attribute set with the \"%s\" name already exists.
+msgid "Attribute set with the \"%s\" name already exists."
+msgstr "Il existe déjà un jeu d'attributs portant le nom \"%s\"."
+
+#: Attribute with the same code
+msgid "Attribute with the same code"
+msgstr "Attribut avec le même code"
+
+#: Catalog Input Type for Store Owner
+msgid "Catalog Input Type for Store Owner"
+msgstr "Type d'entrée catalogue pour le propriétaire du magasin"
+
+#: Data integrity: No header row found for attribute.
+msgid "Data integrity: No header row found for attribute."
+msgstr "Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut."
+
+#: Date
+msgid "Date"
+msgstr "Date"
+
+#: Decimal Number
+msgid "Decimal Number"
+msgstr "Nombre décimal"
+
+#: Default Product Listing Sort by not exists on Available Product Listing Sort By
+msgid "Default Product Listing Sort by not exists on Available Product Listing Sort By"
+msgstr "Le tri par défaut pour les listes de produits n'existe pas dans la liste des valeurs possibles"
+
+#: Default Value
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: Default option value is not defined.
+msgid "Default option value is not defined."
+msgstr "La valeur par défaut de l'option n'est pas définie."
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Dropdown
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Entity collection expected.
+msgid "Entity collection expected."
+msgstr "Collection d'entités attendue."
+
+#: Entity collections expected.
+msgid "Entity collections expected."
+msgstr "Collections d'entités attendues."
+
+#: Entity is not initialized.
+msgid "Entity is not initialized."
+msgstr "L'entité n'est pas initialisée."
+
+#: Failed to load node %s from config.
+msgid "Failed to load node %s from config."
+msgstr "Impossible de charger le nœud %s depuis la configuration."
+
+#: For internal use. Must be unique with no spaces
+msgid "For internal use. Must be unique with no spaces"
+msgstr "Usage interne. Doit être unique et sans espace"
+
+#: Form Element with the same attribute
+msgid "Form Element with the same attribute"
+msgstr "Il existe déjà un élément de formulaire avec le même attribut"
+
+#: Form Fieldset with the same code
+msgid "Form Fieldset with the same code"
+msgstr "Il existe déjà un groupe de champs de formulaire avec le même code"
+
+#: Form Type with the same code
+msgid "Form Type with the same code"
+msgstr "Il existe déjà un type de formulaire avec le même code"
+
+#: Frontend label is not defined.
+msgid "Frontend label is not defined."
+msgstr "Le libellé de front office n'est pas défini."
+
+#: Input Validation for Store Owner
+msgid "Input Validation for Store Owner"
+msgstr "Validation requise"
+
+#: Integer Number
+msgid "Integer Number"
+msgstr "Nombre entier"
+
+#: Invalid EAV attribute.
+msgid "Invalid EAV attribute."
+msgstr "Attribut EAV invalide."
+
+#: Invalid alias, already exists in joint attributes.
+msgid "Invalid alias, already exists in joint attributes."
+msgstr "Alias invalide, déjà utilisé dans les attributs de jointure."
+
+#: Invalid attribute name: %s.
+msgid "Invalid attribute name: %s."
+msgstr "Nom d'attribut invalide : %s."
+
+#: Invalid attribute requested: %s
+msgid "Invalid attribute requested: %s"
+msgstr "Attribut non valide exigé : %s"
+
+#: Invalid attribute type.
+msgid "Invalid attribute type."
+msgstr "Type d'attribut invalide."
+
+#: Invalid character encountered in increment ID: %s
+msgid "Invalid character encountered in increment ID: %s"
+msgstr "Caractère non valide trouvé dans l'ID d'incrément : %s"
+
+#: Invalid entity specified
+msgid "Invalid entity specified"
+msgstr "Entité spécifiée non valide"
+
+#: Invalid entity supplied.
+msgid "Invalid entity supplied."
+msgstr "L'entité fournie n'est pas valide."
+
+#: Invalid entity supplied: %s.
+msgid "Invalid entity supplied: %s."
+msgstr "L'entité fournie n'est pas valide : %s."
+
+#: Invalid entity type.
+msgid "Invalid entity type."
+msgstr "Type d'entité invalide."
+
+#: Invalid entity_id, skipping the record.
+msgid "Invalid entity_id, skipping the record."
+msgstr "entity_id non valide, enregistrement ignoré"
+
+#: Invalid entity_type specified: %s
+msgid "Invalid entity_type specified: %s"
+msgstr "entity_type non valide : %s"
+
+#: Invalid foreign key.
+msgid "Invalid foreign key."
+msgstr "Clé étrangère invalide."
+
+#: Invalid form type.
+msgid "Invalid form type."
+msgstr "Type de formulaire invalide."
+
+#: Invalid joint fields.
+msgid "Invalid joint fields."
+msgstr "Champs de jointure invalides."
+
+#: Invalid store specified
+msgid "Invalid store specified"
+msgstr "Magasin spécifié non valide"
+
+#: Joined field with this alias is already declared.
+msgid "Joined field with this alias is already declared."
+msgstr "Il existe déjà un champ de jointure portant cet alias."
+
+#: Joint field or attribute expression with this alias is already declared.
+msgid "Joint field or attribute expression with this alias is already declared."
+msgstr "Il existe déjà un champ de jointure ou une expression d'attribut portant cet alias."
+
+#: Letters
+msgid "Letters"
+msgstr "Lettres"
+
+#: Letters (a-z, A-Z) or Numbers (0-9)
+msgid "Letters (a-z, A-Z) or Numbers (0-9)"
+msgstr "Lettres (a-z, A-Z) ou chiffres (0-9)"
+
+#: Loaded %d records
+msgid "Loaded %d records"
+msgstr "%d enregistrement(s) chargé(s)"
+
+#: Multiple Select
+msgid "Multiple Select"
+msgstr "Sélection multiple"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No options found in config node %s
+msgid "No options found in config node %s"
+msgstr "Aucune option trouvée dans le noeud de configuration %s"
+
+#: None
+msgid "None"
+msgstr "Aucun"
+
+#: Not shared with other products
+msgid "Not shared with other products"
+msgstr "Non partagé avec les autres produits"
+
+#: Problem loading the collection, aborting. Error: %s
+msgid "Problem loading the collection, aborting. Error: %s"
+msgstr "Problème lors du chargement de la collection. Annulation. Erreur : %s"
+
+#: Problem saving the collection, aborting. Error: %s
+msgid "Problem saving the collection, aborting. Error: %s"
+msgstr "Problème lors de la sauvegarde de la collection. Annulation. Erreur : %s"
+
+#: Required
+msgid "Required"
+msgstr "Obligatoire"
+
+#: Saved %d record(s).
+msgid "Saved %d record(s)."
+msgstr "%d enregistrement(s) sauvegardé(s)"
+
+#: Scope must not be changed, because the attribute is used in configurable products.
+msgid "Scope must not be changed, because the attribute is used in configurable products."
+msgstr "La portée ne doit pas être modifiée car l'attribut est utilisé dans des produits configurables."
+
+#: System
+msgid "System"
+msgstr "Système"
+
+#: Text Area
+msgid "Text Area"
+msgstr "Zone de texte"
+
+#: Text Field
+msgid "Text Field"
+msgstr "Champ texte"
+
+#: The attribute code \'%s\' is reserved by system. Please try another attribute code.
+msgid "The attribute code \'%s\' is reserved by system. Please try another attribute code."
+msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+
+#: The value of attribute \"%s\" must be unique.
+msgid "The value of attribute \"%s\" must be unique."
+msgstr "La valeur de l'attribut \"%s\" doit être unique."
+
+#: This attribute is used in configurable products.
+msgid "This attribute is used in configurable products."
+msgstr "Cet attribut est utilisé dans les produits configurables."
+
+#: URL
+msgid "URL"
+msgstr "URL"
+
+#: Unique Value
+msgid "Unique Value"
+msgstr "Valeur unique"
+
+#: Unique Value (not shared with other products)
+msgid "Unique Value (not shared with other products)"
+msgstr "Valeur unique (non partagée avec les autres produits)"
+
+#: Unknown parameter.
+msgid "Unknown parameter."
+msgstr "Paramètre inconnu."
+
+#: Valid store_id is expected!
+msgid "Valid store_id is expected!"
+msgstr "Un store_id valide est attendu !"
+
+#: Values Required
+msgid "Values Required"
+msgstr "Valeurs requises"
+
+#: Wrong attribute ID.
+msgid "Wrong attribute ID."
+msgstr "Mauvais identifiant d'attribut."
+
+#: Wrong attribute group ID.
+msgid "Wrong attribute group ID."
+msgstr "Mauvais identifiant de groupe d'attributs."
+
+#: Wrong attribute set ID.
+msgid "Wrong attribute set ID."
+msgstr "Mauvais identifiant de jeu d'attributs."
+
+#: Wrong entity ID.
+msgid "Wrong entity ID."
+msgstr "Mauvais identifiant d'entité."
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: Yes/No
+msgid "Yes/No"
+msgstr "Oui/Non"
+
+#: An error occurred while saving a record, aborting. Error:
+msgid "An error occurred while saving a record, aborting. Error:"
+msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur :"
+
+#: The attribute code '%s' is reserved by system. Please try another attribute code.
+msgid "The attribute code '%s' is reserved by system. Please try another attribute code."
+msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+

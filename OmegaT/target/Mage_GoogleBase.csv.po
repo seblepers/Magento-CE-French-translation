@@ -1,0 +1,352 @@
+#: Account Login
+msgid "Account Login"
+msgstr "Login du compte"
+
+#: Account Password
+msgid "Account Password"
+msgstr "Mot de passe du compte"
+
+#: Account Type
+msgid "Account Type"
+msgstr "Type de compte"
+
+#: Active
+msgid "Active"
+msgstr "Actif"
+
+#: Add Attribute Mapping
+msgid "Add Attribute Mapping"
+msgstr "Ajouter un mapping d'attribut"
+
+#: Add New Attribute
+msgid "Add New Attribute"
+msgstr "Ajouter un attribut"
+
+#: Add to Google Base
+msgid "Add to Google Base"
+msgstr "Ajouter à Google Base"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: Attribute
+msgid "Attribute"
+msgstr "Attribut"
+
+#: Attribute Set
+msgid "Attribute Set"
+msgstr "Jeu d'attributs"
+
+#: Attribute Set and Item Type
+msgid "Attribute Set and Item Type"
+msgstr "Jeu d'attributs et type d'article"
+
+#: Attributes
+msgid "Attributes"
+msgstr "Attributs"
+
+#: Attributes Mapping
+msgid "Attributes Mapping"
+msgstr "Mapping d'attributs"
+
+#: Attributes Set
+msgid "Attributes Set"
+msgstr "Jeu d'attributs"
+
+#: AuthSub
+msgid "AuthSub"
+msgstr "AuthSub"
+
+#: Available Products
+msgid "Available Products"
+msgstr "Produits disponibles"
+
+#: British Pound Sterling
+msgid "British Pound Sterling"
+msgstr "Livre sterling"
+
+#: Cannot update Google Base Item for Store '%s'
+msgid "Cannot update Google Base Item for Store '%s'"
+msgstr "Impossible de mettre à jour l'article Google Base pour le magasin '%s'"
+
+#: Captcha confirmation error: %s
+msgid "Captcha confirmation error: %s"
+msgstr "Erreur de confirmation de captcha : %s"
+
+#: Captcha has been confirmed.
+msgid "Captcha has been confirmed."
+msgstr "Le captcha a été confirmé."
+
+#: Catalog
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: Clicks
+msgid "Clicks"
+msgstr "Clics"
+
+#: ClientLogin
+msgid "ClientLogin"
+msgstr "IdentifantClient"
+
+#: Confirm
+msgid "Confirm"
+msgstr "Confirmer"
+
+#: Current Mapping will be reloaded. Continue?
+msgid "Current Mapping will be reloaded. Continue?"
+msgstr "Le mapping en cours sera rechargé. Souhaitez-vous continuer ?"
+
+#: Custom attribute, no mapping
+msgid "Custom attribute, no mapping"
+msgstr "Attribut personnalisé, pas de mapping"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Mapping
+msgid "Delete Mapping"
+msgstr "Effacer le mapping"
+
+#: Edit Item Type
+msgid "Edit Item Type"
+msgstr "Éditer le type d'article"
+
+#: Edit Item Type \"%s\"
+msgid "Edit Item Type \"%s\""
+msgstr "Éditer le type d'article \"%s\""
+
+#: Error: %s
+msgid "Error: %s"
+msgstr "Erreur : %s"
+
+#: Euro
+msgid "Euro"
+msgstr "Euro"
+
+#: Expires
+msgid "Expires"
+msgstr "Expire"
+
+#: Germany
+msgid "Germany"
+msgstr "Allemagne"
+
+#: Google
+msgid "Google"
+msgstr "Google"
+
+#: Google Base
+msgid "Google Base"
+msgstr "Google Base"
+
+#: Google Base Attribute
+msgid "Google Base Attribute"
+msgstr "Attribut Google Base"
+
+#: Google Base ID
+msgid "Google Base ID"
+msgstr "ID Google Base"
+
+#: Google Base Item Type
+msgid "Google Base Item Type"
+msgstr "Type d'article Google Base"
+
+#: Google Base Item type
+msgid "Google Base Item type"
+msgstr "Type d'article Google Base"
+
+#: Google Base Items
+msgid "Google Base Items"
+msgstr "Articles Google Base"
+
+#: Google base
+msgid "Google base"
+msgstr "Google base"
+
+#: Hide
+msgid "Hide"
+msgstr "Masquer"
+
+#: Hosted
+msgid "Hosted"
+msgstr "Hébergé"
+
+#: Hosted or Google
+msgid "Hosted or Google"
+msgstr "Hébergé ou Google"
+
+#: Impr.
+msgid "Impr."
+msgstr "Impr."
+
+#: Invalid Product Model for Google Base Item
+msgid "Invalid Product Model for Google Base Item"
+msgstr "Modèle de produit invalide pour un article Google Base"
+
+#: Item Type was deleted
+msgid "Item Type was deleted"
+msgstr "Le type d'article a été effacé"
+
+#: Item Types
+msgid "Item Types"
+msgstr "Types d'article"
+
+#: Item model is not specified to delete Google Base entry.
+msgid "Item model is not specified to delete Google Base entry."
+msgstr "Le modèle d'article n'est pas spécifié pour effacer l'entrée Google Base"
+
+#: Items
+msgid "Items"
+msgstr "Articles"
+
+#: Manage Attribute Mapping
+msgid "Manage Attribute Mapping"
+msgstr "Gérer le mapping d'attributs"
+
+#: Manage Attributes
+msgid "Manage Attributes"
+msgstr "Gérer les attributs"
+
+#: Manage Items
+msgid "Manage Items"
+msgstr "Gérer les articles"
+
+#: New Item Type
+msgid "New Item Type"
+msgstr "Nouveau type d'article"
+
+#: New ItemType
+msgid "New ItemType"
+msgstr "Nouveau type d'article"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No items were deleted from Google Base
+msgid "No items were deleted from Google Base"
+msgstr "Aucun article n'a été effacé de Google Base"
+
+#: No items were published
+msgid "No items were published"
+msgstr "Aucun article n'a été publié"
+
+#: No items were saved as inactive items
+msgid "No items were saved as inactive items"
+msgstr "Aucun article n'a été sauvegardé en tant qu'article inactif"
+
+#: No products were added to Google Base
+msgid "No products were added to Google Base"
+msgstr "Aucun produit n'a été ajouté à Google Base"
+
+#: Object model is not specified to save Google Base entry.
+msgid "Object model is not specified to save Google Base entry."
+msgstr "Le modèle objet n'est pas spécifié pour sauvegarder l'entrée Google Base."
+
+#: Page views
+msgid "Page views"
+msgstr "Vues de page"
+
+#: Please, select Attribute Set and Google Item Type to load attributes
+msgid "Please, select Attribute Set and Google Item Type to load attributes"
+msgstr "Veuillez sélectionner un jeu d'attributs et un type d'article Google pour charger les attributs"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Publish
+msgid "Publish"
+msgstr "Publier"
+
+#: Published
+msgid "Published"
+msgstr "Publié"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Save Mapping
+msgid "Save Mapping"
+msgstr "Sauvegarder le mapping"
+
+#: Session expired during export. Please revise exported products and repeat the process if necessary.
+msgid "Session expired during export. Please revise exported products and repeat the process if necessary."
+msgstr "La session a expiré durant l'export. Vérifiez les produits exportés et relancez le process si nécessaire."
+
+#: Synchronize
+msgid "Synchronize"
+msgstr "Synchroniser"
+
+#: Target Country
+msgid "Target Country"
+msgstr "Pays cible"
+
+#: The item type has been saved.
+msgid "The item type has been saved."
+msgstr "Le type d'article a été sauvegardé."
+
+#: This action will update items statistics and remove the items which are not available in Google Base. Continue?
+msgid "This action will update items statistics and remove the items which are not available in Google Base. Continue?"
+msgstr "Cette action mettra à jour les statistiques des articles et effacera les articles qui ne sont pas disponibles dans Google Base. Souhaitez-vous continuer ?"
+
+#: Total of %d items(s) have been deleted; total of %d items(s) have been updated.
+msgid "Total of %d items(s) have been deleted; total of %d items(s) have been updated."
+msgstr "Un total de %d article(s) a été effacé. Un total de %d article(s) a été mis à jour."
+
+#: Total of %d items(s) have been published.
+msgid "Total of %d items(s) have been published."
+msgstr "Un total de %d article(s) a été publié."
+
+#: Total of %d items(s) have been removed from Google Base.
+msgid "Total of %d items(s) have been removed from Google Base."
+msgstr "Un total de %d article(s) a été supprimé de Google Base."
+
+#: Total of %d items(s) have been saved as inactive items.
+msgid "Total of %d items(s) have been saved as inactive items."
+msgstr "Un total de %d article(s) a été sauvegardé en tant qu'articles inactifs."
+
+#: Total of %d product(s) have been added to Google Base.
+msgid "Total of %d product(s) have been added to Google Base."
+msgstr "Un total de %d article(s) a été ajouté à Google Base."
+
+#: US Dollar
+msgid "US Dollar"
+msgstr "Dollar US"
+
+#: Unable to connect to Google Base. Please, check Account settings in configuration.
+msgid "Unable to connect to Google Base. Please, check Account settings in configuration."
+msgstr "Impossible de se connecter à Google Base. Veuillez vérifier votre configuration."
+
+#: Unable to select a Store View.
+msgid "Unable to select a Store View."
+msgstr "Impossible de sélectionner une vue magasin."
+
+#: United Kingdom
+msgid "United Kingdom"
+msgstr "Royaume Uni"
+
+#: United States
+msgid "United States"
+msgstr "États-Unis"
+
+#: Update Google Base Item when Product is Updated
+msgid "Update Google Base Item when Product is Updated"
+msgstr "Mettre à jour Google Base quand le produit est mis à jour."
+
+#: View Available Products
+msgid "View Available Products"
+msgstr "Voir les produits disponibles"
+
+#: View Item in Google Base
+msgid "View Item in Google Base"
+msgstr "Voir l'article dans Google Base"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+

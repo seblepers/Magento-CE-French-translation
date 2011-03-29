@@ -1,0 +1,76 @@
+#: * Required Fields
+msgid "* Required Fields"
+msgstr "* Champs obligatoires"
+
+#: Comment
+msgid "Comment"
+msgstr "Commentaire"
+
+#: Contact Form
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: Contact Information
+msgid "Contact Information"
+msgstr "Informations de contact"
+
+#: Contact Us
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: Contact Us Form
+msgid "Contact Us Form"
+msgstr "Formulaire de contact"
+
+#: Contacts
+msgid "Contacts"
+msgstr "Contacts"
+
+#: Contacts Section
+msgid "Contacts Section"
+msgstr "Section contacts"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Email Options
+msgid "Email Options"
+msgstr "Options de mail"
+
+#: Email Sender
+msgid "Email Sender"
+msgstr "Expéditeur du mail"
+
+#: Email Template
+msgid "Email Template"
+msgstr "Gabarit du mail"
+
+#: Enable Contact Us
+msgid "Enable Contact Us"
+msgstr "Activer la page Contactez-nous"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: Send Emails To
+msgid "Send Emails To"
+msgstr "Envoyer les mails à"
+
+#: Submit
+msgid "Submit"
+msgstr "Valider"
+
+#: Telephone
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: Unable to submit your request. Please, try again later
+msgid "Unable to submit your request. Please, try again later"
+msgstr "Impossible d'envoyer votre demande. Veuillez réessayer plus tard."
+
+#: Your inquiry was submitted and will be responded to as soon as possible. Thank you for contacting us.
+msgid "Your inquiry was submitted and will be responded to as soon as possible. Thank you for contacting us."
+msgstr "Votre requête nous a bien été transmise et sera traitée dès que possible. Merci !"
+

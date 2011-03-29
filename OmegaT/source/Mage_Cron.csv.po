@@ -1,0 +1,68 @@
+#: Cron (Scheduled Tasks) - all the times are in minutes
+msgid "Cron (Scheduled Tasks) - all the times are in minutes"
+msgstr "Cron (Tâches programmées) - tous les temps sont en minutes"
+
+#: Daily
+msgid "Daily"
+msgstr "Quotidien"
+
+#: Failure History Lifetime
+msgid "Failure History Lifetime"
+msgstr "Durée de vie de l'historique des échecs"
+
+#: For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.
+msgid "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
+msgstr "Afin que les URLs soient générées correctement lors de l'exécution de cron, assurez-vous que les URL non sécurisée et sécurisée sont correctement renseignées."
+
+#: Generate Schedules Every
+msgid "Generate Schedules Every"
+msgstr "Générer les tâches programmées toutes les"
+
+#: History Cleanup Every
+msgid "History Cleanup Every"
+msgstr "Nettoyer l'historique toutes les"
+
+#: Invalid callback: %s::%s does not exist
+msgid "Invalid callback: %s::%s does not exist"
+msgstr "Appel non valide : %s::%s n'existe pas"
+
+#: Invalid model/method definition, expecting \"model/class::method\".
+msgid "Invalid model/method definition, expecting \"model/class::method\"."
+msgstr "Définition de modèle/méthode non valide, \"model/class::method\" attendu."
+
+#: Missed if Not Run Within
+msgid "Missed if Not Run Within"
+msgstr "Manqué si non exécuté dans les"
+
+#: Monthly
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: No callbacks found
+msgid "No callbacks found"
+msgstr "Aucun appel trouvé"
+
+#: Schedule Ahead for
+msgid "Schedule Ahead for"
+msgstr "Programmer en avance de"
+
+#: Success History Lifetime
+msgid "Success History Lifetime"
+msgstr "Durée de vie de l'historique des succès"
+
+#: Too late for the schedule.
+msgid "Too late for the schedule."
+msgstr "Trop tar pour la programmation."
+
+#: Unable to save the cron expression.
+msgid "Unable to save the cron expression."
+msgstr "Impossible d'enregistrer l'expression cron"
+
+#: Unknown error.
+msgid "Unknown error."
+msgstr "Erreur inconnue."
+
+#: Weekly
+msgid "Weekly"
+msgstr "Hebdomadaire"
+

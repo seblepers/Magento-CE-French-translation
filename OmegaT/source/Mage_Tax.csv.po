@@ -1,0 +1,604 @@
+#: '*' - matches any; 'xyz*' - matches any that begins on 'xyz' and not longer than %d.
+msgid "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and not longer than %d."
+msgstr "'*' - correspond à tout; 'xyz*' - correspond à ce qui commence par 'xyz' et qui ne fait pas plus de %d caractères."
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: Add New Class
+msgid "Add New Class"
+msgstr "Ajouter une classe"
+
+#: Add New Tax Rate
+msgid "Add New Tax Rate"
+msgstr "Ajouter une nouvelle taxe"
+
+#: Add New Tax Rule
+msgid "Add New Tax Rule"
+msgstr "Ajouter une nouvelle règle"
+
+#: After Discount
+msgid "After Discount"
+msgstr "Après remise"
+
+#: An error occurred while deleting this rate.
+msgid "An error occurred while deleting this rate."
+msgstr "Erreur lors de la suppression de ce taux."
+
+#: An error occurred while deleting this rate. Incorrect rate ID.
+msgid "An error occurred while deleting this rate. Incorrect rate ID."
+msgstr "Erreur lors de la suppression de ce taux. Identifiant de taux incorrect."
+
+#: An error occurred while deleting this tax class.
+msgid "An error occurred while deleting this tax class."
+msgstr "Erreur lors de la suppression de cette classe de taxe."
+
+#: An error occurred while deleting this tax rule.
+msgid "An error occurred while deleting this tax rule."
+msgstr "Erreur lors de la suppression de cette règle de taxe."
+
+#: An error occurred while saving this rate.
+msgid "An error occurred while saving this rate."
+msgstr "Erreur lors de la sauvegarde de ce taux."
+
+#: An error occurred while saving this tax class.
+msgid "An error occurred while saving this tax class."
+msgstr "Erreur lors de la sauvegarde de cette classe de taxe."
+
+#: An error occurred while saving this tax class. A class with the same name already exists.
+msgid "An error occurred while saving this tax class. A class with the same name already exists."
+msgstr "Erreur lors de la sauvegarde de cette classe de taxe. Il existe déjà une classe portant ce nom."
+
+#: An error occurred while saving this tax rule.
+msgid "An error occurred while saving this tax rule."
+msgstr "Erreur lors de la sauvegarde de cette règle de taxe."
+
+#: Apply Customer Tax
+msgid "Apply Customer Tax"
+msgstr "Appliquer la taxe client"
+
+#: Apply Discount On Prices
+msgid "Apply Discount On Prices"
+msgstr "Appliquer la remise sur les prix"
+
+#: Apply Tax On
+msgid "Apply Tax On"
+msgstr "Appliquer la taxe sur"
+
+#: Apply discount on price including tax is calculated based on store tax, if \"Apply Tax after Discount\" is selected.
+msgid "Apply discount on price including tax is calculated based on store tax, if \"Apply Tax after Discount\" is selected."
+msgstr "Appliquer la remise sur les prix TTC est calculé sur la base de la taxe du magasin si \"Appliquer les taxes après la remise\" est sélectionné."
+
+#: Are you sure you want to do this?
+msgid "Are you sure you want to do this?"
+msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Before Discount
+msgid "Before Discount"
+msgstr "Avant remise"
+
+#: CSV
+msgid "CSV"
+msgstr "CSV"
+
+#: Calculation Settings
+msgid "Calculation Settings"
+msgstr "Paramètres de calcul"
+
+#: Catalog Prices
+msgid "Catalog Prices"
+msgstr "Prix catalogue"
+
+#: Class Name
+msgid "Class Name"
+msgstr "Nom de la classe"
+
+#: Code
+msgid "Code"
+msgstr "Code"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: County
+msgid "County"
+msgstr "Région"
+
+#: Custom price if available
+msgid "Custom price if available"
+msgstr "Prix personnalisé si disponible"
+
+#: Customer Tax Class
+msgid "Customer Tax Class"
+msgstr "Classe de taxe client"
+
+#: Customer Tax Class Information
+msgid "Customer Tax Class Information"
+msgstr "Classe de taxe client (Information)"
+
+#: Customer Tax Classes
+msgid "Customer Tax Classes"
+msgstr "Classes de taxe client"
+
+#: Default Country
+msgid "Default Country"
+msgstr "Pays par défaut"
+
+#: Default Post Code
+msgid "Default Post Code"
+msgstr "Code postal par défaut"
+
+#: Default State
+msgid "Default State"
+msgstr "État par défaut"
+
+#: Default Tax Destination Calculation
+msgid "Default Tax Destination Calculation"
+msgstr "Estimation de calcul de la taxe par défaut"
+
+#: Delete Class
+msgid "Delete Class"
+msgstr "Supprimer classe"
+
+#: Delete Rate
+msgid "Delete Rate"
+msgstr "Supprimer le taux"
+
+#: Delete Rule
+msgid "Delete Rule"
+msgstr "Supprimer la règle"
+
+#: Display Full Tax Summary
+msgid "Display Full Tax Summary"
+msgstr "Afficher le résumé complet des taxes"
+
+#: Display Prices
+msgid "Display Prices"
+msgstr "Afficher les prix"
+
+#: Display Product Prices In Catalog
+msgid "Display Product Prices In Catalog"
+msgstr "Afficher les prix des produits dans le catalogue"
+
+#: Display Shipping Amount
+msgid "Display Shipping Amount"
+msgstr "Afficher le montant de l'expédition"
+
+#: Display Shipping Prices
+msgid "Display Shipping Prices"
+msgstr "Afficher les prix de livraison"
+
+#: Display Subtotal
+msgid "Display Subtotal"
+msgstr "Afficher le sous-total"
+
+#: Display Zero Tax Subtotal
+msgid "Display Zero Tax Subtotal"
+msgstr "Afficher le sous-total lorsqu'il est nul"
+
+#: Edit Class
+msgid "Edit Class"
+msgstr "Éditer la classe"
+
+#: Edit Class '%s'
+msgid "Edit Class '%s'"
+msgstr "Éditer la classe '%s'"
+
+#: Edit Rule
+msgid "Edit Rule"
+msgstr "Éditer la règle"
+
+#: Edit Tax Rate
+msgid "Edit Tax Rate"
+msgstr "Éditer le taux de la taxe"
+
+#: Excl. Tax
+msgid "Excl. Tax"
+msgstr "HT"
+
+#: Excl. Tax:
+msgid "Excl. Tax:"
+msgstr "HT :"
+
+#: Excluding Tax
+msgid "Excluding Tax"
+msgstr "HT"
+
+#: Export Tax Rates
+msgid "Export Tax Rates"
+msgstr "Exporter les taux"
+
+#: Grand Total (Excl. Tax)
+msgid "Grand Total (Excl. Tax)"
+msgstr "Total (HT)"
+
+#: Grand Total (Excl.Tax)
+msgid "Grand Total (Excl.Tax)"
+msgstr "Total (HT)"
+
+#: Grand Total (Incl. Tax)
+msgid "Grand Total (Incl. Tax)"
+msgstr "Total (TTC)"
+
+#: Grand Total (Incl.Tax)
+msgid "Grand Total (Incl.Tax)"
+msgstr "Total (TTC)"
+
+#: Grand Total Excl. Tax
+msgid "Grand Total Excl. Tax"
+msgstr "Total HT"
+
+#: Grand Total Incl. Tax
+msgid "Grand Total Incl. Tax"
+msgstr "Total TTC"
+
+#: Import / Export Tax Rates
+msgid "Import / Export Tax Rates"
+msgstr "Import / Export de taux de taxes"
+
+#: Import Tax Rates
+msgid "Import Tax Rates"
+msgstr "Import de taux de taxes"
+
+#: Inc. Tax
+msgid "Inc. Tax"
+msgstr "TTC"
+
+#: Incl. Tax
+msgid "Incl. Tax"
+msgstr "TTC"
+
+#: Incl. Tax:
+msgid "Incl. Tax:"
+msgstr "TTC :"
+
+#: Include Tax In Grand Total
+msgid "Include Tax In Grand Total"
+msgstr "TTC dans le total"
+
+#: Including Tax
+msgid "Including Tax"
+msgstr "TTC"
+
+#: Including and Excluding Tax
+msgid "Including and Excluding Tax"
+msgstr "HT et TTC"
+
+#: Invalid file format upload attempt
+msgid "Invalid file format upload attempt"
+msgstr "Format de fichier non valide pour import"
+
+#: Invalid file upload attempt
+msgid "Invalid file upload attempt"
+msgstr "Import de fichier non valide"
+
+#: Manage Customer Tax Classes
+msgid "Manage Customer Tax Classes"
+msgstr "Gérer les classes de taxes client"
+
+#: Manage Product Tax Classes
+msgid "Manage Product Tax Classes"
+msgstr "Gérer les classes de taxe produit"
+
+#: Manage Tax Rates
+msgid "Manage Tax Rates"
+msgstr "Gérer les taux des taxes"
+
+#: Manage Tax Rules
+msgid "Manage Tax Rules"
+msgstr "Gérer les règles de taxes"
+
+#: Manage Tax Zones & Rates
+msgid "Manage Tax Zones & Rates"
+msgstr "Gérer les zones et les taux des taxes"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: New Class
+msgid "New Class"
+msgstr "Nouvelle classe"
+
+#: New Rule
+msgid "New Rule"
+msgstr "Nouvelle règle"
+
+#: New Tax Rate
+msgid "New Tax Rate"
+msgstr "Nouveau taux"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: None
+msgid "None"
+msgstr "Aucun"
+
+#: One of the country has invalid code.
+msgid "One of the country has invalid code."
+msgstr "Un des pays possède un code non valide."
+
+#: Orders, Invoices, Creditmemos Display Settings
+msgid "Orders, Invoices, Creditmemos Display Settings"
+msgstr "Paramètres d'affichage des commandes, factures, avoirs"
+
+#: Original price only
+msgid "Original price only"
+msgstr "Prix original seulement"
+
+#: Price Display Settings
+msgid "Price Display Settings"
+msgstr "Paramètres d'affichage du prix"
+
+#: Priority
+msgid "Priority"
+msgstr "Priorité"
+
+#: Product Tax Class
+msgid "Product Tax Class"
+msgstr "Classes de taxe produit"
+
+#: Product Tax Class Information
+msgid "Product Tax Class Information"
+msgstr "Information sur la classe de taxe produit"
+
+#: Product Tax Classes
+msgid "Product Tax Classes"
+msgstr "Classe de taxe produit"
+
+#: Range From
+msgid "Range From"
+msgstr "Tranche à partir de"
+
+#: Range To
+msgid "Range To"
+msgstr "Tranche jusqu'à"
+
+#: Rate
+msgid "Rate"
+msgstr "Taux"
+
+#: Rate Percent
+msgid "Rate Percent"
+msgstr "Taux"
+
+#: Reset
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: Row Total
+msgid "Row Total"
+msgstr "Total ligne"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Save Class
+msgid "Save Class"
+msgstr "Sauvegarder la classe"
+
+#: Save Rate
+msgid "Save Rate"
+msgstr "Sauvegarder le taux"
+
+#: Save Rule
+msgid "Save Rule"
+msgstr "Sauvegarder la règle"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Shipping & Handling (Excl.Tax)
+msgid "Shipping & Handling (Excl.Tax)"
+msgstr "Livraison et traitement (HT)"
+
+#: Shipping & Handling (Incl.Tax)
+msgid "Shipping & Handling (Incl.Tax)"
+msgstr "Livraison et traitement (TTC)"
+
+#: Shipping (Excl. Tax)
+msgid "Shipping (Excl. Tax)"
+msgstr "Livraison (HT)"
+
+#: Shipping (Incl. Tax)
+msgid "Shipping (Incl. Tax)"
+msgstr "Livraison et traitement (TTC)"
+
+#: Shipping Excl. Tax (%s)
+msgid "Shipping Excl. Tax (%s)"
+msgstr "Livraison HT (%s)"
+
+#: Shipping Incl. Tax (%s)
+msgid "Shipping Incl. Tax (%s)"
+msgstr "Livraison TTC (%s)"
+
+#: Shipping Prices
+msgid "Shipping Prices"
+msgstr "Frais de port"
+
+#: Shopping Cart Display Settings
+msgid "Shopping Cart Display Settings"
+msgstr "Afficher les options du panier"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: State
+msgid "State"
+msgstr "État"
+
+#: State/Region
+msgid "State/Region"
+msgstr "État/Région"
+
+#: Subtotal (Excl. Tax)
+msgid "Subtotal (Excl. Tax)"
+msgstr "Sous-total HT"
+
+#: Subtotal (Excl.Tax)
+msgid "Subtotal (Excl.Tax)"
+msgstr "Sous-total HT"
+
+#: Subtotal (Incl. Tax)
+msgid "Subtotal (Incl. Tax)"
+msgstr "Sous-total TTC"
+
+#: Subtotal (Incl.Tax)
+msgid "Subtotal (Incl.Tax)"
+msgstr "Sous-total TTC"
+
+#: Tax
+msgid "Tax"
+msgstr "TVA & autres taxes"
+
+#: Tax Calculation Based On
+msgid "Tax Calculation Based On"
+msgstr "Calcul de taxe basé sur"
+
+#: Tax Calculation Method Based On
+msgid "Tax Calculation Method Based On"
+msgstr "Méthode de calcul de la taxe basée sur"
+
+#: Tax Class for Shipping
+msgid "Tax Class for Shipping"
+msgstr "Classe de taxe pour la livraison"
+
+#: Tax Classes
+msgid "Tax Classes"
+msgstr "Classes de taxe"
+
+#: Tax Identifier
+msgid "Tax Identifier"
+msgstr "Identifiant de taxe"
+
+#: Tax Rate
+msgid "Tax Rate"
+msgstr "Taux de taxe"
+
+#: Tax Rate Information
+msgid "Tax Rate Information"
+msgstr "Information sur le taux de taxe"
+
+#: Tax Rule Information
+msgid "Tax Rule Information"
+msgstr "Information sur la règle de taxe"
+
+#: Tax Rules
+msgid "Tax Rules"
+msgstr "Règles de taxe"
+
+#: Tax Section
+msgid "Tax Section"
+msgstr "TVA & autres taxes"
+
+#: Tax Titles
+msgid "Tax Titles"
+msgstr "Titre pour la classe"
+
+#: Tax rates at the same priority are added, others are compounded.
+msgid "Tax rates at the same priority are added, others are compounded."
+msgstr "Les taux de taxe avec la même priorité sont ajoutés. Les autres sont composés."
+
+#: The tax class has been deleted.
+msgid "The tax class has been deleted."
+msgstr "La classe de taxe a été supprimée."
+
+#: The tax class has been saved.
+msgid "The tax class has been saved."
+msgstr "La classe de taxe a été sauvegardée."
+
+#: The tax rate has been deleted.
+msgid "The tax rate has been deleted."
+msgstr "Le taux de taxe a été supprimé."
+
+#: The tax rate has been imported.
+msgid "The tax rate has been imported."
+msgstr "Le taux de taxe a été importé."
+
+#: The tax rate has been saved.
+msgid "The tax rate has been saved."
+msgstr "Le taux de taxe a été sauvegardé."
+
+#: The tax rule has been deleted.
+msgid "The tax rule has been deleted."
+msgstr "La règle de taxe a été supprimée."
+
+#: The tax rule has been saved.
+msgid "The tax rule has been saved."
+msgstr "La règle de taxe a été sauvegardée."
+
+#: This class no longer exists
+msgid "This class no longer exists"
+msgstr "Cette classe n'existe plus"
+
+#: This rule no longer exists
+msgid "This rule no longer exists"
+msgstr "Cette règle n'existe plus"
+
+#: This rule no longer exists.
+msgid "This rule no longer exists."
+msgstr "Cette règle n'existe plus."
+
+#: Total
+msgid "Total"
+msgstr "Total"
+
+#: Unit Price
+msgid "Unit Price"
+msgstr "Prix unitaire"
+
+#: Whether catalog prices entered by admin include tax.
+msgid "Whether catalog prices entered by admin include tax."
+msgstr "Les prix catalogue saisis dans le back office doivent-ils être saisis en HT ou TTC."
+
+#: Whether shipping amounts entered by admin or obtained from gateways include tax.
+msgid "Whether shipping amounts entered by admin or obtained from gateways include tax."
+msgstr "Les montants de livraison saisis dans le back office ou récupérés sur les passerelles doivent-ils être interprétés en HT ou TTC."
+
+#: XML
+msgid "XML"
+msgstr "XML"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: You cannot delete this tax class as it is used for %d customer groups.
+msgid "You cannot delete this tax class as it is used for %d customer groups."
+msgstr "Vous ne pouvez pas supprimer cette classe de taxe car elle est utilisée par %d groupe(s) clients."
+
+#: You cannot delete this tax class as it is used for %d products.
+msgid "You cannot delete this tax class as it is used for %d products."
+msgstr "Vous ne pouvez pas supprimer cette classe de taxe car elle est utilisée par %d produit(s)."
+
+#: You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.
+msgid "You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first."
+msgstr "Vous ne pouvez pas supprimer cette classe de taxe car elle est utilisée par une règle. Vous devez d'abord supprimer la règle."
+
+#: Zip/Post Code
+msgid "Zip/Post Code"
+msgstr "Code postal"
+
+#: Zip/Post is Range
+msgid "Zip/Post is Range"
+msgstr "Le code postal est une tranche"
+
+#: Excel XML
+msgid "Excel XML"
+msgstr "XML d'Excel"
+
+#: Tax rate cannot be removed. It exists in tax rule
+msgid "Tax rate cannot be removed. It exists in tax rule"
+msgstr "Le taux de taxe ne peut pas être enlevé. Il est utilisé dans une règle de taxe."
+

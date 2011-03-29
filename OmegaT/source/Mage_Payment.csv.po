@@ -1,0 +1,512 @@
+#: %s %s cycle.
+msgid "%s %s cycle."
+msgstr "Cycle %s %s."
+
+#: --Please Select--
+msgid "--Please Select--"
+msgstr "--Votre choix--"
+
+#: 3D Secure Card Validation
+msgid "3D Secure Card Validation"
+msgstr "Validation carte 3D Secure"
+
+#: 3D Secure Credit Card Validation
+msgid "3D Secure Credit Card Validation"
+msgstr "Validation 3D Secure"
+
+#: <label>Make Check payable to:</label> %s
+msgid "<label>Make Check payable to:</label> %s"
+msgstr "<label>Chèque libellé à l'ordre de :</label> %s"
+
+#: A value is required for live mode. Refer to your CardinalCommerce agreement.
+msgid "A value is required for live mode. Refer to your CardinalCommerce agreement."
+msgstr "Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce."
+
+#: Allow Initial Fee Failure
+msgid "Allow Initial Fee Failure"
+msgstr "Autoriser l'erreur de frais initiaux"
+
+#: An internal reference ID is required to save the payment profile.
+msgid "An internal reference ID is required to save the payment profile."
+msgstr "Un identifiant de référence interne est nécessaire pour sauvegarder le profil de paiement."
+
+#: Auto Bill on Next Cycle
+msgid "Auto Bill on Next Cycle"
+msgstr "Facturer automatiquement au prochain cycle"
+
+#: Automatically Invoice All Items
+msgid "Automatically Invoice All Items"
+msgstr "Facturer automatiquement tous les articles"
+
+#: Automatically bill the outstanding balance amount in the next billing cycle (if there were failed payments).
+msgid "Automatically bill the outstanding balance amount in the next billing cycle (if there were failed payments)."
+msgstr "Facturer automatiquement le montant impayé au prochain cycle de facturation (s'il y a eu des paiements échoués)"
+
+#: Billing Agreement status is not set.
+msgid "Billing Agreement status is not set."
+msgstr "Le statut de contrat de facturation n'est pas renseigné."
+
+#: Billing Amount
+msgid "Billing Amount"
+msgstr "Montant de facturation"
+
+#: Billing Frequency
+msgid "Billing Frequency"
+msgstr "Fréquence de facturation"
+
+#: Billing Period
+msgid "Billing Period"
+msgstr "Période de facturation"
+
+#: Billing Period Unit
+msgid "Billing Period Unit"
+msgstr "Unité de la période de facturation"
+
+#: Billing period unit is not defined or wrong.
+msgid "Billing period unit is not defined or wrong."
+msgstr "L'unité de la période de facturation n'est pas définie ou est incorrecte."
+
+#: Cannot load configuration for payment method \"%s\"
+msgid "Cannot load configuration for payment method \"%s\""
+msgstr "Impossible de charger la configuration pour le mode de paiement \"%s\""
+
+#: Cannot retrieve payment method instance.
+msgid "Cannot retrieve payment method instance."
+msgstr "Impossible de récupérer l'instance de méthode de paiement."
+
+#: Cannot retrieve the payment info model object.
+msgid "Cannot retrieve the payment info model object."
+msgstr "Impossible de récupérer l'objet modèle d'informations de paiement."
+
+#: Cannot retrieve the payment method model object.
+msgid "Cannot retrieve the payment method model object."
+msgstr "Impossible de récupérer l'objet modèle de méthode de paiement."
+
+#: Card Verification Number
+msgid "Card Verification Number"
+msgstr "Numéro de vérification"
+
+#: Centinel API URL
+msgid "Centinel API URL"
+msgstr "URL API de Centinel"
+
+#: Check / Money Order
+msgid "Check / Money Order"
+msgstr "Chèque / Liquide"
+
+#: Credit Card Number
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+#: Credit Card Number: xxxx-%s
+msgid "Credit Card Number: xxxx-%s"
+msgstr "<strong>Numéro de carte de paiement :</strong> <span class=\"nowrap\">xxxx-%s</span>"
+
+#: Credit Card Type
+msgid "Credit Card Type"
+msgstr "Type de carte de crédit"
+
+#: Credit Card Type: %s
+msgid "Credit Card Type: %s"
+msgstr "<strong>Type de carte de paiement :</strong> <span class=\"nowrap\">%s</span>"
+
+#: Credit Card Types
+msgid "Credit Card Types"
+msgstr "Types de cartes de paiement"
+
+#: Currency
+msgid "Currency"
+msgstr "Devise"
+
+#: Currency code is undefined.
+msgid "Currency code is undefined."
+msgstr "Le code de devise n'est pas défini."
+
+#: Customer ID is not set.
+msgid "Customer ID is not set."
+msgstr "L'identifiant du client n'est pas défini."
+
+#: Day
+msgid "Day"
+msgstr "Jour"
+
+#: Debug Mode
+msgid "Debug Mode"
+msgstr "Mode debug"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Expiration Date
+msgid "Expiration Date"
+msgstr "Date d'expiration"
+
+#: Expiration Date: %s/%s
+msgid "Expiration Date: %s/%s"
+msgstr "Date d'expiration : %s/%s"
+
+#: Full name of the person receiving the product or service paid for by the recurring payment.
+msgid "Full name of the person receiving the product or service paid for by the recurring payment."
+msgstr "Nom complet de la personne recevant le produit ou service payé par le paiement périodique."
+
+#: Initial Fee
+msgid "Initial Fee"
+msgstr "Frais initiale"
+
+#: Initial non-recurring payment amount due immediately upon profile creation.
+msgid "Initial non-recurring payment amount due immediately upon profile creation."
+msgstr "Montant initial de paiement non périodique dû immédiatement à la création du profil"
+
+#: Internal Reference ID
+msgid "Internal Reference ID"
+msgstr "Identifiant de référence interne"
+
+#: Issue Number
+msgid "Issue Number"
+msgstr "Numéro de problème"
+
+#: Make Check Payable to
+msgid "Make Check Payable to"
+msgstr "Libeller le chèque à l'ordre de"
+
+#: Make Check payable to:
+msgid "Make Check payable to:"
+msgstr "Libeller le chèque à l'ordre de :"
+
+#: Make Check payable to: %s
+msgid "Make Check payable to: %s"
+msgstr "Chèque libellé à l'ordre de : %s"
+
+#: Maximum Billing Cycles
+msgid "Maximum Billing Cycles"
+msgstr "Nombre maxi de cycles de facturation"
+
+#: Maximum Order Total
+msgid "Maximum Order Total"
+msgstr "Montant maxi de commande"
+
+#: Maximum Payment Failures
+msgid "Maximum Payment Failures"
+msgstr "Nombre maxi d'échec de paiement"
+
+#: Maximum Trial Billing Cycles
+msgid "Maximum Trial Billing Cycles"
+msgstr "Nombre maxi de cycles de facturation d'essai"
+
+#: Merchant Id
+msgid "Merchant Id"
+msgstr "Identifiant du marchand"
+
+#: Minimum Order Total
+msgid "Minimum Order Total"
+msgstr "Montant mini de commande"
+
+#: Month
+msgid "Month"
+msgstr "Mois"
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: Name on Card
+msgid "Name on Card"
+msgstr "Propriétaire de la carte"
+
+#: Name on the Card
+msgid "Name on the Card"
+msgstr "Nom sur la carte"
+
+#: Name on the Card: %s
+msgid "Name on the Card: %s"
+msgstr "<strong>Nom sur la carte :</strong> <span class=\"nowrap\">%s</span>"
+
+#: New Order Status
+msgid "New Order Status"
+msgstr "Statut d'une nouvelle commande"
+
+#: Number of billing periods that make up one billing cycle.
+msgid "Number of billing periods that make up one billing cycle."
+msgstr "Nombre de périodes de facturation qui forment un cycle de facturation."
+
+#: Overrides API URL that may be specified by a payment method.
+msgid "Overrides API URL that may be specified by a payment method."
+msgstr "Surcharge l'URL d'API qui peut être spécifiée pour un mode de paiement."
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Payment ID: %s
+msgid "Payment ID: %s"
+msgstr "Identifiant de paiement : %s"
+
+#: Payment Method
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+#: Payment Methods
+msgid "Payment Methods"
+msgstr "Modes de paiement"
+
+#: Payment Methods Section
+msgid "Payment Methods Section"
+msgstr "Section modes de paiement"
+
+#: Payment Reference ID
+msgid "Payment Reference ID"
+msgstr "Identifiant de référence de paiement"
+
+#: Payment Services
+msgid "Payment Services"
+msgstr "Services de paiement"
+
+#: Payment from Applicable Countries
+msgid "Payment from Applicable Countries"
+msgstr "Mode de paiement autorisé pour"
+
+#: Payment from Specific Countries
+msgid "Payment from Specific Countries"
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
+
+#: Payment method code is not set.
+msgid "Payment method code is not set."
+msgstr "Le code de mode de paiement n'est pas renseigné."
+
+#: Payment method code is undefined.
+msgid "Payment method code is undefined."
+msgstr "Le code de mode de paiement est indéfini."
+
+#: Payment profile is invalid:\n%s
+msgid "Payment profile is invalid:\n%s"
+msgstr "Le profil de paiement est invalide :\\n%s"
+
+#: Period frequency is wrong.
+msgid "Period frequency is wrong."
+msgstr "La fréquence de période n'est pas correcte."
+
+#: Processor Id
+msgid "Processor Id"
+msgstr "Identifiant de processeur"
+
+#: Purchase Order
+msgid "Purchase Order"
+msgstr "Bon de commande"
+
+#: Purchase Order Number
+msgid "Purchase Order Number"
+msgstr "Numéro de bon de commande"
+
+#: Purchase Order Number:
+msgid "Purchase Order Number:"
+msgstr "Numéro de bon de commande :"
+
+#: Purchase Order Number: %s
+msgid "Purchase Order Number: %s"
+msgstr "Numéro de bon de commande : %s"
+
+#: Recurring Profile Start Date
+msgid "Recurring Profile Start Date"
+msgstr "Date de début de profil périodique"
+
+#: Recurring profile start date has invalid format.
+msgid "Recurring profile start date has invalid format."
+msgstr "Le format de la date de début de profil périodique est invalide."
+
+#: Reference ID is not set.
+msgid "Reference ID is not set."
+msgstr "L'identifiant de référence n'est pas renseigné."
+
+#: Repeats %s time(s).
+msgid "Repeats %s time(s)."
+msgstr "Répété %s fois."
+
+#: Repeats until suspended or canceled.
+msgid "Repeats until suspended or canceled."
+msgstr "Répété jusqu'à suspension ou annulation."
+
+#: Request Card Security Code
+msgid "Request Card Security Code"
+msgstr "Demander le code de sécurité de la carte"
+
+#: Saved CC
+msgid "Saved CC"
+msgstr "Carte de paiement enregistrée"
+
+#: Schedule Description
+msgid "Schedule Description"
+msgstr "Description de la programmation"
+
+#: Schedule description must be not empty.
+msgid "Schedule description must be not empty."
+msgstr "La description de la programmation ne peut pas être vide."
+
+#: Send Check to
+msgid "Send Check to"
+msgstr "Envoyer le chèque à"
+
+#: Send Check to:
+msgid "Send Check to:"
+msgstr "Envoyer le chèque à :"
+
+#: Severe 3D Secure Card Validation
+msgid "Severe 3D Secure Card Validation"
+msgstr "Vérification 3D Secure stricte"
+
+#: Severe validation removes chargeback liability on merchant.
+msgid "Severe validation removes chargeback liability on merchant."
+msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand."
+
+#: Shipping Amount
+msgid "Shipping Amount"
+msgstr "Montant de la livraison"
+
+#: Short description of the recurring payment. By default equals to the product name.
+msgid "Short description of the recurring payment. By default equals to the product name."
+msgstr "Description courte du paiement périodique. Par défaut, le nom du produit est utilisé."
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Start Date
+msgid "Start Date"
+msgstr "Date de début"
+
+#: Start date has invalid format.
+msgid "Start date has invalid format."
+msgstr "La date de début a un format invalide."
+
+#: Start date is undefined.
+msgid "Start date is undefined."
+msgstr "La date de début n'est pas définie."
+
+#: Subscriber Name
+msgid "Subscriber Name"
+msgstr "Nom du souscripteur"
+
+#: Switch/Solo/Maestro Issue Number
+msgid "Switch/Solo/Maestro Issue Number"
+msgstr "Numéro de problème Switch/Solo/Maestro"
+
+#: Switch/Solo/Maestro Only
+msgid "Switch/Solo/Maestro Only"
+msgstr "Switch/Solo/Maestro seulement"
+
+#: Switch/Solo/Maestro Start Date
+msgid "Switch/Solo/Maestro Start Date"
+msgstr "Date de début Switch/Solo/Maestro"
+
+#: Tax Amount
+msgid "Tax Amount"
+msgstr "Montant TVA"
+
+#: Test Mode
+msgid "Test Mode"
+msgstr "Mode test"
+
+#: The date when billing for the profile begins.
+msgid "The date when billing for the profile begins."
+msgstr "La date à laquelle commence la facturation pour le profil."
+
+#: The number of billing cycles for payment period.
+msgid "The number of billing cycles for payment period."
+msgstr "Le nombre de cycles de facturation pour la période de paiement."
+
+#: The number of scheduled payments that can fail before the profile is automatically suspended.
+msgid "The number of scheduled payments that can fail before the profile is automatically suspended."
+msgstr "Le nombre de paiements programmés qui peuvent échouer avant que le profil soit suspendu automatiquement."
+
+#: The payment review action is unavailable.
+msgid "The payment review action is unavailable."
+msgstr "L'action de commentaire de paiement n'est pas disponible."
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: Trial Billing Amount
+msgid "Trial Billing Amount"
+msgstr "Montant de facturation d'un essai"
+
+#: Trial Billing Frequency
+msgid "Trial Billing Frequency"
+msgstr "Fréquence de facturation d'un essai"
+
+#: Trial Billing Period Unit
+msgid "Trial Billing Period Unit"
+msgstr "Unité de la période de facturation d'un essai"
+
+#: Trial Period
+msgid "Trial Period"
+msgstr "Période d'essai"
+
+#: Trial billing amount is wrong.
+msgid "Trial billing amount is wrong."
+msgstr "Le montant de facturation d'essai est incorrect."
+
+#: Trial billing period unit is wrong.
+msgid "Trial billing period unit is wrong."
+msgstr "L'unité de la période de facturation d'essai est incorrecte."
+
+#: Trial period frequency is wrong.
+msgid "Trial period frequency is wrong."
+msgstr "La fréquence de période d'essai n'est pas correcte."
+
+#: Trial period max cycles is wrong.
+msgid "Trial period max cycles is wrong."
+msgstr "La quantité maxi de cycles de période d'essai est incorrecte."
+
+#: Two Weeks
+msgid "Two Weeks"
+msgstr "Deux semaines"
+
+#: Unable to save Billing Agreement:
+msgid "Unable to save Billing Agreement:"
+msgstr "Impossible de sauvegarder le contrat de facturation :"
+
+#: Unit for billing during the subscription period.
+msgid "Unit for billing during the subscription period."
+msgstr "Unité de la période de facturation pendant la période de l'inscription."
+
+#: Unsupported currency code: %s.
+msgid "Unsupported currency code: %s."
+msgstr "Code de devise non supporté : %s."
+
+#: Week
+msgid "Week"
+msgstr "Semaine"
+
+#: What is this?
+msgid "What is this?"
+msgstr "Aide ?"
+
+#: Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance.
+msgid "Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance."
+msgstr "Le profil de paiement doit-il être suspendu si les frais initiaux échouent ou doivent-ils être ajoutés au montant à payer ?"
+
+#: Wrong %s specified.
+msgid "Wrong %s specified."
+msgstr "Mauvais(e) %s."
+
+#: Wrong or empty billing amount specified.
+msgid "Wrong or empty billing amount specified."
+msgstr "Mauvais montant de facturation spécifié."
+
+#: Year
+msgid "Year"
+msgstr "Année"
+
+#: Zero Subtotal Checkout
+msgid "Zero Subtotal Checkout"
+msgstr "Règlement d'un sous-total nul"
+
+#: Payment profile is invalid:\n%s
+msgid "Payment profile is invalid:\n%s"
+msgstr "Le profil de paiement est invalide :\\n%s"
+
+#: Payment profile is invalid:n%s
+msgid "Payment profile is invalid:n%s"
+msgstr ""
+

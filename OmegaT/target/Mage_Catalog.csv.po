@@ -1,0 +1,3116 @@
+#: # of Use
+msgid "# of Use"
+msgstr "Nb d'utilisations"
+
+#: %1$s incl tax.
+msgid "%1$s incl tax."
+msgstr "%1$s TTC"
+
+#: %s - %s
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: %s Item(s)
+msgid "%s Item(s)"
+msgstr "%s article(s)"
+
+#: (%d)
+msgid "(%d)"
+msgstr "(%d)"
+
+#: (Copy data from: %s)
+msgid "(Copy data from: %s)"
+msgstr "(Copier les données depuis : %s)"
+
+#: (Will make search for the query above return results for this search.)
+msgid "(Will make search for the query above return results for this search.)"
+msgstr "(Fera une recherche pour la requête ci-dessus. Retourne des résultats pour cette recherche)"
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr "* Champs obligatoires"
+
+#: -- Please Select --
+msgid "-- Please Select --"
+msgstr "-- Faites un choix --"
+
+#: 86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache.
+msgid "86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache."
+msgstr "86400 par défaut, si non renseigné. Pour actualiser instantanément, purgez le cache des Blocs HTML de sortie."
+
+#: A group with the same name already exists.
+msgid "A group with the same name already exists."
+msgstr "Il existe déjà un groupe portant ce nom."
+
+#: A name is required
+msgid "A name is required"
+msgstr "Un nom est requis"
+
+#: A product type is not defined for the indexer.
+msgid "A product type is not defined for the indexer."
+msgstr "Aucun type de produit n'est défini pour l'indexer."
+
+#: ALL GROUPS
+msgid "ALL GROUPS"
+msgstr "TOUS LES GROUPES"
+
+#: AM
+msgid "AM"
+msgstr "AM"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add Attribute
+msgid "Add Attribute"
+msgstr "Ajouter un attribut"
+
+#: Add Design Change
+msgid "Add Design Change"
+msgstr "Ajouter un changement de design"
+
+#: Add Group
+msgid "Add Group"
+msgstr "Ajouter un groupe"
+
+#: Add New
+msgid "Add New"
+msgstr "Ajouter"
+
+#: Add New Attribute
+msgid "Add New Attribute"
+msgstr "Ajouter un attribut"
+
+#: Add New Attribute Set
+msgid "Add New Attribute Set"
+msgstr "Nouveau jeu d'attributs"
+
+#: Add New Group
+msgid "Add New Group"
+msgstr "Nouveau groupe"
+
+#: Add New Images
+msgid "Add New Images"
+msgstr "Nouvelles images"
+
+#: Add New Option
+msgid "Add New Option"
+msgstr "Ajouter une option"
+
+#: Add New Row
+msgid "Add New Row"
+msgstr "Ajouter une ligne"
+
+#: Add New Search Term
+msgid "Add New Search Term"
+msgstr "Ajouter un terme de recherche"
+
+#: Add New Set
+msgid "Add New Set"
+msgstr "Ajouter un jeu"
+
+#: Add Product
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+#: Add Product To Websites
+msgid "Add Product To Websites"
+msgstr "Ajouter le produit aux sites web"
+
+#: Add Root Category
+msgid "Add Root Category"
+msgstr "Ajouter une catégorie racine"
+
+#: Add Subcategory
+msgid "Add Subcategory"
+msgstr "Ajouter une sous-catégorie"
+
+#: Add Tax
+msgid "Add Tax"
+msgstr "Ajouter une taxe"
+
+#: Add Tier
+msgid "Add Tier"
+msgstr "Ajouter un palier"
+
+#: Add to Cart
+msgid "Add to Cart"
+msgstr "Ajouter au panier"
+
+#: Add to Compare
+msgid "Add to Compare"
+msgstr "Ajouter au comparateur"
+
+#: Add to Wishlist
+msgid "Add to Wishlist"
+msgstr "Ajouter à la liste d'envies"
+
+#: Additional Information
+msgid "Additional Information"
+msgstr "Informations complémentaires"
+
+#: Alert Urls
+msgid "Alert Urls"
+msgstr "Urls d'alerte"
+
+#: All
+msgid "All"
+msgstr "Tous"
+
+#: All Product Types
+msgid "All Product Types"
+msgstr "Tous les types de produits"
+
+#: All Websites
+msgid "All Websites"
+msgstr "Tous les sites web"
+
+#: All products of this set will be deleted! Are you sure you want to delete this attribute set?
+msgid "All products of this set will be deleted! Are you sure you want to delete this attribute set?"
+msgstr "Tous les produits de ce jeu seront supprimés ! Êtes-vous sûr(e) de vouloir supprimer ce jeu d'attributs ?"
+
+#: Allow All Products per Page
+msgid "Allow All Products per Page"
+msgstr "Autoriser tous les produits par page"
+
+#: Allow Dynamic Media URLs in Products and Categories
+msgid "Allow Dynamic Media URLs in Products and Categories"
+msgstr "Autoriser les URLs de media dynamiques dans les produits et catégories"
+
+#: Allow HTML Tags on Frontend
+msgid "Allow HTML Tags on Frontend"
+msgstr "Autoriser les balises HTML sur le frontend"
+
+#: Allowed File Extensions
+msgid "Allowed File Extensions"
+msgstr "Extensions de fichier autorisées"
+
+#: Allowed file extensions to upload
+msgid "Allowed file extensions to upload"
+msgstr "Extensions de fichier autorisées pour l'envoi"
+
+#: An error occurred while adding customers for the %s alert. Message: %s
+msgid "An error occurred while adding customers for the %s alert. Message: %s"
+msgstr "Erreur lors de l'ajout de clients pour l'alerte %s. Message : %s"
+
+#: An error occurred while adding products to websites.
+msgid "An error occurred while adding products to websites."
+msgstr "Erreur lors de l'ajout de produits aux sites web."
+
+#: An error occurred while clearing comparison list.
+msgid "An error occurred while clearing comparison list."
+msgstr "Erreur lors de l'effacement de la liste de comparaison."
+
+#: An error occurred while removing products from websites.
+msgid "An error occurred while removing products from websites."
+msgstr "Erreur lors de la suppression de produits des sites web."
+
+#: An error occurred while saving the URL rewrite.
+msgid "An error occurred while saving the URL rewrite."
+msgstr "Erreur lors de la sauvegarde de la réécriture d'URL."
+
+#: An error occurred while saving the attribute set.
+msgid "An error occurred while saving the attribute set."
+msgstr "Erreur lors de la sauvegarde du jeu d'attributs."
+
+#: An error occurred while saving the collection, aborting. Error message: %s
+msgid "An error occurred while saving the collection, aborting. Error message: %s"
+msgstr "Erreur lors de la sauvegarde de la collection. Erreur : %s"
+
+#: An error occurred while saving the product. 
+msgid "An error occurred while saving the product. "
+msgstr "Erreur lors de la sauvegarde du produit. "
+
+#: An error occurred while saving the search query.
+msgid "An error occurred while saving the search query."
+msgstr "Erreur lors de la sauvegarde de la requête de recherche."
+
+#: An error occurred while saving this group.
+msgid "An error occurred while saving this group."
+msgstr "Erreur lors de la sauvegarde de ce groupe."
+
+#: An error occurred while trying to delete the category.
+msgid "An error occurred while trying to delete the category."
+msgstr "Erreur lors de la suppression de la catégorie."
+
+#: An error occurred while updating the product(s) attributes.
+msgid "An error occurred while updating the product(s) attributes."
+msgstr "Erreur lors de la mise à jour des attributs de produits."
+
+#: An error occurred while updating the product(s) status.
+msgid "An error occurred while updating the product(s) status."
+msgstr "Erreur lors de la mise à jour du statut de produits."
+
+#: An invalid option ID is specified for %s (%s), skipping the record.
+msgid "An invalid option ID is specified for %s (%s), skipping the record."
+msgstr "Identifiant d'option invalide pour %s (%s), ligne ignorée."
+
+#: An invalid store was specified.
+msgid "An invalid store was specified."
+msgstr "Une boutique invalide a été spécifiée."
+
+#: Anchor Custom Text
+msgid "Anchor Custom Text"
+msgstr "Présenter un texte personnalisé"
+
+#: Anchor Custom Title
+msgid "Anchor Custom Title"
+msgstr "Présenter un titre personnalisé"
+
+#: Applicable to catalog products and categories only. Any media content will be inserted into editor as a static URL. It is not updated if the system configuration base URL changes.
+msgid "Applicable to catalog products and categories only. Any media content will be inserted into editor as a static URL. It is not updated if the system configuration base URL changes."
+msgstr "Applicable aux produits et catégories uniquement. Tous les contenus media seront insérés dans l'éditeur comme des URLs statiques. Aucune mise à jour n'est opérée lors de changements de l'URL de base dans la configuration système."
+
+#: Apply To
+msgid "Apply To"
+msgstr "S'applique à"
+
+#: Approved
+msgid "Approved"
+msgstr "Approuvé"
+
+#: Are you sure you want to delete this category?
+msgid "Are you sure you want to delete this category?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?"
+
+#: Are you sure you would like to remove all products from your comparison?
+msgid "Are you sure you would like to remove all products from your comparison?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?"
+
+#: Are you sure you would like to remove this item from the compare products?
+msgid "Are you sure you would like to remove this item from the compare products?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?"
+
+#: Are you sure?
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e) ?"
+
+#: As low as:
+msgid "As low as:"
+msgstr "Prix spécial :"
+
+#: Assign
+msgid "Assign"
+msgstr "Assigner"
+
+#: Assign product link
+msgid "Assign product link"
+msgstr "Assigner un lien de produit"
+
+#: Assign product to category
+msgid "Assign product to category"
+msgstr "Assigner un produit à une catégorie"
+
+#: Assigned Products
+msgid "Assigned Products"
+msgstr "Produits assignés"
+
+#: Associated Products
+msgid "Associated Products"
+msgstr "Produits associés"
+
+#: Attrib. Set Name
+msgid "Attrib. Set Name"
+msgstr "Nom du jeu d'attr."
+
+#: Attribute \"%s\" is invalid.
+msgid "Attribute \"%s\" is invalid."
+msgstr "L'attribut \"%s\" est invalide."
+
+#: Attribute \"%s\" is required.
+msgid "Attribute \"%s\" is required."
+msgstr "L'attribut \"%s\" est obligatoire."
+
+#: Attribute Information
+msgid "Attribute Information"
+msgstr "Informations attributs"
+
+#: Attribute Model
+msgid "Attribute Model"
+msgstr "Modèle d'attribut"
+
+#: Attribute Name:
+msgid "Attribute Name:"
+msgstr "Nom de l'attribut :"
+
+#: Attribute Set
+msgid "Attribute Set"
+msgstr "Jeu d'attributs"
+
+#: Attribute group with the \"/name/\" name already exists
+msgid "Attribute group with the \"/name/\" name already exists"
+msgstr "Il existe déjà un groupe portant le nom \\\"/name/\\\"."
+
+#: Attribute with the same code already exists
+msgid "Attribute with the same code already exists"
+msgstr "Un attribut avec le même code existe déjà"
+
+#: Attributes
+msgid "Attributes"
+msgstr "Attributs"
+
+#: Attrribute names can be specified per store.
+msgid "Attrribute names can be specified per store."
+msgstr "Les noms d'attributs peuvent être spécifiés pour chaque magasin."
+
+#: Autogenerate
+msgid "Autogenerate"
+msgstr "Générer automatiquement"
+
+#: Availability:
+msgid "Availability:"
+msgstr "Disponibilité :"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Backend Model
+msgid "Backend Model"
+msgstr "Modèle pour le back office"
+
+#: Backend Table
+msgid "Backend Table"
+msgstr "Table de back office"
+
+#: Backend Table Title
+msgid "Backend Table Title"
+msgstr "Titre de table de back office"
+
+#: Backorders
+msgid "Backorders"
+msgstr "Commande en rupture de stock"
+
+#: Based On
+msgid "Based On"
+msgstr "Basé sur"
+
+#: Best Value
+msgid "Best Value"
+msgstr "Meilleure affaire"
+
+#: Block after Info Column
+msgid "Block after Info Column"
+msgstr "Bloc après la colonne d'information"
+
+#: Bottom Block Options Wrapper
+msgid "Bottom Block Options Wrapper"
+msgstr "Options du bloc du bas"
+
+#: Bottom/Left
+msgid "Bottom/Left"
+msgstr "En bas à gauche"
+
+#: Bottom/Right
+msgid "Bottom/Right"
+msgstr "En bas à droite"
+
+#: Browse By
+msgid "Browse By"
+msgstr "Filtrer par"
+
+#: Buy %1$s for %2$s
+msgid "Buy %1$s for %2$s"
+msgstr "Achetez-en %1$s pour %2$s"
+
+#: Buy %1$s for %2$s (%3$s incl. tax) each
+msgid "Buy %1$s for %2$s (%3$s incl. tax) each"
+msgstr "Achetez-en %1$s à %2$s (%3$s TTC) pièce"
+
+#: Buy %1$s for %2$s each
+msgid "Buy %1$s for %2$s each"
+msgstr "Achetez-en %1$s à %2$s pièce"
+
+#: Cache Lifetime (Seconds)
+msgid "Cache Lifetime (Seconds)"
+msgstr "Durée de vie du cache (secondes)"
+
+#: Cache refresh needed.
+msgid "Cache refresh needed."
+msgstr "Il est nécessaire de rafraichir le cache."
+
+#: Can be used only with catalog input type Dropdown
+msgid "Can be used only with catalog input type Dropdown"
+msgstr "Ne peut être utilisé qu'avec un catalogue type liste déroulante"
+
+#: Can be used only with catalog input type Dropdown, Multiple Select and Price
+msgid "Can be used only with catalog input type Dropdown, Multiple Select and Price"
+msgstr "Ne peut être utilisé qu'avec un type de saisie \"liste déroulante\", \"choix multiple\" ou \"prix\""
+
+#: Can\'t create image.
+msgid "Can\'t create image."
+msgstr "Impossible de créer l\\'image"
+
+#: Cannot create image.
+msgid "Cannot create image."
+msgstr "Impossible de créer l'image."
+
+#: Cannot create writeable directory '%s'.
+msgid "Cannot create writeable directory '%s'."
+msgstr "Impossible de créer le répertoire '%s' avec les droits d'écriture."
+
+#: Cart Item Attribute
+msgid "Cart Item Attribute"
+msgstr "Attribut d'article panier"
+
+#: Catalog
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: Catalog Category (Anchor)
+msgid "Catalog Category (Anchor)"
+msgstr "Catégorie de catalogue (ancré)"
+
+#: Catalog Category (Non-Anchor)
+msgid "Catalog Category (Non-Anchor)"
+msgstr "Catégorie de catalogue (non-ancré)"
+
+#: Catalog Category (Without Subcategories)
+msgid "Catalog Category (Without Subcategories)"
+msgstr "Catégorie de catalogue (sans sous-catégories)"
+
+#: Catalog Category Link
+msgid "Catalog Category Link"
+msgstr "Lien vers les catégories de catalogue"
+
+#: Catalog New Products List
+msgid "Catalog New Products List"
+msgstr "Liste des nouveaux produits du catalogue"
+
+#: Catalog Price Scope
+msgid "Catalog Price Scope"
+msgstr "Portée des prix catalogue"
+
+#: Catalog Product Compare List
+msgid "Catalog Product Compare List"
+msgstr "Liste de comparaison de produits catalogue"
+
+#: Catalog Product Email to a Friend
+msgid "Catalog Product Email to a Friend"
+msgstr "Envoyer à un ami"
+
+#: Catalog Product Image Gallery Popup
+msgid "Catalog Product Image Gallery Popup"
+msgstr "Pop-up de galerie d'images de produit"
+
+#: Catalog Product Link
+msgid "Catalog Product Link"
+msgstr "Lien produit catalogue"
+
+#: Catalog Product View (Any)
+msgid "Catalog Product View (Any)"
+msgstr "Vue produit catalogue (Tous)"
+
+#: Catalog Product View (Configurable)
+msgid "Catalog Product View (Configurable)"
+msgstr "Vue produit catalogue (Configurable)"
+
+#: Catalog Product View (Grouped)
+msgid "Catalog Product View (Grouped)"
+msgstr "Vue produit catalogue (Groupé)"
+
+#: Catalog Product View (Simple)
+msgid "Catalog Product View (Simple)"
+msgstr "Vue produit catalogue (Simple)"
+
+#: Catalog Product View (Virtual)
+msgid "Catalog Product View (Virtual)"
+msgstr "Vue produit catalogue (Virtuel)"
+
+#: Catalog Section
+msgid "Catalog Section"
+msgstr "Section catalogue"
+
+#: Catalog Seo Popular Search Terms
+msgid "Catalog Seo Popular Search Terms"
+msgstr "Termes recherchés populaires du catalogue SEO"
+
+#: Catalog Seo Sitemap (Category List)
+msgid "Catalog Seo Sitemap (Category List)"
+msgstr "Catalog Seo Sitemap (Liste des catégories)"
+
+#: Catalog Seo Sitemap (Category Tree)
+msgid "Catalog Seo Sitemap (Category Tree)"
+msgstr "Catalog Seo Sitemap (Arborescence catégorie)"
+
+#: Catalog Seo Sitemap (Common)
+msgid "Catalog Seo Sitemap (Common)"
+msgstr "Catalog Seo Sitemap (Commun)"
+
+#: Catalog Seo Sitemap (Product List)
+msgid "Catalog Seo Sitemap (Product List)"
+msgstr "Catalog Seo Sitemap (Liste des produits)"
+
+#: Catalog URL Rewrites
+msgid "Catalog URL Rewrites"
+msgstr "Réécriture d'URL du catalogue"
+
+#: Catalog, Search
+msgid "Catalog, Search"
+msgstr "Catalogue, Recherche"
+
+#: Categories
+msgid "Categories"
+msgstr "Catégories"
+
+#: Categories Sitemap
+msgid "Categories Sitemap"
+msgstr "Plan de site des catégories"
+
+#: Category
+msgid "Category"
+msgstr "Catégorie"
+
+#: Category API
+msgid "Category API"
+msgstr "API de catégorie"
+
+#: Category Data
+msgid "Category Data"
+msgstr "Données de catégorie"
+
+#: Category Flat Data
+msgid "Category Flat Data"
+msgstr "Données fixes de catégorie"
+
+#: Category Link Block Template
+msgid "Category Link Block Template"
+msgstr "Gabarit du bloc lien catégorie"
+
+#: Category Link Inline Template
+msgid "Category Link Inline Template"
+msgstr "Gabarit inline de lien catégorie"
+
+#: Category Products
+msgid "Category Products"
+msgstr "Produits de la catégorie"
+
+#: Category Top Navigation
+msgid "Category Top Navigation"
+msgstr "Navigation dans les catégories"
+
+#: Category URL Suffix
+msgid "Category URL Suffix"
+msgstr "Suffixe d'URL des catégories"
+
+#: Category attributes API
+msgid "Category attributes API"
+msgstr "API d'attributs de catégories"
+
+#: Category move error
+msgid "Category move error"
+msgstr "Erreur de déplacement de catégorie"
+
+#: Category move operation is not possible: the new parent category was not found.
+msgid "Category move operation is not possible: the new parent category was not found."
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie mère n'a pas été trouvée."
+
+#: Category must be an instance of Mage_Catalog_Model_Category.
+msgid "Category must be an instance of Mage_Catalog_Model_Category."
+msgstr "La catégorie doit être une instance de Mage_Catalog_Model_Category."
+
+#: Center
+msgid "Center"
+msgstr "Centrer"
+
+#: Change
+msgid "Change"
+msgstr "Modifier"
+
+#: Change or Retrieve attribute store view
+msgid "Change or Retrieve attribute store view"
+msgstr "Changer ou récupérer la vue magasin de l'attribut"
+
+#: Change status
+msgid "Change status"
+msgstr "Changer le statut"
+
+#: Check items to add to the cart or
+msgid "Check items to add to the cart or"
+msgstr "Cochez les articles à ajouter au panier ou"
+
+#: Choose an Option...
+msgid "Choose an Option..."
+msgstr "Choisissez une option..."
+
+#: Clear All
+msgid "Clear All"
+msgstr "Tout supprimer"
+
+#: Close Window
+msgid "Close Window"
+msgstr "Fermer la fenêtre"
+
+#: Collapse All
+msgid "Collapse All"
+msgstr "Tout réduire"
+
+#: Comma-separated.
+msgid "Comma-separated."
+msgstr "Séparées par des virgules."
+
+#: Comparable
+msgid "Comparable"
+msgstr "Comparable"
+
+#: Comparable on Front-end
+msgid "Comparable on Front-end"
+msgstr "Comparable sur le front-office"
+
+#: Comparable on the Frontend
+msgid "Comparable on the Frontend"
+msgstr "Comparable sur le front-office"
+
+#: Compare
+msgid "Compare"
+msgstr "Comparer"
+
+#: Compare Products
+msgid "Compare Products"
+msgstr "Comparer des produits"
+
+#: Conditions Combination
+msgid "Conditions Combination"
+msgstr "Combinaison de conditions"
+
+#: Configurable Product
+msgid "Configurable Product"
+msgstr "Produit configurable"
+
+#: Configurable Product Settings
+msgid "Configurable Product Settings"
+msgstr "Paramètres produit configurable"
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Copy From Configurable
+msgid "Copy From Configurable"
+msgstr "Copier à partir d'un configurable"
+
+#: Country/State
+msgid "Country/State"
+msgstr "Pays / État"
+
+#: Create
+msgid "Create"
+msgstr "Créer"
+
+#: Create (Upload)
+msgid "Create (Upload)"
+msgstr "Créer (télécharger)"
+
+#: Create Empty
+msgid "Create Empty"
+msgstr "Créer vide"
+
+#: Create Permanent Redirect for old URL
+msgid "Create Permanent Redirect for old URL"
+msgstr "Créer des redirections permanentes pour les anciennes URLs."
+
+#: Create Permanent Redirect for old URLs if Url key changed
+msgid "Create Permanent Redirect for old URLs if Url key changed"
+msgstr "Créer des redirections permanentes pour les anciennes URLs si la clé d'URL a changé."
+
+#: Create Product Settings
+msgid "Create Product Settings"
+msgstr "Créer des attributs produit"
+
+#: Create Simple Associated Product
+msgid "Create Simple Associated Product"
+msgstr "Créer un produit simple associé"
+
+#: Create new category
+msgid "Create new category"
+msgstr "Créer une catégorie"
+
+#: Create new product
+msgid "Create new product"
+msgstr "Créer un produit"
+
+#: Cross-sells
+msgid "Cross-sells"
+msgstr "Ventes croisées"
+
+#: Currently Shopping by:
+msgid "Currently Shopping by:"
+msgstr "Filtre en cours :"
+
+#: Custom Design
+msgid "Custom Design"
+msgstr "Design personnalisé"
+
+#: Custom Options
+msgid "Custom Options"
+msgstr "Options personnalisables"
+
+#: Customer Group
+msgid "Customer Group"
+msgstr "Groupe de clients"
+
+#: Customers Reviews
+msgid "Customers Reviews"
+msgstr "Clients ayant commenté"
+
+#: Customers Tagged Product
+msgid "Customers Tagged Product"
+msgstr "Clients ayant proposé des mots-clés"
+
+#: Customers for alert %s were successfuly added to queue
+msgid "Customers for alert %s were successfuly added to queue"
+msgstr "Les clients pour l'alerte %s ont bien été ajoutés à la file d'attente."
+
+#: Data Type for Saving in Database
+msgid "Data Type for Saving in Database"
+msgstr "Type de données à sauvegarder dans la base de données"
+
+#: Date & Time Custom Options
+msgid "Date & Time Custom Options"
+msgstr "Options de date & heure personnalisées"
+
+#: Date Fields Order
+msgid "Date Fields Order"
+msgstr "Ordre des champs de date"
+
+#: Date Subscribed
+msgid "Date Subscribed"
+msgstr "Date d'abonnement"
+
+#: Datetime
+msgid "Datetime"
+msgstr "Date et heure"
+
+#: Decimal
+msgid "Decimal"
+msgstr "Décimal"
+
+#: Declare attribute value saving scope
+msgid "Declare attribute value saving scope"
+msgstr "Déclarer la portée d'économie de valeurs d'attributs"
+
+#: Default Price
+msgid "Default Price"
+msgstr "Prix par défaut"
+
+#: Default Price Navigation Step
+msgid "Default Price Navigation Step"
+msgstr "Tranche de prix par défaut"
+
+#: Default Qty
+msgid "Default Qty"
+msgstr "Qté par défaut"
+
+#: Default Values
+msgid "Default Values"
+msgstr "Valeurs par défaut"
+
+#: Defines the base currency scope (\"Currency Setup\" > \"Currency Options\" > \"Base Currency\").
+msgid "Defines the base currency scope (\"Currency Setup\" > \"Currency Options\" > \"Base Currency\")."
+msgstr "Définit la portée de la devise de base (\"Configuration de devises\" > \"Options de devises\" > \"Devise de base\")."
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Attribute
+msgid "Delete Attribute"
+msgstr "Supprimer l'attribut"
+
+#: Delete Attribute Set
+msgid "Delete Attribute Set"
+msgstr "Supprimer le jeu d'attributs"
+
+#: Delete Category
+msgid "Delete Category"
+msgstr "Supprimer cette catégorie"
+
+#: Delete Option
+msgid "Delete Option"
+msgstr "Supprimer cette option"
+
+#: Delete Row
+msgid "Delete Row"
+msgstr "Supprimer la ligne"
+
+#: Delete Search
+msgid "Delete Search"
+msgstr "Supprimer la recherche"
+
+#: Delete Selected Group
+msgid "Delete Selected Group"
+msgstr "Supprimer le groupe sélectionné"
+
+#: Delete category
+msgid "Delete category"
+msgstr "Supprimer la catégorie"
+
+#: Delete product
+msgid "Delete product"
+msgstr "Supprimer le produit"
+
+#: Depends on design theme
+msgid "Depends on design theme"
+msgstr "Dépendant du thème de design"
+
+#: Design
+msgid "Design"
+msgstr "Design"
+
+#: Details
+msgid "Details"
+msgstr "Détails"
+
+#: Disabled
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: Disallowed file type.
+msgid "Disallowed file type."
+msgstr "Type de fichier interdit."
+
+#: Display in Suggested Terms
+msgid "Display in Suggested Terms"
+msgstr "Afficher dans les termes suggérés"
+
+#: Double click on a group to rename it
+msgid "Double click on a group to rename it"
+msgstr "Double-cliquez sur un groupe pour le renommer"
+
+#: Double click on above image to view full picture
+msgid "Double click on above image to view full picture"
+msgstr "Double-cliquez sur l'image ci-dessus pour la voir en entier"
+
+#: Duplicate
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: Duplicate website tier price customer group and quantity.
+msgid "Duplicate website tier price customer group and quantity."
+msgstr "Le prix par palier pour ce site web, ce groupe client et cette quantité existe déjà."
+
+#: Duplicate website, country and state tax found.
+msgid "Duplicate website, country and state tax found."
+msgstr "Une taxe pour ce site web, ce pays et cet état existe déjà."
+
+#: E.g. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture.gif\"}}. Dynamic directives parsing impacts catalog performance.
+msgid "E.g. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture.gif\"}}. Dynamic directives parsing impacts catalog performance."
+msgstr "Par ex. {{media url=\"path/to/image.jpg\"}} {{skin url=\"path/to/picture.gif\"}}. Le parsing des directives dynamiques peut affecter les performances du catalogue."
+
+#: Edit
+msgid "Edit"
+msgstr "Éditer"
+
+#: Edit Attribute Set '%s'
+msgid "Edit Attribute Set '%s'"
+msgstr "Éditer le jeu d'attributs '%s'"
+
+#: Edit Product Attribute
+msgid "Edit Product Attribute"
+msgstr "Éditer l'attribut produit"
+
+#: Edit Product Attribute \"%s\"
+msgid "Edit Product Attribute \"%s\""
+msgstr "Éditer l'attribut produit \"%s\""
+
+#: Edit Search
+msgid "Edit Search"
+msgstr "Modifier la recherche"
+
+#: Edit Search '%s'
+msgid "Edit Search '%s'"
+msgstr "Éditer la recherche '%s'"
+
+#: Edit Set Name
+msgid "Edit Set Name"
+msgstr "Éditer le nom du jeu d'attributs"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Email to %s was not sent.
+msgid "Email to %s was not sent."
+msgstr "L'email n'a pas été envoyé à %s"
+
+#: Email to a Friend
+msgid "Email to a Friend"
+msgstr "Envoyer à un ami"
+
+#: Empty
+msgid "Empty"
+msgstr "Vide"
+
+#: Enable Qty Increments
+msgid "Enable Qty Increments"
+msgstr "Activer les incréments de quantités"
+
+#: Enable WYSIWYG
+msgid "Enable WYSIWYG"
+msgstr "Activer l'éditeur WYSIWYG"
+
+#: Enabled
+msgid "Enabled"
+msgstr "Activé"
+
+#: Error during retrieval of option value: %s
+msgid "Error during retrieval of option value: %s"
+msgstr "Erreur lors de la récupération de la valeur de l'option : %s"
+
+#: Exclude
+msgid "Exclude"
+msgstr "Exclure"
+
+#: Expand All
+msgid "Expand All"
+msgstr "Tout développer"
+
+#: Failed
+msgid "Failed"
+msgstr "Échec"
+
+#: Failed to move file: %s
+msgid "Failed to move file: %s"
+msgstr "Erreur lors du déplacement du fichier : %s"
+
+#: Feature Products
+msgid "Feature Products"
+msgstr "Produits sélectionnés"
+
+#: Field is not complete
+msgid "Field is not complete"
+msgstr "Champ non complet"
+
+#: File options format is not valid.
+msgid "File options format is not valid."
+msgstr "Le format des options de fichier n'est pas valide."
+
+#: File upload failed
+msgid "File upload failed"
+msgstr "L'envoi de fichier a échoué"
+
+#: Filter model name must be declared.
+msgid "Filter model name must be declared."
+msgstr "Le nom de modèle de filtre doit être spécifié."
+
+#: Filter must be an object. Please set correct filter.
+msgid "Filter must be an object. Please set correct filter."
+msgstr "Le filtre doit être un objet. Veuillez renseigner le filtre correctement."
+
+#: Filterable (no results)
+msgid "Filterable (no results)"
+msgstr "Filtrable (pas de résultats)"
+
+#: Filterable (with results)
+msgid "Filterable (with results)"
+msgstr "Filtrable (avec résultats)"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: Fixed
+msgid "Fixed"
+msgstr "Fixé"
+
+#: For internal use.
+msgid "For internal use."
+msgstr "Utilisation interne."
+
+#: Frontend
+msgid "Frontend"
+msgstr "Frontend"
+
+#: Frontend Model
+msgid "Frontend Model"
+msgstr "Modèle du front office"
+
+#: Frontend Properties
+msgid "Frontend Properties"
+msgstr "Propriétés du frontend"
+
+#: Gallery
+msgid "Gallery"
+msgstr "Galerie"
+
+#: General Information
+msgid "General Information"
+msgstr "Informations générales"
+
+#: Get special price
+msgid "Get special price"
+msgstr "Récupérer le prix spécial"
+
+#: Global
+msgid "Global"
+msgstr "Global"
+
+#: Globally Editable
+msgid "Globally Editable"
+msgstr "Éditable globalement"
+
+#: Go to Home Page
+msgid "Go to Home Page"
+msgstr "Aller à la page d'accueil"
+
+#: Grid
+msgid "Grid"
+msgstr "Grille"
+
+#: Grouped Product
+msgid "Grouped Product"
+msgstr "Produit groupé"
+
+#: Groups
+msgid "Groups"
+msgstr "Groupes"
+
+#: Home
+msgid "Home"
+msgstr "Accueil"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: ID: %s
+msgid "ID: %s"
+msgstr "ID : %s"
+
+#: If empty, the Category Name will be used
+msgid "If empty, the Category Name will be used"
+msgstr "Si vide, le nom de la catégorie sera utilisé"
+
+#: If empty, the Product Name will be used
+msgid "If empty, the Product Name will be used"
+msgstr "Si vide, le nom du produit sera utilisé"
+
+#: If you do not specify an option value for a specific store view then the default (Admin) value will be used.
+msgid "If you do not specify an option value for a specific store view then the default (Admin) value will be used."
+msgstr "Si vous ne spécifiez pas de valeur d'option pour une vue magasin spécifique, la valeur par défaut (admin) sera utilisée"
+
+#: Image
+msgid "Image"
+msgstr "Image"
+
+#: Image content is not valid base64 data.
+msgid "Image content is not valid base64 data."
+msgstr "Les données base64 de l'image ne sont pas valides."
+
+#: Image does not exist.
+msgid "Image does not exist."
+msgstr "L'image n'existe pas."
+
+#: Image file was not found.
+msgid "Image file was not found."
+msgstr "Le fichier image n'a pas été trouvé."
+
+#: Image type and information need to be specified for each store view.
+msgid "Image type and information need to be specified for each store view."
+msgstr "Le type et les informations d'image doivent être spécifiés pour chaque vue magasin."
+
+#: In Stock
+msgid "In Stock"
+msgstr "En stock"
+
+#: In stock
+msgid "In stock"
+msgstr "En stock"
+
+#: Incl. Tax
+msgid "Incl. Tax"
+msgstr "TTC"
+
+#: Index product and categories URL rewrites
+msgid "Index product and categories URL rewrites"
+msgstr "Réécritures d'URLs de produits et catégories"
+
+#: Index product attributes for layered navigation building
+msgid "Index product attributes for layered navigation building"
+msgstr "Index des attributs produit pour la navigation par filtres"
+
+#: Index product prices
+msgid "Index product prices"
+msgstr "Index des tarifs produit"
+
+#: Indexed category/products association
+msgid "Indexed category/products association"
+msgstr "Index des associations catégorie/produits"
+
+#: Info Column Options Wrapper
+msgid "Info Column Options Wrapper"
+msgstr "Conteneur d'options de colonne d'info"
+
+#: Input Type
+msgid "Input Type"
+msgstr "Type de saisie"
+
+#: Integer
+msgid "Integer"
+msgstr "Entier"
+
+#: Invalid Tier Prices
+msgid "Invalid Tier Prices"
+msgstr "Prix par palier invalides"
+
+#: Invalid attribute %s.
+msgid "Invalid attribute %s."
+msgstr "Attribut invalide : %s."
+
+#: Invalid attribute option specified for attribute %s (%s), skipping the record.
+msgid "Invalid attribute option specified for attribute %s (%s), skipping the record."
+msgstr "L'option d'attribut est invalide pour %s (%s), ligne ignorée."
+
+#: Invalid attribute set specified, skipping the record.
+msgid "Invalid attribute set specified, skipping the record."
+msgstr "Jeu d'attributs invalide, ligne ignorée."
+
+#: Invalid block: %s.
+msgid "Invalid block: %s."
+msgstr "Bloc invalide : %s."
+
+#: Invalid category IDs.
+msgid "Invalid category IDs."
+msgstr "Identifiants de catégorie invalides."
+
+#: Invalid category.
+msgid "Invalid category."
+msgstr "Catégorie invalide."
+
+#: Invalid image file type.
+msgid "Invalid image file type."
+msgstr "Type de fichier image invalide."
+
+#: Invalid image type.
+msgid "Invalid image type."
+msgstr "Type d'image invalide."
+
+#: Invalid option ID specified for %s (%s), skipping the record.
+msgid "Invalid option ID specified for %s (%s), skipping the record."
+msgstr "L'identifiant d'option spécifié est invalide pour %s (%s), enregistrement ignoré."
+
+#: Invalid product type specified, skipping the record.
+msgid "Invalid product type specified, skipping the record."
+msgstr "Le type de produit spécifié est invalide, enregistrement ignoré."
+
+#: Invalid store specified
+msgid "Invalid store specified"
+msgstr "Magasin spécifié non valide"
+
+#: Invalid store specified, skipping the record.
+msgid "Invalid store specified, skipping the record."
+msgstr "Magasin invalide, ligne ignorée."
+
+#: Invalid tier prices. The product is not associated to the requested website.
+msgid "Invalid tier prices. The product is not associated to the requested website."
+msgstr "Prix par palier invalides. Le produit n'est pas associé au site web demandé."
+
+#: Invalid transactional email code.
+msgid "Invalid transactional email code."
+msgstr "Code email transactionnel invalide."
+
+#: Inventory
+msgid "Inventory"
+msgstr "Inventaire"
+
+#: Is Default
+msgid "Is Default"
+msgstr "Valeur par défaut"
+
+#: Is Required
+msgid "Is Required"
+msgstr "Obligatoire"
+
+#: Items %s to %s of %s total
+msgid "Items %s to %s of %s total"
+msgstr "Articles <strong>%s</strong> à <strong>%s</strong> sur un total de <strong>%s</strong>"
+
+#: Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.
+msgid "Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store."
+msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
+
+#: Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.
+msgid "Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store."
+msgstr "Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
+
+#: Keep your eyes open for our special Back to School items and save A LOT!
+msgid "Keep your eyes open for our special Back to School items and save A LOT!"
+msgstr "Ouvrez grand les yeux et économisez un max !"
+
+#: Label
+msgid "Label"
+msgstr "Libellé"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
+
+#: Last Notification
+msgid "Last Notification"
+msgstr "Dernière notification"
+
+#: Layered Navigation
+msgid "Layered Navigation"
+msgstr "Navigation par filtres"
+
+#: Learn More
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: Line %d, Email: %s
+msgid "Line %d, Email: %s"
+msgstr "Ligne %d, Email : %s"
+
+#: Line %d, SKU: %s
+msgid "Line %d, SKU: %s"
+msgstr "Ligne %d, Réf. : %s"
+
+#: Link (Related, Up sell, Cross sell)
+msgid "Link (Related, Up sell, Cross sell)"
+msgstr "Lien (produits apparentés, vente incitative, vente croisée)"
+
+#: Link product does not exist.
+msgid "Link product does not exist."
+msgstr "Le produit lié n'existe pas."
+
+#: Link to a Specified Category
+msgid "Link to a Specified Category"
+msgstr "Lien vers une catégorie spécifique"
+
+#: Link to a Specified Product
+msgid "Link to a Specified Product"
+msgstr "Lien vers un produit spécifique"
+
+#: List
+msgid "List"
+msgstr "Liste"
+
+#: List Mode
+msgid "List Mode"
+msgstr "Mode liste"
+
+#: List of Products that are set as New
+msgid "List of Products that are set as New"
+msgstr "Liste des produits configurés comme \"Nouveaux\""
+
+#: Manage Attribute Sets
+msgid "Manage Attribute Sets"
+msgstr "Gérer les jeux d'attributs"
+
+#: Manage Attributes
+msgid "Manage Attributes"
+msgstr "Gérer les attributs"
+
+#: Manage Catalog Categories
+msgid "Manage Catalog Categories"
+msgstr "Gérer les catégories du catalogue"
+
+#: Manage Categories
+msgid "Manage Categories"
+msgstr "Gérer les catégories"
+
+#: Manage Label / Options
+msgid "Manage Label / Options"
+msgstr "Gérer les labels/les options"
+
+#: Manage Options (values of your attribute)
+msgid "Manage Options (values of your attribute)"
+msgstr "Gérer les options (valeurs de vos attributs)"
+
+#: Manage Product Attributes
+msgid "Manage Product Attributes"
+msgstr "Gérer les attributs produit"
+
+#: Manage Product Sets
+msgid "Manage Product Sets"
+msgstr "Gérer les ensembles de produits"
+
+#: Manage Products
+msgid "Manage Products"
+msgstr "Gérer les produits"
+
+#: Manage Stock
+msgid "Manage Stock"
+msgstr "Gérer les stocks"
+
+#: Manage Titles (Size, Color, etc.)
+msgid "Manage Titles (Size, Color, etc.)"
+msgstr "Gérer les titres (Taille, couleur, etc.)"
+
+#: Max Characters
+msgid "Max Characters"
+msgstr "Nombre maxi de caractères"
+
+#: Maximal Depth
+msgid "Maximal Depth"
+msgstr "Profondeur maxi"
+
+#: Maximum Image Size
+msgid "Maximum Image Size"
+msgstr "Taille d\\'image maximum"
+
+#: Maximum Qty Allowed in Shopping Cart
+msgid "Maximum Qty Allowed in Shopping Cart"
+msgstr "Quantité maxi autorisée dans le panier"
+
+#: Maximum image height
+msgid "Maximum image height"
+msgstr "Hauteur maximum d'image"
+
+#: Maximum image width
+msgid "Maximum image width"
+msgstr "Largeur maximum d'image"
+
+#: Maximum number of characters:
+msgid "Maximum number of characters:"
+msgstr "Nombre maxi de caractères :"
+
+#: Media Image
+msgid "Media Image"
+msgstr "Image"
+
+#: Minimum Lines per Page
+msgid "Minimum Lines per Page"
+msgstr "Lignes minimum par page"
+
+#: Minimum Qty Allowed in Shopping Cart
+msgid "Minimum Qty Allowed in Shopping Cart"
+msgstr "Quantité mini autorisée dans le panier"
+
+#: Minimum Qty for Item\'s Status to be Out of Stock
+msgid "Minimum Qty for Item\'s Status to be Out of Stock"
+msgstr "Quantité mini pour que l'article soit considéré comme épuisé"
+
+#: Missing SKU, skipping the record.
+msgid "Missing SKU, skipping the record."
+msgstr "Référence (SKU) manquante, enregistrement ignoré."
+
+#: More Views
+msgid "More Views"
+msgstr "Plus de vues"
+
+#: Move
+msgid "Move"
+msgstr "Déplacer"
+
+#: Move category in tree
+msgid "Move category in tree"
+msgstr "Déplacer la catégorie dans l'arbre"
+
+#: Must be in the allowed values list.
+msgid "Must be in the allowed values list."
+msgstr "Doit être dans la liste des valeurs autorisées."
+
+#: N/A
+msgid "N/A"
+msgstr "N/A"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: Name in %s
+msgid "Name in %s"
+msgstr "Nom dans %s"
+
+#: New Product
+msgid "New Product"
+msgstr "Nouveau produit"
+
+#: New Product Attribute
+msgid "New Product Attribute"
+msgstr "Nouvel attribut produit"
+
+#: New Products
+msgid "New Products"
+msgstr "Nouveaux produits"
+
+#: New Products Grid Template
+msgid "New Products Grid Template"
+msgstr "Gabarit des nouveaux produits sous forme de grille"
+
+#: New Products List Template
+msgid "New Products List Template"
+msgstr "Gabarit des nouveaux produits sous forme de liste"
+
+#: New Root Category
+msgid "New Root Category"
+msgstr "Nouvelle catégorie racine"
+
+#: New Search
+msgid "New Search"
+msgstr "Nouvelle recherche"
+
+#: New Set Name
+msgid "New Set Name"
+msgstr "Nouveau nom de groupe"
+
+#: New Subcategory
+msgid "New Subcategory"
+msgstr "Nouvelle sous-catégorie"
+
+#: Next
+msgid "Next"
+msgstr "Suivant"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: No image
+msgid "No image"
+msgstr "Pas d'image"
+
+#: No layout updates
+msgid "No layout updates"
+msgstr "Pas de modification de l'agencement"
+
+#: No options of this product are available.
+msgid "No options of this product are available."
+msgstr "Aucune option n'est disponible pour ce produit."
+
+#: No product collections found.
+msgid "No product collections found."
+msgstr "Aucune collection de produits trouvée."
+
+#: None
+msgid "None"
+msgstr "Aucun"
+
+#: Not Visible Individually
+msgid "Not Visible Individually"
+msgstr "Non visible individuellement"
+
+#: Notify Low Stock RSS
+msgid "Notify Low Stock RSS"
+msgstr "Flux RSS de notification de stock"
+
+#: Notify for Quantity Below
+msgid "Notify for Quantity Below"
+msgstr "Notifier quand la quantité passe en dessous de"
+
+#: Number of Products to Display
+msgid "Number of Products to Display"
+msgstr "Nombre de produits à afficher"
+
+#: Number of Uses
+msgid "Number of Uses"
+msgstr "Nombre d'utilisations"
+
+#: Number of results<br/>(For the last time placed)
+msgid "Number of results<br/>(For the last time placed)"
+msgstr "Nombre de résultats<br/>(lors de la dernière requête)"
+
+#: OR
+msgid "OR"
+msgstr "OU"
+
+#: Old Price:
+msgid "Old Price:"
+msgstr "Ancien prix :"
+
+#: Option validation failed to add product to cart.
+msgid "Option validation failed to add product to cart."
+msgstr "La validation d'option a échoué lors de l'ajout du produit au panier."
+
+#: Option:
+msgid "Option:"
+msgstr "Option :"
+
+#: Options Control
+msgid "Options Control"
+msgstr "Contrôle des options"
+
+#: Options is required
+msgid "Options is required"
+msgstr "Au moins une option doit être créée"
+
+#: Our customer service is available 24/7. Call us at (555) 555-0123.
+msgid "Our customer service is available 24/7. Call us at (555) 555-0123."
+msgstr "Notre service client est disponible 24h/24 et 7j/7. Appelez-nous au 01 02 03 04 05."
+
+#: Out of Stock
+msgid "Out of Stock"
+msgstr "Épuisé"
+
+#: Out of stock
+msgid "Out of stock"
+msgstr "Épuisé"
+
+#: PM
+msgid "PM"
+msgstr "PM"
+
+#: Page Title Separator
+msgid "Page Title Separator"
+msgstr "Séparateur de titre de page"
+
+#: Parent Category
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: Pending
+msgid "Pending"
+msgstr "En attente"
+
+#: Pending Reviews RSS
+msgid "Pending Reviews RSS"
+msgstr "Flux RSS des commentaires en attente"
+
+#: Percentage
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: Please add rows to option.
+msgid "Please add rows to option."
+msgstr "Veuillez ajouter des lignes à l\\'option"
+
+#: Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost.
+msgid "Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost."
+msgstr "Soyez vigilant, dès que vous cliquerez sur la ligne, les données du package seront chargées et toutes les données non sauvegardées du formulaire seront perdues."
+
+#: Please click on the Close Window button if it is not closed automatically.
+msgid "Please click on the Close Window button if it is not closed automatically."
+msgstr "Cliquez sur le bouton 'Fermer la fenêtre' si celle-ci ne se ferme pas automatiquement."
+
+#: Please enter a new group name
+msgid "Please enter a new group name"
+msgstr "Veuillez entrer un nouveau nom de groupe"
+
+#: Please refresh \"Catalog URL Rewrites\" and \"Product Attributes\" in System -> <a href=\"%s\">Index Management</a>
+msgid "Please refresh \"Catalog URL Rewrites\" and \"Product Attributes\" in System -> <a href=\"%s\">Index Management</a>"
+msgstr "Rafraichissez \"Réécriture d'URLs du catalogue\" et \"Attributs de produits\" dans Système -> <a href=\"%s\">Gestion des indexes</a>"
+
+#: Please select a static block ...
+msgid "Please select a static block ..."
+msgstr "Sélectionnez un bloc statique"
+
+#: Please select items.
+msgid "Please select items."
+msgstr "Sélectionnez des éléments."
+
+#: Please select one or more attributes.
+msgid "Please select one or more attributes."
+msgstr "Sélectionnez un ou plusieurs attributs"
+
+#: Please select product(s).
+msgid "Please select product(s)."
+msgstr "Sélectionnez un ou des poduits."
+
+#: Please select products for attributes update
+msgid "Please select products for attributes update"
+msgstr "Sélectionnez les produits pour la mise à jour des attributs"
+
+#: Please specify date required option(s).
+msgid "Please specify date required option(s)."
+msgstr "Spécifiez la ou les option(s) de date obligatoire(s)."
+
+#: Please specify the product required option(s)
+msgid "Please specify the product required option(s)"
+msgstr "Veuillez spécifier la (les) option(s) obligatoire(s) de produit"
+
+#: Please specify the product required option(s).
+msgid "Please specify the product required option(s)."
+msgstr "Spécifiez la ou les option(s) obligatoire(s)."
+
+#: Please specify the product\'s option(s).
+msgid "Please specify the product\'s option(s)."
+msgstr "Veuillez spécifier les options de produit."
+
+#: Please specify the product\'s required option(s).
+msgid "Please specify the product\'s required option(s)."
+msgstr "Veuillez spécifier les options obligatoires du produit."
+
+#: Please specify the quantity of product(s).
+msgid "Please specify the quantity of product(s)."
+msgstr "Spécifiez la quantité de produit(s)."
+
+#: Please specify time required option(s).
+msgid "Please specify time required option(s)."
+msgstr "Spécifiez la ou les option(s) d'heure obligatoire(s)."
+
+#: Position
+msgid "Position"
+msgstr "Position"
+
+#: Position in Layered Navigation
+msgid "Position in Layered Navigation"
+msgstr "Position dans la navigation par filtres"
+
+#: Position of attribute in layered navigation block
+msgid "Position of attribute in layered navigation block"
+msgstr "Position de l'attribut dans le bloc de navigation par filtres"
+
+#: Prev
+msgid "Prev"
+msgstr "Précédent"
+
+#: Previous
+msgid "Previous"
+msgstr "Précédent"
+
+#: Price
+msgid "Price"
+msgstr "Prix"
+
+#: Price Navigation Step Calculation
+msgid "Price Navigation Step Calculation"
+msgstr "Type de calcul des tranches de prix"
+
+#: Price Type
+msgid "Price Type"
+msgstr "Type de prix"
+
+#: Price is not available
+msgid "Price is not available"
+msgstr "Prix non disponible"
+
+#: Price values for options should be specified in system base currency.
+msgid "Price values for options should be specified in system base currency."
+msgstr "Les valeurs de prix pour les options doivent être spécifié dans la devise de base."
+
+#: Price:
+msgid "Price:"
+msgstr "Prix :"
+
+#: Price: %s
+msgid "Price: %s"
+msgstr "Prix : %s"
+
+#: Print This Page
+msgid "Print This Page"
+msgstr "Imprimer cette page"
+
+#: Product
+msgid "Product"
+msgstr "Produit"
+
+#: Product API
+msgid "Product API"
+msgstr "API produit"
+
+#: Product Alerts
+msgid "Product Alerts"
+msgstr "Alertes du produit"
+
+#: Product Attribute
+msgid "Product Attribute"
+msgstr "Attribut du produit"
+
+#: Product Attributes
+msgid "Product Attributes"
+msgstr "Attributs de produit"
+
+#: Product Categories
+msgid "Product Categories"
+msgstr "Catégories du produit"
+
+#: Product Description
+msgid "Product Description"
+msgstr "Description du produit"
+
+#: Product Extra Info
+msgid "Product Extra Info"
+msgstr "Informations de produit supplémentaires"
+
+#: Product Flat Data
+msgid "Product Flat Data"
+msgstr "Données fixes de produit"
+
+#: Product Image Placeholders
+msgid "Product Image Placeholders"
+msgstr "Emplacements de l'image par défaut des produits"
+
+#: Product Image Watermarks
+msgid "Product Image Watermarks"
+msgstr "Filigranes d'images de produits"
+
+#: Product Images
+msgid "Product Images"
+msgstr "Images de produit"
+
+#: Product Images API
+msgid "Product Images API"
+msgstr "API images de produit"
+
+#: Product In Websites
+msgid "Product In Websites"
+msgstr "Publier dans les sites web"
+
+#: Product Info Column
+msgid "Product Info Column"
+msgstr "Colonne d'information de produit"
+
+#: Product Information
+msgid "Product Information"
+msgstr "Informations produit"
+
+#: Product Link Block Template
+msgid "Product Link Block Template"
+msgstr "Gabarit de lien produit (bloc)"
+
+#: Product Link Inline Template
+msgid "Product Link Inline Template"
+msgstr "Gabarit de lien produit (en ligne)"
+
+#: Product Listing Sort by
+msgid "Product Listing Sort by"
+msgstr "Tri des listes de produits"
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Product Prices
+msgid "Product Prices"
+msgstr "Prix du produit"
+
+#: Product Reviews
+msgid "Product Reviews"
+msgstr "Commentaires"
+
+#: Product Tags
+msgid "Product Tags"
+msgstr "Mots clés du produit"
+
+#: Product Tier Price API
+msgid "Product Tier Price API"
+msgstr "API des prix par paliers"
+
+#: Product Type
+msgid "Product Type"
+msgstr "Type du produit"
+
+#: Product URL Suffix
+msgid "Product URL Suffix"
+msgstr "Suffixe d'URL de produit"
+
+#: Product View Extra Hint
+msgid "Product View Extra Hint"
+msgstr "Astuce supplémentaire de vue de produit"
+
+#: Product attribute sets API
+msgid "Product attribute sets API"
+msgstr "API de jeux d'attributs de produit"
+
+#: Product attributes API
+msgid "Product attributes API"
+msgstr "API d'attributs de produit"
+
+#: Product collection expected.
+msgid "Product collection expected."
+msgstr "Collection de produits attendue."
+
+#: Product links API (related, cross sells, up sells)
+msgid "Product links API (related, cross sells, up sells)"
+msgstr "API des liens de produit (produits apparentés, ventes croisées, ventes incitatives)"
+
+#: Product types API
+msgid "Product types API"
+msgstr "API de types de produit"
+
+#: Product with this combination of attributes already associated to configurable.
+msgid "Product with this combination of attributes already associated to configurable."
+msgstr "Un produit avec cette combinaison d'attributs est déjà associé à ce produit configurable."
+
+#: Products
+msgid "Products"
+msgstr "Produits"
+
+#: Products Comparison List
+msgid "Products Comparison List"
+msgstr "Liste de comparaison de produits"
+
+#: Products Information
+msgid "Products Information"
+msgstr "Informations produits"
+
+#: Products Reviews
+msgid "Products Reviews"
+msgstr "Produits commentés"
+
+#: Products Sitemap
+msgid "Products Sitemap"
+msgstr "Plan de site des produits"
+
+#: Products only
+msgid "Products only"
+msgstr "Produits seulement"
+
+#: Products per Page on Grid Allowed Values
+msgid "Products per Page on Grid Allowed Values"
+msgstr "Valeurs autorisées pour le nombre de produits par page dans l'affichage en grille"
+
+#: Products per Page on Grid Default Value
+msgid "Products per Page on Grid Default Value"
+msgstr "Valeur par défaut pour le nombre de produits par page dans l'affichage en grille"
+
+#: Products per Page on List Allowed Values
+msgid "Products per Page on List Allowed Values"
+msgstr "Valeurs autorisées pour le nombre de produits par page dans l'affichage en liste"
+
+#: Products per Page on List Default Value
+msgid "Products per Page on List Default Value"
+msgstr "Valeur par défaut pour le nombre de produits par page dans l'affichage en liste"
+
+#: Properties
+msgid "Properties"
+msgstr "Propriétés"
+
+#: Qty
+msgid "Qty"
+msgstr "Qté"
+
+#: Qty Increments
+msgid "Qty Increments"
+msgstr "Incréments de quantités"
+
+#: Qty Uses Decimals
+msgid "Qty Uses Decimals"
+msgstr "La quantité utilise des décimales"
+
+#: Qty for Item's Status to become Out of Stock
+msgid "Qty for Item's Status to become Out of Stock"
+msgstr "Quantité pour que l'article soit considéré comme épuisé"
+
+#: Qty:
+msgid "Qty:"
+msgstr "Quantité :"
+
+#: Quantity
+msgid "Quantity"
+msgstr "Quantité"
+
+#: Quick Create
+msgid "Quick Create"
+msgstr "Création rapide"
+
+#: Quick Overview
+msgid "Quick Overview"
+msgstr "Description rapide"
+
+#: Quick simple product creation
+msgid "Quick simple product creation"
+msgstr "Création rapide de produit simple"
+
+#: Records for \"
+msgid "Records for \""
+msgstr "Enregistrements pour \""
+
+#: Redirect
+msgid "Redirect"
+msgstr "Rediriger"
+
+#: Redirect URL
+msgid "Redirect URL"
+msgstr "URL de redirection"
+
+#: Regular Price:
+msgid "Regular Price:"
+msgstr "Prix normal :"
+
+#: Related Products
+msgid "Related Products"
+msgstr "Produits apparentés"
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Remove Product From Websites
+msgid "Remove Product From Websites"
+msgstr "Supprimer le produit des sites web"
+
+#: Remove This Item
+msgid "Remove This Item"
+msgstr "Supprimer cet élément"
+
+#: Remove product assignment
+msgid "Remove product assignment"
+msgstr "Supprimer l'assignation de produit"
+
+#: Remove product image
+msgid "Remove product image"
+msgstr "Supprimer l'image de produit"
+
+#: Remove product link
+msgid "Remove product link"
+msgstr "Supprimer le lien de produit"
+
+#: Reorganize EAV category structure to flat structure
+msgid "Reorganize EAV category structure to flat structure"
+msgstr "Réorganise la structure de catégorie EAV en une structure fixe"
+
+#: Reorganize EAV product structure to flat structure
+msgid "Reorganize EAV product structure to flat structure"
+msgstr "Réorganise la structure de produit EAV en une structure fixe"
+
+#: Reset
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: Results
+msgid "Results"
+msgstr "Résultats"
+
+#: Retrieve attribute data
+msgid "Retrieve attribute data"
+msgstr "Récupérer les données de l'attribut"
+
+#: Retrieve attribute list
+msgid "Retrieve attribute list"
+msgstr "Récupérer la liste d'attributs"
+
+#: Retrieve attribute options
+msgid "Retrieve attribute options"
+msgstr "Récupérer les options d'attribut"
+
+#: Retrieve categories tree
+msgid "Retrieve categories tree"
+msgstr "Récupérer l'arbre des catégories"
+
+#: Retrieve category attributes
+msgid "Retrieve category attributes"
+msgstr "Récupérer les attributs de catégorie"
+
+#: Retrieve category data
+msgid "Retrieve category data"
+msgstr "Récupérer les données de catégorie"
+
+#: Retrieve hierarchical tree
+msgid "Retrieve hierarchical tree"
+msgstr "Récupérer l'arbre hiérarchique"
+
+#: Retrieve linked products
+msgid "Retrieve linked products"
+msgstr "Récupérer les produits liés"
+
+#: Retrieve list of assigned products
+msgid "Retrieve list of assigned products"
+msgstr "Récupérer la liste des produits assignés"
+
+#: Retrieve one level of categories by website/store view/parent category
+msgid "Retrieve one level of categories by website/store view/parent category"
+msgstr "Récupérer un niveau des catégories par site web/magasin/catégorie parente"
+
+#: Retrieve product
+msgid "Retrieve product"
+msgstr "Récupérer le produit"
+
+#: Retrieve product attribute sets
+msgid "Retrieve product attribute sets"
+msgstr "Récupérer les jeux d'attributs de produit"
+
+#: Retrieve product image
+msgid "Retrieve product image"
+msgstr "Récupérer l'image de produit"
+
+#: Retrieve product image list
+msgid "Retrieve product image list"
+msgstr "Récupérer la liste des images de produit"
+
+#: Retrieve product image types
+msgid "Retrieve product image types"
+msgstr "Récupérer les types d'images de produit"
+
+#: Retrieve product link type attributes
+msgid "Retrieve product link type attributes"
+msgstr "Récupérer les attributs de type de lien de produit"
+
+#: Retrieve product link types
+msgid "Retrieve product link types"
+msgstr "Récupérer les types de liens de produit"
+
+#: Retrieve product tier prices
+msgid "Retrieve product tier prices"
+msgstr "Récupérer les prix par paliers du produit"
+
+#: Retrieve product types
+msgid "Retrieve product types"
+msgstr "Récupérer les types de produit"
+
+#: Retrieve products data
+msgid "Retrieve products data"
+msgstr "Récupérer les données de produits"
+
+#: Retrieve products list by filters
+msgid "Retrieve products list by filters"
+msgstr "Récupérer une liste filtrée de produits"
+
+#: Reviews
+msgid "Reviews"
+msgstr "Commentaires"
+
+#: Roll Over for preview
+msgid "Roll Over for preview"
+msgstr "Survoler pour avoir un aperçu"
+
+#: Root
+msgid "Root"
+msgstr "Racine"
+
+#: SKU
+msgid "SKU"
+msgstr "Réf."
+
+#: Save
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: Save Attribute
+msgid "Save Attribute"
+msgstr "Sauvegarder l'attribut"
+
+#: Save Attribute Set
+msgid "Save Attribute Set"
+msgstr "Sauvegarder le jeu d'attributs"
+
+#: Save Category
+msgid "Save Category"
+msgstr "Sauvegarder la catégorie"
+
+#: Save Search
+msgid "Save Search"
+msgstr "Sauvegarder la recherche"
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr "Sauvegarder et continuer à éditer"
+
+#: Saved %d record(s)
+msgid "Saved %d record(s)"
+msgstr "%d enregistrement(s) sauvegardé(s)"
+
+#: Scope
+msgid "Scope"
+msgstr "Portée"
+
+#: Search
+msgid "Search"
+msgstr "Chercher"
+
+#: Search Engine Optimizations
+msgid "Search Engine Optimizations"
+msgstr "Optimisations pour les moteurs de recherche"
+
+#: Search Information
+msgid "Search Information"
+msgstr "Informations de recherche"
+
+#: Search Query
+msgid "Search Query"
+msgstr "Termes de recherche"
+
+#: Search Term with such search query already exists.
+msgid "Search Term with such search query already exists."
+msgstr "Il existe déjà un terme de recherche avec cette requête."
+
+#: Searchable
+msgid "Searchable"
+msgstr "Utiliser dans la recherche"
+
+#: Select Category...
+msgid "Select Category..."
+msgstr "Choisir une catégorie..."
+
+#: Select Configurable Attributes 
+msgid "Select Configurable Attributes "
+msgstr "Sélectionnez les attributs configurables "
+
+#: Select Product...
+msgid "Select Product..."
+msgstr "Choisir un produit..."
+
+#: Select type of option
+msgid "Select type of option"
+msgstr "Choisissez un type d\\'option"
+
+#: Select type options required values rows.
+msgid "Select type options required values rows."
+msgstr "Sélectionner les lignes des valeurs obligatoires des options"
+
+#: Selected Product Types
+msgid "Selected Product Types"
+msgstr "Types de produit sélectionnés"
+
+#: Selected configuration is not available.
+msgid "Selected configuration is not available."
+msgstr "La configuration choisie n'est pas disponible."
+
+#: Send Count
+msgid "Send Count"
+msgstr "Nombre d'envois"
+
+#: Set Ascending Direction
+msgid "Set Ascending Direction"
+msgstr "Par ordre croissant"
+
+#: Set Descending Direction
+msgid "Set Descending Direction"
+msgstr "Par ordre décroissant"
+
+#: Set Name
+msgid "Set Name"
+msgstr "Nom du jeu d'attributs"
+
+#: Set Root Category for Store
+msgid "Set Root Category for Store"
+msgstr "Renseigner la catégorie racine pour la boutique"
+
+#: Set root category for this store in the <a href=\"%s\">configuration</a>
+msgid "Set root category for this store in the <a href=\"%s\">configuration</a>"
+msgstr "Choisir la catégorie racine pour ce magasin dans la <a href=\"%s\">configuration</a>"
+
+#: Set special price
+msgid "Set special price"
+msgstr "Fixer un prix spécial"
+
+#: Set/Get current store view
+msgid "Set/Get current store view"
+msgstr "Renseigner/récupérer la vue magasin en cours"
+
+#: Settings
+msgid "Settings"
+msgstr "Paramétrage"
+
+#: Shop By
+msgid "Shop By"
+msgstr "Filtrer par"
+
+#: Shopping Options
+msgid "Shopping Options"
+msgstr "Affiner la recherche"
+
+#: Show
+msgid "Show"
+msgstr "Afficher"
+
+#: Show Details
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: Show Tags
+msgid "Show Tags"
+msgstr "Afficher les tags"
+
+#: Simple Product
+msgid "Simple Product"
+msgstr "Produit simple"
+
+#: Site Map
+msgid "Site Map"
+msgstr "Plan du site"
+
+#: Sitemap
+msgid "Sitemap"
+msgstr "Plan de site"
+
+#: Skip import row, is not valid value \"%s\" for field \"%s\"
+msgid "Skip import row, is not valid value \"%s\" for field \"%s\""
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+
+#: Skip import row, required field \"%s\" for the new customer is not defined.
+msgid "Skip import row, required field \"%s\" for the new customer is not defined."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" pour le client n'est pas renseigné."
+
+#: Skip import row, the value \"%s\" is invalid for field \"%s\"
+msgid "Skip import row, the value \"%s\" is invalid for field \"%s\""
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+
+#: Skipping import row, required field \"%s\" for new products is not defined.
+msgid "Skipping import row, required field \"%s\" for new products is not defined."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" pour le produit n'est pas renseigné."
+
+#: Skipping import row, required field \"%s\" is not defined.
+msgid "Skipping import row, required field \"%s\" is not defined."
+msgstr "Ligne ignorée, le champ obligatoire \"%s\" n'est pas défini."
+
+#: Skipping import row, store \"%s\" field does not exist.
+msgid "Skipping import row, store \"%s\" field does not exist."
+msgstr "Ligne ignorée, le champ \"%s\" du magasin n'existe pas."
+
+#: Skipping import row, the value \"%s\" is not valid for the \"%s\" field.
+msgid "Skipping import row, the value \"%s\" is not valid for the \"%s\" field."
+msgstr "Ligne ignorée, la valeur \"%s\" n'est pas valide pour le champ \"%s\""
+
+#: Some of the processed products have no SKU value. Please fill it.
+msgid "Some of the processed products have no SKU value. Please fill it."
+msgstr "Certains produits traités n'ont pas de référence (sku). Veuillez le renseigner."
+
+#: Some of the products below do not have all the required options. Please remove them and add again with all the required options.
+msgid "Some of the products below do not have all the required options. Please remove them and add again with all the required options."
+msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires."
+
+#: Sort By
+msgid "Sort By"
+msgstr "Trier par"
+
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#: Source Model
+msgid "Source Model"
+msgstr "Modèle source"
+
+#: Special Expires On: %s
+msgid "Special Expires On: %s"
+msgstr "Prix spécial jusqu'au : %s"
+
+#: Special Price:
+msgid "Special Price:"
+msgstr "Prix spécial :"
+
+#: Special Price: %s
+msgid "Special Price: %s"
+msgstr "Prix spécial : %s"
+
+#: Starting at:
+msgid "Starting at:"
+msgstr "À partir de :"
+
+#: Static
+msgid "Static"
+msgstr "Statique"
+
+#: Static block and products
+msgid "Static block and products"
+msgstr "Bloc statique et produits"
+
+#: Static block only
+msgid "Static block only"
+msgstr "Bloc statique uniquement"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Stock Availability
+msgid "Stock Availability"
+msgstr "Disponibilité"
+
+#: Store
+msgid "Store"
+msgstr "Magasin"
+
+#: Store View
+msgid "Store View"
+msgstr "Vue magasin"
+
+#: Stretch
+msgid "Stretch"
+msgstr "Étirer"
+
+#: Subscribe to RSS Feed
+msgid "Subscribe to RSS Feed"
+msgstr "S'abonner au flux RSS"
+
+#: Super product attributes configuration
+msgid "Super product attributes configuration"
+msgstr "Configuration des attributs du super produit"
+
+#: Synonym For
+msgid "Synonym For"
+msgstr "Synonyme de"
+
+#: System Properties
+msgid "System Properties"
+msgstr "Propriétés système"
+
+#: Tag Name
+msgid "Tag Name"
+msgstr "Nom du mot clé"
+
+#: Tax
+msgid "Tax"
+msgstr "TVA & autres taxes"
+
+#: Template
+msgid "Template"
+msgstr "Gabarit"
+
+#: Text
+msgid "Text"
+msgstr "Texte"
+
+#: The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module.
+msgid "The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module."
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
+
+#: The attribute model is not defined
+msgid "The attribute model is not defined"
+msgstr "Le modèle d'attributs n'est pas défini."
+
+#: The attribute set has been saved.
+msgid "The attribute set has been saved."
+msgstr "Le jeu d'attributs a été sauvegardé."
+
+#: The base directory to upload image file is not specified.
+msgid "The base directory to upload image file is not specified."
+msgstr "Le répertoire de base pour uploader l'image n'est pas spécifié."
+
+#: The category has been deleted.
+msgid "The category has been deleted."
+msgstr "La catégorie a été supprimée."
+
+#: The category has been saved.
+msgid "The category has been saved."
+msgstr "La catégorie a été enregistrée."
+
+#: The comparison list was cleared.
+msgid "The comparison list was cleared."
+msgstr "La liste de comparaison a été vidée."
+
+#: The email template is not specified by administrator.
+msgid "The email template is not specified by administrator."
+msgstr "Le gabarit d'email n'a pas été spécifié par l'administrateur."
+
+#: The filters must be an array.
+msgid "The filters must be an array."
+msgstr "Les filtres doivent être sous forme de tableau."
+
+#: The image contents is not valid base64 data.
+msgid "The image contents is not valid base64 data."
+msgstr "Le contenu de l'image ne comporte pas des données base64 correctes."
+
+#: The image is not specified.
+msgid "The image is not specified."
+msgstr "L'image n'est pas spécifiée."
+
+#: The product %s has been added to comparison list.
+msgid "The product %s has been added to comparison list."
+msgstr "Le produit %s a été ajouté à la liste de comparaison."
+
+#: The product %s has been removed from comparison list.
+msgid "The product %s has been removed from comparison list."
+msgstr "Le produit %s a été enlevé de la liste de comparaison."
+
+#: The product attribute has been deleted.
+msgid "The product attribute has been deleted."
+msgstr "L'attribut de produit a été effacé."
+
+#: The product attribute has been saved.
+msgid "The product attribute has been saved."
+msgstr "L'attribut de produit a été sauvegardé."
+
+#: The product has been created.
+msgid "The product has been created."
+msgstr "Le produit a été créé."
+
+#: The product has been deleted.
+msgid "The product has been deleted."
+msgstr "Le produit a été supprimé."
+
+#: The product has been duplicated.
+msgid "The product has been duplicated."
+msgstr "Le produit a été dupliqué."
+
+#: The product has been saved.
+msgid "The product has been saved."
+msgstr "Le produit a été sauvegardé."
+
+#: The product has required options
+msgid "The product has required options"
+msgstr "Le produit a des options obligatoires."
+
+#: The review has been deleted
+msgid "The review has been deleted"
+msgstr "Le commentaire a été supprimé."
+
+#: The review has been saved.
+msgid "The review has been saved."
+msgstr "Le commentaire a été sauvegardé."
+
+#: The review was removed by another user or does not exist.
+msgid "The review was removed by another user or does not exist."
+msgstr "Le commentaire a été supprimé par un autre utilisateur ou n'existe pas."
+
+#: The search was deleted.
+msgid "The search was deleted."
+msgstr "La recherche a été supprimée."
+
+#: The text is too long
+msgid "The text is too long"
+msgstr "Le texte est trop long."
+
+#: There are no %s available.
+msgid "There are no %s available."
+msgstr "Aucun(e) %s disponible"
+
+#: There are no customers for this alert
+msgid "There are no customers for this alert"
+msgstr "Il n'y a aucun client pour cette alerte"
+
+#: There are no customers for this alert.
+msgid "There are no customers for this alert."
+msgstr "Aucun client pour cette alerte."
+
+#: There are no products matching the selection.
+msgid "There are no products matching the selection."
+msgstr "Aucun produit ne correspond à la sélection"
+
+#: This Attribute no longer exists
+msgid "This Attribute no longer exists"
+msgstr "Cet attribut n'existe plus."
+
+#: This attribute cannot be deleted.
+msgid "This attribute cannot be deleted."
+msgstr "Cet attribut ne peut pas être supprimé."
+
+#: This attribute cannot be edited.
+msgid "This attribute cannot be edited."
+msgstr "Cet attribut ne peut pas être édité."
+
+#: This attribute cannot be updated.
+msgid "This attribute cannot be updated."
+msgstr "Cet attribut ne peut pas être mis à jour."
+
+#: This attribute is used in configurable products. You cannot remove it from the attribute set.
+msgid "This attribute is used in configurable products. You cannot remove it from the attribute set."
+msgstr "Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d\\'attributs."
+
+#: This attribute no longer exists
+msgid "This attribute no longer exists"
+msgstr "Cette attribut n'existe plus"
+
+#: This attribute set no longer exists.
+msgid "This attribute set no longer exists."
+msgstr "Ce jeu d'attributs n'existe plus."
+
+#: This group contains attributes, used in configurable products. Please move these attributes to another group and try again.
+msgid "This group contains attributes, used in configurable products. Please move these attributes to another group and try again."
+msgstr "Ce groupe contient des attributs utilisés dans des produits configurables. Déplacez ces attributs dans un autre groupe et réessayez."
+
+#: This group contains system attributes. Please move system attributes to another group and try again.
+msgid "This group contains system attributes. Please move system attributes to another group and try again."
+msgstr "Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer."
+
+#: This is a required option
+msgid "This is a required option"
+msgstr "Cette option est requise"
+
+#: This product no longer exists.
+msgid "This product no longer exists."
+msgstr "Ce produit n'existe plus."
+
+#: This search no longer exists.
+msgid "This search no longer exists."
+msgstr "Cette recherche n'existe plus."
+
+#: Tier Pricing
+msgid "Tier Pricing"
+msgstr "Tarification par palier"
+
+#: Tile
+msgid "Tile"
+msgstr "Mosaïque"
+
+#: Time Format
+msgid "Time Format"
+msgstr "Format d'heure"
+
+#: Title
+msgid "Title"
+msgstr "Titre"
+
+#: To reindex the enabled product(s), the store or product must be specified.
+msgid "To reindex the enabled product(s), the store or product must be specified."
+msgstr "Pour réindexer les produits activés, le magasin ou le produit doit être spécifié."
+
+#: Top/Left
+msgid "Top/Left"
+msgstr "En haut à gauche"
+
+#: Top/Right
+msgid "Top/Right"
+msgstr "En haut à droite"
+
+#: Total Qty Base Items
+msgid "Total Qty Base Items"
+msgstr "Quantité totale d'articles de base"
+
+#: Total incl. Tax: %1$s
+msgid "Total incl. Tax: %1$s"
+msgstr "Total TTC : %1$s"
+
+#: Total of %d record(s) have been deleted.
+msgid "Total of %d record(s) have been deleted."
+msgstr "%d enregistrement(s) a (ont) été effacé(s)."
+
+#: Total of %d record(s) have been updated.
+msgid "Total of %d record(s) have been updated."
+msgstr "%d enregistrement(s) a (ont) été mis à jour."
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: URL Rewrite Management
+msgid "URL Rewrite Management"
+msgstr "Gestion de réécriture d'URL"
+
+#: Unable to complete this request.
+msgid "Unable to complete this request."
+msgstr "Impossible de satisfaire cette requête."
+
+#: Unable to find a search term to delete.
+msgid "Unable to find a search term to delete."
+msgstr "Impossible de trouver le terme de recherche à effacer."
+
+#: Unable to find an attribute to delete.
+msgid "Unable to find an attribute to delete."
+msgstr "Impossible de trouver l'attribut à supprimer."
+
+#: Unable to get the product ID.
+msgid "Unable to get the product ID."
+msgstr "Impossible de récupérer l'identifiant de produit."
+
+#: Unassigned Attributes
+msgid "Unassigned Attributes"
+msgstr "Attributs non assignés"
+
+#: Unknown EAV indexer type \"%s\".
+msgid "Unknown EAV indexer type \"%s\"."
+msgstr "Type d'indexer EAV inconnu : \"%s\"."
+
+#: Unknown attribute: %s.
+msgid "Unknown attribute: %s."
+msgstr "Attribut inconnu : %s."
+
+#: Unsupported product type \"%s\".
+msgid "Unsupported product type \"%s\"."
+msgstr "Type de produit non supporté : \"%s\"."
+
+#: Up-sells
+msgid "Up-sells"
+msgstr "Ventes incitatives"
+
+#: Update
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: Update Attributes
+msgid "Update Attributes"
+msgstr "Mettre à jour les attributs"
+
+#: Update Tier Price
+msgid "Update Tier Price"
+msgstr "Mettre à jour les prix par palier"
+
+#: Update assigned product
+msgid "Update assigned product"
+msgstr "Mettre à jour le produit assigné"
+
+#: Update attributes
+msgid "Update attributes"
+msgstr "Modifier les attributs"
+
+#: Update category
+msgid "Update category"
+msgstr "Mettre à jour la catégorie"
+
+#: Update product
+msgid "Update product"
+msgstr "Mettre à jour le produit"
+
+#: Update product image
+msgid "Update product image"
+msgstr "Mettre à jour l'image du produit"
+
+#: Update product link
+msgid "Update product link"
+msgstr "Mettre à jour le lien du produit"
+
+#: Update product tier prices
+msgid "Update product tier prices"
+msgstr "Mettre à jour les prix par palier"
+
+#: Upload new product image 
+msgid "Upload new product image "
+msgstr "Uploader une nouvelle image de produit "
+
+#: Url Rewrite Management
+msgid "Url Rewrite Management"
+msgstr "Gestion de la réécriture d'URL"
+
+#: Use Canonical Link Meta Tag For Categories
+msgid "Use Canonical Link Meta Tag For Categories"
+msgstr "Utiliser un lien canonique de meta tag pour les catégories"
+
+#: Use Canonical Link Meta Tag For Products
+msgid "Use Canonical Link Meta Tag For Products"
+msgstr "Utiliser un lien canonique de meta tag pour les produits"
+
+#: Use Categories Path for Product URLs
+msgid "Use Categories Path for Product URLs"
+msgstr "Utiliser le chemin des catégories pour l'URL des produits"
+
+#: Use Config Settings
+msgid "Use Config Settings"
+msgstr "Utiliser les paramètres de la configuration"
+
+#: Use Default Value
+msgid "Use Default Value"
+msgstr "Utiliser la valeur par défaut"
+
+#: Use Flat Catalog Category
+msgid "Use Flat Catalog Category"
+msgstr "Utiliser le catalogue à plat pour les catégories"
+
+#: Use Flat Catalog Product
+msgid "Use Flat Catalog Product"
+msgstr "Utiliser le catalogue à plat pour les produits"
+
+#: Use In Layered Navigation
+msgid "Use In Layered Navigation"
+msgstr "Utiliser dans la navigation par filtres"
+
+#: Use In Search Results Layered Navigation
+msgid "Use In Search Results Layered Navigation"
+msgstr "Utiliser dans la navigation par filtres des résultats de recherche"
+
+#: Use JavaScript Calendar
+msgid "Use JavaScript Calendar"
+msgstr "Utiliser le calendrier JavaScript"
+
+#: Use Static URLs for Media Content in WYSIWYG for Catalog
+msgid "Use Static URLs for Media Content in WYSIWYG for Catalog"
+msgstr "Utiliser les URLs statiques pour le contenu média dans l'éditeur WYSIWYG pour le catalogue"
+
+#: Use To Create Configurable Product
+msgid "Use To Create Configurable Product"
+msgstr "Utiliser pour créer un produit configurable"
+
+#: Use Tree Like Category Sitemap
+msgid "Use Tree Like Category Sitemap"
+msgstr "Utiliser l'arborescence des catégories pour le plan de site"
+
+#: Use default
+msgid "Use default"
+msgstr "Utilisation par défaut"
+
+#: Use for Promo Rule Conditions
+msgid "Use for Promo Rule Conditions"
+msgstr "Utiliser pour les conditions de règles de promotions"
+
+#: Use four-digit year format.
+msgid "Use four-digit year format."
+msgstr "Utiliser les années sur 4 chiffres."
+
+#: Use in Advanced Search
+msgid "Use in Advanced Search"
+msgstr "Utiliser dans la recherche avancée"
+
+#: Use in Layered Navigation
+msgid "Use in Layered Navigation"
+msgstr "Utiliser dans la navigation par filtres"
+
+#: Use in Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown')
+msgid "Use in Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown')"
+msgstr "Utiliser dans la navigation par filtres<br/>(utilisable uniquement avec les entrées de type liste déroulante)"
+
+#: Use in Quick Search
+msgid "Use in Quick Search"
+msgstr "Utiliser dans la recherche rapide"
+
+#: Used for Sorting in Product Listing
+msgid "Used for Sorting in Product Listing"
+msgstr "Utiliser pour le tri des listes de produits"
+
+#: Used in Product Listing
+msgid "Used in Product Listing"
+msgstr "Utiliser dans les listes de produits"
+
+#: Value for \"%s\" is invalid.
+msgid "Value for \"%s\" is invalid."
+msgstr "La valeur pour \"%s\" est invalide."
+
+#: Value for \"%s\" is invalid: %s
+msgid "Value for \"%s\" is invalid: %s"
+msgstr "La valeur pour \"%s\" est invalide : %s."
+
+#: Varchar
+msgid "Varchar"
+msgstr "Varchar"
+
+#: View as
+msgid "View as"
+msgstr "Afficher en"
+
+#: Virtual Product
+msgid "Virtual Product"
+msgstr "Produit virtuel"
+
+#: Visibility
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: Visible
+msgid "Visible"
+msgstr "Visible"
+
+#: Visible on Catalog Pages on Front-end
+msgid "Visible on Catalog Pages on Front-end"
+msgstr "Visible sur les pages du magasin"
+
+#: Visible on Product View Page on Front-end
+msgid "Visible on Product View Page on Front-end"
+msgstr "Visible sur la page produit du magasin"
+
+#: WYSIWYG Editor
+msgid "WYSIWYG Editor"
+msgstr "Éditeur WYSIWYG"
+
+#: Watermark
+msgid "Watermark"
+msgstr "Filigrane"
+
+#: Watermark Default Size
+msgid "Watermark Default Size"
+msgstr "Taille par défaut du filigrane"
+
+#: Watermark Opacity, Percent
+msgid "Watermark Opacity, Percent"
+msgstr "Pourcentage d'opacité du filigrane"
+
+#: Watermark Position
+msgid "Watermark Position"
+msgstr "Positionnement du filigrane"
+
+#: We Also Recommend
+msgid "We Also Recommend"
+msgstr "Nous vous recommandons également"
+
+#: Website
+msgid "Website"
+msgstr "Site web"
+
+#: Websites
+msgid "Websites"
+msgstr "Sites web"
+
+#: Whether to show \"All\" option in the \"Show X Per Page\" dropdown.
+msgid "Whether to show \"All\" option in the \"Show X Per Page\" dropdown."
+msgstr "Afficher l'option \"Toutes\" dans la liste déroulante \"Afficher X par page\"."
+
+#: Wrong BuyRequest instance in options group.
+msgid "Wrong BuyRequest instance in options group."
+msgstr "Mauvaise instance BuyRequest dans le groupe d'options."
+
+#: Wrong option instance type in options group.
+msgid "Wrong option instance type in options group."
+msgstr "Mauvais type d'instance d'option dans le groupe d'options."
+
+#: Wrong option type to get group instance.
+msgid "Wrong option type to get group instance."
+msgstr "Type d'option incorrect pour récupérer l'instance de groupe."
+
+#: Wrong product instance type in options group.
+msgid "Wrong product instance type in options group."
+msgstr "Mauvais type d'instance de produit dans le groupe d'options."
+
+#: Wrong product type filter specified
+msgid "Wrong product type filter specified"
+msgstr "Filtre de type de produit incorrect"
+
+#: Wrong quote item instance in options group.
+msgid "Wrong quote item instance in options group."
+msgstr "Mauvaise instance d'article dans le groupe d'options."
+
+#: Wrong quote item option instance in options group.
+msgid "Wrong quote item option instance in options group."
+msgstr "Mauvaise instance d'option d'article dans le groupe d'options."
+
+#: Year Range
+msgid "Year Range"
+msgstr "Période annuelle"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+
+#: You cannot email this product to a friend.
+msgid "You cannot email this product to a friend."
+msgstr "Vous ne pouvez pas envoyer ce produit à un ami."
+
+#: You cannot remove system attribute from this set.
+msgid "You cannot remove system attribute from this set."
+msgstr "Vous ne pouvez pas retirer un attribut système"
+
+#: You cannot send more than %d emails at a time.
+msgid "You cannot send more than %d emails at a time."
+msgstr "Vous ne pouvez pas envoyer plus de %d emails à la fois."
+
+#: You have exceeded limit of %d sends in an hour.
+msgid "You have exceeded limit of %d sends in an hour."
+msgstr "Vous avez dépassé la limite de %d envois en une heure."
+
+#: You have no items to compare.
+msgid "You have no items to compare."
+msgstr "Vous n'avez pas d'articles à comparer."
+
+#: You have to specify at least one recipient.
+msgid "You have to specify at least one recipient."
+msgstr "Vous devez préciser au moins un destinataire."
+
+#: You may also be interested in the following product(s)
+msgid "You may also be interested in the following product(s)"
+msgstr "Vous pourriez également être intéressé par le(s) produit(s) suivant(s)"
+
+#: Zoom In
+msgid "Zoom In"
+msgstr "Zoom avant"
+
+#: Zoom Out
+msgid "Zoom Out"
+msgstr "Zoom arrière"
+
+#: [GLOBAL]
+msgid "[GLOBAL]"
+msgstr "[GLOBAL]"
+
+#: and
+msgid "and"
+msgstr "et"
+
+#: categories
+msgid "categories"
+msgstr "catégories"
+
+#: each
+msgid "each"
+msgstr "pièce"
+
+#: ex. http://domain.com
+msgid "ex. http://domain.com"
+msgstr "Par ex : http://domaine.com"
+
+#: leave blank if its not an image
+msgid "leave blank if its not an image"
+msgstr "Laisser vide si ce n\\'est pas une image"
+
+#: per page
+msgid "per page"
+msgstr "par page"
+
+#: products
+msgid "products"
+msgstr "Produits"
+
+#: px.
+msgid "px."
+msgstr "px."
+
+#: save
+msgid "save"
+msgstr "économisez"
+
+#: select all
+msgid "select all"
+msgstr "tout sélectionner"
+
+#: unselect all
+msgid "unselect all"
+msgstr "tout désélectionner"
+
+#: x
+msgid "x"
+msgstr "x"
+
+#: Prices
+msgid "Prices"
+msgstr "Prix"
+
+#: and above
+msgid "and above"
+msgstr "et plus"
+
+#: Delete Tier
+msgid "Delete Tier"
+msgstr "Effacer le palier"
+
+#: Meta Information
+msgid "Meta Information"
+msgstr "Informations méta"
+
+#: <br/>[STORE VIEW]
+msgid "<br/>[STORE VIEW]"
+msgstr "<br/>[VUE MAGASIN]"
+
+#: Descriptions
+msgid "Descriptions"
+msgstr "Descriptions"
+
+#: Computer Attributes
+msgid "Computer Attributes"
+msgstr "Attributs d'ordinateur"
+
+#: Display Settings
+msgid "Display Settings"
+msgstr "Paramètres d'affichage"
+
+#: and above
+msgid "and above"
+msgstr "et plus"
+
+#: Delete Tier
+msgid "Delete Tier"
+msgstr "Effacer le palier"
+
+#: Meta Information
+msgid "Meta Information"
+msgstr "Informations méta"
+
+#: Descriptions
+msgid "Descriptions"
+msgstr "Descriptions"
+
+#: <br/>[STORE VIEW
+msgid "<br/>[STORE VIEW]"
+msgstr "<br/>[VUE MAGASIN]"
+
+#: Cell Phone Attributes
+msgid "Cell Phone Attributes"
+msgstr "Attributs de téléphone mobile"
+
+#: Qty for Item's Status to become Out of Stock
+msgid "Qty for Item's Status to become Out of Stock"
+msgstr "Quantité pour que l'article soit considéré comme épuisé"
+
+#: An error occurred while saving the product.
+msgid "An error occurred while saving the product."
+msgstr "Erreur lors de la sauvegarde du produit."
+
+#: An invalid group ID is specified, skipping the record.
+msgid "An invalid group ID is specified, skipping the record."
+msgstr "L'ID de groupe spécifié est invalide, enregistrement ignoré."
+
+#: Attribute group with the "/name/" name already exists
+msgid "Attribute group with the "/name/" name already exists"
+msgstr "Il existe déjà un groupe portant le nom \\\"/name/\\\"."
+
+#: Bundle Items
+msgid "Bundle Items"
+msgstr "Articles packagés"
+
+#: Buy %1$s with %2$s discount each
+msgid "Buy %1$s with %2$s discount each"
+msgstr "Achetez-en %1$s et profitez d'une remise de %2$s par produit"
+
+#: Can't create image.
+msgid "Can't create image."
+msgstr "Impossible de créer l'image."
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Configure Product
+msgid "Configure Product"
+msgstr "Configurer le produit"
+
+#: Downloadable Information
+msgid "Downloadable Information"
+msgstr "Informations téléchargements"
+
+#: Maximum allowed image size for '%s' is %sx%s px.
+msgid "Maximum allowed image size for '%s' is %sx%s px."
+msgstr "La taille maxi autorisée pour les images '%s' est de %sx%s px."
+
+#: Minimum Qty for Item's Status to be Out of Stock
+msgid "Minimum Qty for Item's Status to be Out of Stock"
+msgstr "Quantité mini pour que l'article soit considéré comme épuisé"
+
+#: OK
+msgid "OK"
+msgstr "OK"
+
+#: Please specify the product's option(s).
+msgid "Please specify the product's option(s)."
+msgstr "Veuillez spécifier la (les) option(s) de produit"
+
+#: Please specify the product's required option(s).
+msgid "Please specify the product's required option(s)."
+msgstr "Spécifiez la ou les option(s) obligatoire(s)."
+
+#: Please wait...
+msgid "Please wait..."
+msgstr "Veuillez patienter..."
+
+#: Product ID
+msgid "Product ID"
+msgstr "ID de produit"
+
+#: Product is not loaded
+msgid "Product is not loaded"
+msgstr "Le produit n'est pas chargé."
+
+#: Product name
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: SKU length should be %s characters maximum.
+msgid "SKU length should be %s characters maximum."
+msgstr "La longueur maxi pour le SKU est de %s caractères."
+
+#: Select Configurable Attributes
+msgid "Select Configurable Attributes"
+msgstr "Sélectionnez les attributs configurables"
+
+#: Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.
+msgid "Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products."
+msgstr "Certains des produits traités n'ont pas de SKU défini. Veuillez les renseigner avant d'effectuer des opérations sur ces produits."
+
+#: Some of the products below do not have all the required options. Please edit them and configure all the required options.
+msgid "Some of the products below do not have all the required options. Please edit them and configure all the required options."
+msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires."
+
+#: The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module.
+msgid "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module."
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
+
+#: The base directory to upload file is not specified.
+msgid "The base directory to upload file is not specified."
+msgstr "Le répertoire de base pour uploader l'image n'est pas spécifié."
+
+#: The file '%s' for '%s' has an invalid extension
+msgid "The file '%s' for '%s' has an invalid extension"
+msgstr "Le fichier '%s' pour '%s' a une extension invalide."
+
+#: The file '%s' you uploaded is larger than %s Megabytes allowed by server
+msgid "The file '%s' you uploaded is larger than %s Megabytes allowed by server"
+msgstr "Le fichier '%s' téléchargé a une taille supérieure à %s Mo (maximum autorisé par le serveur)"
+
+#: The file you uploaded is larger than %s Megabytes allowed by server
+msgid "The file you uploaded is larger than %s Megabytes allowed by server"
+msgstr "Le fichier téléchargé a une taille supérieure à %s Mo (maximum autorisé par le serveur)"
+
+#: There was an error while request processing.
+msgid "There was an error while request processing."
+msgstr "Une erreur est survenue lors du traitement de la demande."
+
+#: Upload new product image
+msgid "Upload new product image"
+msgstr "Uploader une nouvelle image de produit"
+
+#: Use config
+msgid "Use config"
+msgstr "Utiliser la config"
+
+#: Wrong configuration item instance in options group.
+msgid "Wrong configuration item instance in options group."
+msgstr "Mauvaise instance d'élément de configuration dans le groupe d'options."
+
+#: Wrong configuration item option instance in options group.
+msgid "Wrong configuration item option instance in options group."
+msgstr "Mauvaise instance d'option d'élément de configuration dans le groupe d'options."
+
+#: Wrong product type to extract configurable options.
+msgid "Wrong product type to extract configurable options."
+msgstr "Type de produit erroné pour l'extraction des options configurables."
+
+#: Images
+msgid "Images"
+msgstr "Images"
+

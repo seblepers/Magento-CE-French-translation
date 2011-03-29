@@ -1,0 +1,224 @@
+#: %s - Discounts and Coupons
+msgid "%s - Discounts and Coupons"
+msgstr "%s - Remises et coupons"
+
+#: %s - Special Products
+msgid "%s - Special Products"
+msgstr "%s - Produits spéciaux"
+
+#: %s RSS Feed
+msgid "%s RSS Feed"
+msgstr "Flux RSS %s"
+
+#: %s has reached a quantity of %s.
+msgid "%s has reached a quantity of %s."
+msgstr "%s a atteint la quantité de %s."
+
+#: %s\'s Wishlist
+msgid "%s\'s Wishlist"
+msgstr "Liste d\\'envies de %s"
+
+#: Cannot retrieve the wishlist
+msgid "Cannot retrieve the wishlist"
+msgstr "Impossible de récupérer la liste d'envies"
+
+#: Catalog
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: Category Feeds
+msgid "Category Feeds"
+msgstr "Flux de la catégorie"
+
+#: Comment: %s<br/>
+msgid "Comment: %s<br/>"
+msgstr "Commentaire : %s<br/>"
+
+#: Coupons/Discounts
+msgid "Coupons/Discounts"
+msgstr "Coupons/Réductions"
+
+#: Current Status: %s<br/>
+msgid "Current Status: %s<br/>"
+msgstr "Statut actuel : %s<br/>"
+
+#: Customer Name: %s
+msgid "Customer Name: %s"
+msgstr "Nom du client : %s"
+
+#: Customer Order Status Notification
+msgid "Customer Order Status Notification"
+msgstr "Notification de statut de commande client"
+
+#: Details for %s #%s
+msgid "Details for %s #%s"
+msgstr "Détails pour %s n°%s"
+
+#: Discount
+msgid "Discount"
+msgstr "Remise"
+
+#: Discount (%s)
+msgid "Discount (%s)"
+msgstr "Remise (%s)"
+
+#: Enable RSS
+msgid "Enable RSS"
+msgstr "Activer le RSS"
+
+#: Error in processing xml. %s
+msgid "Error in processing xml. %s"
+msgstr "Erreur lors du traitement XML. %s"
+
+#: From:
+msgid "From:"
+msgstr "De :"
+
+#: Get Feed
+msgid "Get Feed"
+msgstr "Récupérer le flux"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: Grand Total
+msgid "Grand Total"
+msgstr "Montant global"
+
+#: Low Stock Products
+msgid "Low Stock Products"
+msgstr "Produits ayant un bas niveau de stock"
+
+#: Message:
+msgid "Message:"
+msgstr "Message :"
+
+#: Miscellaneous Feeds
+msgid "Miscellaneous Feeds"
+msgstr "Flux divers"
+
+#: New Orders
+msgid "New Orders"
+msgstr "Nouvelles commandes"
+
+#: New Products
+msgid "New Products"
+msgstr "Nouveaux produits"
+
+#: New Products from %s
+msgid "New Products from %s"
+msgstr "Nouveaux produits de %s"
+
+#: Notified Date: %s<br/>
+msgid "Notified Date: %s<br/>"
+msgstr "Date notifiée : %s<br/>"
+
+#: Order # %s Notification(s)
+msgid "Order # %s Notification(s)"
+msgstr "Notification(s) de la commande n°%s"
+
+#: Order #%s created at %s
+msgid "Order #%s created at %s"
+msgstr "Commande n°%s créée le %s"
+
+#: Pending product review(s)
+msgid "Pending product review(s)"
+msgstr "Commentaire(s) de produit en attente"
+
+#: Product: \"%s\" review By: %s
+msgid "Product: \"%s\" review By: %s"
+msgstr "Produit : \"%s\" commentaire par : %s"
+
+#: Product: <a href=\"%s\">%s</a> <br/>
+msgid "Product: <a href=\"%s\">%s</a> <br/>"
+msgstr "Produit : <a href=\"%s\">%s</a> <br/>"
+
+#: Products tagged with %s
+msgid "Products tagged with %s"
+msgstr "Produits taggés avec %s"
+
+#: Purchased From: %s
+msgid "Purchased From: %s"
+msgstr "Commandé sur : %s"
+
+#: RSS
+msgid "RSS"
+msgstr "RSS"
+
+#: RSS Feeds
+msgid "RSS Feeds"
+msgstr "Flux RSS"
+
+#: RSS Feeds List
+msgid "RSS Feeds List"
+msgstr "Liste des flux RSS"
+
+#: Review: %s <br/>
+msgid "Review: %s <br/>"
+msgstr "Commentaire : %s <br/>"
+
+#: Rss Config
+msgid "Rss Config"
+msgstr "Configuration RSS"
+
+#: Rss Feeds Section
+msgid "Rss Feeds Section"
+msgstr "Section des flux RSS"
+
+#: Shipping &amp; Handling
+msgid "Shipping &amp; Handling"
+msgstr "Frais de port"
+
+#: Special Products
+msgid "Special Products"
+msgstr "Produits spéciaux"
+
+#: Store: %s <br/>
+msgid "Store: %s <br/>"
+msgstr "Magasin : %s <br/>"
+
+#: Subtotal
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: Summary of review: %s <br/>
+msgid "Summary of review: %s <br/>"
+msgstr "Résumé du commentaire : %s <br/>"
+
+#: Tags Products
+msgid "Tags Products"
+msgstr "Tags produits"
+
+#: Tax
+msgid "Tax"
+msgstr "TVA & autres taxes"
+
+#: There are no Rss Feeds
+msgid "There are no Rss Feeds"
+msgstr "Il n'y a pas de flux RSS"
+
+#: To:
+msgid "To:"
+msgstr "À :"
+
+#: Top Level Category
+msgid "Top Level Category"
+msgstr "Catégorie de niveau supérieur"
+
+#: Total: %s<br/>
+msgid "Total: %s<br/>"
+msgstr "Total : %s<br/>"
+
+#: Wishlist
+msgid "Wishlist"
+msgstr "Liste d'envies"
+
+#: click <a href=\"%s\">here</a> to view the review
+msgid "click <a href=\"%s\">here</a> to view the review"
+msgstr "cliquez <a href=\"%s\">ici</a> pour lire le commentaire"
+
+#: %s's Wishlist
+msgid "%s's Wishlist"
+msgstr "Liste d'envies de %s"
+

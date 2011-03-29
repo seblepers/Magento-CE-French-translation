@@ -1,0 +1,36 @@
+#: Enable Log Cleaning
+msgid "Enable Log Cleaning"
+msgstr "Activer le nettoyage de logs"
+
+#: Error Email Recipient
+msgid "Error Email Recipient"
+msgstr "Erreur de mail destinataire"
+
+#: Error Email Sender
+msgid "Error Email Sender"
+msgstr "Expéditeur du mail d'erreur"
+
+#: Error Email Template
+msgid "Error Email Template"
+msgstr "Gabarit du mail d'erreur"
+
+#: Frequency
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: Log Cleaning
+msgid "Log Cleaning"
+msgstr "Nettoyage de logs"
+
+#: Log cleanup Warnings
+msgid "Log cleanup Warnings"
+msgstr "Alertes de nettoyage de logs"
+
+#: Save Log, Days
+msgid "Save Log, Days"
+msgstr "Nombre de jours de sauvegarde des logs"
+
+#: Start Time
+msgid "Start Time"
+msgstr "Heure de début"
+

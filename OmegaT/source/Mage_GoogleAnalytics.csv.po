@@ -1,0 +1,16 @@
+#: Account Number
+msgid "Account Number"
+msgstr "Numéro de compte"
+
+#: Enable
+msgid "Enable"
+msgstr "Activer"
+
+#: Google API
+msgid "Google API"
+msgstr "API Google"
+
+#: Google Analytics
+msgid "Google Analytics"
+msgstr "Google Analytics"
+

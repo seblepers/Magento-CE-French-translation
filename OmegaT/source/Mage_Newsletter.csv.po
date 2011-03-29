@@ -1,0 +1,548 @@
+#:  Copy
+msgid " Copy"
+msgstr " Copie"
+
+#: Action
+msgid "Action"
+msgstr "Action"
+
+#: Add New Template
+msgid "Add New Template"
+msgstr "Ajouter un nouveau gabarit"
+
+#: Add to Queue
+msgid "Add to Queue"
+msgstr "Ajouter à la file"
+
+#: Allow Guest Subscription
+msgid "Allow Guest Subscription"
+msgstr "Autoriser l'inscription des invités"
+
+#: An error occurred while saving your subscription.
+msgid "An error occurred while saving your subscription."
+msgstr "Erreur lors de la sauvegarde de votre inscription."
+
+#: Are you sure that you want to delete this template?
+msgid "Are you sure that you want to delete this template?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?"
+
+#: Are you sure that you want to strip all tags?
+msgid "Are you sure that you want to strip all tags?"
+msgstr "Êtes-vous sûr(e) de vouloir supprimer tous les tags ?"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Cancelled
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: Cannot mark as received subscriber.
+msgid "Cannot mark as received subscriber."
+msgstr "Impossible de marquer en tant qu'inscrit reçu."
+
+#: Confirmation Email Sender
+msgid "Confirmation Email Sender"
+msgstr "Expéditeur du mail de confirmation"
+
+#: Confirmation Email Template
+msgid "Confirmation Email Template"
+msgstr "Gabarit du mail de confirmation"
+
+#: Confirmation request has been sent.
+msgid "Confirmation request has been sent."
+msgstr "La requête de confirmation a été envoyée."
+
+#: Convert to Plain Text
+msgid "Convert to Plain Text"
+msgstr "Convertir en texte simple"
+
+#: Create Newsletter Template
+msgid "Create Newsletter Template"
+msgstr "Créer un nouveau gabarit de newsletter"
+
+#: Customer
+msgid "Customer"
+msgstr "Client"
+
+#: Customer First Name
+msgid "Customer First Name"
+msgstr "Prénom du client"
+
+#: Customer Last Name
+msgid "Customer Last Name"
+msgstr "Nom de famille du client"
+
+#: Customer My Account Newsletter Subscriptions
+msgid "Customer My Account Newsletter Subscriptions"
+msgstr "Inscriptions à la newsletter du compte client"
+
+#: Date Added
+msgid "Date Added"
+msgstr "Date d'ajout"
+
+#: Date Updated
+msgid "Date Updated"
+msgstr "Date de mise à jour"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Delete Selected Problems
+msgid "Delete Selected Problems"
+msgstr "Supprimer les problèmes sélectionnés"
+
+#: Delete Template
+msgid "Delete Template"
+msgstr "Supprimer le gabarit"
+
+#: Do you really want to cancel the queue?
+msgid "Do you really want to cancel the queue?"
+msgstr "Voulez-vous vraiment supprimer la file ?"
+
+#: Duplicate template code.
+msgid "Duplicate template code."
+msgstr "Code de gabarit dupliqué."
+
+#: Edit Newsletter
+msgid "Edit Newsletter"
+msgstr "Éditer la newsletter"
+
+#: Edit Newsletter Template
+msgid "Edit Newsletter Template"
+msgstr "Éditer le gabarit de newsletter"
+
+#: Edit Queue
+msgid "Edit Queue"
+msgstr "Éditer file"
+
+#: Edit Template
+msgid "Edit Template"
+msgstr "Éditer le gabarit"
+
+#: Email
+msgid "Email"
+msgstr "Email"
+
+#: Enter your email address
+msgid "Enter your email address"
+msgstr "Saisissez votre email"
+
+#: Error Code
+msgid "Error Code"
+msgstr "Code d'erreur"
+
+#: Error Text
+msgid "Error Text"
+msgstr "Texte d'erreur"
+
+#: Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>
+msgid "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>"
+msgstr "Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>"
+
+#: Guest
+msgid "Guest"
+msgstr "Invité"
+
+#: ID
+msgid "ID"
+msgstr "ID"
+
+#: Invalid queue selected.
+msgid "Invalid queue selected."
+msgstr "File d'attente sélectionnée invalide."
+
+#: Invalid subscription ID.
+msgid "Invalid subscription ID."
+msgstr "Identifiant d'inscription invalide."
+
+#: Invalid subscription confirmation code.
+msgid "Invalid subscription confirmation code."
+msgstr "Code de confirmation d'inscription invalide."
+
+#: Message
+msgid "Message"
+msgstr "Message"
+
+#: Need to Confirm
+msgid "Need to Confirm"
+msgstr "Confirmation nécessaire"
+
+#: New Newsletter Template
+msgid "New Newsletter Template"
+msgstr "Nouveau gabarit de newsletter"
+
+#: New Template
+msgid "New Template"
+msgstr "Nouveau gabarit"
+
+#: Newsletter
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: Newsletter Message Preview
+msgid "Newsletter Message Preview"
+msgstr "Prévisualisation du message de la newsletter"
+
+#: Newsletter Problem Reports
+msgid "Newsletter Problem Reports"
+msgstr "Rapports des problèmes de newsletter"
+
+#: Newsletter Queue
+msgid "Newsletter Queue"
+msgstr "File d'attente newsletter"
+
+#: Newsletter Section
+msgid "Newsletter Section"
+msgstr "Section newsletter"
+
+#: Newsletter Sign-up:
+msgid "Newsletter Sign-up:"
+msgstr "Inscription à la newsletter :"
+
+#: Newsletter Styles
+msgid "Newsletter Styles"
+msgstr "Styles de newsletter"
+
+#: Newsletter Subscribers
+msgid "Newsletter Subscribers"
+msgstr "Abonnés à la newsletter"
+
+#: Newsletter Subscription
+msgid "Newsletter Subscription"
+msgstr "Abonnement à la newsletter"
+
+#: Newsletter Subscription Form Before
+msgid "Newsletter Subscription Form Before"
+msgstr "Avant le formulaire d'inscription de newsletter"
+
+#: Newsletter Subscriptions
+msgid "Newsletter Subscriptions"
+msgstr "Abonnements à la newsletter"
+
+#: Newsletter Templates
+msgid "Newsletter Templates"
+msgstr "Gabarits newsletter"
+
+#: Newsletter subscription confirmation
+msgid "Newsletter subscription confirmation"
+msgstr "Confirmation de l'abonnement à la newsletter"
+
+#: Newsletter subscription success
+msgid "Newsletter subscription success"
+msgstr "Abonnement à la newsletter réussi"
+
+#: Newsletter unsubscription success
+msgid "Newsletter unsubscription success"
+msgstr "Désabonnement de la newsletter réussi"
+
+#: No Templates Found
+msgid "No Templates Found"
+msgstr "Aucun gabarit trouvé"
+
+#: No problems found.
+msgid "No problems found."
+msgstr "Aucun problème rencontré."
+
+#: No subscribers selected.
+msgid "No subscribers selected."
+msgstr "Aucun inscrit sélectionné."
+
+#: Not Activated
+msgid "Not Activated"
+msgstr "Non activé"
+
+#: Not Sent
+msgid "Not Sent"
+msgstr "Pas envoyé"
+
+#: Pause
+msgid "Pause"
+msgstr "Pause"
+
+#: Paused
+msgid "Paused"
+msgstr "Arrêté"
+
+#: Please enter a valid email address.
+msgid "Please enter a valid email address."
+msgstr "Saisissez un email valide."
+
+#: Please enter new template name
+msgid "Please enter new template name"
+msgstr "Saisissez un nouveau nom de gabarit"
+
+#: Please select subscriber(s)
+msgid "Please select subscriber(s)"
+msgstr "Sélectionnez des abonnés"
+
+#: Preview
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: Preview Template
+msgid "Preview Template"
+msgstr "Prévisualiser le gabarit"
+
+#: Processed
+msgid "Processed"
+msgstr "Terminé"
+
+#: Queue Date Start
+msgid "Queue Date Start"
+msgstr "Date de démarrage de la file"
+
+#: Queue Finish
+msgid "Queue Finish"
+msgstr "Fin de la file"
+
+#: Queue Information
+msgid "Queue Information"
+msgstr "Informations de file"
+
+#: Queue Newsletter...
+msgid "Queue Newsletter..."
+msgstr "File de newsletter"
+
+#: Queue Start
+msgid "Queue Start"
+msgstr "Début de la file"
+
+#: Queue Subject
+msgid "Queue Subject"
+msgstr "Sujet de la file"
+
+#: Recipients
+msgid "Recipients"
+msgstr "Destinataires"
+
+#: Reset
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: Resume
+msgid "Resume"
+msgstr "Reprendre"
+
+#: Return HTML Version
+msgid "Return HTML Version"
+msgstr "Revenir à la version HTML"
+
+#: Save As
+msgid "Save As"
+msgstr "Sauvegarder sous"
+
+#: Save Newsletter
+msgid "Save Newsletter"
+msgstr "Sauvegarder la newsletter"
+
+#: Save Template
+msgid "Save Template"
+msgstr "Sauvegarder le gabarit"
+
+#: Save and Resume
+msgid "Save and Resume"
+msgstr "Sauvegarder et continuer"
+
+#: Selected problem subscribers have been unsubscribed.
+msgid "Selected problem subscribers have been unsubscribed."
+msgstr "Les inscrits qui posaient problème et qui étaient sélectionnés ont été désinscrits."
+
+#: Selected problems have been deleted.
+msgid "Selected problems have been deleted."
+msgstr "Les problèmes sélectionnés ont été supprimés."
+
+#: Sender
+msgid "Sender"
+msgstr "Expéditeur"
+
+#: Sender Email
+msgid "Sender Email"
+msgstr "Expéditeur de l'email"
+
+#: Sender Name
+msgid "Sender Name"
+msgstr "Nom de l'expéditeur"
+
+#: Sending
+msgid "Sending"
+msgstr "Envoi en cours"
+
+#: Sent
+msgid "Sent"
+msgstr "Envoyé"
+
+#: Sign Up for Our Newsletter:
+msgid "Sign Up for Our Newsletter:"
+msgstr "Inscription à notre newsletter :"
+
+#: Sign up for our newsletter
+msgid "Sign up for our newsletter"
+msgstr "Abonnez-vous à la newsletter"
+
+#: Sorry, but administrator denied subscription for guests. Please <a href=\"%s\">register</a>.
+msgid "Sorry, but administrator denied subscription for guests. Please <a href=\"%s\">register</a>."
+msgstr "L'inscription n'est pas autorisée aux invités. Veuillez <a href=\"%s\">créer un compte</a>."
+
+#: Start
+msgid "Start"
+msgstr "Commencer"
+
+#: Status
+msgid "Status"
+msgstr "Statut"
+
+#: Store
+msgid "Store"
+msgstr "Magasin"
+
+#: Store View
+msgid "Store View"
+msgstr "Vue magasin"
+
+#: Subject
+msgid "Subject"
+msgstr "Sujet"
+
+#: Submit
+msgid "Submit"
+msgstr "Valider"
+
+#: Subscribe
+msgid "Subscribe"
+msgstr "Inscription"
+
+#: Subscribed
+msgid "Subscribed"
+msgstr "Inscrit"
+
+#: Subscriber
+msgid "Subscriber"
+msgstr "Abonné"
+
+#: Subscribers
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: Subscribers From
+msgid "Subscribers From"
+msgstr "Abonnés de"
+
+#: Subscription Options
+msgid "Subscription Options"
+msgstr "Options d'inscription"
+
+#: Success Email Sender
+msgid "Success Email Sender"
+msgstr "Expéditeur du mail de succès"
+
+#: Success Email Template
+msgid "Success Email Template"
+msgstr "Gabarit du mail de succès"
+
+#: Template Content
+msgid "Template Content"
+msgstr "Contenu du gabarit"
+
+#: Template Information
+msgid "Template Information"
+msgstr "Informations gabarit"
+
+#: Template Name
+msgid "Template Name"
+msgstr "Nom du gabarit"
+
+#: Template Styles
+msgid "Template Styles"
+msgstr "Styles de gabarit"
+
+#: Template Subject
+msgid "Template Subject"
+msgstr "Sujet du gabarit"
+
+#: Template Type
+msgid "Template Type"
+msgstr "Type de gabarit"
+
+#: Thank you for your subscription.
+msgid "Thank you for your subscription."
+msgstr "Merci de votre inscription."
+
+#: The subscription has been removed.
+msgid "The subscription has been removed."
+msgstr "Vous n'êtes plus inscrit(e) à la newsletter."
+
+#: The subscription has been saved.
+msgid "The subscription has been saved."
+msgstr "Merci de vous être inscrit(e) à la newsletter."
+
+#: There was a problem with the subscription.
+msgid "There was a problem with the subscription."
+msgstr "Problème lors de l'inscription."
+
+#: There was a problem with the subscription: %s
+msgid "There was a problem with the subscription: %s"
+msgstr "Il y a eu un problème lors de l'inscription : %s"
+
+#: There was a problem with the un-subscription.
+msgid "There was a problem with the un-subscription."
+msgstr "Un problème est survenu lors de la désinscription"
+
+#: This email address is already assigned to another user.
+msgid "This email address is already assigned to another user."
+msgstr "Cet email est déjà assigné à un utilisateur."
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: Unconfirmed
+msgid "Unconfirmed"
+msgstr "Non confirmé"
+
+#: Unsubscribe
+msgid "Unsubscribe"
+msgstr "Désabonner"
+
+#: Unsubscribe Selected
+msgid "Unsubscribe Selected"
+msgstr "Désinscription sélectionnée"
+
+#: Unsubscribed
+msgid "Unsubscribed"
+msgstr "Désinscrit"
+
+#: Unsubscription Email Sender
+msgid "Unsubscription Email Sender"
+msgstr "Expéditeur du mail de désinscription"
+
+#: Unsubscription Email Template
+msgid "Unsubscription Email Template"
+msgstr "Gabarit du mail de désinscription"
+
+#: View Newsletter
+msgid "View Newsletter"
+msgstr "Voir la newsletter"
+
+#: Website
+msgid "Website"
+msgstr "Site web"
+
+#: You have been unsubscribed.
+msgid "You have been unsubscribed."
+msgstr "Vous n'êtes plus inscrit(e) à la newsletter."
+
+#: Your subscription has been confirmed.
+msgid "Your subscription has been confirmed."
+msgstr "Votre inscription a été confirmée."
+
+#: Copy
+msgid "Copy"
+msgstr "Copie"
+

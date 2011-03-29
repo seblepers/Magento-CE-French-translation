@@ -1,0 +1,43 @@
+<!--@subject Confirmation d'inscription à la newsletter @-->
+<!--@vars
+{"store url=\"\"":"Url de la boutique",
+"skin url=\"images/logo_email.gif\" _area='frontend'":"Logo de l'email",
+"htmlescape var=$customer.name":"Nom du client",
+"var subscriber.getConfirmationLink()":"Url de confirmation d'inscription"}
+@-->
+<!--@styles
+body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
+@-->
+
+<div style="font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;">
+    <table cellspacing="0" cellpadding="0" border="0" width="98%" style="margin-top:10px; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; margin-bottom:10px;">
+        <tr>
+            <td align="center" valign="top">
+                <!-- [ header starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                            <p><a href="{{store url=""}}" style="color:#1E7EC8;"><img src="{{skin url="images/logo_email.gif" _area='frontend'}}" alt="{{var store.getFrontendName()}}" border="0"/></a></p></td>
+                    </tr>
+                </table>
+
+                <!-- [ middle starts here] -->
+                <table cellspacing="0" cellpadding="0" border="0" width="650">
+                    <tr>
+                        <td valign="top">
+                            <p><strong>Cher {{htmlescape var=$customer.name}},</strong><br/>
+                            Nous vous remercions de votre inscription à notre newsletter.</p>
+                            <p style="border:1px solid #BEBCB7; padding:13px 18px; background:#F8F7F5; ">
+                            Pour commencer à recevoir la newsletter, vous devez d'abord confirmer votre inscription en cliquant sur le lien suivant :<br />
+                            <a href="{{var subscriber.getConfirmationLink()}}" style="color:#1E7EC8;">{{var subscriber.getConfirmationLink()}}</a><p>
+
+                            <p>Merci,<br/>
+							<strong>{{var store.getFrontendName()}}</strong></p>
+
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>

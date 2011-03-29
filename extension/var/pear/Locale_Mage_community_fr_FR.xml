@@ -1,0 +1,194 @@
+<_>
+   <form_key>Xro9AqPrqDV9Xv24</form_key>
+   <name>Locale_Mage_community_fr_FR</name>
+   <channel>connect.magentocommerce.com/community</channel>
+   <summary>Magento Community Modules - French (France) Language Pack </summary>
+   <description>Magento Community Modules - French (France) Language Pack
+
+Ce pack contient les fichiers de traductions française de Magento ainsi que les emails traduits.</description>
+   <license>AFL v3.0</license>
+   <license_uri>http://www.opensource.org/licenses/academic.php</license_uri>
+   <release_version>1.4.2.0</release_version>
+   <api_version>1.4.2.0</api_version>
+   <release_stability>stable</release_stability>
+   <api_stability>stable</api_stability>
+   <notes>v1.4.2.0 :
+ - Mise à jour pour Magento CE v1.4.2.0
+
+v1.4.1.1 :
+ - Correction du bug BO : produits téléchargeables.
+ - Correction du bug BO : Instance de widgets.
+
+v1.4.1.0 :
+ - Mise à jour pour Magento CE v1.4.1
+
+v1.4.0.0 :
+ - Mise à jour pour Magento CE v1.4
+
+v1.3.0.4 :
+ - Pas de modifications. Extension repackagée suite à des pbs sur Magento Connect
+
+v1.3.0.1 à v1.3.0.3 :
+ - Ajout de libellés manquants
+
+v1.3.0 :
+ - Mise à jour pour Magento v1.3.0
+ - Ajout de libellés manquants
+
+v1.2.0.2 :
+ - Correction de l&apos;erreur de manip de la v1.2.0.1.1. Retour à la v1.2.0.1.
+
+v1.2.0.1.1 :
+ - Erreur de publication à l&apos;aide des outils Varien
+
+v1.2.0.1 :
+ - Ajout de libellés manquants (merci à Arnaud)
+
+v1.2.0 :
+ - Ajout des nouveaux libellés de la v1.2.x de Magento (merci à Benoît et Kiwii)
+
+v1.1.7 :
+ - Correction d&apos;un libellé qui provoque une erreur javascript : &quot;Saisissez une liste d\&apos;adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com&quot;
+
+v1.1.6 :
+ - Mise à jour pour la v1.1.7
+ - Correction du bug des produits bundle et des options personnalisables.
+ - Ajout de la traduction de plusieurs termes non traduits auparavant
+
+v1.1.5 :
+ - Suppression d&apos;un fichier inutile.
+
+v1.1.4 :
+ - Mise à jour du libellé &quot;Quantité définie par l\&apos;utilisateur&quot; dans Mage_Bundle.csv qui cause un bug javascript.
+
+v1.1.3 :
+ - Attention, les emails contenus dans cette publication ne sont pas compatibles avec la version 1.0 de Magento.
+Les fichiers csv de traduction sont compatibles avec la v1.0.
+</notes>
+   <maintainers>
+      <role>
+         <role>lead</role>
+         <role>lead</role>
+      </role>
+      <name>
+         <name/>
+         <name>SeL</name>
+      </name>
+      <handle>
+         <handle/>
+         <handle>seb.lepers</handle>
+      </handle>
+      <email>
+         <email/>
+         <email>seb.lepers@gmail.com</email>
+      </email>
+      <active>
+         <active>0</active>
+         <active>1</active>
+      </active>
+   </maintainers>
+   <depends_php_min>5.2.0</depends_php_min>
+   <depends_php_max>6.0.0</depends_php_max>
+   <depends_php_recommended/>
+   <depends_php_exclude/>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <recommended>
+            <recommended/>
+         </recommended>
+         <exclude>
+            <exclude/>
+         </exclude>
+         <type>
+            <type>required</type>
+         </type>
+      </package>
+      <subpackage>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <recommended>
+            <recommended/>
+         </recommended>
+         <exclude>
+            <exclude/>
+         </exclude>
+         <type>
+            <type>required</type>
+         </type>
+      </subpackage>
+      <extension>
+         <name>
+            <name>PDO</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <recommended>
+            <recommended/>
+         </recommended>
+         <exclude>
+            <exclude/>
+         </exclude>
+         <type>
+            <type>required</type>
+         </type>
+      </extension>
+   </depends>
+   <contents>
+      <role>
+         <role>magelocal</role>
+         <role>magelocale</role>
+         <role>magedesign</role>
+         <role>magedesign</role>
+      </role>
+      <path>
+         <path/>
+         <path>fr_FR/</path>
+         <path>frontend/default/default/locale/fr_FR/translate.csv</path>
+         <path>adminhtml/default/default/locale/fr_FR/translate.csv</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore>/(spplus)|(owebia)/i</ignore>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>

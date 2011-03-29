@@ -1,0 +1,140 @@
+#: ALL
+msgid "ALL"
+msgstr "TOUTES"
+
+#: ANY
+msgid "ANY"
+msgstr "UNE OU PLUSIEURS DE"
+
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Apply
+msgid "Apply"
+msgstr "Appliquer"
+
+#: Conditions Combination
+msgid "Conditions Combination"
+msgstr "Combinaison de conditions"
+
+#: Description: %s
+msgid "Description: %s"
+msgstr "Description : %s"
+
+#: End Date should be greater than Start Date
+msgid "End Date should be greater than Start Date"
+msgstr "La date de fin devrait être postérieure à la date de début"
+
+#: Expire at: %s
+msgid "Expire at: %s"
+msgstr "Expire le : %s"
+
+#: FALSE
+msgid "FALSE"
+msgstr "FAUSSES"
+
+#: If %s of these conditions are %s:
+msgid "If %s of these conditions are %s:"
+msgstr "Si %s ces conditions sont %s :"
+
+#: Invalid discount amount.
+msgid "Invalid discount amount."
+msgstr "Montant de remise invalide."
+
+#: MATCHING ALL
+msgid "MATCHING ALL"
+msgstr "QUI VÉRIFIENT TOUTES"
+
+#: MATCHING ANY
+msgid "MATCHING ANY"
+msgstr "QUI VÉRIFIENT UNE DE"
+
+#: NOT MATCHING ALL
+msgid "NOT MATCHING ALL"
+msgstr "QUI NE VÉRIFIENT PAS TOUTES"
+
+#: NOT MATCHING ANY
+msgid "NOT MATCHING ANY"
+msgstr "QUI NE VÉRIFIENT PAS UNE DE"
+
+#: Name: %s
+msgid "Name: %s"
+msgstr "Nom : %s"
+
+#: Open Chooser
+msgid "Open Chooser"
+msgstr "Ouvrir le sélecteur"
+
+#: Perform following actions
+msgid "Perform following actions"
+msgstr "Effectuer les actions suivantes"
+
+#: Please choose a condition to add...
+msgid "Please choose a condition to add..."
+msgstr "Choisissez une condition à ajouter..."
+
+#: Please choose an action to add...
+msgid "Please choose an action to add..."
+msgstr "Choisissez une action à ajouter..."
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Start at: %s
+msgid "Start at: %s"
+msgstr "Débute le : %s"
+
+#: TRUE
+msgid "TRUE"
+msgstr "VRAIES"
+
+#: by
+msgid "by"
+msgstr "sur"
+
+#: contains
+msgid "contains"
+msgstr "contient"
+
+#: does not contain
+msgid "does not contain"
+msgstr "ne contient pas"
+
+#: equals or greater than
+msgid "equals or greater than"
+msgstr "est supérieur(e) ou égal(e) à"
+
+#: equals or less than
+msgid "equals or less than"
+msgstr "est inférieur(e) ou égal(e) à"
+
+#: greater than
+msgid "greater than"
+msgstr "est supérieur(e) à"
+
+#: is
+msgid "is"
+msgstr "est égal(e) à"
+
+#: is not
+msgid "is not"
+msgstr "est différent(e) de"
+
+#: is not one of
+msgid "is not one of"
+msgstr "ne fait pas partie de"
+
+#: is one of
+msgid "is one of"
+msgstr "fait partie de"
+
+#: less than
+msgid "less than"
+msgstr "est inférieur(e) à"
+
+#: to
+msgid "to"
+msgstr "à"
+
