@@ -1,9 +1,9 @@
-<!--@subject Take a look at {{var customer.name}}'s wishlist @-->
+<!--@subject Venez voir la liste d'envies de {{var customer.name}} @-->
 <!--@vars
-{"store url=\"\"":"Store Url",
-"skin url=\"images/logo_email.gif\" _area='frontend'":"Email Logo Image",
-"var message":"Wishlist Message",
-"var items":"Wishlist Items"}
+{"store url=\"\"":"Url de la boutique",
+"skin url=\"images/logo_email.gif\" _area='frontend'":"Logo de l'email",
+"var message":"Message de la liste d'envies",
+"var items":"Articles de la liste d'envies"}
 @-->
 <!--@styles
 body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif; }
@@ -24,16 +24,17 @@ body,td { color:#2f2f2f; font:11px/1.35em Verdana, Arial, Helvetica, sans-serif;
                 <!-- [ middle starts here] -->
                 <tr>
                     <td valign="top">
-                        <p style="font-size:12px; line-height:16px; margin:0 0 16px 0;">Hey,<br/>Take a look at my wishlist from {{var store.getFrontendName()}}.</p>
+                        <p style="font-size:12px; line-height:16px; margin:0 0 16px 0;">Bonjour,<br/>Viens voir ma liste d'envies sur la boutique {{var store.getFrontendName()}}.</p>
                         <p style="font-size:12px; line-height:16px; margin:0 0 16px 0;">{{var message}}</p>
                         {{var items}}
                         <br/>
-                        {{depend salable}}<p style="font-size:12px; line-height:16px; margin:0 0 8px 0;"><strong><a href="{{var addAllLink}}" style="color:#1E7EC8;">Add all items to shopping cart</a></strong> |{{/depend}} <strong><a href="{{var viewOnSiteLink}}" style="color:#1E7EC8;">View all wishlist items</a></strong></p>
+                        {{depend salable}}<p style="font-size:12px; line-height:16px; margin:0 0 8px 0;"><strong><a href="{{var addAllLink}}" style="color:#1E7EC8;">Ajouter tous les articles au panier</a></strong> |{{/depend}} <strong><a href="{{var viewOnSiteLink}}" style="color:#1E7EC8;">Voir tous les articles de la liste d'envies</a></strong></p>
                     </td>
                 </tr>
                 <tr>
-                    <td bgcolor="#EAEAEA" align="center" style="background:#EAEAEA; text-align:center;"><center><p style="font-size:12px; margin:0;">Thank you, <strong>{{htmlescape var=$customer.name}}</p></center></td>
-                </td>
+                    <td bgcolor="#EAEAEA" align="center" style="background:#EAEAEA; text-align:center;"><center>
+                      <p style="font-size:12px; margin:0;">Merci, <strong>{{htmlescape var=$customer.name}}</strong></p></center></td>
+                </tr>
             </table>
         </td>
     </tr>
