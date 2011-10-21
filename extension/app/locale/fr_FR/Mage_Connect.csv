@@ -57,3 +57,4 @@
 "Pre-1.5.0.0","Antérieur à 1.5.0.0"
 "Supported releases","Versions supportées"
 "Page","Page"
+"Invalid package name, allowed: [a-zA-Z0-9_-] chars","Nom de paquet invalide. Caractères autorisés : [a-zA-Z0-9_-]"

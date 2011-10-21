@@ -508,5 +508,5 @@ msgstr "Le profil de paiement est invalide :\\n%s"
 
 #: Payment profile is invalid:n%s
 msgid "Payment profile is invalid:n%s"
-msgstr ""
+msgstr "Le profil de paiement est invalide :\\n%s"
 

@@ -170,3 +170,11 @@ msgstr "Webservicex"
 msgid "Your current currency is: %s"
 msgstr "Votre devise actuelle est : %s"
 
+#: Country API
+msgid "Country API"
+msgstr ""
+
+#: Region API
+msgid "Region API"
+msgstr ""
+

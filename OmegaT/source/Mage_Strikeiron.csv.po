@@ -1,188 +1,188 @@
 #: %s is not a supported currency.
 msgid "%s is not a supported currency."
-msgstr ""
+msgstr "%s n'est pas une devise supportée."
 
 #: Accept
 msgid "Accept"
-msgstr ""
+msgstr "Accepter"
 
 #: Basic
 msgid "Basic"
-msgstr ""
+msgstr "Basique"
 
 #: Cannot retrieve rate from %s to %s.
 msgid "Cannot retrieve rate from %s to %s."
-msgstr ""
+msgstr "Impossible de récupérer le taux de %s vers %s."
 
 #: Cannot retrieve rate from Strikeiron.
 msgid "Cannot retrieve rate from Strikeiron."
-msgstr ""
+msgstr "Impossible de récupérer le taux sur Strikeiron."
 
 #: Check All Email Servers
 msgid "Check All Email Servers"
-msgstr ""
+msgstr "Vérifiez tous les serveurs email"
 
 #: Complete
 msgid "Complete"
-msgstr ""
+msgstr "Terminée"
 
 #: Country/Region/Postal Code Combination
 msgid "Country/Region/Postal Code Combination"
-msgstr ""
+msgstr "Combinaison de pays / région / code postal"
 
 #: Customer Tax Class
 msgid "Customer Tax Class"
-msgstr ""
+msgstr "Classe de taxe client"
 
 #: Email Verification
 msgid "Email Verification"
-msgstr ""
+msgstr "Vérification d'email"
 
 #: Enable Email Verification
 msgid "Enable Email Verification"
-msgstr ""
+msgstr "Activer la vérification d'email"
 
 #: Enable Foreign Exchange Rate
 msgid "Enable Foreign Exchange Rate"
-msgstr ""
+msgstr "Activer le taux de change"
 
 #: Enable Global Address Verification
 msgid "Enable Global Address Verification"
-msgstr ""
+msgstr "Activer la vérification d'adresse globale"
 
 #: Enable Sales and Use Tax
 msgid "Enable Sales and Use Tax"
-msgstr ""
+msgstr "Activer la taxe de ventes et d'utilisation"
 
 #: Enable US Address Verification
 msgid "Enable US Address Verification"
-msgstr ""
+msgstr "Activer la vérification d'adresse US"
 
 #: Error Address Action
 msgid "Error Address Action"
-msgstr ""
+msgstr "Action d'erreur d'adresse"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
-msgstr ""
+msgstr "Erreur de mail destinataire"
 
 #: Error Email Sender
 msgid "Error Email Sender"
-msgstr ""
+msgstr "Expéditeur du mail d'erreur"
 
 #: Error Email Template
 msgid "Error Email Template"
-msgstr ""
+msgstr "Gabarit du mail d'erreur"
 
 #: Foreign Exchange Rates
 msgid "Foreign Exchange Rates"
-msgstr ""
+msgstr "Taux de change"
 
 #: Global Address Verification
 msgid "Global Address Verification"
-msgstr ""
+msgstr "Vérification d'adresse globale"
 
 #: If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate.
 msgid "If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate."
-msgstr ""
+msgstr "Si le type est complet et que le code postal correspond à plusieurs taux de TVA, choisir d'appliquer le taux mini ou le taux maxi."
 
 #: Invalid email address.
 msgid "Invalid email address."
-msgstr ""
+msgstr "Email invalide."
 
 #: Maximum Tax Rate
 msgid "Maximum Tax Rate"
-msgstr ""
+msgstr "Taux de TVA maxi"
 
 #: Minimum Tax Rate
 msgid "Minimum Tax Rate"
-msgstr ""
+msgstr "Taux de TVA mini"
 
 #: Password
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: Pop up warning and accept
 msgid "Pop up warning and accept"
-msgstr ""
+msgstr "Alerter par une pop-up et accepter"
 
 #: Product Tax Class
 msgid "Product Tax Class"
-msgstr ""
+msgstr "Classes de taxe produit"
 
 #: Reject
 msgid "Reject"
-msgstr ""
+msgstr "Rejeter"
 
 #: Sales and Use Tax
 msgid "Sales and Use Tax"
-msgstr ""
+msgstr "Taxe de ventes et d'utilisation"
 
 #: Sales and Use Tax Type
 msgid "Sales and Use Tax Type"
-msgstr ""
+msgstr "Type de taxe de ventes et d'utilisation"
 
 #: Strikeiron
 msgid "Strikeiron"
-msgstr ""
+msgstr "Strikeiron"
 
 #: Strikeiron Config
 msgid "Strikeiron Config"
-msgstr ""
+msgstr "Configuration de Strikeiron"
 
 #: Strikeiron Section
 msgid "Strikeiron Section"
-msgstr ""
+msgstr "Section Strikeiron"
 
 #: Strikeiron foreign exchange rate is disabled.
 msgid "Strikeiron foreign exchange rate is disabled."
-msgstr ""
+msgstr "Le taux de change Strikeiron est désactivé."
 
 #: Tax
 msgid "Tax"
-msgstr ""
+msgstr "TVA & autres taxes"
 
 #: The email address cannot be verified. Please check again and make sure your email address is entered correctly.
 msgid "The email address cannot be verified. Please check again and make sure your email address is entered correctly."
-msgstr ""
+msgstr "L'adresse email ne peut pas être contrôlée. Vérifiez que vous l'avez saisie correctement."
 
 #: There are no more hits remaining for the foreign Exchange Rate Service.
 msgid "There are no more hits remaining for the foreign Exchange Rate Service."
-msgstr ""
+msgstr "Il ne reste plus de crédit pour le service de taux de change."
 
 #: There is an error in retrieving the tax rate. Please contact us.
 msgid "There is an error in retrieving the tax rate. Please contact us."
-msgstr ""
+msgstr "Une erreur est survenue lors de la récupération du taux de TVA. Merci de nous contacter."
 
 #: There is an error in verifying an email. Please contact us.
 msgid "There is an error in verifying an email. Please contact us."
-msgstr ""
+msgstr "Une erreur est survenue lors de la vérification d'email. Merci de nous contacter."
 
 #: There is no response back from Strikeiron server.
 msgid "There is no response back from Strikeiron server."
-msgstr ""
+msgstr "Aucune réponse du serveur Strikeiron."
 
 #: US Address Verification
 msgid "US Address Verification"
-msgstr ""
+msgstr "Vérification d'adresse US"
 
 #: Undetermined Email Action
 msgid "Undetermined Email Action"
-msgstr ""
+msgstr "Action d'email indéterminé"
 
 #: Use
 msgid "Use"
-msgstr ""
+msgstr "Utiliser"
 
 #: User ID
 msgid "User ID"
-msgstr ""
+msgstr "ID utilisateur"
 
 #: Verify Address in Admin
 msgid "Verify Address in Admin"
-msgstr ""
+msgstr "Vérifier l'adresse dans l'admin"
 
 #: Verify Email in Admin
 msgid "Verify Email in Admin"
-msgstr ""
+msgstr "Vérifier l'email dans l'admin"
 

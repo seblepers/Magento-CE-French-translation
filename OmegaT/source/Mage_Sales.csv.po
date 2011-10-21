@@ -3028,7 +3028,7 @@ msgstr "Information d'affectation"
 
 #: Changing address information will not recalculate shipping, tax or other order amount.
 msgid "Changing address information will not recalculate shipping, tax or other order amount."
-msgstr "Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montant de la commande."
+msgstr "Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montants de la commande."
 
 #: Configure
 msgid "Configure"
@@ -3217,4 +3217,16 @@ msgstr "Articles à facturer"
 #: Items to Invoice and Ship
 msgid "Items to Invoice and Ship"
 msgstr "Articles à facturer et expédier"
+
+#: IPN \"Refunded\". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: \"%s\"
+msgid "IPN \"Refunded\". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: \"%s\""
+msgstr ""
+
+#: Select
+msgid "Select"
+msgstr ""
+
+#: This product does not have any configurable options
+msgid "This product does not have any configurable options"
+msgstr ""
 

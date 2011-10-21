@@ -1,124 +1,124 @@
 #: AUTHENTICATE
 msgid "AUTHENTICATE"
-msgstr ""
+msgstr "AUTHENTIFIER"
 
 #: An error has occurred
 msgid "An error has occurred"
-msgstr ""
+msgstr "Une erreur est survenue"
 
 #: Click <a href=\"%s\">here</a> to continue shopping.
 msgid "Click <a href=\"%s\">here</a> to continue shopping."
-msgstr ""
+msgstr "Cliquez <a href=\"%s\">ici</a> pour continuer vos achats."
 
 #: Customer was redirected to Protx
 msgid "Customer was redirected to Protx"
-msgstr ""
+msgstr "Le client a été redirigé vers Protx"
 
 #: DEFERRED
 msgid "DEFERRED"
-msgstr ""
+msgstr "DIFFÉRÉ"
 
 #: Debug
 msgid "Debug"
-msgstr ""
+msgstr "Déboguage"
 
 #: Enabled
 msgid "Enabled"
-msgstr ""
+msgstr "Activé"
 
 #: General contact email will be used if left empty.
 msgid "General contact email will be used if left empty."
-msgstr ""
+msgstr "L'email de contact général sera utilisé si ce champ reste vide."
 
 #: Live
 msgid "Live"
-msgstr ""
+msgstr "En production"
 
 #: Mode
 msgid "Mode"
-msgstr ""
+msgstr "Mode"
 
 #: New Order Status
 msgid "New Order Status"
-msgstr ""
+msgstr "Statut d'une nouvelle commande"
 
 #: Order total amount does not match protx gross total amount
 msgid "Order total amount does not match protx gross total amount"
-msgstr ""
+msgstr "Le montant total de la commande ne correspond pas au montant total brut Protx"
 
 #: PAYMENT
 msgid "PAYMENT"
-msgstr ""
+msgstr "PAIEMENT"
 
 #: Payment Action
 msgid "Payment Action"
-msgstr ""
+msgstr "Action de paiement"
 
 #: Payment from Applicable Countries
 msgid "Payment from Applicable Countries"
-msgstr ""
+msgstr "Mode de paiement autorisé pour"
 
 #: Payment from Specific Countries
 msgid "Payment from Specific Countries"
-msgstr ""
+msgstr "Mode de paiement autorisé pour les pays spécifiques"
 
 #: Protx Standard
 msgid "Protx Standard"
-msgstr ""
+msgstr "Protx Standard"
 
 #: Simulator
 msgid "Simulator"
-msgstr ""
+msgstr "Simulateur"
 
 #: Sort Order
 msgid "Sort Order"
-msgstr ""
+msgstr "Ordre de tri"
 
 #: Store name will be used if left empty.
 msgid "Store name will be used if left empty."
-msgstr ""
+msgstr "Le nom de la boutique sera utilisé si ce champ reste vide."
 
 #: Test
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #: The customer has returned from Protx.
 msgid "The customer has returned from Protx."
-msgstr ""
+msgstr "Le client est revenu de Protx."
 
 #: The order %s was canceled by the customer.
 msgid "The order %s was canceled by the customer."
-msgstr ""
+msgstr "La commande a été annulée par le client."
 
 #: Title
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: Transaction Description
 msgid "Transaction Description"
-msgstr ""
+msgstr "Description de la transaction"
 
 #: Vendor Email
 msgid "Vendor Email"
-msgstr ""
+msgstr "Email du vendeur"
 
 #: Vendor Email Notification
 msgid "Vendor Email Notification"
-msgstr ""
+msgstr "Email du vendeur pour les notifications"
 
 #: Vendor Encrypted Password
 msgid "Vendor Encrypted Password"
-msgstr ""
+msgstr "Mot de passe crypté du vendeur"
 
 #: Vendor Name
 msgid "Vendor Name"
-msgstr ""
+msgstr "Nom du vendeur"
 
 #: You will be redirected to protx in a few seconds.
 msgid "You will be redirected to protx in a few seconds."
-msgstr ""
+msgstr "Vous serez redirigé vers le site de Protx dans quelques secondes."
 
 #: You will be redirected to the Protx website when you place an order.
 msgid "You will be redirected to the Protx website when you place an order."
-msgstr ""
+msgstr "Vous serez redirigé vers le site de Protx à l'issue de votre commande."
 

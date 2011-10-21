@@ -1092,7 +1092,7 @@ msgstr "Cliquez <a href=\"%s\" onclick=\"this.target=\\'_blank\\'\">ici pour imp
 
 #: Configure Cart Item
 msgid "Configure Cart Item"
-msgstr "Configurer l'article"
+msgstr "Configurer l\\'article"
 
 #: Create an order from shopping cart
 msgid "Create an order from shopping cart"
@@ -1228,5 +1228,29 @@ msgstr "Votre numéro de commande est"
 
 #: Separate by \",\".","Separate by "
 msgid "Separate by \",\".","Separate by ""
+msgstr "Séparer par \",\"."
+
+#: Add gift messages to shopping cart
+msgid "Add gift messages to shopping cart"
+msgstr ""
+
+#: Cart Product API
+msgid "Cart Product API"
+msgstr ""
+
+#: Gift Message
+msgid "Gift Message"
+msgstr ""
+
+#: One item of products do not have identifier or sku
+msgid "One item of products do not have identifier or sku"
+msgstr ""
+
+#: One item of products is not belong any of quote item
+msgid "One item of products is not belong any of quote item"
+msgstr ""
+
+#: Order place error.
+msgid "Order place error."
 msgstr ""
 

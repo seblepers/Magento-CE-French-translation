@@ -3,7 +3,7 @@
 <tmx version="1.1">
   <header
     creationtool="OmegaT"
-    creationtoolversion="2.2.3"
+    creationtoolversion="2.2.3_4"
     segtype="paragraph"
     o-tmf="OmegaT TMX"
     adminlang="EN-US"
@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&quot;Description&quot; is more than %d characters long</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170755Z" changeid="Seb">
+        <seg>La description fait plus de %d caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&quot;Title&quot; is more than %d characters long</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T101929Z" changeid="Seb">
@@ -374,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s API Key required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170811Z" changeid="Seb">
+        <seg>La clé d'API %s est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s Application ID required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170826Z" changeid="Seb">
+        <seg>L'ID d'application %s est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s Index process is working now. Please try run this process later.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -402,6 +426,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>%s Commentaire(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s Secret Key required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170843Z" changeid="Seb">
+        <seg>La clé secrète %s est obligatoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +702,86 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'%value%' appears to be a DNS hostname but cannot extract TLD part</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165123Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne peut pas être extraite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be a DNS hostname but cannot match TLD against known list</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165217Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165415Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais il est impossibile de faire correspondre le schéma de nom d'hôte au TLD '%tld%'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be a DNS hostname but contains a dash in an invalid position</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165501Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais elle contient un tiret à une position incorrecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165538Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais la notation punycode donnée ne peut pas être décodée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be a local network name but local network names are not allowed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165612Z" changeid="Seb">
+        <seg>'%value%' semble être un nom d'hôte de DNS, mais les noms de réseau local ne sont pas autorisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' appears to be an IP address, but IP addresses are not allowed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165658Z" changeid="Seb">
+        <seg>'%value%' semble être une adresse IP, mais celles-ci ne sont pas autorisées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' does not appear to be a valid URI hostname</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165855Z" changeid="Seb">
+        <seg>'%value%' n'est pas un nom d'hôte URI valide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' does not appear to be a valid local network name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165909Z" changeid="Seb">
+        <seg>'%value%' n'est pas un nom de réseau local valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%value%' does not match the expected structure for a DNS hostname</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165936Z" changeid="Seb">
+        <seg>'%value%' ne correspond pas à la structure attendue pour un nom d'hôte DNS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and not longer than %d.</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T153511Z" changeid="Seb">
@@ -718,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For Type &quot;Local Server&quot; need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162254Z" changeid="Seb">
+        <seg>(Pour le type &quot;Serveur local&quot;, il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For US 2-letter state names)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -730,6 +850,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>(Généré automatiquement si non renseigné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162538Z" changeid="Seb">
+        <seg>(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1850,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110112T091840Z" changeid="Seb">
         <seg>Paramètres d'API/intégration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ASCII</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162547Z" changeid="Seb">
+        <seg>ASCII</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +3054,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add gift message for shopping cart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170112Z" changeid="Seb">
+        <seg>Ajouter un message cadeau pour le panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add gift messages for quote item of shopping cart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170130Z" changeid="Seb">
+        <seg>Ajouter des messages cadeau pour un article du panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add gift messages to products of shopping cart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170149Z" changeid="Seb">
+        <seg>Ajouter des messages cadeau aux produits du panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add gift messages to shopping cart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163326Z" changeid="Seb">
+        <seg>Ajouter des messages cadeau au panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add gift options</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T142442Z" changeid="Seb">
@@ -3010,6 +3178,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ajouter à Google Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Order</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140918Z" changeid="Seb">
+        <seg>Ajouter à la commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Stores</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141139Z" changeid="Seb">
+        <seg>Tous les magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Tags</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3686,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All locations</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162553Z" changeid="Seb">
+        <seg>Tous les lieux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All packages were installed, click 'OK' to continue with installation.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3714,6 +3906,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Tous les taux ont été récupérés, cliquez sur &quot;Sauvegarder&quot; pour les appliquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All stores</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140844Z" changeid="Seb">
+        <seg>Tous les magasins</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +4066,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Autoriser la livraison à plusieurs adresses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Symlinks</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163900Z" changeid="Seb">
+        <seg>Autoriser les liens symboliques</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,10 +5294,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>App Background (landscape mode).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170851Z" changeid="Seb">
+        <seg>Arrière-plan de l'appli (mode paysage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>App Background (portrait mode)</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T150005Z" changeid="Seb">
         <seg>Arrière-plan de l'appli (mode portrait)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>App Background (portrait mode).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170859Z" changeid="Seb">
+        <seg>Arrière-plan de l'appli (mode portrait)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>App Background &lt;br /&gt;(landscape mode)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170926Z" changeid="Seb">
+        <seg>Arrière-plan de l'appli &lt;br/&gt;(mode paysage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>App Background &lt;br /&gt;(portrait mode)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170937Z" changeid="Seb">
+        <seg>Arrière-plan de l'appli &lt;br/&gt;(mode portrait)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>App Background image missing.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170957Z" changeid="Seb">
+        <seg>L'image d'arrière-plan de l'appli est manquante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5362,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T150017Z" changeid="Seb">
         <seg>Nom de l'appli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>App Stores</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171022Z" changeid="Seb">
+        <seg>App Stores</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,6 +5449,14 @@
         <seg>Appears in the info section of your app (example:  Copyright 2010 – Your Company, Inc.)</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T151128Z" changeid="Seb">
+        <seg>Apparaît dans la section infos de votre appli (par exemple : Copyright 2011 - Votre société)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171028Z" changeid="Seb">
         <seg>Apparaît dans la section infos de votre appli (par exemple : Copyright 2011 - Votre société)</seg>
       </tuv>
     </tu>
@@ -5382,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply coupon code</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140033Z" changeid="Seb">
+        <seg>Appliquer un bon de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply discount on price including tax is calculated based on store tax, if &quot;Apply Tax after Discount&quot; is selected.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5462,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are You Sure?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140645Z" changeid="Seb">
+        <seg>Êtes-vous sûr(e) ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure that you want to delete this template?</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110323T162738Z" changeid="Seb">
@@ -5498,6 +5778,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110323T163342Z" changeid="Seb">
         <seg>Êtes-vous sûr(e) de vouloir accepter ce paiement ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to cancel add this address?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141303Z" changeid="Seb">
+        <seg>Êtes-vous sûr(e) de vouloir annuler l'ajout de cette adresse ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5578,6 +5866,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110323T163351Z" changeid="Seb">
         <seg>Êtes-vous sûr(e) de vouloir refuser ce paiement ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to do it?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140915Z" changeid="Seb">
+        <seg>Êtes-vous sûr(e) de vouloir le faire ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5862,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assigned options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141101Z" changeid="Seb">
+        <seg>Options attribuées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assignment Information</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T093612Z" changeid="Seb">
@@ -5994,6 +6298,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Modèle d'attribut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140252Z" changeid="Seb">
+        <seg>Nom de l'attribut</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BINARY</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162556Z" changeid="Seb">
+        <seg>BINAIRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6686,6 +7006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backups Control</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141159Z" changeid="Seb">
+        <seg>Contrôle de sauvegardes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bad request.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6726,10 +7054,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Banner on Home Screen image missing.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171054Z" changeid="Seb">
+        <seg>L'image de bannière sur l'écran d'accueil est manquante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base Currency</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Devise de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170218Z" changeid="Seb">
+        <seg>La devise de base devrait être %s pour %s dans la configuration système. Sinon les prix ne seront pas corrects dans Google Base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,6 +7702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buyer country is not allowed by store.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171113Z" changeid="Seb">
+        <seg>Le pays de l'acheteur n'est pas autorisé par la boutique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Fixed Amount</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7430,10 +7782,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CC Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140138Z" changeid="Seb">
+        <seg>Numéro de carte bancaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CC Partial: xxxx-%s</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Carte de crédit (partiel) : xxxx-%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CC Type</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140109Z" changeid="Seb">
+        <seg>Type de carte bancaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,8 +7840,8 @@
       <tuv lang="EN-US">
         <seg>CMS Home Page</seg>
       </tuv>
-      <tuv lang="FR-FR" changedate="20110322T183437Z" changeid="Seb">
-        <seg>Page d'accueil CMS</seg>
+      <tuv lang="FR-FR" changedate="20110401T085114Z" changeid="Seb">
+        <seg>Page d\'accueil CMS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7630,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cache Lifetime (seconds)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171118Z" changeid="Seb">
+        <seg>Durée de vie du cache (secondes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cache Management</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7710,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can not create invoice. Order was not found.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163930Z" changeid="Seb">
+        <seg>Impossible de créer la facture. La commande n'a pas été trouvée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can not determine attribute filter type</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T142858Z" changeid="Seb">
@@ -7762,6 +8146,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T151816Z" changeid="Seb">
         <seg>Impossible d'appliquer le coupon de réduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't copy file &quot;%s&quot; to &quot;%s&quot;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171127Z" changeid="Seb">
+        <seg>Impossible de copier le fichier depuis &quot;%s&quot; vers &quot;%s&quot;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +9142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Card Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140714Z" changeid="Seb">
+        <seg>Numéro de carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Card Verification</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -8858,6 +9258,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Attribut d'article panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cart Product API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163333Z" changeid="Seb">
+        <seg>API de produit du panier</seg>
       </tuv>
     </tu>
     <tu>
@@ -9462,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centinel Custom API URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170249Z" changeid="Seb">
+        <seg>URL personnalisée de l'API de Centinel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Centinel Custom Api URL</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T145600Z" changeid="Seb">
@@ -9514,6 +9930,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Changer le mode d'indexation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Order Status</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140904Z" changeid="Seb">
+        <seg>Changer le statut de commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -9574,10 +9998,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes have been saved to theme.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162614Z" changeid="Seb">
+        <seg>Les modifications ont été enregistrées dans le thème.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing address information will not recalculate shipping, tax or other order amount.</seg>
       </tuv>
-      <tuv lang="FR-FR" changedate="20110322T093701Z" changeid="Seb">
-        <seg>Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montant de la commande.</seg>
+      <tuv lang="FR-FR" changedate="20110329T142129Z" changeid="Seb">
+        <seg>Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montants de la commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9858,6 +10290,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Transactions filles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Store</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135950Z" changeid="Seb">
+        <seg>Choisissez un magasin</seg>
       </tuv>
     </tu>
     <tu>
@@ -10528,8 +10968,8 @@
       <tuv lang="EN-US">
         <seg>Configure Cart Item</seg>
       </tuv>
-      <tuv lang="FR-FR" changedate="20110315T135448Z" changeid="Seb">
-        <seg>Configurer l'article</seg>
+      <tuv lang="FR-FR" changedate="20110401T085131Z" changeid="Seb">
+        <seg>Configurer l\'article</seg>
       </tuv>
     </tu>
     <tu>
@@ -10982,10 +11422,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copyright 2007</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140131Z" changeid="Seb">
+        <seg>Copyright 2007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright Page Logo</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T152541Z" changeid="Seb">
         <seg>Logo de la page de copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright Page Logo &lt;br /&gt;(iPhone 4 retina)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171159Z" changeid="Seb">
+        <seg>Logo de la page copyright &lt;br/&gt;(iPhone 4 retina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,6 +11494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Country API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170019Z" changeid="Seb">
+        <seg>API de pays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Country Api</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -11050,6 +11514,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La combinaison Pays et Type de format doit être unique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country options don't recognized for &quot;%s&quot;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171227Z" changeid="Seb">
+        <seg>Les options de pays ne sont pas reconnues pour &quot;%s&quot;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11718,6 +12190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credit Memo Date</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135913Z" changeid="Seb">
+        <seg>Date d'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credit Memo Email Sender</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -11942,6 +12422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Configuration Scope</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140849Z" changeid="Seb">
+        <seg>Portée de la configuration courante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Configuration Scope:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12014,6 +12502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Currently, PayPal MEP is not available for the Android application</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171257Z" changeid="Seb">
+        <seg>PayPal MEP n'est pas encore disponible pour les applications Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12034,6 +12530,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T152657Z" changeid="Seb">
         <seg>Icône d'appli personnalisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom App Icon &lt;br /&gt;(iPhone 4 retina)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171346Z" changeid="Seb">
+        <seg>Icône d'appli personnalisée &lt;br/&gt;(iPhone 4 retina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12198,6 +12702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165939Z" changeid="Seb">
+        <seg>API client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer Account Edit Form</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12242,6 +12754,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>API client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Balance</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140225Z" changeid="Seb">
+        <seg>Solde du client</seg>
       </tuv>
     </tu>
     <tu>
@@ -12670,6 +13190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer does not have any addresses</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140641Z" changeid="Seb">
+        <seg>Le client n'a aucune adresse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer email is required.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13086,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dashboard Control</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140835Z" changeid="Seb">
+        <seg>Tableau de bord de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Data Format</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13378,6 +13914,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Date de mise à jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date and Time</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140147Z" changeid="Seb">
+        <seg>Date et heure</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,6 +15038,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description that appears in Android Market. %s chars maximum.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171411Z" changeid="Seb">
+        <seg>Description qui apparaît dans l'Android Market. %s caractères maxi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description that appears in the iTunes App Store. %s chars maximum.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171423Z" changeid="Seb">
+        <seg>Description apparaissant dans l'App Store iTunes. %s caractères maximum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description that appears in the iTunes App Store. 4000 chars maximum.</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T160536Z" changeid="Seb">
@@ -14514,6 +15074,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110112T085517Z" changeid="Seb">
         <seg>Descriptions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deselect All</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162637Z" changeid="Seb">
+        <seg>Tout désélectionner</seg>
       </tuv>
     </tu>
     <tu>
@@ -14706,6 +15274,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T160622Z" changeid="Seb">
         <seg>Le terminal n'est pas reconnu : &quot;%s&quot;. Impossible de charger un helper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device doesn't recognized: &quot;%s&quot;. Unable to load preview model.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171449Z" changeid="Seb">
+        <seg>Terminal non reconnu : &quot;%s&quot;. Impossible de charger le modèle de prévisualisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16390,6 +16966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Facebook</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171456Z" changeid="Seb">
+        <seg>Activer Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Flat Rate</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -16426,6 +17010,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110328T205343Z" changeid="Seb">
         <seg>Activer la vérification d'adresse globale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable LinkedIn</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171505Z" changeid="Seb">
+        <seg>Activer LinkedIn</seg>
       </tuv>
     </tu>
     <tu>
@@ -16522,6 +17114,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Activer les conditions générales de vente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Twitter</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171511Z" changeid="Seb">
+        <seg>Activer Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -16838,6 +17438,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Environment Update Time</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163948Z" changeid="Seb">
+        <seg>Temps de mise à jour de l'environnement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162643Z" changeid="Seb">
+        <seg>Erreur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error #%s : %s (%s)</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T181015Z" changeid="Seb">
@@ -17002,6 +17618,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T160959Z" changeid="Seb">
         <seg>Erreur lors du traitement du fichier &quot;%s&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error while reading data from Payment Bridge. Please, try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171535Z" changeid="Seb">
+        <seg>Erreur lors de la lecture des données reçues du pont de paiement. Veuillez réessayer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17406,6 +18030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export to</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140242Z" changeid="Seb">
+        <seg>Exporter vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export to:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17654,6 +18286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facebook API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171541Z" changeid="Seb">
+        <seg>API Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facebook Application ID</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171552Z" changeid="Seb">
+        <seg>ID d'application Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17690,6 +18338,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de confirmer le compte client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to copy file %s. Please, delete media with non-existing images and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163234Z" changeid="Seb">
+        <seg>Impossible de copier le fichier %s. Veuillez effacer les media dont les images n'existent pas et réessayez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18102,6 +18758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File can't be uploaded.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171607Z" changeid="Seb">
+        <seg>Le fichier ne peut pas être chargé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File does not contain data. Please upload another one</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T143510Z" changeid="Seb">
@@ -18154,6 +18818,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T143651Z" changeid="Seb">
         <seg>Le fichier est valide, mais l'import est impossible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File mode</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162648Z" changeid="Seb">
+        <seg>Mode fichier</seg>
       </tuv>
     </tu>
     <tu>
@@ -18426,6 +19098,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110328T195033Z" changeid="Seb">
         <seg>Service web de paiement Flo2Cash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flurry API Code</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171610Z" changeid="Seb">
+        <seg>Code d'API Flurry</seg>
       </tuv>
     </tu>
     <tu>
@@ -19454,6 +20134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gift Certificate</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135926Z" changeid="Seb">
+        <seg>Chèque cadeau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gift Certificate Payment: purchase of Gift Certificate</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T150827Z" changeid="Seb">
@@ -19474,6 +20162,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Message du cadeau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Message API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170200Z" changeid="Seb">
+        <seg>API de messages cadeau</seg>
       </tuv>
     </tu>
     <tu>
@@ -20278,6 +20974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helper attributes should not be used in custom layout updates.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162806Z" changeid="Seb">
+        <seg>Les attributs de helper ne devraient pas être utilisés dans les mises à jour personnalisées de gabarits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helper for options rendering doesn't implement required interface.</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T130554Z" changeid="Seb">
@@ -20314,6 +21018,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Cacher les contenus du panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High Resolution Application Icon</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171623Z" changeid="Seb">
+        <seg>Icône d'appli haute résolution</seg>
       </tuv>
     </tu>
     <tu>
@@ -20542,6 +21254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPN &quot;Refunded&quot;. Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: &quot;%s&quot;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170729Z" changeid="Seb">
+        <seg>IPN &quot;Refunded&quot;. Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: &quot;%s&quot;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IPN (Instant Payment Notification) Only</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20554,6 +21274,30 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110328T203659Z" changeid="Seb">
         <seg>ITA (Italien)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171708Z" changeid="Seb">
+        <seg>Icône qui apparaîtra sur le terminal de l'utilisateur après le téléchargement de votre appli. Taille recommandée : 48px x 48px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171749Z" changeid="Seb">
+        <seg>Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 72 x 72 px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171812Z" changeid="Seb">
+        <seg>Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 114 x 114 px.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20790,6 +21534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not specify an option value for a store then the default value will be used.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135953Z" changeid="Seb">
+        <seg>Si vous ne souhaitez pas spécifier une valeur d'option pour un magasin, la valeur par défaut sera utilisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not wish or are not able to have Magento folders writeable for the web process, you could use PEAR executable located in the root of Magento installation.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20810,6 +21562,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si vous avez téléchargé complètement les paquets ou installé Magento via SVN, vous devez passer l'installation et la validation des paquets en cliquant sur le bouton suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T171948Z" changeid="Seb">
+        <seg>Si vous souhaitez désactiver le cache du côté de l'application, laissez le champ vide. Attention ! Lorsque le cache est désactivé, l'application mettra du temps à charger chaque page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20878,10 +21638,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image that appears on first screen while your app is loading. Required size: 1024px x 768px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172007Z" changeid="Seb">
+        <seg>Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 1024 x 768px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image that appears on first screen while your app is loading. Required size: 320px x 455px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172021Z" changeid="Seb">
+        <seg>Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 320 x 455px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image that appears on first screen while your app is loading. Required size: 320px x 460px.</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T163037Z" changeid="Seb">
         <seg>Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 320 x 460px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image that appears on first screen while your app is loading. Required size: 640px x 920px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172038Z" changeid="Seb">
+        <seg>Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 640 x 920px.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image that appears on first screen while your app is loading. Required size: 768px x 1024px.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172101Z" changeid="Seb">
+        <seg>Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 768 x 1024px.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21558,6 +22350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Input type &quot;%value%&quot; not found in the input types list.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164023Z" changeid="Seb">
+        <seg>Le type d'entrée &quot;%value%&quot; n'a pas été trouvé dans la liste des types d'entrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert File</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -21658,6 +22458,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nombre entier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integral Evolution</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170302Z" changeid="Seb">
+        <seg>Évolution intégrale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integral Evolution Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170335Z" changeid="Seb">
+        <seg>Paramètres de Évolution intégrale</seg>
       </tuv>
     </tu>
     <tu>
@@ -22446,6 +23262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid package name, allowed: [a-zA-Z0-9_-] chars</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T163314Z" changeid="Seb">
+        <seg>Nom de paquet invalide. Caractères autorisés : [a-zA-Z0-9_-]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid parameters</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T143838Z" changeid="Seb">
@@ -22630,6 +23454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid timezone</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162814Z" changeid="Seb">
+        <seg>Fuseau horaire invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid transaction ID.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22658,6 +23490,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110110T174119Z" changeid="Seb">
         <seg>Code d'email transactionnel invalide :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid type given. String expected</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170013Z" changeid="Seb">
+        <seg>Le type est incorrect. Une chaîne de caractères est attendue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22874,6 +23714,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>ID Facture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invoice Status</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140101Z" changeid="Seb">
+        <seg>Statut de facture</seg>
       </tuv>
     </tu>
     <tu>
@@ -23350,6 +24198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items that you don</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135907Z" changeid="Seb">
+        <seg>Articles que vous ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -23690,6 +24546,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Date de création de la dernière facture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last Log In:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141121Z" changeid="Seb">
+        <seg>Dernière connexion :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24182,6 +25046,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LinkedIn API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172109Z" changeid="Seb">
+        <seg>API LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LinkedIn API Key</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172118Z" changeid="Seb">
+        <seg>Clé d'API LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LinkedIn Secret Key</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172128Z" changeid="Seb">
+        <seg>Clé secrète de LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Links</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24350,6 +25238,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loader Splash Screen &lt;br /&gt;(iPhone 4 retina)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172204Z" changeid="Seb">
+        <seg>Écran de chargement &lt;br/&gt;(iPhone 4 retina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loader Splash Screen &lt;br /&gt;(landscape mode)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172221Z" changeid="Seb">
+        <seg>Écran de chargement &lt;br/&gt;(mode paysage)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loader Splash Screen &lt;br /&gt;(portrait mode)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T172231Z" changeid="Seb">
+        <seg>Écran de chargement &lt;br/&gt;(mode portrait)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Preview...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162829Z" changeid="Seb">
+        <seg>Prévisualisation en cours de chargement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading next step...</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24506,6 +25426,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Connecté sous &lt;strong&gt;%s&lt;/strong&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logged in as &lt;strong&gt;%s&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141135Z" changeid="Seb">
+        <seg>Connecté en tant que &lt;strong&gt;%s&lt;/strong&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24822,6 +25750,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magento Core API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163116Z" changeid="Seb">
+        <seg>API Core de Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magento Core API Section</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163121Z" changeid="Seb">
+        <seg>Section de l'API Core de Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magento Core Api</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -25114,6 +26058,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T165227Z" changeid="Seb">
         <seg>Gérer l'appli mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Options (values for your attribute)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140123Z" changeid="Seb">
+        <seg>Gérer les options (valeurs de vos attributs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25682,6 +26634,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Média (.avi, .flv, .swf)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media Gallery</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163527Z" changeid="Seb">
+        <seg>Galerie media</seg>
       </tuv>
     </tu>
     <tu>
@@ -26482,6 +27442,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ajouter à la &lt;br/&gt;liste d'envies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140855Z" changeid="Seb">
+        <seg>Déplacer vers :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28646,6 +29614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Charged Yet</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140444Z" changeid="Seb">
+        <seg>Pas encore encaissé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Compiled</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -29302,6 +30278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One item of products do not have identifier or sku</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163409Z" changeid="Seb">
+        <seg>Un produit n'a pas d'identifiant ou de sku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One item of products is not belong any of quote item</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163448Z" changeid="Seb">
+        <seg>Un produit n'appartient à aucun des éléments du devis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of PHP Extensions &quot;%s&quot; must be loaded.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -29490,6 +30482,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ouvrir les liens dans une nouvelle fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140116Z" changeid="Seb">
+        <seg>Option</seg>
       </tuv>
     </tu>
     <tu>
@@ -30038,6 +31038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order id cannot be null</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170039Z" changeid="Seb">
+        <seg>L'id de commande ne peut pas être null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order invoice</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -30054,6 +31062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order item id cannot be null</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170056Z" changeid="Seb">
+        <seg>L'id d'article de commande ne peut pas être null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order number will be used if left empty.</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110328T193531Z" changeid="Seb">
@@ -30066,6 +31082,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>L'objet commande n'est pas spécifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order place error.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163506Z" changeid="Seb">
+        <seg>Erreur lors de la création de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30418,6 +31442,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T121619Z" changeid="Seb">
         <seg>PM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PO Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140803Z" changeid="Seb">
+        <seg>Numéro de bon de commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -30798,6 +31830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pasarela integral</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170517Z" changeid="Seb">
+        <seg>Pasarela integral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pasarela integral Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170528Z" changeid="Seb">
+        <seg>Paramètres de Pasarela integral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passive mode</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -30898,6 +31946,38 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le chemin &quot;%s&quot; doit autoriser l'écriture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path &quot;%value%&quot; is not available and cannot be used.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164054Z" changeid="Seb">
+        <seg>Le chemin &quot;%value%&quot; n'est pas correct et ne peut pas être utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path &quot;%value%&quot; is protected and cannot be used.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164113Z" changeid="Seb">
+        <seg>Le chemin &quot;%value%&quot; est protégé et ne peut pas être utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path &quot;%value%&quot; may not include parent directory traversal (&quot;../&quot;, &quot;..\).&quot;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164526Z" changeid="Seb">
+        <seg>Le chemin &quot;%value%&quot; ne peut pas remonter vers le répertoire parent (&quot;../&quot;, &quot;..\&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Path &quot;%value%&quot; may not include parent directory traversal (&quot;../&quot;, &quot;..\).&quot;&quot;,&quot;Path &quot;%value%&quot; may not include parent directory traversal (&quot;../&quot;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164214Z" changeid="Seb">
+        <seg>Le chemin &quot;%value%&quot; ne peut pas inclure</seg>
       </tuv>
     </tu>
     <tu>
@@ -31026,6 +32106,22 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110322T170356Z" changeid="Seb">
         <seg>PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarqué sur mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Pro</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170534Z" changeid="Seb">
+        <seg>PayPal Pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Pro Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170544Z" changeid="Seb">
+        <seg>Paramètres de PayPal Pro</seg>
       </tuv>
     </tu>
     <tu>
@@ -32055,6 +33151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please Enter New Group Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141104Z" changeid="Seb">
+        <seg>Veuillez entrer un nouveau nom de groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please Select</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32107,6 +33211,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sélectionnez un magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please add one or more options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140815Z" changeid="Seb">
+        <seg>Ajoutez une ou plusieurs options</seg>
       </tuv>
     </tu>
     <tu>
@@ -32211,6 +33323,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Cliquez sur le bouton 'Fermer la fenêtre' si celle-ci ne se ferme pas automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please confirm site switching. All data not saved will be lost.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141224Z" changeid="Seb">
+        <seg>Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32467,6 +33587,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez saisir un numéro de vérification de carte bancaire valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid date between %s and %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164630Z" changeid="Seb">
+        <seg>Veuillez saisir une date valide entre %s et %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid date equal to or greater than %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164634Z" changeid="Seb">
+        <seg>Veuillez saisir une date valide égale ou supérieure à %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid date less than or equal to %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164653Z" changeid="Seb">
+        <seg>Veuillez saisir une date valide inférieure ou égale à %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -32895,6 +34039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please refer to exeption.log</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170235Z" changeid="Seb">
+        <seg>Veuillez consulter le fichier exception.log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please refresh &quot;Catalog URL Rewrites&quot; and &quot;Product Attributes&quot; in System -&gt; &lt;a href=&quot;%s&quot;&gt;Index Management&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -33011,6 +34163,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sélectionnez au moins un client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select from each ratings above</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141252Z" changeid="Seb">
+        <seg>Sélectionnez parmi les notations ci-dessus</seg>
       </tuv>
     </tu>
     <tu>
@@ -33171,6 +34331,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez renseigner tous les réglages obligatoires avant de poursuivre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please set available and/or protected paths list(s) before validation.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164828Z" changeid="Seb">
+        <seg>Veuillez renseigner correctement la liste des chemins avant validation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33919,6 +35087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previus page</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140039Z" changeid="Seb">
+        <seg>Page précédente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Price</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34043,6 +35219,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110112T085400Z" changeid="Seb">
         <seg>Prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary Billing Address</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140120Z" changeid="Seb">
+        <seg>Adresse de facturation principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -34467,6 +35651,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>API images de produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product In Stores</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140018Z" changeid="Seb">
+        <seg>Produit dans les magasins</seg>
       </tuv>
     </tu>
     <tu>
@@ -35311,6 +36503,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purchase order number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140142Z" changeid="Seb">
+        <seg>Numéro de bon de commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purchased At</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35431,6 +36631,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Qty Backordered</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141008Z" changeid="Seb">
+        <seg>Qté commandée en rupture de stock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Qty Cancelled</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140152Z" changeid="Seb">
+        <seg>Qté annulée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Qty Increments</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35455,6 +36671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Qty Returned</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135932Z" changeid="Seb">
+        <seg>Qté retournée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Qty Shipped</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35467,6 +36691,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110112T092326Z" changeid="Seb">
         <seg>Qté à ajouter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Qty To Return</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140339Z" changeid="Seb">
+        <seg>Qté à retourner</seg>
       </tuv>
     </tu>
     <tu>
@@ -35963,6 +37195,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom de notation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating Not Alvailable</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141042Z" changeid="Seb">
+        <seg>Notation non disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating Not Available</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135923Z" changeid="Seb">
+        <seg>Notation non disponible</seg>
       </tuv>
     </tu>
     <tu>
@@ -36599,6 +37847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170022Z" changeid="Seb">
+        <seg>API de région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Region Api</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37127,6 +38383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requested file may not include parent directory traversal (&quot;../&quot;, &quot;..\ notation)&quot;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164904Z" changeid="Seb">
+        <seg>Le chemin demandé ne peut pas remonter vers le répertoire parent (&quot;../&quot;, &quot;..\&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requested invalid store &quot;%s&quot;</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37227,6 +38491,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T132313Z" changeid="Seb">
         <seg>Réinitialisation effectuée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset theme to default</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162850Z" changeid="Seb">
+        <seg>Réinitialiser le thème par défaut</seg>
       </tuv>
     </tu>
     <tu>
@@ -38474,6 +39746,14 @@
         <seg>Same As Billing Address</seg>
       </tuv>
       <tuv lang="FR-FR">
+        <seg>Identique à l'adresse de facturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same as Billing Address</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140009Z" changeid="Seb">
         <seg>Identique à l'adresse de facturation</seg>
       </tuv>
     </tu>
@@ -39895,6 +41175,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send comment to customer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141147Z" changeid="Seb">
+        <seg>Envoyer le commentaire au client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send confirmation link</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -40135,6 +41423,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set as default billing address</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140002Z" changeid="Seb">
+        <seg>Définir comme adresse de facturation par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set as default shipping address</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140328Z" changeid="Seb">
+        <seg>Définir comme adresse de livraison par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set customer for shopping cart</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T140131Z" changeid="Seb">
@@ -40163,6 +41467,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T140157Z" changeid="Seb">
         <seg>Choisir le mode de paiement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set root category for this store in</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140710Z" changeid="Seb">
+        <seg>Renseignez la catégorie racine de ce magasin dans</seg>
       </tuv>
     </tu>
     <tu>
@@ -41807,6 +43119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something went wrong...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140051Z" changeid="Seb">
+        <seg>Un problème est survenu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, but administrator denied subscription for guests. Please &lt;a href=&quot;%s&quot;&gt;register&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -42951,6 +44271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subscribe to newsletter</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140818Z" changeid="Seb">
+        <seg>S'abonner à la newsletter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subscribed</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -43767,6 +45095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tax Rates Import / Export</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141058Z" changeid="Seb">
+        <seg>Import / export de taux de taxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tax Rule Information</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -43899,6 +45235,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Astuce chemin des gabarits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Template Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T164919Z" changeid="Seb">
+        <seg>Paramètres de gabarit</seg>
       </tuv>
     </tu>
     <tu>
@@ -45855,6 +47199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The profile you are trying to save no longer exists</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162908Z" changeid="Seb">
+        <seg>Le profil que vous êtes en train d'essayer de sauvegarder n'existe plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rating has been deleted.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46371,6 +47723,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T113544Z" changeid="Seb">
         <seg>Flux TheFind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Theme configurations are successfully reset.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162929Z" changeid="Seb">
+        <seg>Les configurations du thème ont bien été réinitialisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47103,9 +48463,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This group contains system attributes.
+Please, move system attributes to another group and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140629Z" changeid="Seb">
+        <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This group contains system attributes. Please move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
+        <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This group contains system attributes.nPlease, move system attributes to another group and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140450Z" changeid="Seb">
         <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
       </tuv>
     </tu>
@@ -47203,6 +48580,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Cette page n'existe plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product does not have any configurable options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170739Z" changeid="Seb">
+        <seg>Ce produit n'a aucune option configurable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47363,6 +48748,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Cette vue magasin ne peut pas être effacée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This tab contains invalid data. Please correct before saving.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140218Z" changeid="Seb">
+        <seg>Cet onglet contient des données invalides. Corrigez-les avant de sauvegarder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47839,6 +49232,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total &lt;strong&gt;%d&lt;/strong&gt; records found</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140323Z" changeid="Seb">
+        <seg>&lt;strong&gt;%d&lt;/strong&gt; enregistrement(s) trouvé(s) au total</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Amount</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47946,6 +49347,14 @@
         <seg>Total Paid</seg>
       </tuv>
       <tuv lang="FR-FR">
+        <seg>Total payé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Total Payed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140508Z" changeid="Seb">
         <seg>Total payé</seg>
       </tuv>
     </tu>
@@ -49095,6 +50504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to complete request. Please, try again later.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140512Z" changeid="Seb">
+        <seg>Impossible de terminer la requête. Veuillez réessayer ultérieurement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to complete this request.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50095,6 +51512,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update Qty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140238Z" changeid="Seb">
+        <seg>Mettre à jour la quantité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Qty &amp;amp; Addresses</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50967,6 +52392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User roles</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141309Z" changeid="Seb">
+        <seg>Rôles utilisateurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User-initiated Currency Conversion</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -51647,6 +53080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Visitors</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T135936Z" changeid="Seb">
+        <seg>Visiteurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visitors Only</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -51711,6 +53152,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WS-I Compliance</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163135Z" changeid="Seb">
+        <seg>Compatibilité WS-I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WYSIWYG Editor</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -51751,6 +53200,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T165019Z" changeid="Seb">
+        <seg>Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning!\r
 This action will remove this user from already assigned role\r
 Are you sure?</seg>
@@ -51771,11 +53228,35 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning!rnThis action will remove this user from already assigned rolernAre you sure?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162956Z" changeid="Seb">
+        <seg>Attention !\r\nCette action supprimera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T162959Z" changeid="Seb">
+        <seg>jj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning: All related AirMail messages will be deteted!
  Are you sure you want to do this?</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110315T133441Z" changeid="Seb">
         <seg>Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163025Z" changeid="Seb">
+        <seg>**Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -52004,6 +53485,22 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Website Payments Plus</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170555Z" changeid="Seb">
+        <seg>Website Payments Plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website Payments Plus Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170600Z" changeid="Seb">
+        <seg>Paramètres de Website Payments Plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Website Payments Pro</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -52016,6 +53513,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Website Payments Pro (Edition Payflow) Paramètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Website Payments Pro Hosted Solution</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T170622Z" changeid="Seb">
+        <seg>Solution hébergée Website Payments Pro</seg>
       </tuv>
     </tu>
     <tu>
@@ -52292,6 +53797,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Who</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141031Z" changeid="Seb">
+        <seg>Qui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Widget</seg>
       </tuv>
       <tuv lang="FR-FR" changedate="20110111T154106Z" changeid="Seb">
@@ -52472,6 +53985,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Liste d'envies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140031Z" changeid="Seb">
+        <seg>En cours de traitement...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52876,6 +54397,22 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>XML data is invalid.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163034Z" changeid="Seb">
+        <seg>Les données XML sont invalides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>XML object is not instance of &quot;Varien_Simplexml_Element&quot;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110513T163108Z" changeid="Seb">
+        <seg>L'objet XML n'est pas une instance de &quot;Varien_Simplexml_Element&quot;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>YTD</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -53072,6 +54609,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'ensemble de la commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can not remove system attribute from this set.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T141026Z" changeid="Seb">
+        <seg>Vous ne pouvez pas retirer un attribut système de ce jeu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54148,6 +55693,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>configuration</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140248Z" changeid="Seb">
+        <seg>configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contact us</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -54160,6 +55713,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>contient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copy data from</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140503Z" changeid="Seb">
+        <seg>copier les données depuis</seg>
       </tuv>
     </tu>
     <tu>
@@ -54520,6 +56081,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>annonce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20110329T140332Z" changeid="Seb">
+        <seg>de</seg>
       </tuv>
     </tu>
     <tu>

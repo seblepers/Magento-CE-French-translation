@@ -1816,11 +1816,11 @@ msgstr "Laissez vide pour utiliser l'identifiant de TVA"
 
 #: Lifetime Sales
 msgid "Lifetime Sales"
-msgstr "Total des ventes"
+msgstr "Ventes depuis le début"
 
 #: Lifetime statistics have been updated.
 msgid "Lifetime statistics have been updated."
-msgstr "Les statistiques de durée de vie ont été mises à jour."
+msgstr "Les statistiques depuis le début ont été mises à jour."
 
 #: Links
 msgid "Links"
@@ -5064,5 +5064,81 @@ msgstr "PayPal"
 
 #: note that the URLs provided below are the correct values for your current website):
 msgid "note that the URLs provided below are the correct values for your current website):"
+msgstr " les URLs fournies ci-dessous sont les valeurs correctes pour votre site web actuel) :"
+
+#: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
+msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
+msgstr ""
+
+#: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
+msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
+msgstr ""
+
+#: (\t for tab)
+msgid "(\t for tab)"
+msgstr ""
+
+#: ASCII
+msgid "ASCII"
+msgstr ""
+
+#: All locations
+msgid "All locations"
+msgstr ""
+
+#: BINARY
+msgid "BINARY"
+msgstr ""
+
+#: Changes have been saved to theme.
+msgid "Changes have been saved to theme."
+msgstr ""
+
+#: Deselect All
+msgid "Deselect All"
+msgstr ""
+
+#: Error
+msgid "Error"
+msgstr ""
+
+#: File mode
+msgid "File mode"
+msgstr ""
+
+#: Helper attributes should not be used in custom layout updates.
+msgid "Helper attributes should not be used in custom layout updates."
+msgstr ""
+
+#: Invalid timezone
+msgid "Invalid timezone"
+msgstr ""
+
+#: Loading Preview...
+msgid "Loading Preview..."
+msgstr ""
+
+#: Order
+msgid "Order"
+msgstr ""
+
+#: Reset theme to default
+msgid "Reset theme to default"
+msgstr ""
+
+#: The profile you are trying to save no longer exists
+msgid "The profile you are trying to save no longer exists"
+msgstr ""
+
+#: Theme configurations are successfully reset.
+msgid "Theme configurations are successfully reset."
+msgstr ""
+
+#: XML data is invalid.
+msgid "XML data is invalid."
+msgstr ""
+
+#: XML object is not instance of \"Varien_Simplexml_Element\".
+msgid "XML object is not instance of \"Varien_Simplexml_Element\"."
 msgstr ""
 

@@ -1486,3 +1486,63 @@ msgstr "Mauvais format d'informations de fichier"
 msgid "database \"%s\""
 msgstr "Base de donnée \"%s\""
 
+#: Allow Symlinks
+msgid "Allow Symlinks"
+msgstr ""
+
+#: Can not create invoice. Order was not found.
+msgid "Can not create invoice. Order was not found."
+msgstr ""
+
+#: Environment Update Time
+msgid "Environment Update Time"
+msgstr ""
+
+#: Input type \"%value%\" not found in the input types list.
+msgid "Input type \"%value%\" not found in the input types list."
+msgstr ""
+
+#: Path \"%value%\" is not available and cannot be used.
+msgid "Path \"%value%\" is not available and cannot be used."
+msgstr ""
+
+#: Path \"%value%\" is protected and cannot be used.
+msgid "Path \"%value%\" is protected and cannot be used."
+msgstr ""
+
+#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"
+msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
+msgstr ""
+
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
+msgstr ""
+
+#: Please enter a valid date between %s and %s
+msgid "Please enter a valid date between %s and %s"
+msgstr ""
+
+#: Please enter a valid date equal to or greater than %s
+msgid "Please enter a valid date equal to or greater than %s"
+msgstr ""
+
+#: Please enter a valid date less than or equal to %s
+msgid "Please enter a valid date less than or equal to %s"
+msgstr ""
+
+#: Please set available and/or protected paths list(s) before validation.
+msgid "Please set available and/or protected paths list(s) before validation."
+msgstr ""
+
+#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"
+msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
+msgstr ""
+
+#: Template Settings
+msgid "Template Settings"
+msgstr ""
+
+#: Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.
+msgid "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk."
+msgstr ""
+

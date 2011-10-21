@@ -1680,5 +1680,45 @@ msgstr "URL de retour : "
 
 #: Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal"
 msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal""
+msgstr "sValeurs acceptées : \"paypal\", \"primary\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
+
+#: Centinel Custom API URL
+msgid "Centinel Custom API URL"
+msgstr ""
+
+#: Integral Evolution
+msgid "Integral Evolution"
+msgstr ""
+
+#: Integral Evolution Settings
+msgid "Integral Evolution Settings"
+msgstr ""
+
+#: Pasarela integral
+msgid "Pasarela integral"
+msgstr ""
+
+#: Pasarela integral Settings
+msgid "Pasarela integral Settings"
+msgstr ""
+
+#: PayPal Pro
+msgid "PayPal Pro"
+msgstr ""
+
+#: PayPal Pro Settings
+msgid "PayPal Pro Settings"
+msgstr ""
+
+#: Website Payments Plus
+msgid "Website Payments Plus"
+msgstr ""
+
+#: Website Payments Plus Settings
+msgid "Website Payments Plus Settings"
+msgstr ""
+
+#: Website Payments Pro Hosted Solution
+msgid "Website Payments Pro Hosted Solution"
 msgstr ""
 

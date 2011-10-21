@@ -546,3 +546,7 @@ msgstr "Votre inscription a été confirmée."
 msgid "Copy"
 msgstr "Copie"
 
+#: Please refer to exeption.log
+msgid "Please refer to exeption.log"
+msgstr ""
+

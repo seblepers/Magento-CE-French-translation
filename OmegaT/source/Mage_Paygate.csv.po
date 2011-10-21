@@ -274,3 +274,7 @@ msgstr "réussi"
 msgid "void"
 msgstr "invalider"
 
+#: Centinel API URL
+msgid "Centinel API URL"
+msgstr ""
+

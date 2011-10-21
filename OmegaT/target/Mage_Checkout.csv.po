@@ -1092,7 +1092,7 @@ msgstr "Cliquez <a href=\"%s\" onclick=\"this.target=\\'_blank\\'\">ici pour imp
 
 #: Configure Cart Item
 msgid "Configure Cart Item"
-msgstr "Configurer l'article"
+msgstr "Configurer l\\'article"
 
 #: Create an order from shopping cart
 msgid "Create an order from shopping cart"

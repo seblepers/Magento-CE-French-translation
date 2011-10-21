@@ -1911,17 +1911,321 @@ msgstr "économisez"
 
 #: Page
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 #: To activate PayPal MEP payment method activate Express checkout first. 
 msgid "To activate PayPal MEP payment method activate Express checkout first. "
-msgstr ""
+msgstr "Pour activer le mode de paiement PayPal MEP, vous devez d'abord activer Express checkout. "
 
 #: (Testing) Plain Black
 msgid "(Testing) Plain Black"
-msgstr ""
+msgstr "Noir plein (test)"
 
 #: Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed.","Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif"
 msgid "Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif\", \"png\" are allowed.","Error while uploading file \"%s\". Disallowed file type. Only \"jpg\", \"jpeg\", \"gif""
+msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisé. Seules les extensions \"jpg\", \"jpeg\", \"gif\" et \"png\" sont autorisées."
+
+#: \"Description\" is more than %d characters long
+msgid "\"Description\" is more than %d characters long"
+msgstr ""
+
+#: %s API Key required.
+msgid "%s API Key required."
+msgstr ""
+
+#: %s Application ID required.
+msgid "%s Application ID required."
+msgstr ""
+
+#: %s Secret Key required.
+msgid "%s Secret Key required."
+msgstr ""
+
+#: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
+msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
+msgstr ""
+
+#: All locations
+msgid "All locations"
+msgstr ""
+
+#: App Background (landscape mode).
+msgid "App Background (landscape mode)."
+msgstr ""
+
+#: App Background (portrait mode).
+msgid "App Background (portrait mode)."
+msgstr ""
+
+#: App Background <br />(landscape mode)
+msgid "App Background <br />(landscape mode)"
+msgstr ""
+
+#: App Background <br />(portrait mode)
+msgid "App Background <br />(portrait mode)"
+msgstr ""
+
+#: App Background image missing.
+msgid "App Background image missing."
+msgstr ""
+
+#: App Stores
+msgid "App Stores"
+msgstr ""
+
+#: Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)
+msgid "Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)"
+msgstr ""
+
+#: Banner on Home Screen image missing.
+msgid "Banner on Home Screen image missing."
+msgstr ""
+
+#: Buyer country is not allowed by store.
+msgid "Buyer country is not allowed by store."
+msgstr ""
+
+#: Cache Lifetime (seconds)
+msgid "Cache Lifetime (seconds)"
+msgstr ""
+
+#: Cache Management
+msgid "Cache Management"
+msgstr ""
+
+#: Can't copy file \"%s\" to \"%s\".
+msgid "Can't copy file \"%s\" to \"%s\"."
+msgstr ""
+
+#: Changes have been saved to theme.
+msgid "Changes have been saved to theme."
+msgstr ""
+
+#: Copyright Page Logo <br />(iPhone 4 retina)
+msgid "Copyright Page Logo <br />(iPhone 4 retina)"
+msgstr ""
+
+#: Country options don't recognized for \"%s\".
+msgid "Country options don't recognized for \"%s\"."
+msgstr ""
+
+#: Currently, PayPal MEP is not available for the Android application
+msgid "Currently, PayPal MEP is not available for the Android application"
+msgstr ""
+
+#: Custom App Icon <br />(iPhone 4 retina)
+msgid "Custom App Icon <br />(iPhone 4 retina)"
+msgstr ""
+
+#: Description that appears in Android Market. %s chars maximum.
+msgid "Description that appears in Android Market. %s chars maximum."
+msgstr ""
+
+#: Description that appears in the iTunes App Store. %s chars maximum.
+msgid "Description that appears in the iTunes App Store. %s chars maximum."
+msgstr ""
+
+#: Deselect All
+msgid "Deselect All"
+msgstr ""
+
+#: Device doesn't recognized: \"%s\". Unable to load preview model.
+msgid "Device doesn't recognized: \"%s\". Unable to load preview model."
+msgstr ""
+
+#: Enable Facebook
+msgid "Enable Facebook"
+msgstr ""
+
+#: Enable LinkedIn
+msgid "Enable LinkedIn"
+msgstr ""
+
+#: Enable Twitter
+msgid "Enable Twitter"
+msgstr ""
+
+#: Error while reading data from Payment Bridge. Please, try again.
+msgid "Error while reading data from Payment Bridge. Please, try again."
+msgstr ""
+
+#: Facebook API
+msgid "Facebook API"
+msgstr ""
+
+#: Facebook Application ID
+msgid "Facebook Application ID"
+msgstr ""
+
+#: File can't be uploaded.
+msgid "File can't be uploaded."
+msgstr ""
+
+#: Flurry API Code
+msgid "Flurry API Code"
+msgstr ""
+
+#: High Resolution Application Icon
+msgid "High Resolution Application Icon"
+msgstr ""
+
+#: Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px.
+msgid "Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px."
+msgstr ""
+
+#: Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.
+msgid "Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px."
+msgstr ""
+
+#: Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.
+msgid "Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px."
+msgstr ""
+
+#: If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.
+msgid "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page."
+msgstr ""
+
+#: Image that appears on first screen while your app is loading. Required size: 1024px x 768px.
+msgid "Image that appears on first screen while your app is loading. Required size: 1024px x 768px."
+msgstr ""
+
+#: Image that appears on first screen while your app is loading. Required size: 320px x 455px.
+msgid "Image that appears on first screen while your app is loading. Required size: 320px x 455px."
+msgstr ""
+
+#: Image that appears on first screen while your app is loading. Required size: 640px x 920px.
+msgid "Image that appears on first screen while your app is loading. Required size: 640px x 920px."
+msgstr ""
+
+#: Image that appears on first screen while your app is loading. Required size: 768px x 1024px.
+msgid "Image that appears on first screen while your app is loading. Required size: 768px x 1024px."
+msgstr ""
+
+#: LinkedIn API
+msgid "LinkedIn API"
+msgstr ""
+
+#: LinkedIn API Key
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: LinkedIn Secret Key
+msgid "LinkedIn Secret Key"
+msgstr ""
+
+#: Loader Splash Screen <br />(iPhone 4 retina)
+msgid "Loader Splash Screen <br />(iPhone 4 retina)"
+msgstr ""
+
+#: Loader Splash Screen <br />(landscape mode)
+msgid "Loader Splash Screen <br />(landscape mode)"
+msgstr ""
+
+#: Loader Splash Screen <br />(portrait mode)
+msgid "Loader Splash Screen <br />(portrait mode)"
+msgstr ""
+
+#: Loading Preview...
+msgid "Loading Preview..."
+msgstr ""
+
+#: Locations
+msgid "Locations"
+msgstr ""
+
+#: Logo in Header image missing.
+msgid "Logo in Header image missing."
+msgstr ""
+
+#: Message can be edited when status of the message is \"IN QUEUE\" only.
+msgid "Message can be edited when status of the message is \"IN QUEUE\" only."
+msgstr ""
+
+#: Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.
+msgid "Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max."
+msgstr ""
+
+#: Nickname
+msgid "Nickname"
+msgstr ""
+
+#: Notice
+msgid "Notice"
+msgstr ""
+
+#: One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.
+msgid "One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
+msgstr ""
+
+#: Only registered users can write reviews. Please, log in or register.
+msgid "Only registered users can write reviews. Please, log in or register."
+msgstr ""
+
+#: Payment Bridge module unavailable.
+msgid "Payment Bridge module unavailable."
+msgstr ""
+
+#: Please enter the Description.
+msgid "Please enter the Description."
+msgstr ""
+
+#: Recipient Information
+msgid "Recipient Information"
+msgstr ""
+
+#: Reset theme to default
+msgid "Reset theme to default"
+msgstr ""
+
+#: Review
+msgid "Review"
+msgstr ""
+
+#: Select All
+msgid "Select All"
+msgstr ""
+
+#: Sender Information
+msgid "Sender Information"
+msgstr ""
+
+#: Social Networking
+msgid "Social Networking"
+msgstr ""
+
+#: Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.
+msgid "Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px."
+msgstr ""
+
+#: Summary of Your Review
+msgid "Summary of Your Review"
+msgstr ""
+
+#: The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.
+msgid "The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB."
+msgstr ""
+
+#: Theme configurations are successfully reset.
+msgid "Theme configurations are successfully reset."
+msgstr ""
+
+#: Twitter API
+msgid "Twitter API"
+msgstr ""
+
+#: Twitter API Key
+msgid "Twitter API Key"
+msgstr ""
+
+#: Twitter Secret Key
+msgid "Twitter Secret Key"
+msgstr ""
+
+#: Unable to post the review.
+msgid "Unable to post the review."
+msgstr ""
+
+#: Your review has been accepted for moderation.
+msgid "Your review has been accepted for moderation."
 msgstr ""
 

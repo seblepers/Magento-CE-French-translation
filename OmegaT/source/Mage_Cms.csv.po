@@ -68,7 +68,7 @@ msgstr "Conteneur de contenu CMS"
 
 #: CMS Home Page
 msgid "CMS Home Page"
-msgstr "Page d'accueil CMS"
+msgstr "Page d\\'accueil CMS"
 
 #: CMS No Cookies Page
 msgid "CMS No Cookies Page"
@@ -513,4 +513,8 @@ msgstr "Insérer un media..."
 #: Insert File...
 msgid "Insert File..."
 msgstr "Insérer un fichier..."
+
+#: Media Gallery
+msgid "Media Gallery"
+msgstr ""
 

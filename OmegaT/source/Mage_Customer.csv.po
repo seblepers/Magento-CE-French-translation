@@ -776,7 +776,7 @@ msgstr "Laisser vide pour utiliser la valeur par défaut (2). Éventail autoris�
 
 #: Lifetime Sales
 msgid "Lifetime Sales"
-msgstr "Total des ventes"
+msgstr "Ventes depuis le début"
 
 #: Log In
 msgid "Log In"
@@ -1761,4 +1761,52 @@ msgstr "Nombre de lignes dans l'adresse de rue"
 #: Please enter your email below and we'll send you confirmation link for it.
 msgid "Please enter your email below and we'll send you confirmation link for it."
 msgstr "Saisissez votre email ci-dessous et nous vous enverrons un lien de confirmation."
+
+#: '%value%' appears to be a DNS hostname but cannot extract TLD part
+msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
+msgstr ""
+
+#: '%value%' appears to be a DNS hostname but cannot match TLD against known list
+msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
+msgstr ""
+
+#: '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
+msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
+msgstr ""
+
+#: '%value%' appears to be a DNS hostname but contains a dash in an invalid position
+msgid "'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
+msgstr ""
+
+#: '%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
+msgid "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
+msgstr ""
+
+#: '%value%' appears to be a local network name but local network names are not allowed
+msgid "'%value%' appears to be a local network name but local network names are not allowed"
+msgstr ""
+
+#: '%value%' appears to be an IP address, but IP addresses are not allowed
+msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
+msgstr ""
+
+#: '%value%' does not appear to be a valid URI hostname
+msgid "'%value%' does not appear to be a valid URI hostname"
+msgstr ""
+
+#: '%value%' does not appear to be a valid local network name
+msgid "'%value%' does not appear to be a valid local network name"
+msgstr ""
+
+#: '%value%' does not match the expected structure for a DNS hostname
+msgid "'%value%' does not match the expected structure for a DNS hostname"
+msgstr ""
+
+#: Customer API
+msgid "Customer API"
+msgstr ""
+
+#: Invalid type given. String expected
+msgid "Invalid type given. String expected"
+msgstr ""
 

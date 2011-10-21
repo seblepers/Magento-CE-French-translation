@@ -1710,3 +1710,67 @@ msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déj
 msgid "You have %s unread message(s)."
 msgstr "Vous avez %s message(s) non lu(s)."
 
+#: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
+msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
+msgstr ""
+
+#: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
+msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
+msgstr ""
+
+#: ASCII
+msgid "ASCII"
+msgstr ""
+
+#: All locations
+msgid "All locations"
+msgstr ""
+
+#: BINARY
+msgid "BINARY"
+msgstr ""
+
+#: Changes have been saved to theme.
+msgid "Changes have been saved to theme."
+msgstr ""
+
+#: Deselect All
+msgid "Deselect All"
+msgstr ""
+
+#: File mode
+msgid "File mode"
+msgstr ""
+
+#: Loading Preview...
+msgid "Loading Preview..."
+msgstr ""
+
+#: Magento Core API
+msgid "Magento Core API"
+msgstr ""
+
+#: Magento Core API Section
+msgid "Magento Core API Section"
+msgstr ""
+
+#: Reset theme to default
+msgid "Reset theme to default"
+msgstr ""
+
+#: Theme configurations are successfully reset.
+msgid "Theme configurations are successfully reset."
+msgstr ""
+
+#: WS-I Compliance
+msgid "WS-I Compliance"
+msgstr ""
+
+#: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
+msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
+msgstr ""
+
+#: Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?
+msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
+msgstr ""
+

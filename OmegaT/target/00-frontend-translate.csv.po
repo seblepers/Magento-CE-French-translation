@@ -1,0 +1,4 @@
+#: Keep your eyes open for our special Back to School items and save A LOT!
+msgid "Keep your eyes open for our special Back to School items and save A LOT!"
+msgstr "Ouvrez grand les yeux et économisez un max !"
+

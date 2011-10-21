@@ -3114,3 +3114,7 @@ msgstr "Type de produit erroné pour l'extraction des options configurables."
 msgid "Images"
 msgstr "Images"
 
+#: Failed to copy file %s. Please, delete media with non-existing images and try again.
+msgid "Failed to copy file %s. Please, delete media with non-existing images and try again."
+msgstr ""
+

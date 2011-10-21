@@ -234,3 +234,7 @@ msgstr "Versions supportées"
 msgid "Page"
 msgstr "Page"
 
+#: Invalid package name, allowed: [a-zA-Z0-9_-] chars
+msgid "Invalid package name, allowed: [a-zA-Z0-9_-] chars"
+msgstr "Nom de paquet invalide. Caractères autorisés : [a-zA-Z0-9_-]"
+
