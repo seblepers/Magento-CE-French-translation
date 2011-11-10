@@ -602,3 +602,39 @@ msgstr "XML d'Excel"
 msgid "Tax rate cannot be removed. It exists in tax rule"
 msgstr "Le taux de taxe ne peut pas être enlevé. Il est utilisé dans une règle de taxe."
 
+#: Fixed Product Taxes
+msgid "Fixed Product Taxes"
+msgstr "Taxes Fixes de Produit"
+
+#: Enable FPT
+msgid "Enable FPT"
+msgstr "Activer les TFP"
+
+#: Display Prices In Product Lists
+msgid "Display Prices In Product Lists"
+msgstr "Afficher les prix dans la liste des produits"
+
+#: Display Prices On Product View Page
+msgid "Display Prices On Product View Page"
+msgstr "Afficher les prix dans les fiches produits"
+
+#: Display Prices In Sales Modules
+msgid "Display Prices In Sales Modules"
+msgstr "Afficher les prix dans les modules de paiement"
+
+#: Display Prices In Emails
+msgid "Display Prices In Emails"
+msgstr "Afficher les prix dans les emails"
+
+#: Apply Discounts To FPT
+msgid "Apply Discounts To FPT"
+msgstr "Appliquer les remises au TFP"
+
+#: Apply Tax To FPT
+msgid "Apply Tax To FPT"
+msgstr "Appliquer la taxe au TFP"
+
+#: Include FPT In Subtotal
+msgid "Include FPT In Subtotal"
+msgstr "Inclure TFP dans le sous-total"
+

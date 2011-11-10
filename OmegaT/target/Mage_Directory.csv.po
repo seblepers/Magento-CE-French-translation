@@ -68,7 +68,7 @@ msgstr "Activé"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
-msgstr "Erreur de mail destinataire"
+msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"
@@ -169,4 +169,12 @@ msgstr "Webservicex"
 #: Your current currency is: %s
 msgid "Your current currency is: %s"
 msgstr "Votre devise actuelle est : %s"
+
+#: Country API
+msgid "Country API"
+msgstr "API de pays"
+
+#: Region API
+msgid "Region API"
+msgstr "API de région"
 

@@ -316,7 +316,7 @@ msgstr "Impossible de spécifier l'article de la liste d'envies."
 
 #: Configure Wishlist Item
 msgid "Configure Wishlist Item"
-msgstr "Configurer l'article de la liste d'envies"
+msgstr "Configurer l\\'article de la liste d\\'envies"
 
 #: Configured Price:
 msgid "Configured Price:"
@@ -361,4 +361,12 @@ msgstr "Description utilisateur"
 #: View Details
 msgid "View Details"
 msgstr "Voir les détails"
+
+#: Click for price
+msgid "Click for price"
+msgstr "Cliquez pour afficher le prix"
+
+#: What's this?
+msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
 

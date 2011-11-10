@@ -22,7 +22,7 @@
 "Total of %d record(s) have been marked as read.","%d enregistrement(s) a (ont) bien été marqué(s) comme lu(s)."
 "Total of %d record(s) have been removed.","%d enregistrement(s) a (ont) bien été supprimé(s)."
 "Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement."
-"Update Frequency","Mettre à jour la fréquence"
+"Update Frequency","Fréquence de mise à jour"
 "Use HTTPS to Get Feed","Utiliser HTTPS pour récupérer le flux"
 "critical","critique"
 "major","majeur"

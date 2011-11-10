@@ -228,7 +228,7 @@ msgstr "Commentaires"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "SKU Produit"
+msgstr "Réf. Produit"
 
 #: Qty
 msgid "Qty"
@@ -349,4 +349,12 @@ msgstr "Votre commentaire a été accepté pour modération."
 #: Not Approved
 msgid "Not Approved"
 msgstr "Non approuvé"
+
+#: Customers Reviews
+msgid "Customers Reviews"
+msgstr "Clients ayant commenté"
+
+#: Products Reviews
+msgid "Products Reviews"
+msgstr "Produits commentés"
 

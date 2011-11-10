@@ -510,3 +510,11 @@ msgstr "Le profil de paiement est invalide :\\n%s"
 msgid "Payment profile is invalid:n%s"
 msgstr "Le profil de paiement est invalide :\\n%s"
 
+#: Merchant ID
+msgid "Merchant ID"
+msgstr ""
+
+#: Processor ID
+msgid "Processor ID"
+msgstr ""
+

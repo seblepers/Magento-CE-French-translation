@@ -362,3 +362,11 @@ msgstr "Description utilisateur"
 msgid "View Details"
 msgstr "Voir les détails"
 
+#: Click for price
+msgid "Click for price"
+msgstr ""
+
+#: What's this?
+msgid "What's this?"
+msgstr ""
+

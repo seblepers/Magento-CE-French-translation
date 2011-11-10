@@ -127,3 +127,5 @@
 "Hide","Masquer"
 "Insert Media...","Insérer un media..."
 "Insert File...","Insérer un fichier..."
+"Media Gallery","Galerie media"
+"The static block content cannot contain  directive with its self.","Le contenu du bloc statique ne peut pas contenir sa propre directive."

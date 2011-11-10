@@ -96,7 +96,7 @@ msgstr "Impossible de continuer. Veuillez réessayer ultérieurement."
 
 #: Update Frequency
 msgid "Update Frequency"
-msgstr "Mettre à jour la fréquence"
+msgstr "Fréquence de mise à jour"
 
 #: Use HTTPS to Get Feed
 msgid "Use HTTPS to Get Feed"

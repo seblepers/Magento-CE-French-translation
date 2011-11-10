@@ -606,7 +606,7 @@ msgstr "Grande image"
 msgid "Billing Address"
 msgstr "Adresse de facturation"
 
-#: Billing Address: 
+#: Billing Address:
 msgid "Billing Address: "
 msgstr "Adresse de facturation "
 
@@ -864,7 +864,7 @@ msgstr "Créer"
 
 #: Create DB Backup
 msgid "Create DB Backup"
-msgstr "Créez une sauvegarde de la BD"
+msgstr "Créer une sauvegarde de la BDD"
 
 #: Create New Attribute
 msgid "Create New Attribute"
@@ -3234,7 +3234,7 @@ msgstr "Livraison"
 msgid "Shipping Address"
 msgstr "Adresse de livraison"
 
-#: Shipping Address: 
+#: Shipping Address:
 msgid "Shipping Address: "
 msgstr "Adresse de livraison "
 
@@ -4220,11 +4220,11 @@ msgstr "Attention ! Les valeurs vides peuvent poser problème avec le format CSV
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: Please do not close the window during importing/exporting data
 msgid "Warning: Please do not close the window during importing/exporting data"
@@ -4598,7 +4598,7 @@ msgstr "Le client n'existe plus dans le système."
 msgid "[deleted]"
 msgstr "[effacé]"
 
-#:  note that the URLs provided below are the correct values for your current website): 
+#:  note that the URLs provided below are the correct values for your current website):
 msgid " note that the URLs provided below are the correct values for your current website): "
 msgstr "  les URLs fournies ci-dessous sont les valeurs correctes pour votre site web actuel) : "
 
@@ -4872,7 +4872,7 @@ msgstr "Le produit n'est pas chargé."
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Regular Price:
 msgid "Regular Price:"
@@ -5016,11 +5016,11 @@ msgstr "Voir la galerie"
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?
 msgid "Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?"
@@ -5065,4 +5065,172 @@ msgstr "PayPal"
 #: note that the URLs provided below are the correct values for your current website):
 msgid "note that the URLs provided below are the correct values for your current website):"
 msgstr " les URLs fournies ci-dessous sont les valeurs correctes pour votre site web actuel) :"
+
+#: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
+msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
+msgstr "(Pour le type \"Serveur local\", il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
+
+#: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
+msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
+
+#: (\t for tab)
+msgid "(\t for tab)"
+msgstr "(\\t pour une tabulation)"
+
+#: ASCII
+msgid "ASCII"
+msgstr "ASCII"
+
+#: Add New
+msgid "Add New"
+msgstr "Ajouter"
+
+#: All locations
+msgid "All locations"
+msgstr "Tous les lieux"
+
+#: Are you sure you want to delete this theme? This change will affect all applications.
+msgid "Are you sure you want to delete this theme? This change will affect all applications."
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
+
+#: BINARY
+msgid "BINARY"
+msgstr "BINAIRE"
+
+#: Chosen category does not associated with any website, so url rewrite is not possible.
+msgid "Chosen category does not associated with any website, so url rewrite is not possible."
+msgstr "La catégorie choisie n'est associée à aucun site web, la réécriture URL n'est pas possible."
+
+#: Chosen product does not associated with any website, so url rewrite is not possible.
+msgid "Chosen product does not associated with any website, so url rewrite is not possible."
+msgstr "Le produit choisi n'est associé à aucun site web, la réécriture URL n'est pas possible."
+
+#: Delete theme
+msgid "Delete theme"
+msgstr "Supprimer le thème"
+
+#: Deselect All
+msgid "Deselect All"
+msgstr "Tout désélectionner"
+
+#: Error
+msgid "Error"
+msgstr "Erreur"
+
+#: File mode
+msgid "File mode"
+msgstr "Mode de fichier"
+
+#: Helper attributes should not be used in custom layout updates.
+msgid "Helper attributes should not be used in custom layout updates."
+msgstr "Les attributs de helper ne devraient pas être utilisés dans les mises à jour personnalisées de gabarits."
+
+#: Invalid timezone
+msgid "Invalid timezone"
+msgstr "Fuseau horaire invalide"
+
+#: Loading Preview...
+msgid "Loading Preview..."
+msgstr "Prévisualisation en cours de chargement..."
+
+#: Only custom theme can be deleted
+msgid "Only custom theme can be deleted"
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
+
+#: Only default theme can be reset
+msgid "Only default theme can be reset"
+msgstr "Seul le thème par défaut peut être réinitialisé"
+
+#: Order
+msgid "Order"
+msgstr "Commande"
+
+#: Product Tax Classes
+msgid "Product Tax Classes"
+msgstr "Classe de taxe produit"
+
+#: Reset theme to default
+msgid "Reset theme to default"
+msgstr "Réinitialiser le thème par défaut"
+
+#: Save As
+msgid "Save As"
+msgstr "Sauvegarder sous"
+
+#: The invoice and the shipment  have been created. The shipping label cannot be created at the moment.
+msgid "The invoice and the shipment  have been created. The shipping label cannot be created at the moment."
+msgstr "La facture et l'expédition ont été créées. L'étiquette d'expédition ne peut pas être créée pour le moment."
+
+#: The profile you are trying to save no longer exists
+msgid "The profile you are trying to save no longer exists"
+msgstr "Le profil que vous êtes en train d'essayer de sauvegarder n'existe plus"
+
+#: The shipment has been created. The shipping label has been created.
+msgid "The shipment has been created. The shipping label has been created."
+msgstr "L'envoi a été créé. L'étiquette d'expédition a été créée."
+
+#: Theme configurations are successfully reset.
+msgid "Theme configurations are successfully reset."
+msgstr "Les configurations du thème ont bien été réinitialisées."
+
+#: Theme label can't be empty
+msgid "Theme label can't be empty"
+msgstr "L\\'étiquette du thème ne peut pas être vide."
+
+#: Theme label:
+msgid "Theme label:"
+msgstr "Étiquette du thème :"
+
+#: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
+msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
+msgstr "Attention !\\r\\nCette action supprimera"
+
+#: Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?
+msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
+msgstr "jj"
+
+#: Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?
+msgid "Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?"
+msgstr "**Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?"
+
+#: XML data is invalid.
+msgid "XML data is invalid."
+msgstr "Les données XML sont invalides"
+
+#: XML object is not instance of \"Varien_Simplexml_Element\".
+msgid "XML object is not instance of \"Varien_Simplexml_Element\"."
+msgstr "L'objet XML n'est pas une instance de \"Varien_Simplexml_Element\"."
+
+#: PayPal Settlement Reports
+msgid "PayPal Settlement Reports"
+msgstr "Rapports de règlements PayPal"
+
+#: General
+msgid "General"
+msgstr "Général"
+
+#: Inventory
+msgid "Inventory"
+msgstr "Inventaire"
+
+#: Address
+msgid "Address"
+msgstr "Adresse"
+
+#: Minimum Order Amount
+msgid "Minimum Order Amount"
+msgstr "Montant de commande minimum"
+
+#: Shipping Methods
+msgid "Shipping Methods"
+msgstr "Modes de livraison"
+
+#: Payment Methods
+msgid "Payment Methods"
+msgstr "Modes de paiement"
+
+#: Google API
+msgid "Google API"
+msgstr "API Google"
 

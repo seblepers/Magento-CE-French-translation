@@ -982,7 +982,7 @@ msgstr "Non confirmé, connexion possible."
 msgid "Not confirmed, cannot login"
 msgstr "Non confirmé, connexion impossible."
 
-#: Number of Lines in a Street Address 
+#: Number of Lines in a Street Address
 msgid "Number of Lines in a Street Address "
 msgstr "Nombre de lignes dans l'adresse de rue "
 
@@ -1010,7 +1010,7 @@ msgstr "Intervalle en minutes"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -1761,4 +1761,64 @@ msgstr "Nombre de lignes dans l'adresse de rue"
 #: Please enter your email below and we'll send you confirmation link for it.
 msgid "Please enter your email below and we'll send you confirmation link for it."
 msgstr "Saisissez votre email ci-dessous et nous vous enverrons un lien de confirmation."
+
+#: '%value%' appears to be a DNS hostname but cannot extract TLD part
+msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne peut pas être extraite"
+
+#: '%value%' appears to be a DNS hostname but cannot match TLD against known list
+msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus."
+
+#: '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
+msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais il est impossibile de faire correspondre le schéma de nom d'hôte au TLD '%tld%'."
+
+#: '%value%' appears to be a DNS hostname but contains a dash in an invalid position
+msgid "'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais elle contient un tiret à une position incorrecte."
+
+#: '%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
+msgid "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la notation punycode donnée ne peut pas être décodée."
+
+#: '%value%' appears to be a local network name but local network names are not allowed
+msgid "'%value%' appears to be a local network name but local network names are not allowed"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais les noms de réseau local ne sont pas autorisés."
+
+#: '%value%' appears to be an IP address, but IP addresses are not allowed
+msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
+msgstr "'%value%' semble être une adresse IP, mais celles-ci ne sont pas autorisées."
+
+#: '%value%' does not appear to be a valid local network name
+msgid "'%value%' does not appear to be a valid local network name"
+msgstr "'%value%' n'est pas un nom de réseau local valide."
+
+#: Customer API
+msgid "Customer API"
+msgstr "API client"
+
+#: Customer email is required
+msgid "Customer email is required"
+msgstr "L'email du client est obligatoire"
+
+#: Customer website ID must be specified when using the website scope
+msgid "Customer website ID must be specified when using the website scope"
+msgstr "L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée."
+
+#: Forgot Your Password
+msgid "Forgot Your Password"
+msgstr "Mot de passe oublié"
+
+#: The group \"%s\" cannot be deleted
+msgid "The group \"%s\" cannot be deleted"
+msgstr "Le groupe \"%s\" ne peut pas être effacé"
+
+#: This customer email already exists
+msgid "This customer email already exists"
+msgstr "Cet email client existe déjà"
+
+#: Wrong transactional account email type
+msgid "Wrong transactional account email type"
+msgstr "Le type d'email de compte transactionnel est erroné"
 

@@ -846,3 +846,155 @@ msgstr "Votre paquet"
 msgid "was not delivered nor scanned"
 msgstr "n'a été ni livré ni scanné"
 
+#: 2 Day
+msgid "2 Day"
+msgstr ""
+
+#: Adult
+msgid "Adult"
+msgstr ""
+
+#: Adult Signature Required
+msgid "Adult Signature Required"
+msgstr ""
+
+#: Customer Supplied Package
+msgid "Customer Supplied Package"
+msgstr ""
+
+#: Delivery Confirmation
+msgid "Delivery Confirmation"
+msgstr ""
+
+#: Direct
+msgid "Direct"
+msgstr ""
+
+#: Documents
+msgid "Documents"
+msgstr ""
+
+#: Enabled for Checkout
+msgid "Enabled for Checkout"
+msgstr ""
+
+#: Freight
+msgid "Freight"
+msgstr ""
+
+#: Gift
+msgid "Gift"
+msgstr ""
+
+#: Girth
+msgid "Girth"
+msgstr ""
+
+#: Height
+msgid "Height"
+msgstr ""
+
+#: Indirect
+msgid "Indirect"
+msgstr ""
+
+#: International Ground
+msgid "International Ground"
+msgstr ""
+
+#: Key
+msgid "Key"
+msgstr ""
+
+#: Large Express Box
+msgid "Large Express Box"
+msgstr ""
+
+#: Length
+msgid "Length"
+msgstr ""
+
+#: Medium Express Box
+msgid "Medium Express Box"
+msgstr ""
+
+#: Merchandise
+msgid "Merchandise"
+msgstr ""
+
+#: Meter Number
+msgid "Meter Number"
+msgstr ""
+
+#: National Freight
+msgid "National Freight"
+msgstr ""
+
+#: No packages for request
+msgid "No packages for request"
+msgstr ""
+
+#: Not Required
+msgid "Not Required"
+msgstr ""
+
+#: Other
+msgid "Other"
+msgstr ""
+
+#: PAK
+msgid "PAK"
+msgstr ""
+
+#: Pallet
+msgid "Pallet"
+msgstr ""
+
+#: Required
+msgid "Required"
+msgstr ""
+
+#: Required for negotiated rates; 6-character UPS.
+msgid "Required for negotiated rates; 6-character UPS."
+msgstr ""
+
+#: Return
+msgid "Return"
+msgstr ""
+
+#: Sample
+msgid "Sample"
+msgstr ""
+
+#: Sandbox Mode
+msgid "Sandbox Mode"
+msgstr ""
+
+#: Secure Gateway URL
+msgid "Secure Gateway URL"
+msgstr ""
+
+#: Service type does not match
+msgid "Service type does not match"
+msgstr ""
+
+#: Signature Required
+msgid "Signature Required"
+msgstr ""
+
+#: Small Express Box
+msgid "Small Express Box"
+msgstr ""
+
+#: Smart Post
+msgid "Smart Post"
+msgstr ""
+
+#: UPS Worldwide Saver
+msgid "UPS Worldwide Saver"
+msgstr ""
+
+#: Width
+msgid "Width"
+msgstr ""
+

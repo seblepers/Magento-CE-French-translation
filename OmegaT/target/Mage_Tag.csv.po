@@ -96,7 +96,7 @@ msgstr "Client - Mon compte - Ma liste de mots clés"
 
 #: Customer My Account Tag View
 msgid "Customer My Account Tag View"
-msgstr "Client - Mon compte - Mots clést"
+msgstr "Client - Mon compte - Mots clés"
 
 #: Customer Since
 msgid "Customer Since"
@@ -212,7 +212,7 @@ msgstr "Nom du produit"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "SKU Produit"
+msgstr "Réf. Produit"
 
 #: Product Tags
 msgid "Product Tags"
@@ -332,7 +332,7 @@ msgstr "Impossible de sauvegarder le(s) mot(s) clé(s)."
 
 #: Use spaces to separate tags. Use single quotes (') for phrases.
 msgid "Use spaces to separate tags. Use single quotes (') for phrases."
-msgstr "Utilisez un espace pour separer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
+msgstr "Utilisez un espace pour séparer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
 
 #: View All Tags
 msgid "View All Tags"

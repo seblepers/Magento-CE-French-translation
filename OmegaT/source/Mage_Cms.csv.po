@@ -518,3 +518,7 @@ msgstr "Insérer un fichier..."
 msgid "Media Gallery"
 msgstr ""
 
+#: The static block content cannot contain  directive with its self.
+msgid "The static block content cannot contain  directive with its self."
+msgstr ""
+

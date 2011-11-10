@@ -186,3 +186,7 @@ msgstr "Aucun résultat pour votre recherche."
 msgid "up to %s"
 msgstr "jusqu'à %s"
 
+#: Specified date is invalid.
+msgid "Specified date is invalid."
+msgstr "La date spécifiée est invalide."
+

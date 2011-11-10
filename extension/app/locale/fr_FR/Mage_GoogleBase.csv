@@ -86,3 +86,4 @@
 "View Available Products","Voir les produits disponibles"
 "View Item in Google Base","Voir l'article dans Google Base"
 "Yes","Oui"
+"Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.","La devise de base devrait être %s pour %s dans la configuration système. Sinon les prix ne seront pas corrects dans Google Base."

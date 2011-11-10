@@ -60,7 +60,7 @@ msgstr "remise en %%"
 
 #: By Percentage of the Original Price
 msgid "By Percentage of the Original Price"
-msgstr "En pourcentage du prix original"
+msgstr "En pourcentage du prix d'origine"
 
 #: Can\'t acquire coupon.
 msgid "Can\'t acquire coupon."
@@ -200,7 +200,7 @@ msgstr "Qté maxi à laquelle la remise est appliquée"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "SESSION FERMEE"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"

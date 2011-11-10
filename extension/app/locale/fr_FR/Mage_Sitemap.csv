@@ -6,7 +6,7 @@
 "Daily","Quotidien"
 "Edit Sitemap","Éditer le plan de site"
 "Enabled","Activé"
-"Error Email Recipient","Erreur de mail destinataire"
+"Error Email Recipient","Destinataire du mail d'erreur"
 "Error Email Sender","Expéditeur du mail d'erreur"
 "Error Email Template","Gabarit du mail d'erreur"
 "File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","Le fichier ""%s"" ne peut pas être sauvegardé. Veuillez vérifier que le répertoire ""%s"" est accessible en écriture par le serveur web."

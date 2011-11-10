@@ -128,7 +128,7 @@ msgstr "Inactif"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "SESSION FERMEE"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"

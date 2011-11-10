@@ -802,3 +802,39 @@ msgstr "Rôles utilisateurs"
 msgid "Wishlist Report"
 msgstr "Listes d'envies"
 
+#: System
+msgid "System"
+msgstr "Système"
+
+#: Configuration
+msgid "Configuration"
+msgstr "Configuration"
+
+#: Sales
+msgid "Sales"
+msgstr "Ventes"
+
+#: Reports
+msgid "Reports"
+msgstr "Rapports"
+
+#: Refresh Statistics
+msgid "Refresh Statistics"
+msgstr "Actualiser les statistiques"
+
+#: Total Invoiced
+msgid "Total Invoiced"
+msgstr "Total de la facture"
+
+#: Coupons
+msgid "Coupons"
+msgstr "Bons de réduction"
+
+#: Total Refunded
+msgid "Total Refunded"
+msgstr "Total remboursé"
+
+#: PayPal Settlement Reports
+msgid "PayPal Settlement Reports"
+msgstr "Rapports de règlements PayPal"
+

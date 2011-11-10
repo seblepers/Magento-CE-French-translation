@@ -1682,6 +1682,34 @@ msgstr "URL de retour : "
 msgid "Allowable values: \"paypal\", \"primary\" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: \"paypal""
 msgstr "sValeurs acceptées : \"paypal\", \"primary\" (par défaut), votre_valeur_personnalisée (page de paiement personnalisée pour votre profil de compte marchand)"
 
+#: Authorization Honor Period (days)
+msgid "Authorization Honor Period (days)"
+msgstr ""
+
+#: Authorized amount of %s.
+msgid "Authorized amount of %s."
+msgstr ""
+
+#: Authorizing amount of %s is pending approval on gateway.
+msgid "Authorizing amount of %s is pending approval on gateway."
+msgstr ""
+
+#: Buyer's Tax ID
+msgid "Buyer's Tax ID"
+msgstr ""
+
+#: Buyer's Tax ID Type
+msgid "Buyer's Tax ID Type"
+msgstr ""
+
+#: CNPJ
+msgid "CNPJ"
+msgstr ""
+
+#: CPF
+msgid "CPF"
+msgstr ""
+
 #: Centinel Custom API URL
 msgid "Centinel Custom API URL"
 msgstr ""
@@ -1692,6 +1720,22 @@ msgstr ""
 
 #: Integral Evolution Settings
 msgid "Integral Evolution Settings"
+msgstr ""
+
+#: Number of Child Authorizations
+msgid "Number of Child Authorizations"
+msgstr ""
+
+#: Order Valid Period (days)
+msgid "Order Valid Period (days)"
+msgstr ""
+
+#: Ordered amount of %s.
+msgid "Ordered amount of %s."
+msgstr ""
+
+#: Ordering amount of %s is pending approval on gateway.
+msgid "Ordering amount of %s is pending approval on gateway."
 msgstr ""
 
 #: Pasarela integral
@@ -1710,6 +1754,26 @@ msgstr ""
 msgid "PayPal Pro Settings"
 msgstr ""
 
+#: Please agree to all the terms and conditions before placing the order.
+msgid "Please agree to all the terms and conditions before placing the order."
+msgstr ""
+
+#: Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.
+msgid "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal."
+msgstr ""
+
+#: Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.
+msgid "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal."
+msgstr ""
+
+#: The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.
+msgid "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase."
+msgstr ""
+
+#: The maximum number of child authorizations is reached.
+msgid "The maximum number of child authorizations is reached."
+msgstr ""
+
 #: Website Payments Plus
 msgid "Website Payments Plus"
 msgstr ""
@@ -1720,5 +1784,69 @@ msgstr ""
 
 #: Website Payments Pro Hosted Solution
 msgid "Website Payments Pro Hosted Solution"
+msgstr ""
+
+#: To use Payflow Link, you must configure your Payflow Link account on the Paypal website.
+msgid "To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
+msgstr ""
+
+#: Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below
+msgid "Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
+msgstr ""
+
+#: Required settings
+msgid "Required settings"
+msgstr ""
+
+#: On my website
+msgid "On my website"
+msgstr ""
+
+#: Use Silent Post:
+msgid "Use Silent Post:"
+msgstr ""
+
+#: Silent Post URL:
+msgid "Silent Post URL:"
+msgstr ""
+
+#: Enable Secure Token:
+msgid "Enable Secure Token:"
+msgstr ""
+
+#: Note:
+msgid "Note:"
+msgstr ""
+
+#: Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.
+msgid "Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
+msgstr ""
+
+#: Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.
+msgid "Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
+msgstr ""
+
+#: If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.
+msgid "If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
+msgstr ""
+
+#: Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.
+msgid "Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
+msgstr ""
+
+#: Add New
+msgid "Add New"
+msgstr ""
+
+#: Back
+msgid "Back"
+msgstr ""
+
+#: of %s pages
+msgid "of %s pages"
+msgstr ""
+
+#: Total %d records found
+msgid "Total %d records found"
 msgstr ""
 

@@ -14,7 +14,7 @@ msgstr "Erreur lors du chargement d'un enregistrement. Erreur : %s"
 msgid "An error occurred while loading the collection, aborting. Error: %s"
 msgstr "Erreur lors du chargement d'une collection. Erreur : %s"
 
-#: An error occurred while saving a record, aborting. Error: 
+#: An error occurred while saving a record, aborting. Error:
 msgid "An error occurred while saving a record, aborting. Error: "
 msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur : "
 
@@ -333,4 +333,288 @@ msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur :"
 #: The attribute code '%s' is reserved by system. Please try another attribute code.
 msgid "The attribute code '%s' is reserved by system. Please try another attribute code."
 msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+
+#: \"%s\" contains not only digit characters.
+msgid "\"%s\" contains not only digit characters."
+msgstr "\"%s\" doit contenir uniquement des chiffres."
+
+#: \"%s\" does not fit the entered date format.
+msgid "\"%s\" does not fit the entered date format."
+msgstr "\"%s\" ne correspond pas au format de date saisi."
+
+#: \"%s\" exceeds the allowed file size.
+msgid "\"%s\" exceeds the allowed file size."
+msgstr "\"%s\" excède la taille maxi autorisée pour les fichiers."
+
+#: \"%s\" exceeds the allowed length.
+msgid "\"%s\" exceeds the allowed length."
+msgstr "\"%s\" excède la longueur autorisée."
+
+#: \"%s\" has not only alphabetic and digit characters.
+msgid "\"%s\" has not only alphabetic and digit characters."
+msgstr "\"%s\" doit contenir uniquement des caractères alphanumériques."
+
+#: \"%s\" has not only alphabetic characters.
+msgid "\"%s\" has not only alphabetic characters."
+msgstr "\"%s\" doit contenir uniquement des caractères alphabétiques."
+
+#: \"%s\" height exceeds allowed value of %s px.
+msgid "\"%s\" height exceeds allowed value of %s px."
+msgstr "La hauteur de \"%s\" excède la valeur de %s px."
+
+#: \"%s\" invalid type entered.
+msgid "\"%s\" invalid type entered."
+msgstr "Le type de \"%s\" saisi est invalide."
+
+#: \"%s\" is a required value.
+msgid "\"%s\" is a required value."
+msgstr "\"%s\" est une valeur obligatoire."
+
+#: \"%s\" is an empty string.
+msgid "\"%s\" is an empty string."
+msgstr "\"%s\" est une chaîne vide."
+
+#: \"%s\" is not a valid URL.
+msgid "\"%s\" is not a valid URL."
+msgstr "\"%s\" n'est pas une URL valide."
+
+#: \"%s\" is not a valid date.
+msgid "\"%s\" is not a valid date."
+msgstr "\"%s\" n'est pas une date valide."
+
+#: \"%s\" is not a valid email address.
+msgid "\"%s\" is not a valid email address."
+msgstr "\"%s\" n'est pas un email valide."
+
+#: \"%s\" is not a valid file
+msgid "\"%s\" is not a valid file"
+msgstr "\"%s\" n'est pas un fichier valide."
+
+#: \"%s\" is not a valid file extension.
+msgid "\"%s\" is not a valid file extension."
+msgstr "\"%s\" n'est pas une extension de fichier valide."
+
+#: \"%s\" is not a valid file.
+msgid "\"%s\" is not a valid file."
+msgstr "\"%s\" n'est pas un fichier valide."
+
+#: \"%s\" is not a valid hostname.
+msgid "\"%s\" is not a valid hostname."
+msgstr "\"%s\" n'est pas un nom d'hôte valide."
+
+#: \"%s\" is not a valid image format
+msgid "\"%s\" is not a valid image format"
+msgstr "\"%s\" n'est pas un format d'image valide"
+
+#: \"%s\" length must be equal or greater than %s characters.
+msgid "\"%s\" length must be equal or greater than %s characters."
+msgstr "La longueur de \"%s\" doit être supérieure ou égale à %s caractères."
+
+#: \"%s\" length must be equal or less than %s characters.
+msgid "\"%s\" length must be equal or less than %s characters."
+msgstr "La longueur de \"%s\" doit être égale ou inférieure à %s caractères."
+
+#: \"%s\" width exceeds allowed value of %s px.
+msgid "\"%s\" width exceeds allowed value of %s px."
+msgstr "La largeur de \"%s\" excède la valeur de %s px."
+
+#: '%value%' appears to be a DNS hostname but cannot extract TLD part
+msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne peut pas être extraite"
+
+#: '%value%' appears to be a DNS hostname but cannot match TLD against known list
+msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus."
+
+#: '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
+msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais il est impossibile de faire correspondre le schéma de nom d'hôte au TLD '%tld%'."
+
+#: '%value%' appears to be a DNS hostname but contains a dash in an invalid position
+msgid "'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais elle contient un tiret à une position incorrecte."
+
+#: '%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
+msgid "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la notation punycode donnée ne peut pas être décodée."
+
+#: '%value%' appears to be a local network name but local network names are not allowed
+msgid "'%value%' appears to be a local network name but local network names are not allowed"
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais les noms de réseau local ne sont pas autorisés."
+
+#: '%value%' appears to be an IP address, but IP addresses are not allowed
+msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
+msgstr "'%value%' semble être une adresse IP, mais celles-ci ne sont pas autorisées."
+
+#: '%value%' does not appear to be a valid URI hostname
+msgid "'%value%' does not appear to be a valid URI hostname"
+msgstr "'%value%' n'est pas un nom d'hôte URI valide"
+
+#: '%value%' does not appear to be a valid local network name
+msgid "'%value%' does not appear to be a valid local network name"
+msgstr "'%value%' n'est pas un nom de réseau local valide."
+
+#: '%value%' does not match the expected structure for a DNS hostname
+msgid "'%value%' does not match the expected structure for a DNS hostname"
+msgstr "'%value%' ne correspond pas à la structure attendue pour un nom d'hôte DNS."
+
+#: A joint field with this alias (%s) is already declared
+msgid "A joint field with this alias (%s) is already declared"
+msgstr "Un champ de jointure a déjà été déclaré avec cet alias (%s)."
+
+#: Attempt to add an invalid object
+msgid "Attempt to add an invalid object"
+msgstr "Tentative d'ajout d'un objet invalide"
+
+#: Attribute '%s' used in configurable products
+msgid "Attribute '%s' used in configurable products"
+msgstr "Attribut '%s' utilisé dans les produits configurables"
+
+#: Attribute object is undefined
+msgid "Attribute object is undefined"
+msgstr "L'objet attribut est indéfini"
+
+#: Can't create table: %s
+msgid "Can't create table: %s"
+msgstr "Impossible de créer la table : %s"
+
+#: Current module EAV entity is undefined
+msgid "Current module EAV entity is undefined"
+msgstr "Le module d'entités EAV actuel n'est pas défini"
+
+#: Current module pathname is undefined
+msgid "Current module pathname is undefined"
+msgstr "Le chemin d'accès actuel du module n'est pas défini"
+
+#: Data integrity: No header row found for attribute
+msgid "Data integrity: No header row found for attribute"
+msgstr "Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut."
+
+#: Default option value is not defined
+msgid "Default option value is not defined"
+msgstr "La valeur par défaut de l'option n'est pas définie."
+
+#: Entity instance is not defined
+msgid "Entity instance is not defined"
+msgstr "L'instance d'entité n'est pas définie"
+
+#: Entity is not initialized
+msgid "Entity is not initialized"
+msgstr "L'entité n'est pas initialisée."
+
+#: Entity object is undefined
+msgid "Entity object is undefined"
+msgstr "L'objet entité n'est pas défini"
+
+#: Failed to load node %s from config
+msgid "Failed to load node %s from config"
+msgstr "Impossible de charger le nœud %s depuis la configuration"
+
+#: Form code is not defined
+msgid "Form code is not defined"
+msgstr "Le code du formulaire n'est pas défini."
+
+#: Frontend label is not defined
+msgid "Frontend label is not defined"
+msgstr "Le libellé de front office n'est pas défini"
+
+#: Invalid alias, already exists in joint attributes
+msgid "Invalid alias, already exists in joint attributes"
+msgstr "Alias invalide, déjà utilisé dans les attributs de jointure"
+
+#: Invalid attribute name: %s
+msgid "Invalid attribute name: %s"
+msgstr "Nom d'attribut invalide : %s"
+
+#: Invalid attribute type
+msgid "Invalid attribute type"
+msgstr "Type d'attribut invalide"
+
+#: Invalid date
+msgid "Invalid date"
+msgstr "Date non valide"
+
+#: Invalid default date
+msgid "Invalid default date"
+msgstr "Date par défaut non valide"
+
+#: Invalid default decimal value
+msgid "Invalid default decimal value"
+msgstr "Valeur décimale par défaut non valide"
+
+#: Invalid entity supplied: %s
+msgid "Invalid entity supplied: %s"
+msgstr "L'entité fournie n'est pas valide : %s."
+
+#: Invalid entity type
+msgid "Invalid entity type"
+msgstr "Type d'entité invalide."
+
+#: Invalid foreign key
+msgid "Invalid foreign key"
+msgstr "Clé étrangère invalide."
+
+#: Invalid joint fields
+msgid "Invalid joint fields"
+msgstr "Champs de jointure invalides."
+
+#: Invalid type given. String expected
+msgid "Invalid type given. String expected"
+msgstr "Le type est incorrect. Une chaîne de caractères est attendue."
+
+#: Joined field with this alias is already declared
+msgid "Joined field with this alias is already declared"
+msgstr "Il existe déjà un champ de jointure portant cet alias."
+
+#: Joint field or attribute expression with this alias is already declared
+msgid "Joint field or attribute expression with this alias is already declared"
+msgstr "Il existe déjà un champ de jointure ou une expression d'attribut portant cet alias."
+
+#: Maximum length of attribute code must be less then %s symbols
+msgid "Maximum length of attribute code must be less then %s symbols"
+msgstr "La longueur maximale du code de l'attribut doit être de moins de %s caractères"
+
+#: Source model \"%s\" not found for attribute \"%s\"
+msgid "Source model \"%s\" not found for attribute \"%s\""
+msgstr "Le modèle source \"%s\" n'a pas été trouvé pour l'attribut \"%s\""
+
+#: The attribute code '%s' is reserved by system. Please try another attribute code
+msgid "The attribute code '%s' is reserved by system. Please try another attribute code"
+msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+
+#: The value of attribute \"%s\" must be unique
+msgid "The value of attribute \"%s\" must be unique"
+msgstr "La valeur de l'attribut \"%s\" doit être unique."
+
+#: This attribute is used in configurable products
+msgid "This attribute is used in configurable products"
+msgstr "Cet attribut est utilisé dans les produits configurables."
+
+#: Unknown parameter
+msgid "Unknown parameter"
+msgstr "Paramètre inconnu."
+
+#: Wrong attribute group ID
+msgid "Wrong attribute group ID"
+msgstr "Mauvais identifiant de groupe d'attributs."
+
+#: Wrong attribute set ID
+msgid "Wrong attribute set ID"
+msgstr "Mauvais identifiant de jeu d'attributs."
+
+#: Wrong entity ID
+msgid "Wrong entity ID"
+msgstr "Mauvais identifiant d'entité."
+
+#: Wrong type definition for %s
+msgid "Wrong type definition for %s"
+msgstr "Mauvaise définition de type pour %s"
+
+#: First Name
+msgid "First Name"
+msgstr "Prénom"
+
+#: Last Name
+msgid "Last Name"
+msgstr "Nom"
 

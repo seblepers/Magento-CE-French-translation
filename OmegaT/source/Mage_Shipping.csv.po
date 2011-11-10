@@ -334,3 +334,11 @@ msgstr "Les informations de suivi ne sont pas disponibles pour le moment. Vous p
 msgid "email us at"
 msgstr "nous envoyer un email à "
 
+#: Street Address
+msgid "Street Address"
+msgstr ""
+
+#: Street Address Line 2
+msgid "Street Address Line 2"
+msgstr ""
+

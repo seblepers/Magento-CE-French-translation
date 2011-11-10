@@ -120,3 +120,5 @@
 "You're All Set","Vous avez terminé"
 "You're All Set!","C'est terminé !"
 "Response from server isn't valid.","La réponse du serveur n'est pas valide."
+"Database Type","Type de base de données"
+"No resource for %s DB model.","Pas de ressource disponible pour ce modèle de base de données %s."

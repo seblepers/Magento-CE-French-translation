@@ -158,7 +158,7 @@ msgstr "Ouvrir les liens dans une nouvelle fenêtre"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -220,7 +220,7 @@ msgstr "Exemple"
 
 #: Shareable
 msgid "Shareable"
-msgstr "Partage"
+msgstr "Partageable"
 
 #: Shipped
 msgid "Shipped"
@@ -305,4 +305,28 @@ msgstr "Éditer"
 #: Edit item parameters
 msgid "Edit item parameters"
 msgstr "Éditer les paramètres de l'article"
+
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Order id cannot be null
+msgid "Order id cannot be null"
+msgstr "L'id de commande ne peut pas être null"
+
+#: Order item id cannot be null
+msgid "Order item id cannot be null"
+msgstr "L'id d'article de commande ne peut pas être null"
+
+#: See price before order confirmation.
+msgid "See price before order confirmation."
+msgstr "Voir le prix avant la confirmation de la commande"
+
+#: Use Default Value
+msgid "Use Default Value"
+msgstr "Utiliser la valeur par défaut"
+
+#: What's this?
+msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
 

@@ -89,7 +89,7 @@
 "Selected problem subscribers have been unsubscribed.","Les inscrits qui posaient problème et qui étaient sélectionnés ont été désinscrits."
 "Selected problems have been deleted.","Les problèmes sélectionnés ont été supprimés."
 "Sender","Expéditeur"
-"Sender Email","Expéditeur de l'email"
+"Sender Email","Email de l'expéditeur"
 "Sender Name","Nom de l'expéditeur"
 "Sending","Envoi en cours"
 "Sent","Envoyé"
@@ -135,3 +135,4 @@
 "You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter."
 "Your subscription has been confirmed.","Votre inscription a été confirmée."
 "Copy","Copie"
+"Please refer to exeption.log","Veuillez consulter le fichier exception.log"

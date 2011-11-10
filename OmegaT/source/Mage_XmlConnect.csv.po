@@ -1945,6 +1945,26 @@ msgstr ""
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
 msgstr ""
 
+#: *Subject to change
+msgid "*Subject to change"
+msgstr ""
+
+#: <a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship.
+msgid "<a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship."
+msgstr ""
+
+#: Additional Product Info
+msgid "Additional Product Info"
+msgstr ""
+
+#: After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.
+msgid "After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret."
+msgstr ""
+
+#: All Allowed Countries
+msgid "All Allowed Countries"
+msgstr ""
+
 #: All locations
 msgid "All locations"
 msgstr ""
@@ -1977,6 +1997,30 @@ msgstr ""
 msgid "Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)"
 msgstr ""
 
+#: Are you sure you want to delete this theme? This change will affect all applications.
+msgid "Are you sure you want to delete this theme? This change will affect all applications."
+msgstr ""
+
+#: As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial.
+msgid "As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial."
+msgstr ""
+
+#: Banner on Home Screen (landscape mode) image missing.
+msgid "Banner on Home Screen (landscape mode) image missing."
+msgstr ""
+
+#: Banner on Home Screen (portrait mode) image missing.
+msgid "Banner on Home Screen (portrait mode) image missing."
+msgstr ""
+
+#: Banner on Home Screen <br />(landscape mode)
+msgid "Banner on Home Screen <br />(landscape mode)"
+msgstr ""
+
+#: Banner on Home Screen <br />(portrait mode)
+msgid "Banner on Home Screen <br />(portrait mode)"
+msgstr ""
+
 #: Banner on Home Screen image missing.
 msgid "Banner on Home Screen image missing."
 msgstr ""
@@ -1997,6 +2041,14 @@ msgstr ""
 msgid "Can't copy file \"%s\" to \"%s\"."
 msgstr ""
 
+#: Can't delete \"%s\" theme.
+msgid "Can't delete \"%s\" theme."
+msgstr ""
+
+#: Can't load default themes.
+msgid "Can't load default themes."
+msgstr ""
+
 #: Changes have been saved to theme.
 msgid "Changes have been saved to theme."
 msgstr ""
@@ -2005,8 +2057,20 @@ msgstr ""
 msgid "Copyright Page Logo <br />(iPhone 4 retina)"
 msgstr ""
 
+#: Countries Payment Applicable From
+msgid "Countries Payment Applicable From"
+msgstr ""
+
 #: Country options don't recognized for \"%s\".
 msgid "Country options don't recognized for \"%s\"."
+msgstr ""
+
+#: Credit Card
+msgid "Credit Card"
+msgstr ""
+
+#: Credit Card %s
+msgid "Credit Card %s"
 msgstr ""
 
 #: Currently, PayPal MEP is not available for the Android application
@@ -2015,6 +2079,14 @@ msgstr ""
 
 #: Custom App Icon <br />(iPhone 4 retina)
 msgid "Custom App Icon <br />(iPhone 4 retina)"
+msgstr ""
+
+#: Deeper Messaging and Engagement with Rich Push.
+msgid "Deeper Messaging and Engagement with Rich Push."
+msgstr ""
+
+#: Delete theme
+msgid "Delete theme"
 msgstr ""
 
 #: Description that appears in Android Market. %s chars maximum.
@@ -2049,6 +2121,14 @@ msgstr ""
 msgid "Error while reading data from Payment Bridge. Please, try again."
 msgstr ""
 
+#: Excl. Tax
+msgid "Excl. Tax"
+msgstr ""
+
+#: Extend the life of your app with Urban Airship Push Notifications.
+msgid "Extend the life of your app with Urban Airship Push Notifications."
+msgstr ""
+
 #: Facebook API
 msgid "Facebook API"
 msgstr ""
@@ -2067,6 +2147,14 @@ msgstr ""
 
 #: High Resolution Application Icon
 msgid "High Resolution Application Icon"
+msgstr ""
+
+#: How do you rate this product?
+msgid "How do you rate this product?"
+msgstr ""
+
+#: How to incorporate Urban Airship within your application:
+msgid "How to incorporate Urban Airship within your application:"
 msgstr ""
 
 #: Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px.
@@ -2099,6 +2187,14 @@ msgstr ""
 
 #: Image that appears on first screen while your app is loading. Required size: 768px x 1024px.
 msgid "Image that appears on first screen while your app is loading. Required size: 768px x 1024px."
+msgstr ""
+
+#: In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>.
+msgid "In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>."
+msgstr ""
+
+#: Incl. Tax
+msgid "Incl. Tax"
 msgstr ""
 
 #: LinkedIn API
@@ -2137,8 +2233,16 @@ msgstr ""
 msgid "Logo in Header image missing."
 msgstr ""
 
+#: MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>
+msgid "MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>"
+msgstr ""
+
 #: Message can be edited when status of the message is \"IN QUEUE\" only.
 msgid "Message can be edited when status of the message is \"IN QUEUE\" only."
+msgstr ""
+
+#: Model of order is not loaded.
+msgid "Model of order is not loaded."
 msgstr ""
 
 #: Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.
@@ -2157,20 +2261,72 @@ msgstr ""
 msgid "One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
 msgstr ""
 
+#: Only custom theme can be deleted
+msgid "Only custom theme can be deleted"
+msgstr ""
+
+#: Only default theme can be reset
+msgid "Only default theme can be reset"
+msgstr ""
+
 #: Only registered users can write reviews. Please, log in or register.
 msgid "Only registered users can write reviews. Please, log in or register."
+msgstr ""
+
+#: Order id not specified.
+msgid "Order id not specified."
+msgstr ""
+
+#: Order is not available.
+msgid "Order is not available."
+msgstr ""
+
+#: Ordered
+msgid "Ordered"
+msgstr ""
+
+#: PayPal MEP
+msgid "PayPal MEP"
+msgstr ""
+
+#: Payment Applicable From
+msgid "Payment Applicable From"
 msgstr ""
 
 #: Payment Bridge module unavailable.
 msgid "Payment Bridge module unavailable."
 msgstr ""
 
+#: Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials.
+msgid "Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials."
+msgstr ""
+
 #: Please enter the Description.
 msgid "Please enter the Description."
 msgstr ""
 
+#: Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab.
+msgid "Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab."
+msgstr ""
+
+#: Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab.
+msgid "Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab."
+msgstr ""
+
+#: Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
+msgid "Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr ""
+
 #: Recipient Information
 msgid "Recipient Information"
+msgstr ""
+
+#: Recommended size 1024px x 344px. Note: Image size affects the performance of your app.
+msgid "Recommended size 1024px x 344px. Note: Image size affects the performance of your app."
+msgstr ""
+
+#: Refunded
+msgid "Refunded"
 msgstr ""
 
 #: Reset theme to default
@@ -2181,6 +2337,14 @@ msgstr ""
 msgid "Review"
 msgstr ""
 
+#: Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
+msgid "Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+msgstr ""
+
+#: Save As
+msgid "Save As"
+msgstr ""
+
 #: Select All
 msgid "Select All"
 msgstr ""
@@ -2189,8 +2353,20 @@ msgstr ""
 msgid "Sender Information"
 msgstr ""
 
+#: Shipped
+msgid "Shipped"
+msgstr ""
+
+#: Shipping to this address is not possible.
+msgid "Shipping to this address is not possible."
+msgstr ""
+
 #: Social Networking
 msgid "Social Networking"
+msgstr ""
+
+#: Specific Countries
+msgid "Specific Countries"
 msgstr ""
 
 #: Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.
@@ -2201,12 +2377,32 @@ msgstr ""
 msgid "Summary of Your Review"
 msgstr ""
 
+#: Tax
+msgid "Tax"
+msgstr ""
+
 #: The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.
 msgid "The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB."
 msgstr ""
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
+msgstr ""
+
+#: Theme has been created.
+msgid "Theme has been created."
+msgstr ""
+
+#: Theme has been delete.
+msgid "Theme has been delete."
+msgstr ""
+
+#: Theme label can't be empty
+msgid "Theme label can't be empty"
+msgstr ""
+
+#: Theme label:
+msgid "Theme label:"
 msgstr ""
 
 #: Twitter API
@@ -2223,6 +2419,22 @@ msgstr ""
 
 #: Unable to post the review.
 msgid "Unable to post the review."
+msgstr ""
+
+#: Unable to render an order.
+msgid "Unable to render an order."
+msgstr ""
+
+#: Unsupported character in path: \"%s\"
+msgid "Unsupported character in path: \"%s\""
+msgstr ""
+
+#: Unsupported value type received
+msgid "Unsupported value type received"
+msgstr ""
+
+#: Upon receiving these credentials, please fill in the corresponding fields.
+msgid "Upon receiving these credentials, please fill in the corresponding fields."
 msgstr ""
 
 #: Your review has been accepted for moderation.

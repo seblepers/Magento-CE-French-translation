@@ -1,0 +1,244 @@
+#: \"Remember Me\" Default Value
+msgid "\"Remember Me\" Default Value"
+msgstr ""
+
+#: (Not %s?)
+msgid "(Not %s?)"
+msgstr ""
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr ""
+
+#: Address
+msgid "Address"
+msgstr ""
+
+#: Address Information
+msgid "Address Information"
+msgstr ""
+
+#: Already registered?
+msgid "Already registered?"
+msgstr ""
+
+#: Back
+msgid "Back"
+msgstr ""
+
+#: By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.
+msgid "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more."
+msgstr ""
+
+#: Cannot load configuration from file %s.
+msgid "Cannot load configuration from file %s."
+msgstr ""
+
+#: Checkout as Guest
+msgid "Checkout as Guest"
+msgstr ""
+
+#: Checkout as a Guest or Register
+msgid "Checkout as a Guest or Register"
+msgstr ""
+
+#: City
+msgid "City"
+msgstr ""
+
+#: Clear Persistence on Log Out
+msgid "Clear Persistence on Log Out"
+msgstr ""
+
+#: Close
+msgid "Close"
+msgstr ""
+
+#: Company
+msgid "Company"
+msgstr ""
+
+#: Confirm Password
+msgid "Confirm Password"
+msgstr ""
+
+#: Continue
+msgid "Continue"
+msgstr ""
+
+#: Country
+msgid "Country"
+msgstr ""
+
+#: Create an Account
+msgid "Create an Account"
+msgstr ""
+
+#: Easy access to your order history and status
+msgid "Easy access to your order history and status"
+msgstr ""
+
+#: Email Address
+msgid "Email Address"
+msgstr ""
+
+#: Enable \"Remember Me\"
+msgid "Enable \"Remember Me\""
+msgstr ""
+
+#: Enable Persistence
+msgid "Enable Persistence"
+msgstr ""
+
+#: Fast and easy check out
+msgid "Fast and easy check out"
+msgstr ""
+
+#: Fax
+msgid "Fax"
+msgstr ""
+
+#: Forgot Your Password?
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: Forgot your password?
+msgid "Forgot your password?"
+msgstr ""
+
+#: General Options
+msgid "General Options"
+msgstr ""
+
+#: If you have an account with us, please log in.
+msgid "If you have an account with us, please log in."
+msgstr ""
+
+#: Loading next step...
+msgid "Loading next step..."
+msgstr ""
+
+#: Login
+msgid "Login"
+msgstr ""
+
+#: Login Information
+msgid "Login Information"
+msgstr ""
+
+#: Login or Create an Account
+msgid "Login or Create an Account"
+msgstr ""
+
+#: New Customers
+msgid "New Customers"
+msgstr ""
+
+#: Password
+msgid "Password"
+msgstr ""
+
+#: Persist Shopping Cart
+msgid "Persist Shopping Cart"
+msgstr ""
+
+#: Persistence Lifetime (seconds)
+msgid "Persistence Lifetime (seconds)"
+msgstr ""
+
+#: Persistent Shopping Cart
+msgid "Persistent Shopping Cart"
+msgstr ""
+
+#: Personal Information
+msgid "Personal Information"
+msgstr ""
+
+#: Please log in below:
+msgid "Please log in below:"
+msgstr ""
+
+#: Please select region, state or province
+msgid "Please select region, state or province"
+msgstr ""
+
+#: Register
+msgid "Register"
+msgstr ""
+
+#: Register and save time!
+msgid "Register and save time!"
+msgstr ""
+
+#: Register to Create an Account
+msgid "Register to Create an Account"
+msgstr ""
+
+#: Register with us for future convenience:
+msgid "Register with us for future convenience:"
+msgstr ""
+
+#: Registered Customers
+msgid "Registered Customers"
+msgstr ""
+
+#: Remember Me
+msgid "Remember Me"
+msgstr ""
+
+#: Save in address book
+msgid "Save in address book"
+msgstr ""
+
+#: Select State/Province...
+msgid "Select State/Province..."
+msgstr ""
+
+#: Select a billing address from your address book or enter a new address.
+msgid "Select a billing address from your address book or enter a new address."
+msgstr ""
+
+#: Ship to different address
+msgid "Ship to different address"
+msgstr ""
+
+#: Ship to this address
+msgid "Ship to this address"
+msgstr ""
+
+#: Sign Up for Newsletter
+msgid "Sign Up for Newsletter"
+msgstr ""
+
+#: State/Province
+msgid "State/Province"
+msgstr ""
+
+#: Street Address
+msgid "Street Address"
+msgstr ""
+
+#: Street Address %s
+msgid "Street Address %s"
+msgstr ""
+
+#: Submit
+msgid "Submit"
+msgstr ""
+
+#: Telephone
+msgid "Telephone"
+msgstr ""
+
+#: Welcome, %s!
+msgid "Welcome, %s!"
+msgstr ""
+
+#: What's this?
+msgid "What's this?"
+msgstr ""
+
+#: Zip/Postal Code
+msgid "Zip/Postal Code"
+msgstr ""
+

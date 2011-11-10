@@ -152,7 +152,7 @@ msgstr "Nom complet de la personne recevant le produit ou service payé par le p
 
 #: Initial Fee
 msgid "Initial Fee"
-msgstr "Frais initiale"
+msgstr "Frais initiaux"
 
 #: Initial non-recurring payment amount due immediately upon profile creation.
 msgid "Initial non-recurring payment amount due immediately upon profile creation."
@@ -356,7 +356,7 @@ msgstr "Vérification 3D Secure stricte"
 
 #: Severe validation removes chargeback liability on merchant.
 msgid "Severe validation removes chargeback liability on merchant."
-msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand."
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Shipping Amount
 msgid "Shipping Amount"
@@ -509,4 +509,12 @@ msgstr "Le profil de paiement est invalide :\\n%s"
 #: Payment profile is invalid:n%s
 msgid "Payment profile is invalid:n%s"
 msgstr "Le profil de paiement est invalide :\\n%s"
+
+#: Merchant ID
+msgid "Merchant ID"
+msgstr "ID de marchand"
+
+#: Processor ID
+msgid "Processor ID"
+msgstr "ID de processeur"
 

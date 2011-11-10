@@ -1486,12 +1486,24 @@ msgstr "Mauvais format d'informations de fichier"
 msgid "database \"%s\""
 msgstr "Base de donnée \"%s\""
 
+#: "After selecting a new media storage location, press the Synchronize button
+msgid "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
+msgstr ""
+
 #: Allow Symlinks
 msgid "Allow Symlinks"
 msgstr ""
 
 #: Can not create invoice. Order was not found.
 msgid "Can not create invoice. Order was not found."
+msgstr ""
+
+#: Can't retrieve entity config: %s
+msgid "Can't retrieve entity config: %s"
+msgstr ""
+
+#: Custom Admin Path
+msgid "Custom Admin Path"
 msgstr ""
 
 #: Environment Update Time
@@ -1502,6 +1514,18 @@ msgstr ""
 msgid "Input type \"%value%\" not found in the input types list."
 msgstr ""
 
+#: Invalid connection
+msgid "Invalid connection"
+msgstr ""
+
+#: Invalid query
+msgid "Invalid query"
+msgstr ""
+
+#: Offloader header
+msgid "Offloader header"
+msgstr ""
+
 #: Path \"%value%\" is not available and cannot be used.
 msgid "Path \"%value%\" is not available and cannot be used."
 msgstr ""
@@ -1510,11 +1534,11 @@ msgstr ""
 msgid "Path \"%value%\" is protected and cannot be used."
 msgstr ""
 
-#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"
+#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
 msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
 msgstr ""
 
-#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
 msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
 msgstr ""
 
@@ -1534,7 +1558,7 @@ msgstr ""
 msgid "Please set available and/or protected paths list(s) before validation."
 msgstr ""
 
-#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"
+#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
 msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
 msgstr ""
 
@@ -1542,7 +1566,131 @@ msgstr ""
 msgid "Template Settings"
 msgstr ""
 
+#: Unknown old style column type definition: {$definition}.
+msgid "Unknown old style column type definition: {$definition}."
+msgstr ""
+
+#: Use Custom Admin Path
+msgid "Use Custom Admin Path"
+msgstr ""
+
 #: Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.
 msgid "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk."
+msgstr ""
+
+#: Wrong old style column type definition: {$definition}.
+msgid "Wrong old style column type definition: {$definition}."
+msgstr ""
+
+#: You will have to log in after you save your custom admin path.
+msgid "You will have to log in after you save your custom admin path."
+msgstr ""
+
+#: Currency
+msgid "Currency"
+msgstr ""
+
+#: About the calendar
+msgid "About the calendar"
+msgstr ""
+
+#: DHTML Date/Time Selector
+msgid "DHTML Date/Time Selector"
+msgstr ""
+
+#: For latest version visit: %s
+msgid "For latest version visit: %s"
+msgstr ""
+
+#: Distributed under GNU LGPL. See %s for details.
+msgid "Distributed under GNU LGPL. See %s for details."
+msgstr ""
+
+#: Date selection:
+msgid "Date selection:"
+msgstr ""
+
+#: - Use the %s, %s buttons to select year
+msgid "- Use the %s, %s buttons to select year"
+msgstr ""
+
+#: - Use the %s buttons to select month
+msgid "- Use the %s buttons to select month"
+msgstr ""
+
+#: - Hold mouse button on any of the above buttons for faster selection.
+msgid "- Hold mouse button on any of the above buttons for faster selection."
+msgstr ""
+
+#: Time selection:
+msgid "Time selection:"
+msgstr ""
+
+#: - Click on any of the time parts to increase it
+msgid "- Click on any of the time parts to increase it"
+msgstr ""
+
+#: - or Shift-click to decrease it
+msgid "- or Shift-click to decrease it"
+msgstr ""
+
+#: - or click and drag for faster selection.
+msgid "- or click and drag for faster selection."
+msgstr ""
+
+#: Prev. year (hold for menu)
+msgid "Prev. year (hold for menu)"
+msgstr ""
+
+#: Prev. month (hold for menu)
+msgid "Prev. month (hold for menu)"
+msgstr ""
+
+#: Go Today
+msgid "Go Today"
+msgstr ""
+
+#: Next month (hold for menu)
+msgid "Next month (hold for menu)"
+msgstr ""
+
+#: Next year (hold for menu)
+msgid "Next year (hold for menu)"
+msgstr ""
+
+#: Select date
+msgid "Select date"
+msgstr ""
+
+#: Drag to move
+msgid "Drag to move"
+msgstr ""
+
+#: Display %s first
+msgid "Display %s first"
+msgstr ""
+
+#: Close
+msgid "Close"
+msgstr ""
+
+#: (Shift-)Click or drag to change value
+msgid "(Shift-)Click or drag to change value"
+msgstr ""
+
+#: Time:
+msgid "Time:"
+msgstr ""
+
+#: Thumbnail
+msgid "Thumbnail"
+msgstr ""
+
+#: Search
+msgid "Search"
+msgstr "Rechercher"
+
+#: Place Order
+msgid "Place Order"
 msgstr ""
 

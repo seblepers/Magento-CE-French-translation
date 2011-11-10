@@ -350,3 +350,7 @@ msgstr "Voir l'article dans Google Base"
 msgid "Yes"
 msgstr "Oui"
 
+#: Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.
+msgid "Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base."
+msgstr "La devise de base devrait être %s pour %s dans la configuration système. Sinon les prix ne seront pas corrects dans Google Base."
+

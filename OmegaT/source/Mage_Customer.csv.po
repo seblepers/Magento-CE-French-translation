@@ -1790,23 +1790,35 @@ msgstr ""
 msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
 msgstr ""
 
-#: '%value%' does not appear to be a valid URI hostname
-msgid "'%value%' does not appear to be a valid URI hostname"
-msgstr ""
-
 #: '%value%' does not appear to be a valid local network name
 msgid "'%value%' does not appear to be a valid local network name"
-msgstr ""
-
-#: '%value%' does not match the expected structure for a DNS hostname
-msgid "'%value%' does not match the expected structure for a DNS hostname"
 msgstr ""
 
 #: Customer API
 msgid "Customer API"
 msgstr ""
 
-#: Invalid type given. String expected
-msgid "Invalid type given. String expected"
+#: Customer email is required
+msgid "Customer email is required"
+msgstr ""
+
+#: Customer website ID must be specified when using the website scope
+msgid "Customer website ID must be specified when using the website scope"
+msgstr ""
+
+#: Forgot Your Password
+msgid "Forgot Your Password"
+msgstr ""
+
+#: The group \"%s\" cannot be deleted
+msgid "The group \"%s\" cannot be deleted"
+msgstr ""
+
+#: This customer email already exists
+msgid "This customer email already exists"
+msgstr ""
+
+#: Wrong transactional account email type
+msgid "Wrong transactional account email type"
 msgstr ""
 

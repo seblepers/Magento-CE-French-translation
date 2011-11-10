@@ -350,3 +350,11 @@ msgstr "Votre commentaire a été accepté pour modération."
 msgid "Not Approved"
 msgstr "Non approuvé"
 
+#: Customers Reviews
+msgid "Customers Reviews"
+msgstr ""
+
+#: Products Reviews
+msgid "Products Reviews"
+msgstr ""
+

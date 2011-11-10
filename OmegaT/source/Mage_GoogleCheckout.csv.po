@@ -398,3 +398,23 @@ msgstr "<br/>Attention : <strong>%s</strong><br/>"
 msgid "The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount"
 msgstr "Le montant de taxe a été appliqué à partir des informations reçues de Google Checkout, car le montant de taxe reçu de Google Checkout diffère de celui calculé."
 
+#: Account Number
+msgid "Account Number"
+msgstr ""
+
+#: Optimistic
+msgid "Optimistic"
+msgstr ""
+
+#: Pessimistic
+msgid "Pessimistic"
+msgstr ""
+
+#: Email delivery
+msgid "Email delivery"
+msgstr ""
+
+#: <a href="http://www.magentocommerce.com/redirect/google-checkout/" target="_blank">Signup for Google Checkout</a>
+msgid "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">Signup for Google Checkout</a>"
+msgstr ""
+

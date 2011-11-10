@@ -286,15 +286,19 @@ msgstr "Paramètres d'export"
 msgid "Export File Format"
 msgstr "Format du fichier d'export"
 
-#: 
+#:
 msgid ""
 
-#: 
+#:
 msgid ""
 
-#: 
+#:
 msgid ""
 
-#: 
+#:
 msgid ""
+
+#: Column names have duplicates
+msgid "Column names have duplicates"
+msgstr "Il y a des doublons parmi les noms de colonnes"
 

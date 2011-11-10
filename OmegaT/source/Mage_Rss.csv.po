@@ -222,3 +222,11 @@ msgstr "cliquez <a href=\"%s\">ici</a> pour lire le commentaire"
 msgid "%s's Wishlist"
 msgstr "Liste d'envies de %s"
 
+#: Click for price
+msgid "Click for price"
+msgstr ""
+
+#: Order
+msgid "Order"
+msgstr ""
+

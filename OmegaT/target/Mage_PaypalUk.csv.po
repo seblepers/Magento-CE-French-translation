@@ -24,7 +24,7 @@ msgstr "Formulaire de commentaire de commande PayPal Express"
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr "Rapports de règlement PayPal"
+msgstr "Rapports de règlements PayPal"
 
 #: Pending PayPal
 msgid "Pending PayPal"

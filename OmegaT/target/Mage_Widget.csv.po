@@ -278,3 +278,25 @@ msgstr "sur %s pages"
 msgid "per page"
 msgstr "par page"
 
+#: Add New
+msgid "Add New"
+msgstr "Ajouter"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: Anchor Custom Title
+msgid "Anchor Custom Title"
+msgstr "Présenter un titre personnalisé"
+
+#: Anchor Custom Text
+msgid "Anchor Custom Text"
+msgstr "Présenter un texte personnalisé"
+
+#:
+msgid ""
+
+#:
+msgid ""
+

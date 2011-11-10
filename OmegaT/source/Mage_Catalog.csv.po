@@ -3114,7 +3114,155 @@ msgstr "Type de produit erroné pour l'extraction des options configurables."
 msgid "Images"
 msgstr "Images"
 
+#: <strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend.
+msgid "<strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend."
+msgstr ""
+
+#: Actual Price
+msgid "Actual Price"
+msgstr ""
+
+#: An error occurred while saving the URL rewrite
+msgid "An error occurred while saving the URL rewrite"
+msgstr ""
+
+#: Apply MAP (Default Value)
+msgid "Apply MAP (Default Value)"
+msgstr ""
+
+#: Before Order Confirmation
+msgid "Before Order Confirmation"
+msgstr ""
+
+#: Buy %1$s
+msgid "Buy %1$s"
+msgstr ""
+
+#: Buy %1$s for
+msgid "Buy %1$s for"
+msgstr ""
+
+#: Category move operation is not possible: parent category is equal to child category.
+msgid "Category move operation is not possible: parent category is equal to child category."
+msgstr ""
+
+#: Category move operation is not possible: the current category was not found.
+msgid "Category move operation is not possible: the current category was not found."
+msgstr ""
+
+#: Click for price
+msgid "Click for price"
+msgstr ""
+
+#: Default \"What's This\" Text Message
+msgid "Default \"What's This\" Text Message"
+msgstr ""
+
+#: Default Popup Text Message
+msgid "Default Popup Text Message"
+msgstr ""
+
+#: Display Actual Price
+msgid "Display Actual Price"
+msgstr ""
+
+#: Enable MAP
+msgid "Enable MAP"
+msgstr ""
+
 #: Failed to copy file %s. Please, delete media with non-existing images and try again.
 msgid "Failed to copy file %s. Please, delete media with non-existing images and try again."
+msgstr ""
+
+#: In Cart
+msgid "In Cart"
+msgstr ""
+
+#: Invalid attribute %s
+msgid "Invalid attribute %s"
+msgstr ""
+
+#: Minimum Advertised Price
+msgid "Minimum Advertised Price"
+msgstr ""
+
+#: On Gesture
+msgid "On Gesture"
+msgstr ""
+
+#: Scope must not be changed, because the attribute is used in configurable products.
+msgid "Scope must not be changed, because the attribute is used in configurable products."
+msgstr ""
+
+#: See price before order confirmation.
+msgid "See price before order confirmation."
+msgstr ""
+
+#: The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module
+msgid "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module"
+msgstr ""
+
+#: The model collection resource name is not defined.
+msgid "The model collection resource name is not defined."
+msgstr ""
+
+#: This attribute is used in configurable products.
+msgid "This attribute is used in configurable products."
+msgstr ""
+
+#: To reindex the enabled product(s), the store or product must be specified
+msgid "To reindex the enabled product(s), the store or product must be specified"
+msgstr ""
+
+#: To see product price, add this item to your cart. You can always remove it later.
+msgid "To see product price, add this item to your cart. You can always remove it later."
+msgstr ""
+
+#: What's this?
+msgid "What's this?"
+msgstr ""
+
+#: Thumbnail
+msgid "Thumbnail"
+msgstr ""
+
+#: Manufacturer
+msgid "Manufacturer"
+msgstr ""
+
+#: Color
+msgid "Color"
+msgstr ""
+
+#: Dimensions
+msgid "Dimensions"
+msgstr ""
+
+#: In Depth
+msgid "In Depth"
+msgstr ""
+
+#: Model
+msgid "Model"
+msgstr ""
+
+#: Activation Information
+msgid "Activation Information"
+msgstr ""
+
+#: Brand
+msgid "Brand"
+msgstr ""
+
+#: Size
+msgid "Size"
+msgstr ""
+
+#: General
+msgid "General"
+msgstr ""
+
+#: Gift Options
+msgid "Gift Options"
 msgstr ""
 

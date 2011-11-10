@@ -298,3 +298,7 @@ msgid ""
 #: 
 msgid ""
 
+#: Column names have duplicates
+msgid "Column names have duplicates"
+msgstr ""
+

@@ -344,7 +344,7 @@ msgstr "Réf."
 
 #: SKU %s cannot be saved because of %s.
 msgid "SKU %s cannot be saved because of %s."
-msgstr "Le SKU %s ne peut pas être sauvegardée à cause de %s"
+msgstr "La réf. %s ne peut pas être sauvegardée à cause de %s"
 
 #: Sales
 msgid "Sales"

@@ -320,7 +320,7 @@ msgstr "Nombre de fois effacé"
 
 #: Number of Total Tags
 msgid "Number of Total Tags"
-msgstr "Nombre de tags total"
+msgstr "Nombre total de tags"
 
 #: Number of Unique Tags
 msgid "Number of Unique Tags"
@@ -396,7 +396,7 @@ msgstr "Commentaires"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "SKU Produit"
+msgstr "Réf. Produit"
 
 #: Product Tags
 msgid "Product Tags"
@@ -693,4 +693,24 @@ msgstr "indéfini"
 #: Excel XML
 msgid "Excel XML"
 msgstr "XML d'Excel"
+
+#: Catalog Category (Without Subcategories)
+msgid "Catalog Category (Without Subcategories)"
+msgstr "Catégorie de catalogue (sans sous-catégories)"
+
+#: Canceled
+msgid "Canceled"
+msgstr "Annulée"
+
+#: Closed
+msgid "Closed"
+msgstr "Fermée"
+
+#: Complete
+msgid "Complete"
+msgstr "Terminée"
+
+#: Processing
+msgid "Processing"
+msgstr "En cours de traitement"
 

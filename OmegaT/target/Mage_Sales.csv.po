@@ -932,7 +932,7 @@ msgstr "Informations"
 
 #: Initial Fee
 msgid "Initial Fee"
-msgstr "Frais initiale"
+msgstr "Frais initiaux"
 
 #: Initial Fees
 msgid "Initial Fees"
@@ -990,7 +990,7 @@ msgstr "Facturer"
 msgid "Invoice #"
 msgstr "Facture n°"
 
-#: Invoice # 
+#: Invoice #
 msgid "Invoice # "
 msgstr "Facture n° "
 
@@ -1438,7 +1438,7 @@ msgstr "Commande"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -1502,7 +1502,7 @@ msgstr "Date de commande (%s)"
 msgid "Order Date:"
 msgstr "Date de commande :"
 
-#: Order Date: 
+#: Order Date:
 msgid "Order Date: "
 msgstr "Date de commande : "
 
@@ -1646,7 +1646,7 @@ msgstr "Le modèle total de pdf devrait se prolonger Mage_Sales_Model_Order_Pdf_
 msgid "Packingslip #"
 msgstr "Bordereau de livraison n°"
 
-#: Packingslip # 
+#: Packingslip #
 msgid "Packingslip # "
 msgstr "Bordereau de livraison n° "
 
@@ -2464,7 +2464,7 @@ msgstr "Sous-total :"
 
 #: Suspected Fraud
 msgid "Suspected Fraud"
-msgstr "Fraude suspectée."
+msgstr "Fraude suspectée"
 
 #: Suspend
 msgid "Suspend"
@@ -2794,7 +2794,7 @@ msgstr "Type de transaction"
 msgid "Transactions"
 msgstr "Transactions"
 
-#: Trial 
+#: Trial
 msgid "Trial "
 msgstr "Essai  "
 
@@ -3217,4 +3217,268 @@ msgstr "Articles à facturer"
 #: Items to Invoice and Ship
 msgid "Items to Invoice and Ship"
 msgstr "Articles à facturer et expédier"
+
+#: Add Package
+msgid "Add Package"
+msgstr "Ajouter un package"
+
+#: Add Selected Product(s) to Package
+msgid "Add Selected Product(s) to Package"
+msgstr "Ajouter les produits sélectionnés au paquet"
+
+#: An error occurred while creating shipping label.
+msgid "An error occurred while creating shipping label."
+msgstr "Erreur lors de la création de l'étiquette de livraison."
+
+#: Anchor Custom Title
+msgid "Anchor Custom Title"
+msgstr "Présenter un titre personnalisé"
+
+#: Billing Last Name
+msgid "Billing Last Name"
+msgstr "Nom (fact.)"
+
+#: Billing ZIP Code
+msgid "Billing ZIP Code"
+msgstr "Code postal (fact.)"
+
+#: Contents
+msgid "Contents"
+msgstr "Contenu"
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Create Packages
+msgid "Create Packages"
+msgstr "Créer les paquets"
+
+#: Create Shipping Label
+msgid "Create Shipping Label"
+msgstr "Créer l'étiquette de livraison"
+
+#: Create Shipping Label...
+msgid "Create Shipping Label..."
+msgstr "Créer l'étiquette de livraison..."
+
+#: Customs Value
+msgid "Customs Value"
+msgstr "Valeur personnalisée"
+
+#: Default Template
+msgid "Default Template"
+msgstr "Gabarit par défaut"
+
+#: Delete Package
+msgid "Delete Package"
+msgstr "Effacer le paquet"
+
+#: Email Address
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: Enter the billing last name and email/ZIP as in the order billing address
+msgid "Enter the billing last name and email/ZIP as in the order billing address"
+msgstr "Saisissez le nom de famille (fact.) et l'email/code postal comme dans l'adresse de facturation de la commande."
+
+#: Entered data is incorrect. Please try again.
+msgid "Entered data is incorrect. Please try again."
+msgstr "Les données saisies sont incorrectes. Veuillez réessayer."
+
+#: Explanation
+msgid "Explanation"
+msgstr "Explication"
+
+#: File extension not known or unsupported type in the following shipment: %s
+msgid "File extension not known or unsupported type in the following shipment: %s"
+msgstr "Extension de fichier inconnue ou non supportée dans l'expédition suivante : %s"
+
+#: Find Order By:
+msgid "Find Order By:"
+msgstr "Tri :"
+
+#: Girth
+msgid "Girth"
+msgstr "Circonférence"
+
+#: Height
+msgid "Height"
+msgstr "Hauteur"
+
+#: IPN \"Refunded\". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: \"%s\"
+msgid "IPN \"Refunded\". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: \"%s\""
+msgstr "IPN \"Refunded\". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: \"%s\""
+
+#: Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.
+msgid "Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings."
+msgstr "Informations insuffisantes pour créer les étiquettes de livraison. Veuillez vérifier les paramètres de livraison et d'informations de boutiques."
+
+#: Items in the Package
+msgid "Items in the Package"
+msgstr "Articles dans le paquet"
+
+#: Length
+msgid "Length"
+msgstr "Longueur"
+
+#: Make Check payable to:
+msgid "Make Check payable to:"
+msgstr "Libeller le chèque à l'ordre de :"
+
+#: OK
+msgid "OK"
+msgstr "OK"
+
+#: Orders and Returns
+msgid "Orders and Returns"
+msgstr "Commandes et retours"
+
+#: Orders and Returns Search Form
+msgid "Orders and Returns Search Form"
+msgstr "Formulaire de recherche de commandes et retours"
+
+#: Package
+msgid "Package"
+msgstr "Interface"
+
+#: Packages
+msgid "Packages"
+msgstr "Packages"
+
+#: Print Shipping Label
+msgid "Print Shipping Label"
+msgstr "Imprimer l'étiquette de livraison"
+
+#: Print Shipping Labels
+msgid "Print Shipping Labels"
+msgstr "Imprimer les étiquettes de livraison"
+
+#: Products should be added to package(s)
+msgid "Products should be added to package(s)"
+msgstr "Les produits devraient être ajoutés au(x) paquet(s)"
+
+#: Purchase Order Number:
+msgid "Purchase Order Number:"
+msgstr "Numéro de bon de commande :"
+
+#: Returns
+msgid "Returns"
+msgstr "Retours"
+
+#: Select
+msgid "Select"
+msgstr "Sélectionnez"
+
+#: Select All
+msgid "Select All"
+msgstr "Sélectionner tout"
+
+#: Send Credit Memo Comments Email Copy Method
+msgid "Send Credit Memo Comments Email Copy Method"
+msgstr "Mode de copie d'email pour les commentaires d'avoir"
+
+#: Send Credit Memo Email Copy Method
+msgid "Send Credit Memo Email Copy Method"
+msgstr "Mode de copie d'email pour les avoirs"
+
+#: Send Invoice Comments Email Copy Method
+msgid "Send Invoice Comments Email Copy Method"
+msgstr "Mode de copie d'email pour les commentaires de facture"
+
+#: Send Invoice Email Copy Method
+msgid "Send Invoice Email Copy Method"
+msgstr "Mode de copie d'email pour les factures"
+
+#: Send Order Comments Email Copy Method
+msgid "Send Order Comments Email Copy Method"
+msgstr "Mode de copie d'email pour les commentaires de commande"
+
+#: Send Shipment Comments Email Copy Method
+msgid "Send Shipment Comments Email Copy Method"
+msgstr "Mode de copie d'email pour les commentaires d'expédition"
+
+#: Send Shipment Email Copy Method
+msgid "Send Shipment Email Copy Method"
+msgstr "Mode de copie d'email pour les expéditions"
+
+#: Show Packages
+msgid "Show Packages"
+msgstr "Afficher les paquets"
+
+#: Signature Confirmation
+msgid "Signature Confirmation"
+msgstr "Confirmation de signature"
+
+#: Size
+msgid "Size"
+msgstr "Taille"
+
+#: The quantity you want to add exceeds the total shipped quantity for some of selected Product(s)
+msgid "The quantity you want to add exceeds the total shipped quantity for some of selected Product(s)"
+msgstr "La quantité que vous essayez d'ajouter exède la quantité livrée totale pour certains produits"
+
+#: The shipping label has been created.
+msgid "The shipping label has been created."
+msgstr "L'étiquette de livraison a été créée."
+
+#: The value that you entered is not valid.
+msgid "The value that you entered is not valid."
+msgstr "La valeur n'est pas valide."
+
+#: There are no shipping labels related to selected %s.
+msgid "There are no shipping labels related to selected %s."
+msgstr "Aucune étiquette de livraison correspondant aux %s sélectionnés."
+
+#: This product does not have any configurable options
+msgid "This product does not have any configurable options"
+msgstr "Ce produit n'a aucune option configurable."
+
+#: Total Weight
+msgid "Total Weight"
+msgstr "Poids total"
+
+#: Type
+msgid "Type"
+msgstr "Type"
+
+#: View Another Order
+msgid "View Another Order"
+msgstr "Voir une autre commande"
+
+#: Weight
+msgid "Weight"
+msgstr "Poids"
+
+#: Width
+msgid "Width"
+msgstr "Largeur"
+
+#: cm
+msgid "cm"
+msgstr ""
+
+#: in
+msgid "in"
+msgstr ""
+
+#: kg
+msgid "kg"
+msgstr ""
+
+#: lb
+msgid "lb"
+msgstr ""
+
+#: Processing A
+msgid "Processing A"
+msgstr ""
+
+#: of %s pages
+msgid "of %s pages"
+msgstr "sur %s pages"
+
+#: Total %d records found
+msgid "Total %d records found"
+msgstr "%d enregistrement(s) trouvé(s)"
 

@@ -19,7 +19,7 @@ cp $tmpdir/*.csv $extdir/app/locale/fr_FR/
 cp -R $emaildir/* $extdir/app/locale/fr_FR/template/email/
 
 # Copie sur l'instance de test et vidage du cache
-magentotest='../../../Dev/magento1510'
+magentotest='../../../Dev/magento1600'
 cp -R $extdir/* $magentotest/
 rm -rf $magentotest/var/cache/*
 

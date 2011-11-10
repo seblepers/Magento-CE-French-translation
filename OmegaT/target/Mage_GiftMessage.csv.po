@@ -158,3 +158,19 @@ msgstr "Options cadeau pour cette adresse."
 msgid "OK"
 msgstr "OK"
 
+#: Add gift message for shopping cart
+msgid "Add gift message for shopping cart"
+msgstr "Ajouter un message cadeau pour le panier"
+
+#: Add gift messages for quote item of shopping cart
+msgid "Add gift messages for quote item of shopping cart"
+msgstr "Ajouter des messages cadeau pour un article du panier"
+
+#: Add gift messages to products of shopping cart
+msgid "Add gift messages to products of shopping cart"
+msgstr "Ajouter des messages cadeau aux produits du panier"
+
+#: Gift Message API
+msgid "Gift Message API"
+msgstr "API de messages cadeau"
+

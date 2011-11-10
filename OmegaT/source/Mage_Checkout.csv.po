@@ -1242,6 +1242,10 @@ msgstr ""
 msgid "Gift Message"
 msgstr ""
 
+#: ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER
+msgid "ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER"
+msgstr ""
+
 #: One item of products do not have identifier or sku
 msgid "One item of products do not have identifier or sku"
 msgstr ""
@@ -1252,5 +1256,13 @@ msgstr ""
 
 #: Order place error.
 msgid "Order place error."
+msgstr ""
+
+#: See price before order confirmation.
+msgid "See price before order confirmation."
+msgstr ""
+
+#: What's this?
+msgid "What's this?"
 msgstr ""
 

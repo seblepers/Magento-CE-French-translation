@@ -486,3 +486,11 @@ msgstr "C'est terminé !"
 msgid "Response from server isn't valid."
 msgstr "La réponse du serveur n'est pas valide."
 
+#: Database Type
+msgid "Database Type"
+msgstr ""
+
+#: No resource for %s DB model.
+msgid "No resource for %s DB model."
+msgstr ""
+

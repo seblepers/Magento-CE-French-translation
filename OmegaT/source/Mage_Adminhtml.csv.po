@@ -5082,16 +5082,32 @@ msgstr ""
 msgid "ASCII"
 msgstr ""
 
+#: Add New
+msgid "Add New"
+msgstr ""
+
 #: All locations
 msgid "All locations"
+msgstr ""
+
+#: Are you sure you want to delete this theme? This change will affect all applications.
+msgid "Are you sure you want to delete this theme? This change will affect all applications."
 msgstr ""
 
 #: BINARY
 msgid "BINARY"
 msgstr ""
 
-#: Changes have been saved to theme.
-msgid "Changes have been saved to theme."
+#: Chosen category does not associated with any website, so url rewrite is not possible.
+msgid "Chosen category does not associated with any website, so url rewrite is not possible."
+msgstr ""
+
+#: Chosen product does not associated with any website, so url rewrite is not possible.
+msgid "Chosen product does not associated with any website, so url rewrite is not possible."
+msgstr ""
+
+#: Delete theme
+msgid "Delete theme"
 msgstr ""
 
 #: Deselect All
@@ -5118,20 +5134,64 @@ msgstr ""
 msgid "Loading Preview..."
 msgstr ""
 
+#: Only custom theme can be deleted
+msgid "Only custom theme can be deleted"
+msgstr ""
+
+#: Only default theme can be reset
+msgid "Only default theme can be reset"
+msgstr ""
+
 #: Order
 msgid "Order"
+msgstr ""
+
+#: Product Tax Classes
+msgid "Product Tax Classes"
 msgstr ""
 
 #: Reset theme to default
 msgid "Reset theme to default"
 msgstr ""
 
+#: Save As
+msgid "Save As"
+msgstr ""
+
+#: The invoice and the shipment  have been created. The shipping label cannot be created at the moment.
+msgid "The invoice and the shipment  have been created. The shipping label cannot be created at the moment."
+msgstr ""
+
 #: The profile you are trying to save no longer exists
 msgid "The profile you are trying to save no longer exists"
 msgstr ""
 
+#: The shipment has been created. The shipping label has been created.
+msgid "The shipment has been created. The shipping label has been created."
+msgstr ""
+
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
+msgstr ""
+
+#: Theme label can't be empty
+msgid "Theme label can't be empty"
+msgstr ""
+
+#: Theme label:
+msgid "Theme label:"
+msgstr ""
+
+#: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
+msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
+msgstr ""
+
+#: Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?
+msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
+msgstr ""
+
+#: Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?
+msgid "Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?"
 msgstr ""
 
 #: XML data is invalid.
@@ -5140,5 +5200,37 @@ msgstr ""
 
 #: XML object is not instance of \"Varien_Simplexml_Element\".
 msgid "XML object is not instance of \"Varien_Simplexml_Element\"."
+msgstr ""
+
+#: PayPal Settlement Reports
+msgid "PayPal Settlement Reports"
+msgstr ""
+
+#: General
+msgid "General"
+msgstr "Général"
+
+#: Inventory
+msgid "Inventory"
+msgstr "Inventaire"
+
+#: Address
+msgid "Address"
+msgstr ""
+
+#: Minimum Order Amount
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: Shipping Methods
+msgid "Shipping Methods"
+msgstr ""
+
+#: Payment Methods
+msgid "Payment Methods"
+msgstr ""
+
+#: Google API
+msgid "Google API"
 msgstr ""
 

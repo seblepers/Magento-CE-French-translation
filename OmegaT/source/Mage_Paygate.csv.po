@@ -278,3 +278,15 @@ msgstr "invalider"
 msgid "Centinel API URL"
 msgstr ""
 
+#: Payment updating error.
+msgid "Payment updating error."
+msgstr ""
+
+#: Gateway URL
+msgid "Gateway URL"
+msgstr ""
+
+#: <a href="http://celinks.magento.com/authorize_netRegistration" target="_blank">Click here to sign up for an Authorize.net account</a>
+msgid "<a href=\"http://celinks.magento.com/authorize_netRegistration\" target=\"_blank\">Click here to sign up for an Authorize.net account</a>"
+msgstr ""
+

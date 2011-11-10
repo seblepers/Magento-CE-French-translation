@@ -64,7 +64,7 @@ msgstr "Action d'erreur d'adresse"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
-msgstr "Erreur de mail destinataire"
+msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"

@@ -694,3 +694,23 @@ msgstr "indéfini"
 msgid "Excel XML"
 msgstr "XML d'Excel"
 
+#: Catalog Category (Without Subcategories)
+msgid "Catalog Category (Without Subcategories)"
+msgstr ""
+
+#: Canceled
+msgid "Canceled"
+msgstr ""
+
+#: Closed
+msgid "Closed"
+msgstr ""
+
+#: Complete
+msgid "Complete"
+msgstr ""
+
+#: Processing
+msgid "Processing"
+msgstr ""
+

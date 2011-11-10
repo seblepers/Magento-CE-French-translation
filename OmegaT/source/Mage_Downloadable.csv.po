@@ -306,11 +306,27 @@ msgstr "Éditer"
 msgid "Edit item parameters"
 msgstr "Éditer les paramètres de l'article"
 
+#: Delete
+msgid "Delete"
+msgstr ""
+
 #: Order id cannot be null
 msgid "Order id cannot be null"
 msgstr ""
 
 #: Order item id cannot be null
 msgid "Order item id cannot be null"
+msgstr ""
+
+#: See price before order confirmation.
+msgid "See price before order confirmation."
+msgstr ""
+
+#: Use Default Value
+msgid "Use Default Value"
+msgstr ""
+
+#: What's this?
+msgid "What's this?"
 msgstr ""
 

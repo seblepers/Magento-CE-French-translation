@@ -1,0 +1,244 @@
+#: \"Remember Me\" Default Value
+msgid "\"Remember Me\" Default Value"
+msgstr "Valeur par défaut de \"Se souvenir de moi\""
+
+#: (Not %s?)
+msgid "(Not %s?)"
+msgstr "(Vous n'êtes pas %s ?)"
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr "* Champs obligatoires"
+
+#: Address
+msgid "Address"
+msgstr "Adresse"
+
+#: Address Information
+msgid "Address Information"
+msgstr "Informations d'adresse"
+
+#: Already registered?
+msgid "Already registered?"
+msgstr "Vous avez déjà un compte ?"
+
+#: Back
+msgid "Back"
+msgstr "Retour"
+
+#: By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.
+msgid "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more."
+msgstr "En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore."
+
+#: Cannot load configuration from file %s.
+msgid "Cannot load configuration from file %s."
+msgstr "Impossible de charger la configuration depuis le fichier %s."
+
+#: Checkout as Guest
+msgid "Checkout as Guest"
+msgstr "Régler en tant qu'invité"
+
+#: Checkout as a Guest or Register
+msgid "Checkout as a Guest or Register"
+msgstr "Régler en tant qu'invité ou s'enregistrer"
+
+#: City
+msgid "City"
+msgstr "Ville"
+
+#: Clear Persistence on Log Out
+msgid "Clear Persistence on Log Out"
+msgstr "Effacer la persistance lors de la déconnexion"
+
+#: Close
+msgid "Close"
+msgstr "Fermer"
+
+#: Company
+msgid "Company"
+msgstr "Société"
+
+#: Confirm Password
+msgid "Confirm Password"
+msgstr "Confirmer le mot de passe"
+
+#: Continue
+msgid "Continue"
+msgstr "Continuer"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Create an Account
+msgid "Create an Account"
+msgstr "Créer un compte"
+
+#: Easy access to your order history and status
+msgid "Easy access to your order history and status"
+msgstr "Consultez et suivez vos commandes"
+
+#: Email Address
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: Enable \"Remember Me\"
+msgid "Enable \"Remember Me\""
+msgstr "Activer \"Se souvenir de moi\""
+
+#: Enable Persistence
+msgid "Enable Persistence"
+msgstr "Activer la persistance"
+
+#: Fast and easy check out
+msgid "Fast and easy check out"
+msgstr "Commander plus vite et plus facilement"
+
+#: Fax
+msgid "Fax"
+msgstr "Fax"
+
+#: Forgot Your Password?
+msgid "Forgot Your Password?"
+msgstr "Mot de passe oublié ?"
+
+#: Forgot your password?
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+#: General Options
+msgid "General Options"
+msgstr "Options générales"
+
+#: If you have an account with us, please log in.
+msgid "If you have an account with us, please log in."
+msgstr "Si vous avez déjà un compte, veuillez vous identifier."
+
+#: Loading next step...
+msgid "Loading next step..."
+msgstr "Chargement en cours de l'étape suivante..."
+
+#: Login
+msgid "Login"
+msgstr "Connexion"
+
+#: Login Information
+msgid "Login Information"
+msgstr "Information de connexion"
+
+#: Login or Create an Account
+msgid "Login or Create an Account"
+msgstr "Identifiez-vous ou créez un compte"
+
+#: New Customers
+msgid "New Customers"
+msgstr "Nouveaux clients"
+
+#: Password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: Persist Shopping Cart
+msgid "Persist Shopping Cart"
+msgstr "Panier persistant"
+
+#: Persistence Lifetime (seconds)
+msgid "Persistence Lifetime (seconds)"
+msgstr "Durée de vie de la persistance (secondes)"
+
+#: Persistent Shopping Cart
+msgid "Persistent Shopping Cart"
+msgstr "Panier persistant"
+
+#: Personal Information
+msgid "Personal Information"
+msgstr "Informations personnelles"
+
+#: Please log in below:
+msgid "Please log in below:"
+msgstr "Veuillez vous identifier :"
+
+#: Please select region, state or province
+msgid "Please select region, state or province"
+msgstr "Sélectionnez un département / état"
+
+#: Register
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: Register and save time!
+msgid "Register and save time!"
+msgstr "Gagnez du temps !"
+
+#: Register to Create an Account
+msgid "Register to Create an Account"
+msgstr "Enregistrez-vous pour créer un compte"
+
+#: Register with us for future convenience:
+msgid "Register with us for future convenience:"
+msgstr "Enregistrez-vous et profitez de nombreux avantages :"
+
+#: Registered Customers
+msgid "Registered Customers"
+msgstr "Clients enregistrés"
+
+#: Remember Me
+msgid "Remember Me"
+msgstr "Se souvenir de moi"
+
+#: Save in address book
+msgid "Save in address book"
+msgstr "Enregistrer dans le carnet d'adresses"
+
+#: Select State/Province...
+msgid "Select State/Province..."
+msgstr "Choisissez une région"
+
+#: Select a billing address from your address book or enter a new address.
+msgid "Select a billing address from your address book or enter a new address."
+msgstr "Choisissez une adresse de facturation dans votre carnet d'adresses ou saisissez une nouvelle adresse."
+
+#: Ship to different address
+msgid "Ship to different address"
+msgstr "Livrer à une autre adresse"
+
+#: Ship to this address
+msgid "Ship to this address"
+msgstr "Livrer à cette adresse"
+
+#: Sign Up for Newsletter
+msgid "Sign Up for Newsletter"
+msgstr "Abonnez-vous à la newsletter"
+
+#: State/Province
+msgid "State/Province"
+msgstr "État/Région"
+
+#: Street Address
+msgid "Street Address"
+msgstr "Adresse"
+
+#: Street Address %s
+msgid "Street Address %s"
+msgstr "Rue - Voie – Bât. %s"
+
+#: Submit
+msgid "Submit"
+msgstr "Valider"
+
+#: Telephone
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: Welcome, %s!
+msgid "Welcome, %s!"
+msgstr "Bienvenue, %s !"
+
+#: What's this?
+msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
+
+#: Zip/Postal Code
+msgid "Zip/Postal Code"
+msgstr "Code postal"
+

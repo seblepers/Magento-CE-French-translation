@@ -590,7 +590,7 @@ msgstr "Réussite du passage de commande en une seule page"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -1034,7 +1034,7 @@ msgstr "Votre n° de commande est : %s."
 msgid "Your order has been received"
 msgstr "Votre commande a été reçue"
 
-#: Your order number is 
+#: Your order number is
 msgid "Your order number is "
 msgstr "Votre numéro de commande est "
 
@@ -1156,7 +1156,7 @@ msgstr "Produits"
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Quote item does not exist.
 msgid "Quote item does not exist."
@@ -1229,4 +1229,40 @@ msgstr "Votre numéro de commande est"
 #: Separate by \",\".","Separate by "
 msgid "Separate by \",\".","Separate by ""
 msgstr "Séparer par \",\"."
+
+#: Add gift messages to shopping cart
+msgid "Add gift messages to shopping cart"
+msgstr "Ajouter des messages cadeau au panier"
+
+#: Cart Product API
+msgid "Cart Product API"
+msgstr "API de produit du panier"
+
+#: Gift Message
+msgid "Gift Message"
+msgstr "Message du cadeau"
+
+#: ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER
+msgid "ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER"
+msgstr "LE TOTAL DE LA COMMANDE S'AFFICHERA AVANT LA CONFIRMATION DE COMMANDE"
+
+#: One item of products do not have identifier or sku
+msgid "One item of products do not have identifier or sku"
+msgstr "Un produit n'a pas d'identifiant ou de référence (sku)."
+
+#: One item of products is not belong any of quote item
+msgid "One item of products is not belong any of quote item"
+msgstr "Un produit n'appartient à aucun des éléments du devis"
+
+#: Order place error.
+msgid "Order place error."
+msgstr "Erreur lors de la création de commande."
+
+#: See price before order confirmation.
+msgid "See price before order confirmation."
+msgstr "Voir le prix avant la confirmation de la commande"
+
+#: What's this?
+msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
 
