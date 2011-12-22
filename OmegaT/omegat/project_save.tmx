@@ -31506,6 +31506,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only %s left</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20111222T180545Z" changeid="seb">
+        <seg>Plus que %s en stock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only X left Threshold</seg>
       </tuv>
       <tuv lang="FR-FR">

@@ -226,3 +226,7 @@ msgstr "Afficher les produits épuisés"
 msgid "%s is available for purchase in increments of %s only."
 msgstr "%s ne peut être commandé que par multiples de %s."
 
+#: Only %s left
+msgid "Only %s left"
+msgstr "Only %s left"
+

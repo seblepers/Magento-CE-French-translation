@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Only %s left</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changedate="20111222T180545Z" changeid="seb">
+        <seg>Plus que %s en stock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The invoice no longer exists.</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -1894,18 +1902,18 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
-        <seg>Storage Configuration for Media</seg>
-      </tuv>
-      <tuv xml:lang="FR-FR">
-        <seg>Configuration du stockage des media</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
         <seg>Set shipping method</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Choisir le mode de livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Storage Configuration for Media</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Configuration du stockage des media</seg>
       </tuv>
     </tu>
     <tu>
@@ -36715,6 +36723,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>An error occurred while saving this tax class. A class with the same name already exists.</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Erreur lors de la sauvegarde de cette classe de taxe. Il existe déjà une classe portant ce nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Catalog Section</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -36743,14 +36759,6 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Mes commandes précédentes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN-US">
-        <seg>An error occurred while saving this tax class. A class with the same name already exists.</seg>
-      </tuv>
-      <tuv xml:lang="FR-FR">
-        <seg>Erreur lors de la sauvegarde de cette classe de taxe. Il existe déjà une classe portant ce nom.</seg>
       </tuv>
     </tu>
     <tu>
