@@ -128,7 +128,7 @@ msgstr "Inactif"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "SESSION FERMEE"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"
@@ -237,4 +237,40 @@ msgstr "Mauvaise règle spécifiée"
 #: Yes
 msgid "Yes"
 msgstr "Oui"
+
+#: Apply
+msgid "Apply"
+msgstr ""
+
+#: By Fixed Amount
+msgid "By Fixed Amount"
+msgstr ""
+
+#: By Percentage of the Original Price
+msgid "By Percentage of the Original Price"
+msgstr ""
+
+#: Discount Amount
+msgid "Discount Amount"
+msgstr ""
+
+#: Enable Discount to Subproducts
+msgid "Enable Discount to Subproducts"
+msgstr ""
+
+#: To Fixed Amount
+msgid "To Fixed Amount"
+msgstr ""
+
+#: To Percentage of the Original Price
+msgid "To Percentage of the Original Price"
+msgstr ""
+
+#: Update Prices Using the Following Information
+msgid "Update Prices Using the Following Information"
+msgstr ""
+
+#: Website
+msgid "Website"
+msgstr ""
 

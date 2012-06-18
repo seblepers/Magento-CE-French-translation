@@ -218,7 +218,7 @@ msgstr "Erreur lors de la sauvegarde du jeu d'attributs."
 msgid "An error occurred while saving the collection, aborting. Error message: %s"
 msgstr "Erreur lors de la sauvegarde de la collection. Erreur : %s"
 
-#: An error occurred while saving the product. 
+#: An error occurred while saving the product.
 msgid "An error occurred while saving the product. "
 msgstr "Erreur lors de la sauvegarde du produit. "
 
@@ -1288,7 +1288,7 @@ msgstr "Liste"
 
 #: List Mode
 msgid "List Mode"
-msgstr "Mode liste"
+msgstr "Mode d'affichage"
 
 #: List of Products that are set as New
 msgid "List of Products that are set as New"
@@ -1876,7 +1876,7 @@ msgstr "Quantité pour que l'article soit considéré comme épuisé"
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Quantity
 msgid "Quantity"
@@ -2114,7 +2114,7 @@ msgstr "Utiliser dans la recherche"
 msgid "Select Category..."
 msgstr "Choisir une catégorie..."
 
-#: Select Configurable Attributes 
+#: Select Configurable Attributes
 msgid "Select Configurable Attributes "
 msgstr "Sélectionnez les attributs configurables "
 
@@ -2626,7 +2626,7 @@ msgstr "Mettre à jour le lien du produit"
 msgid "Update product tier prices"
 msgstr "Mettre à jour les prix par palier"
 
-#: Upload new product image 
+#: Upload new product image
 msgid "Upload new product image "
 msgstr "Uploader une nouvelle image de produit "
 
@@ -3052,7 +3052,7 @@ msgstr "Nom du produit"
 
 #: SKU length should be %s characters maximum.
 msgid "SKU length should be %s characters maximum."
-msgstr "La longueur maxi pour le SKU est de %s caractères."
+msgstr "La longueur maxi pour la référence est de %s caractères."
 
 #: Select Configurable Attributes
 msgid "Select Configurable Attributes"
@@ -3060,7 +3060,7 @@ msgstr "Sélectionnez les attributs configurables"
 
 #: Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.
 msgid "Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products."
-msgstr "Certains des produits traités n'ont pas de SKU défini. Veuillez les renseigner avant d'effectuer des opérations sur ces produits."
+msgstr "Certains des produits traités n'ont pas de référence (SKU) définie. Veuillez les renseigner avant d'effectuer des opérations sur ces produits."
 
 #: Some of the products below do not have all the required options. Please edit them and configure all the required options.
 msgid "Some of the products below do not have all the required options. Please edit them and configure all the required options."
@@ -3116,153 +3116,405 @@ msgstr "Images"
 
 #: <strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend.
 msgid "<strong style=\"color:red\">Warning!</strong> Applying MAP by default will hide all product prices on the frontend."
-msgstr ""
+msgstr "<strong style=\"color:red\">Attention !</strong> Appliquer le prix minimum affiché par défaut masquera tous les prix des produits sur le frontend."
 
 #: Actual Price
 msgid "Actual Price"
-msgstr ""
+msgstr "Prix ​​actuel"
 
 #: An error occurred while saving the URL rewrite
 msgid "An error occurred while saving the URL rewrite"
-msgstr ""
+msgstr "Erreur lors de la sauvegarde de la réécriture d'URL."
 
 #: Apply MAP (Default Value)
 msgid "Apply MAP (Default Value)"
-msgstr ""
+msgstr "Appliquer les prix minimum affichés (valeur par défaut)"
 
 #: Before Order Confirmation
 msgid "Before Order Confirmation"
-msgstr ""
+msgstr "Avant la confirmation de commande"
 
 #: Buy %1$s
 msgid "Buy %1$s"
-msgstr ""
+msgstr "Achetez-en %1$s"
 
 #: Buy %1$s for
 msgid "Buy %1$s for"
-msgstr ""
+msgstr "Achetez-en %1$s pour"
 
 #: Category move operation is not possible: parent category is equal to child category.
 msgid "Category move operation is not possible: parent category is equal to child category."
-msgstr ""
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie mère est égale à la catégorie fille."
 
 #: Category move operation is not possible: the current category was not found.
 msgid "Category move operation is not possible: the current category was not found."
-msgstr ""
+msgstr "Le déplacement de la catégorie n'est pas possible : la catégorie actuelle n'a pas été trouvée."
 
 #: Click for price
 msgid "Click for price"
-msgstr ""
+msgstr "Cliquez pour afficher le prix"
 
 #: Default \"What's This\" Text Message
 msgid "Default \"What's This\" Text Message"
-msgstr ""
+msgstr "Texte par défaut du message \"Qu'est ce que c'est\""
 
 #: Default Popup Text Message
 msgid "Default Popup Text Message"
-msgstr ""
+msgstr "Texte du message de popup par défaut"
 
 #: Display Actual Price
 msgid "Display Actual Price"
-msgstr ""
+msgstr "Afficher les prix actuels"
 
 #: Enable MAP
 msgid "Enable MAP"
-msgstr ""
+msgstr "Activer le prix minimum affiché"
 
 #: Failed to copy file %s. Please, delete media with non-existing images and try again.
 msgid "Failed to copy file %s. Please, delete media with non-existing images and try again."
-msgstr ""
+msgstr "Impossible de copier le fichier %s. Veuillez effacer les media dont les images n'existent pas et réessayez."
 
 #: In Cart
 msgid "In Cart"
-msgstr ""
+msgstr "Dans le panier"
 
 #: Invalid attribute %s
 msgid "Invalid attribute %s"
-msgstr ""
+msgstr "Attribut invalide : %s"
 
 #: Minimum Advertised Price
 msgid "Minimum Advertised Price"
-msgstr ""
+msgstr "Prix ​​minimum affiché"
 
 #: On Gesture
 msgid "On Gesture"
-msgstr ""
+msgstr "Au geste"
 
 #: Scope must not be changed, because the attribute is used in configurable products.
 msgid "Scope must not be changed, because the attribute is used in configurable products."
-msgstr ""
+msgstr "La portée ne doit pas être modifiée car l'attribut est utilisé dans des produits configurables."
 
 #: See price before order confirmation.
 msgid "See price before order confirmation."
-msgstr ""
+msgstr "Voir le prix avant la confirmation de la commande"
 
 #: The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module
 msgid "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes. Currently there are %1$d of them. Please reduce the number of filterable/sortable attributes in order to use this module"
-msgstr ""
+msgstr "Le module de catalogue à plat a une limite de %2$d attributs filtrables et/ou triables. Il y en a actuellement %1$d. Réduisez le nombre d'attributs de ce type afin de pouvoir utiliser ce module."
 
 #: The model collection resource name is not defined.
 msgid "The model collection resource name is not defined."
-msgstr ""
+msgstr "Le nom de ressource de collection de modèle n'est pas défini."
 
 #: This attribute is used in configurable products.
 msgid "This attribute is used in configurable products."
-msgstr ""
+msgstr "Cet attribut est utilisé dans les produits configurables."
 
 #: To reindex the enabled product(s), the store or product must be specified
 msgid "To reindex the enabled product(s), the store or product must be specified"
-msgstr ""
+msgstr "Pour réindexer les produits activés, le magasin ou le produit doit être spécifié."
 
 #: To see product price, add this item to your cart. You can always remove it later.
 msgid "To see product price, add this item to your cart. You can always remove it later."
-msgstr ""
+msgstr "Pour voir le prix du produit, ajoutez cet article à votre panier. Vous pourrez toujours l'enlever plus tard."
 
 #: What's this?
 msgid "What's this?"
-msgstr ""
+msgstr "Qu'est-ce que c'est ?"
 
 #: Thumbnail
 msgid "Thumbnail"
-msgstr ""
+msgstr "Miniature"
 
 #: Manufacturer
 msgid "Manufacturer"
-msgstr ""
+msgstr "Fabricant"
 
 #: Color
 msgid "Color"
-msgstr ""
+msgstr "Couleur"
 
 #: Dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: In Depth
 msgid "In Depth"
-msgstr ""
+msgstr "En détail"
 
 #: Model
 msgid "Model"
-msgstr ""
+msgstr "Modèle"
 
 #: Activation Information
 msgid "Activation Information"
-msgstr ""
+msgstr "Informations d'activation"
 
 #: Brand
 msgid "Brand"
-msgstr ""
+msgstr "Marque"
 
 #: Size
 msgid "Size"
-msgstr ""
+msgstr "Taille"
 
 #: General
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #: Gift Options
 msgid "Gift Options"
+msgstr "Options cadeau"
+
+#: %s and above
+msgid "%s and above"
+msgstr ""
+
+#: Add
+msgid "Add"
+msgstr ""
+
+#: Add Group Price
+msgid "Add Group Price"
+msgstr ""
+
+#: Add attribute into attribute set
+msgid "Add attribute into attribute set"
+msgstr ""
+
+#: Add group into attribute set
+msgid "Add group into attribute set"
+msgstr ""
+
+#: Add new custom option into product
+msgid "Add new custom option into product"
+msgstr ""
+
+#: Add new values into custom option
+msgid "Add new values into custom option"
+msgstr ""
+
+#: Add option
+msgid "Add option"
+msgstr ""
+
+#: An error occurred while deleting this review.
+msgid "An error occurred while deleting this review."
+msgstr ""
+
+#: An error occurred while saving this review.
+msgid "An error occurred while saving this review."
+msgstr ""
+
+#: Attribute Sets
+msgid "Attribute Sets"
+msgstr ""
+
+#: Attribute add
+msgid "Attribute add"
+msgstr ""
+
+#: Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
+msgid "Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+msgstr ""
+
+#: Attribute remove
+msgid "Attribute remove"
+msgstr ""
+
+#: Can be Divided into Multiple Boxes for Shipping
+msgid "Can be Divided into Multiple Boxes for Shipping"
+msgstr ""
+
+#: Catalog product custom option values API
+msgid "Catalog product custom option values API"
+msgstr ""
+
+#: Catalog product custom options API
+msgid "Catalog product custom options API"
+msgstr ""
+
+#: Clear Price
+msgid "Clear Price"
+msgstr ""
+
+#: Create Permanent Redirect for URLs if URL Key Changed
+msgid "Create Permanent Redirect for URLs if URL Key Changed"
+msgstr ""
+
+#: Create attribute set based on another set
+msgid "Create attribute set based on another set"
+msgstr ""
+
+#: Create new attribute
+msgid "Create new attribute"
+msgstr ""
+
+#: Custom options
+msgid "Custom options"
+msgstr ""
+
+#: Delete Group Price
+msgid "Delete Group Price"
+msgstr ""
+
+#: Delete attribute
+msgid "Delete attribute"
+msgstr ""
+
+#: Display Price Interval as One Price
+msgid "Display Price Interval as One Price"
+msgstr ""
+
+#: Display Product Count
+msgid "Display Product Count"
+msgstr ""
+
+#: Duplicate website group price customer group.
+msgid "Duplicate website group price customer group."
+msgstr ""
+
+#: For the last time placed.
+msgid "For the last time placed."
+msgstr ""
+
+#: Get full information about attribute with list of options
+msgid "Get full information about attribute with list of options"
+msgstr ""
+
+#: Get full information about custom option in product
+msgid "Get full information about custom option in product"
+msgstr ""
+
+#: Get list of available custom option types
+msgid "Get list of available custom option types"
+msgstr ""
+
+#: Get list of non-default attributes by product type and attributes set
+msgid "Get list of non-default attributes by product type and attributes set"
+msgstr ""
+
+#: Get list of possible attribute types
+msgid "Get list of possible attribute types"
+msgstr ""
+
+#: Group add
+msgid "Group add"
+msgstr ""
+
+#: Group remove
+msgid "Group remove"
+msgstr ""
+
+#: Info
+msgid "Info"
+msgstr ""
+
+#: Interval Division Limit
+msgid "Interval Division Limit"
+msgstr ""
+
+#: List of types
+msgid "List of types"
+msgstr ""
+
+#: Maximum Number of Price Intervals
+msgid "Maximum Number of Price Intervals"
+msgstr ""
+
+#: Maximum number of price intervals is 100
+msgid "Maximum number of price intervals is 100"
+msgstr ""
+
+#: Number of results
+msgid "Number of results"
+msgstr ""
+
+#: Number of results (For the last time placed)
+msgid "Number of results (For the last time placed)"
+msgstr ""
+
+#: Option values
+msgid "Option values"
+msgstr ""
+
+#: Options
+msgid "Options"
+msgstr ""
+
+#: Please specify the number of products, that will not be divided into subintervals.
+msgid "Please specify the number of products, that will not be divided into subintervals."
+msgstr ""
+
+#: Qty for Item's Status to Become Out of Stock
+msgid "Qty for Item's Status to Become Out of Stock"
+msgstr ""
+
+#: Remove attribute from attribute set
+msgid "Remove attribute from attribute set"
+msgstr ""
+
+#: Remove attribute set
+msgid "Remove attribute set"
+msgstr ""
+
+#: Remove custom option
+msgid "Remove custom option"
+msgstr ""
+
+#: Remove group from attribute set
+msgid "Remove group from attribute set"
+msgstr ""
+
+#: Remove option
+msgid "Remove option"
+msgstr ""
+
+#: Remove value from custom option
+msgid "Remove value from custom option"
+msgstr ""
+
+#: Rename existing group
+msgid "Rename existing group"
+msgstr ""
+
+#: Rename group
+msgid "Rename group"
+msgstr ""
+
+#: Retrieve list of option values
+msgid "Retrieve list of option values"
+msgstr ""
+
+#: Retrieve list of product custom options
+msgid "Retrieve list of product custom options"
+msgstr ""
+
+#: Retrieve option value info
+msgid "Retrieve option value info"
+msgstr ""
+
+#: This setting will be applied when all prices in the specific price interval are equal.
+msgid "This setting will be applied when all prices in the specific price interval are equal."
+msgstr ""
+
+#: Total of %d record(s) were updated
+msgid "Total of %d record(s) were updated"
+msgstr ""
+
+#: Update attribute
+msgid "Update attribute"
+msgstr ""
+
+#: Update custom option of product
+msgid "Update custom option of product"
+msgstr ""
+
+#: Update value of custom option
+msgid "Update value of custom option"
+msgstr ""
+
+#: Will make search for the query above return results for this search.
+msgid "Will make search for the query above return results for this search."
 msgstr ""
 

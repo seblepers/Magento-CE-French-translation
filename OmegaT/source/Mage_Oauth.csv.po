@@ -1,0 +1,472 @@
+#: %name% '%value%' is too long. It must has length %min% symbols.
+msgid "%name% '%value%' is too long. It must has length %min% symbols."
+msgstr ""
+
+#: %name% '%value%' is too short. It must has length %min% symbols.
+msgid "%name% '%value%' is too short. It must has length %min% symbols."
+msgstr ""
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr ""
+
+#: <strong>%s</strong> requests access to your account
+msgid "<strong>%s</strong> requests access to your account"
+msgstr ""
+
+#: Admin
+msgid "Admin"
+msgstr ""
+
+#: After authorization application will have access to you account.
+msgid "After authorization application will have access to you account."
+msgstr ""
+
+#: An error occurred on confirm authorize.
+msgid "An error occurred on confirm authorize."
+msgstr ""
+
+#: An error occurred on delete action.
+msgid "An error occurred on delete action."
+msgstr ""
+
+#: An error occurred on delete application.
+msgid "An error occurred on delete application."
+msgstr ""
+
+#: An error occurred on reject authorize.
+msgid "An error occurred on reject authorize."
+msgstr ""
+
+#: An error occurred on saving consumer data.
+msgid "An error occurred on saving consumer data."
+msgstr ""
+
+#: An error occurred on update revoke status.
+msgid "An error occurred on update revoke status."
+msgstr ""
+
+#: An error occurred while deleting the consumer.
+msgid "An error occurred while deleting the consumer."
+msgstr ""
+
+#: An error occurred.
+msgid "An error occurred."
+msgstr ""
+
+#: An error occurred. Your authorization request is invalid.
+msgid "An error occurred. Your authorization request is invalid."
+msgstr ""
+
+#: App Name
+msgid "App Name"
+msgstr ""
+
+#: Application \"%s\" has been deleted.
+msgid "Application \"%s\" has been deleted."
+msgstr ""
+
+#: Application \"%s\" has been enabled.
+msgid "Application \"%s\" has been enabled."
+msgstr ""
+
+#: Application \"%s\" has been revoked.
+msgid "Application \"%s\" has been revoked."
+msgstr ""
+
+#: Application Name
+msgid "Application Name"
+msgstr ""
+
+#: Application not found.
+msgid "Application not found."
+msgstr ""
+
+#: Are you sure you want to delete this application?
+msgid "Are you sure you want to delete this application?"
+msgstr ""
+
+#: Are you sure you want to disable this application?
+msgid "Are you sure you want to disable this application?"
+msgstr ""
+
+#: Are you sure you want to enable this application?
+msgid "Are you sure you want to enable this application?"
+msgstr ""
+
+#: Authorization confirmed
+msgid "Authorization confirmed"
+msgstr ""
+
+#: Authorization confirmed.
+msgid "Authorization confirmed."
+msgstr ""
+
+#: Authorize
+msgid "Authorize"
+msgstr ""
+
+#: Authorize application
+msgid "Authorize application"
+msgstr ""
+
+#: Authorized Tokens
+msgid "Authorized Tokens"
+msgstr ""
+
+#: Callback URL
+msgid "Callback URL"
+msgstr ""
+
+#: Cleanup Probability
+msgid "Cleanup Probability"
+msgstr ""
+
+#: Cleanup Settings
+msgid "Cleanup Settings"
+msgstr ""
+
+#: Close
+msgid "Close"
+msgstr ""
+
+#: Confirm OAuth token authorization
+msgid "Confirm OAuth token authorization"
+msgstr ""
+
+#: Confirm token authorization Pop Up for admin
+msgid "Confirm token authorization Pop Up for admin"
+msgstr ""
+
+#: Confirm token authorization for admin
+msgid "Confirm token authorization for admin"
+msgstr ""
+
+#: Confirmation Of Authorization
+msgid "Confirmation Of Authorization"
+msgstr ""
+
+#: Consumer Information
+msgid "Consumer Information"
+msgstr ""
+
+#: Consumer Name
+msgid "Consumer Name"
+msgstr ""
+
+#: Consumers
+msgid "Consumers"
+msgstr ""
+
+#: Created At
+msgid "Created At"
+msgstr ""
+
+#: Customer
+msgid "Customer"
+msgstr ""
+
+#: Customer My Account My OAuth Applications
+msgid "Customer My Account My OAuth Applications"
+msgstr ""
+
+#: Delete
+msgid "Delete"
+msgstr ""
+
+#: Disable
+msgid "Disable"
+msgstr ""
+
+#: Disabled
+msgid "Disabled"
+msgstr ""
+
+#: Edit
+msgid "Edit"
+msgstr ""
+
+#: Edit Consumer
+msgid "Edit Consumer"
+msgstr ""
+
+#: Email
+msgid "Email"
+msgstr ""
+
+#: Email Address
+msgid "Email Address"
+msgstr ""
+
+#: Enable
+msgid "Enable"
+msgstr ""
+
+#: Enabled
+msgid "Enabled"
+msgstr ""
+
+#: Entry with ID #%s not found.
+msgid "Entry with ID #%s not found."
+msgstr ""
+
+#: Expiration Period
+msgid "Expiration Period"
+msgstr ""
+
+#: Give the verifier code to application administrator
+msgid "Give the verifier code to application administrator"
+msgstr ""
+
+#: ID
+msgid "ID"
+msgstr ""
+
+#: Invalid Callback URL
+msgid "Invalid Callback URL"
+msgstr ""
+
+#: Invalid ID parameter.
+msgid "Invalid ID parameter."
+msgstr ""
+
+#: Invalid Rejected Callback URL
+msgid "Invalid Rejected Callback URL"
+msgstr ""
+
+#: Invalid entry ID.
+msgid "Invalid entry ID."
+msgstr ""
+
+#: Invalid revoke status.
+msgid "Invalid revoke status."
+msgstr ""
+
+#: Key
+msgid "Key"
+msgstr ""
+
+#: Log In
+msgid "Log In"
+msgstr ""
+
+#: Log in as a customer
+msgid "Log in as a customer"
+msgstr ""
+
+#: Log in as admin
+msgid "Log in as admin"
+msgstr ""
+
+#: Log in as customer
+msgid "Log in as customer"
+msgstr ""
+
+#: Log in to use <strong>%s</strong>
+msgid "Log in to use <strong>%s</strong>"
+msgstr ""
+
+#: Login
+msgid "Login"
+msgstr ""
+
+#: My Applications
+msgid "My Applications"
+msgstr ""
+
+#: Name
+msgid "Name"
+msgstr ""
+
+#: New Consumer
+msgid "New Consumer"
+msgstr ""
+
+#: OAuth
+msgid "OAuth"
+msgstr ""
+
+#: OAuth Admin My Apps
+msgid "OAuth Admin My Apps"
+msgstr ""
+
+#: OAuth Authorized Tokens
+msgid "OAuth Authorized Tokens"
+msgstr ""
+
+#: OAuth Consumers
+msgid "OAuth Consumers"
+msgstr ""
+
+#: OAuth authorization Pop Up for customer
+msgid "OAuth authorization Pop Up for customer"
+msgstr ""
+
+#: OAuth authorization for admin
+msgid "OAuth authorization for admin"
+msgstr ""
+
+#: OAuth authorization for customer
+msgid "OAuth authorization for customer"
+msgstr ""
+
+#: OAuth authorization simple for admin
+msgid "OAuth authorization simple for admin"
+msgstr ""
+
+#: Password
+msgid "Password"
+msgstr ""
+
+#: Permissions
+msgid "Permissions"
+msgstr ""
+
+#: Please login to proceed authorization.
+msgid "Please login to proceed authorization."
+msgstr ""
+
+#: Please select needed row(s).
+msgid "Please select needed row(s)."
+msgstr ""
+
+#: Please select revoke status.
+msgid "Please select revoke status."
+msgstr ""
+
+#: REST - My Apps
+msgid "REST - My Apps"
+msgstr ""
+
+#: REST - OAuth Authorized Tokens
+msgid "REST - OAuth Authorized Tokens"
+msgstr ""
+
+#: REST - OAuth Consumers
+msgid "REST - OAuth Consumers"
+msgstr ""
+
+#: Reject
+msgid "Reject"
+msgstr ""
+
+#: Reject OAuth token authorization
+msgid "Reject OAuth token authorization"
+msgstr ""
+
+#: Reject authorization
+msgid "Reject authorization"
+msgstr ""
+
+#: Reject token authorization Pop Up for admin
+msgid "Reject token authorization Pop Up for admin"
+msgstr ""
+
+#: Reject token authorization for admin
+msgid "Reject token authorization for admin"
+msgstr ""
+
+#: Rejected Callback URL
+msgid "Rejected Callback URL"
+msgstr ""
+
+#: Rejection Of Authorization
+msgid "Rejection Of Authorization"
+msgstr ""
+
+#: Revoked
+msgid "Revoked"
+msgstr ""
+
+#: Role Name
+msgid "Role Name"
+msgstr ""
+
+#: Save
+msgid "Save"
+msgstr ""
+
+#: Save and Continue Edit
+msgid "Save and Continue Edit"
+msgstr ""
+
+#: Secret
+msgid "Secret"
+msgstr ""
+
+#: Selected entries enabled.
+msgid "Selected entries enabled."
+msgstr ""
+
+#: Selected entries has been deleted.
+msgid "Selected entries has been deleted."
+msgstr ""
+
+#: Selected entries revoked.
+msgid "Selected entries revoked."
+msgstr ""
+
+#: Status
+msgid "Status"
+msgstr ""
+
+#: System
+msgid "System"
+msgstr ""
+
+#: The application access request is rejected.
+msgid "The application access request is rejected."
+msgstr ""
+
+#: The consumer has been deleted.
+msgid "The consumer has been deleted."
+msgstr ""
+
+#: The consumer has been saved.
+msgid "The consumer has been saved."
+msgstr ""
+
+#: Token Status Change
+msgid "Token Status Change"
+msgstr ""
+
+#: Token Status Change Email Template
+msgid "Token Status Change Email Template"
+msgstr ""
+
+#: Unable to find a consumer.
+msgid "Unable to find a consumer."
+msgstr ""
+
+#: User ID
+msgid "User ID"
+msgstr ""
+
+#: User Name
+msgid "User Name"
+msgstr ""
+
+#: User Type
+msgid "User Type"
+msgstr ""
+
+#: Verifier code: %s
+msgid "Verifier code: %s"
+msgstr ""
+
+#: You have no applications.
+msgid "You have no applications."
+msgstr ""
+
+#: deleted
+msgid "deleted"
+msgstr ""
+
+#: enabled
+msgid "enabled"
+msgstr ""
+
+#: revoked
+msgid "revoked"
+msgstr ""
+

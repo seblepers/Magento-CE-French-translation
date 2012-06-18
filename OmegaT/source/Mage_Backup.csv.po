@@ -74,3 +74,135 @@ msgstr "Impossible de faire une sauvegarde. Veuillez réessayer ultérieurement.
 msgid "Wrong order of creation for new backup."
 msgstr "Ordre de création erroné pour la nouvelle sauvegarde."
 
+#: An error occurred while creating the backup.
+msgid "An error occurred while creating the backup."
+msgstr ""
+
+#: Are you sure you want to delete the selected backup(s)?
+msgid "Are you sure you want to delete the selected backup(s)?"
+msgstr ""
+
+#: Backup Type
+msgid "Backup Type"
+msgstr ""
+
+#: Backup file not found
+msgid "Backup file not found"
+msgstr ""
+
+#: Database Backup
+msgid "Database Backup"
+msgstr ""
+
+#: Database and Media Backup
+msgid "Database and Media Backup"
+msgstr ""
+
+#: Enable Scheduled Backup
+msgid "Enable Scheduled Backup"
+msgstr ""
+
+#: Failed to connect to FTP
+msgid "Failed to connect to FTP"
+msgstr ""
+
+#: Failed to delete one or several backups.
+msgid "Failed to delete one or several backups."
+msgstr ""
+
+#: Failed to rollback
+msgid "Failed to rollback"
+msgstr ""
+
+#: Failed to validate FTP
+msgid "Failed to validate FTP"
+msgstr ""
+
+#: Frequency
+msgid "Frequency"
+msgstr ""
+
+#: Invalid Password.
+msgid "Invalid Password."
+msgstr ""
+
+#: Maintenance Mode
+msgid "Maintenance Mode"
+msgstr ""
+
+#: Name
+msgid "Name"
+msgstr ""
+
+#: Not enough free space to create backup.
+msgid "Not enough free space to create backup."
+msgstr ""
+
+#: Not enough permissions to create backup.
+msgid "Not enough permissions to create backup."
+msgstr ""
+
+#: Not enough permissions to perform rollback
+msgid "Not enough permissions to perform rollback"
+msgstr ""
+
+#: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\"
+msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\""
+msgstr ""
+
+#: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\"
+msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\""
+msgstr ""
+
+#: Put store on the maintenance mode while backup's creation
+msgid "Put store on the maintenance mode while backup's creation"
+msgstr ""
+
+#: Rollback
+msgid "Rollback"
+msgstr ""
+
+#: Scheduled Backup Settings
+msgid "Scheduled Backup Settings"
+msgstr ""
+
+#: Start Time
+msgid "Start Time"
+msgstr ""
+
+#: System Backup
+msgid "System Backup"
+msgstr ""
+
+#: System couldn't put store on the maintenance mode
+msgid "System couldn't put store on the maintenance mode"
+msgstr ""
+
+#: The database and media backup has been created.
+msgid "The database and media backup has been created."
+msgstr ""
+
+#: The database backup has been created.
+msgid "The database backup has been created."
+msgstr ""
+
+#: The selected backup(s) has been deleted.
+msgid "The selected backup(s) has been deleted."
+msgstr ""
+
+#: The system (excluding Media) backup has been created.
+msgid "The system (excluding Media) backup has been created."
+msgstr ""
+
+#: The system backup has been created.
+msgid "The system backup has been created."
+msgstr ""
+
+#: Unable to save the cron expression.
+msgid "Unable to save the cron expression."
+msgstr ""
+
+#: You do not have sufficient permissions to enable Maintenance Mode during this operation.
+msgid "You do not have sufficient permissions to enable Maintenance Mode during this operation."
+msgstr ""
+

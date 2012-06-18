@@ -514,7 +514,7 @@ msgstr "Manipulation de mise à jour de l'agencement non valide"
 msgid "Invalid messages storage \"%s\" for layout messages initialization"
 msgstr "Stockage des messages \"%s\" invalide pour l'initialisation des messages d'agencement"
 
-#: Invalid transactional email code: 
+#: Invalid transactional email code:
 msgid "Invalid transactional email code: "
 msgstr "Code d'email transactionnel invalide : "
 
@@ -912,7 +912,7 @@ msgstr "Sélectionner une date"
 
 #: Sender Email
 msgid "Sender Email"
-msgstr "Expéditeur de l'email"
+msgstr "Email de l'expéditeur"
 
 #: Sender Name
 msgid "Sender Name"
@@ -1036,7 +1036,7 @@ msgstr "Gabarits"
 
 #: Text length does not satisfy specified text range.
 msgid "Text length does not satisfy specified text range."
-msgstr "La longueur du texte ne satisfait pas à plage de texte spécifiée."
+msgstr "La longueur du texte ne satisfait pas la plage de texte spécifiée."
 
 #: The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format.
 msgid "The %s you entered is invalid. Please make sure that it follows \"http://domain.com/\" format."
@@ -1488,209 +1488,383 @@ msgstr "Base de donnée \"%s\""
 
 #: "After selecting a new media storage location, press the Synchronize button
 msgid "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
-msgstr ""
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser\n"
+"                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel\n"
+"                                emplacement jusqu'à ce que le process de synchronisation soit terminé."
 
 #: Allow Symlinks
 msgid "Allow Symlinks"
-msgstr ""
+msgstr "Autoriser les liens symboliques"
 
 #: Can not create invoice. Order was not found.
 msgid "Can not create invoice. Order was not found."
-msgstr ""
+msgstr "Impossible de créer la facture. La commande n'a pas été trouvée."
 
 #: Can't retrieve entity config: %s
 msgid "Can't retrieve entity config: %s"
-msgstr ""
+msgstr "Impossible de retrouver la configuration de l'entité : %s"
 
 #: Custom Admin Path
 msgid "Custom Admin Path"
-msgstr ""
+msgstr "Chemin d'accès au back office personnalisé"
 
 #: Environment Update Time
 msgid "Environment Update Time"
-msgstr ""
+msgstr "Temps de mise à jour de l'environnement"
 
 #: Input type \"%value%\" not found in the input types list.
 msgid "Input type \"%value%\" not found in the input types list."
-msgstr ""
+msgstr "Le type d'entrée \"%value%\" n'a pas été trouvé dans la liste des types d'entrée."
 
 #: Invalid connection
 msgid "Invalid connection"
-msgstr ""
+msgstr "Connexion invalide"
 
 #: Invalid query
 msgid "Invalid query"
-msgstr ""
+msgstr "Requête invalide"
 
 #: Offloader header
 msgid "Offloader header"
-msgstr ""
+msgstr "En-tête de transcodeur"
 
 #: Path \"%value%\" is not available and cannot be used.
 msgid "Path \"%value%\" is not available and cannot be used."
-msgstr ""
+msgstr "Le chemin \"%value%\" n'est pas correct et ne peut pas être utilisé."
 
 #: Path \"%value%\" is protected and cannot be used.
 msgid "Path \"%value%\" is protected and cannot be used."
-msgstr ""
+msgstr "Le chemin \"%value%\" est protégé et ne peut pas être utilisé."
 
 #: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
 msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\""
-msgstr ""
+msgstr "Le chemin \"%value%\" ne peut pas remonter vers le répertoire parent (\"../\", \"..\\\")."
 
 #: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
 msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
-msgstr ""
+msgstr "Veuillez saisir une URL valide. Par exemple \"page-exemple\", \"page-exemple.html\" ou \"niveau/page-exemple\"."
 
 #: Please enter a valid date between %s and %s
 msgid "Please enter a valid date between %s and %s"
-msgstr ""
+msgstr "Veuillez saisir une date valide entre %s et %s"
 
 #: Please enter a valid date equal to or greater than %s
 msgid "Please enter a valid date equal to or greater than %s"
-msgstr ""
+msgstr "Veuillez saisir une date valide égale ou supérieure à %s"
 
 #: Please enter a valid date less than or equal to %s
 msgid "Please enter a valid date less than or equal to %s"
-msgstr ""
+msgstr "Veuillez saisir une date valide inférieure ou égale à %s"
 
 #: Please set available and/or protected paths list(s) before validation.
 msgid "Please set available and/or protected paths list(s) before validation."
-msgstr ""
+msgstr "Veuillez renseigner correctement la liste des chemins avant validation."
 
 #: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
 msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\""
-msgstr ""
+msgstr "Le chemin demandé ne peut pas remonter vers le répertoire parent (\"../\", \"..\\\")."
 
 #: Template Settings
 msgid "Template Settings"
-msgstr ""
+msgstr "Paramètres de gabarit"
 
 #: Unknown old style column type definition: {$definition}.
 msgid "Unknown old style column type definition: {$definition}."
-msgstr ""
+msgstr "Ancien style de définition de type de colonne inconnu : {$definition}."
 
 #: Use Custom Admin Path
 msgid "Use Custom Admin Path"
-msgstr ""
+msgstr "Utiliser le chemin d'accès au back office personnalisé"
 
 #: Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.
 msgid "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk."
-msgstr ""
+msgstr "Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel."
 
 #: Wrong old style column type definition: {$definition}.
 msgid "Wrong old style column type definition: {$definition}."
-msgstr ""
+msgstr "Ancien style de définition de type de colonne erroné : {$definition}."
 
 #: You will have to log in after you save your custom admin path.
 msgid "You will have to log in after you save your custom admin path."
-msgstr ""
+msgstr "Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé."
 
 #: Currency
 msgid "Currency"
-msgstr ""
+msgstr "Devise"
 
 #: About the calendar
 msgid "About the calendar"
-msgstr ""
+msgstr "À propos du calendrier"
 
 #: DHTML Date/Time Selector
 msgid "DHTML Date/Time Selector"
-msgstr ""
+msgstr "Sélecteur de date/heure DHTML"
 
 #: For latest version visit: %s
 msgid "For latest version visit: %s"
-msgstr ""
+msgstr "Pour la visite de la dernière version : %s"
 
 #: Distributed under GNU LGPL. See %s for details.
 msgid "Distributed under GNU LGPL. See %s for details."
-msgstr ""
+msgstr "Distribué sous licence GNU LGPL. Voir %s pour plus de détails."
 
 #: Date selection:
 msgid "Date selection:"
-msgstr ""
+msgstr "Sélection de date :"
 
 #: - Use the %s, %s buttons to select year
 msgid "- Use the %s, %s buttons to select year"
-msgstr ""
+msgstr "- Utilisez les boutons %s, %s pour sélectionner l'année"
 
 #: - Use the %s buttons to select month
 msgid "- Use the %s buttons to select month"
-msgstr ""
+msgstr "- Utilisez les boutons %s pour sélectionner le mois"
 
 #: - Hold mouse button on any of the above buttons for faster selection.
 msgid "- Hold mouse button on any of the above buttons for faster selection."
-msgstr ""
+msgstr "- Maintenez le bouton de la souris sur n'importe quel bouton ci-dessus pour une sélection rapide"
 
 #: Time selection:
 msgid "Time selection:"
-msgstr ""
+msgstr "Sélection de l'heure :"
 
 #: - Click on any of the time parts to increase it
 msgid "- Click on any of the time parts to increase it"
-msgstr ""
+msgstr "- Cliquez sur n'importe quelle partie de l'heure pour l'augmenter"
 
 #: - or Shift-click to decrease it
 msgid "- or Shift-click to decrease it"
-msgstr ""
+msgstr "- ou cliquez en maintenant la touche shift enfoncée pour l'augmenter"
 
 #: - or click and drag for faster selection.
 msgid "- or click and drag for faster selection."
-msgstr ""
+msgstr "- ou cliquez et glissez pour une sélection plus rapide"
 
 #: Prev. year (hold for menu)
 msgid "Prev. year (hold for menu)"
-msgstr ""
+msgstr "Année précédente (maintenez pour le menu)"
 
 #: Prev. month (hold for menu)
 msgid "Prev. month (hold for menu)"
-msgstr ""
+msgstr "Mois précédent (maintenez pour le menu)"
 
 #: Go Today
 msgid "Go Today"
-msgstr ""
+msgstr "Aller à aujourd'hui"
 
 #: Next month (hold for menu)
 msgid "Next month (hold for menu)"
-msgstr ""
+msgstr "Mois suivant (maintenez pour le menu)"
 
 #: Next year (hold for menu)
 msgid "Next year (hold for menu)"
-msgstr ""
+msgstr "Année prochaine (maintenez pour le menu)"
 
 #: Select date
 msgid "Select date"
-msgstr ""
+msgstr "Sélectionner la date"
 
 #: Drag to move
 msgid "Drag to move"
-msgstr ""
+msgstr "Glisser pour déplacer"
 
 #: Display %s first
 msgid "Display %s first"
-msgstr ""
+msgstr "Afficher d'abord %s"
 
 #: Close
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: (Shift-)Click or drag to change value
 msgid "(Shift-)Click or drag to change value"
-msgstr ""
+msgstr "Pour modifier la valeur, cliquez en maintenant la touche shift enfoncée ou glissez"
 
 #: Time:
 msgid "Time:"
-msgstr ""
+msgstr "Heure :"
 
 #: Thumbnail
 msgid "Thumbnail"
-msgstr ""
+msgstr "Miniature"
 
 #: Search
 msgid "Search"
-msgstr "Rechercher"
+msgstr "Chercher"
 
 #: Place Order
 msgid "Place Order"
+msgstr "Passez la commande"
+
+#: <strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+msgid "<strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
+msgstr ""
+
+#: "After selecting a new media storage location, press the Synchronize button
+msgid ""After selecting a new media storage location, press the Synchronize button"
+msgstr ""
+
+#: to transfer all media to that location. Media will not be available in the new
+msgid "to transfer all media to that location. Media will not be available in the new"
+msgstr ""
+
+#: location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
+msgid "location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button"
+msgstr ""
+
+#: location until the synchronization process is complete."
+msgid "location until the synchronization process is complete.""
+msgstr ""
+
+#: Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!
+msgid "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!"
+msgstr ""
+
+#: Base Secure URL
+msgid "Base Secure URL"
+msgstr ""
+
+#: Base Unsecure URL
+msgid "Base Unsecure URL"
+msgstr ""
+
+#: Cookie Restriction Mode
+msgid "Cookie Restriction Mode"
+msgstr ""
+
+#: Core
+msgid "Core"
+msgstr ""
+
+#: Country
+msgid "Country"
+msgstr ""
+
+#: Custom1 Contact Email
+msgid "Custom1 Contact Email"
+msgstr ""
+
+#: Custom1 Contact Name
+msgid "Custom1 Contact Name"
+msgstr ""
+
+#: Custom2 Contact Email
+msgid "Custom2 Contact Email"
+msgstr ""
+
+#: Custom2 Contact Name
+msgid "Custom2 Contact Name"
+msgstr ""
+
+#: European Union Countries
+msgid "European Union Countries"
+msgstr ""
+
+#: File not found
+msgid "File not found"
+msgstr ""
+
+#: File with an extension \"%value%\" is protected and cannot be uploaded
+msgid "File with an extension \"%value%\" is protected and cannot be uploaded"
+msgstr ""
+
+#: General Contact Email
+msgid "General Contact Email"
+msgstr ""
+
+#: General Contact Name
+msgid "General Contact Name"
+msgstr ""
+
+#: Get info about current Magento installation
+msgid "Get info about current Magento installation"
+msgstr ""
+
+#: HTML tags are not allowed
+msgid "HTML tags are not allowed"
+msgstr ""
+
+#: Invalid URL '%value%'.
+msgid "Invalid URL '%value%'."
+msgstr ""
+
+#: List of stores
+msgid "List of stores"
+msgstr ""
+
+#: Logo Image
+msgid "Logo Image"
+msgstr ""
+
+#: Magento info
+msgid "Magento info"
+msgstr ""
+
+#: Magento info API
+msgid "Magento info API"
+msgstr ""
+
+#: PHP SOAP extension is required.
+msgid "PHP SOAP extension is required."
+msgstr ""
+
+#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../"
+msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../""
+msgstr ""
+
+#: Please enter a number 1 or greater in this field.
+msgid "Please enter a number 1 or greater in this field."
+msgstr ""
+
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page"
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page""
+msgstr ""
+
+#: Please select a file
+msgid "Please select a file"
+msgstr ""
+
+#: Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
+msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+msgstr ""
+
+#: Recovery Link Expiration Period (days)
+msgid "Recovery Link Expiration Period (days)"
+msgstr ""
+
+#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../"
+msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../""
+msgstr ""
+
+#: Retrieve info about current Magento installation
+msgid "Retrieve info about current Magento installation"
+msgstr ""
+
+#: Retrieve store data
+msgid "Retrieve store data"
+msgstr ""
+
+#: Retrieve store list
+msgid "Retrieve store list"
+msgstr ""
+
+#: Sales Representative Contact Email
+msgid "Sales Representative Contact Email"
+msgstr ""
+
+#: Sales Representative Contact Name
+msgid "Sales Representative Contact Name"
+msgstr ""
+
+#: Store API
+msgid "Store API"
+msgstr ""
+
+#: Transactional Emails
+msgid "Transactional Emails"
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
 msgstr ""
 

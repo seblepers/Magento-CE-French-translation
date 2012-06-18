@@ -400,21 +400,141 @@ msgstr "Le montant de taxe a été appliqué à partir des informations reçues 
 
 #: Account Number
 msgid "Account Number"
-msgstr ""
+msgstr "Numéro de compte"
 
 #: Optimistic
 msgid "Optimistic"
-msgstr ""
+msgstr "Optimiste"
 
 #: Pessimistic
 msgid "Pessimistic"
-msgstr ""
+msgstr "Pessimiste"
 
 #: Email delivery
 msgid "Email delivery"
-msgstr ""
+msgstr "Livraison par email"
 
 #: <a href="http://www.magentocommerce.com/redirect/google-checkout/" target="_blank">Signup for Google Checkout</a>
 msgid "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">Signup for Google Checkout</a>"
+msgstr "<a href=\"http://www.magentocommerce.com/redirect/google-checkout/\" target=\"_blank\">Créez un compte Google Checkout</a>"
+
+#: 2Day
+msgid "2Day"
+msgstr ""
+
+#: 2nd Day Air
+msgid "2nd Day Air"
+msgstr ""
+
+#: 2nd Day Air AM
+msgid "2nd Day Air AM"
+msgstr ""
+
+#: 3 Day Select
+msgid "3 Day Select"
+msgstr ""
+
+#: Commercial
+msgid "Commercial"
+msgstr ""
+
+#: Description-based delivery
+msgid "Description-based delivery"
+msgstr ""
+
+#: Express Mail
+msgid "Express Mail"
+msgstr ""
+
+#: Express Saver
+msgid "Express Saver"
+msgstr ""
+
+#: FedEx
+msgid "FedEx"
+msgstr ""
+
+#: First Overnight
+msgid "First Overnight"
+msgstr ""
+
+#: Ground
+msgid "Ground"
+msgstr ""
+
+#: Home Delivery
+msgid "Home Delivery"
+msgstr ""
+
+#: Inches
+msgid "Inches"
+msgstr ""
+
+#: Key/URL delivery
+msgid "Key/URL delivery"
+msgstr ""
+
+#: Media Mail
+msgid "Media Mail"
+msgstr ""
+
+#: Next Day Air
+msgid "Next Day Air"
+msgstr ""
+
+#: Next Day Air Early AM
+msgid "Next Day Air Early AM"
+msgstr ""
+
+#: Next Day Air Saver
+msgid "Next Day Air Saver"
+msgstr ""
+
+#: No Comment
+msgid "No Comment"
+msgstr ""
+
+#: No Reason
+msgid "No Reason"
+msgstr ""
+
+#: Order creation error
+msgid "Order creation error"
+msgstr ""
+
+#: Parcel Post
+msgid "Parcel Post"
+msgstr ""
+
+#: Priority Mail
+msgid "Priority Mail"
+msgstr ""
+
+#: Priority Overnight
+msgid "Priority Overnight"
+msgstr ""
+
+#: Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (\"Web\" > \"Secure\").
+msgid "Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (\"Web\" > \"Secure\")."
+msgstr ""
+
+#: Residential
+msgid "Residential"
+msgstr ""
+
+#: Standard Overnight
+msgid "Standard Overnight"
+msgstr ""
+
+#: UPS
+msgid "UPS"
+msgstr ""
+
+#: USPS
+msgid "USPS"
+msgstr ""
+
+#: Unknown Reason
+msgid "Unknown Reason"
 msgstr ""
 

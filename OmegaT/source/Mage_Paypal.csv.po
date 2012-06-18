@@ -178,7 +178,7 @@ msgstr "compte de gestion de la balance bonus"
 msgid "Billing Address"
 msgstr "Adresse de facturation"
 
-#: Billing Agreement Signup 
+#: Billing Agreement Signup
 msgid "Billing Agreement Signup "
 msgstr "Engagement d'entente de facturation  "
 
@@ -276,7 +276,7 @@ msgstr "Personnalisé"
 
 #: Custom Endpoint Hostname or IP-Address
 msgid "Custom Endpoint Hostname or IP-Address"
-msgstr "Critère Personnalisé Hostname ou ADRESSE IP"
+msgstr "Critère Personnalisé Hostname ou adresse IP"
 
 #: Custom Path
 msgid "Custom Path"
@@ -484,7 +484,7 @@ msgstr "récupérés %s lignes du rapport de '%s@%s'."
 
 #: Frontend Experience Settings
 msgid "Frontend Experience Settings"
-msgstr "Paramètres expérience frontend"
+msgstr "Paramètres d'expérience en frontend"
 
 #: Funding
 msgid "Funding"
@@ -514,7 +514,7 @@ msgstr "Ajustement général sans événement lié au marché"
 msgid "General Currency Conversion"
 msgstr "Conversion de devises général"
 
-#: General Funding of PayPal Account 
+#: General Funding of PayPal Account
 msgid "General Funding of PayPal Account "
 msgstr "Financement général de compte PayPal "
 
@@ -608,7 +608,7 @@ msgstr "Transaction virtuelle cachée de carte de débit de PayPal"
 
 #: Hold for Dispute Investigation
 msgid "Hold for Dispute Investigation"
-msgstr "Maintenez la position pendant enquêtes sur les contestations"
+msgstr "Bloquer pendant l'enquête de litige"
 
 #: IPN \"%s\".
 msgid "IPN \"%s\"."
@@ -720,7 +720,7 @@ msgstr "Pays du marchand"
 
 #: Merchant Liability
 msgid "Merchant Liability"
-msgstr "Responsable (Marchand)"
+msgstr "Responsabilité du marchand"
 
 #: Merchant Protection Eligibility
 msgid "Merchant Protection Eligibility"
@@ -900,7 +900,7 @@ msgstr "PayPal"
 
 #: PayPal Balance Manager function of PayPal account
 msgid "PayPal Balance Manager function of PayPal account"
-msgstr "fonction du gestionnaire PayPal solde du compte PayPal"
+msgstr "Fonction du gestionnaire PayPal solde du compte PayPal"
 
 #: PayPal Buyer Warranty Bonus
 msgid "PayPal Buyer Warranty Bonus"
@@ -952,7 +952,7 @@ msgstr "Référence PayPal ID Type"
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr "Rapports de règlement PayPal"
+msgstr "Rapports de règlements PayPal"
 
 #: PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.
 msgid "PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process."
@@ -960,7 +960,7 @@ msgstr "PayPal ne peut pas traiter les commande d'un montant nul. Pour terminer 
 
 #: PayPal gateway has rejected request. %s
 msgid "PayPal gateway has rejected request. %s"
-msgstr "PayPal passerelle a rejeté la demande. %s"
+msgstr "La passerelle PayPal a rejeté la demande. %s"
 
 #: PayPal processes all of your orders, and you get paid.
 msgid "PayPal processes all of your orders, and you get paid."
@@ -1144,7 +1144,7 @@ msgstr "Inversion d'un ajustement."
 
 #: Reversal of hold for Dispute Investigation
 msgid "Reversal of hold for Dispute Investigation"
-msgstr "Inversion de prise pour la recherche de conflit"
+msgstr "Débloquer pendant l'enquête de litige"
 
 #: Review Order
 msgid "Review Order"
@@ -1208,11 +1208,11 @@ msgstr "Vérification 3D Secure stricte"
 
 #: Severe Validation Removes Chargeback Liability on Merchant
 msgid "Severe Validation Removes Chargeback Liability on Merchant"
-msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand"
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Severe validation removes chargeback liability on merchant.
 msgid "Severe validation removes chargeback liability on merchant."
-msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand."
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Shipping
 msgid "Shipping"
@@ -1660,21 +1660,21 @@ msgstr "Paramétrage de la solution hébergée de paiements pros sur site web"
 
 #: You will be required to enter your payment details after you place an order.
 msgid "You will be required to enter your payment details after you place an order."
-msgstr "Vouz devrez saisir les informations de paiement après la validation de votre commande."
+msgstr "Vous devrez saisir les informations de paiement après la validation de votre commande."
 
-#: Important: 
+#: Important:
 msgid "Important: "
 msgstr "Important : "
 
-#: Cancel URL: 
+#: Cancel URL:
 msgid "Cancel URL: "
 msgstr "URL d'annulation : "
 
-#: Show confirmation page: 
+#: Show confirmation page:
 msgid "Show confirmation page: "
 msgstr "Afficher la page de confirmation : "
 
-#: Return URL: 
+#: Return URL:
 msgid "Return URL: "
 msgstr "URL de retour : "
 
@@ -1684,23 +1684,23 @@ msgstr "sValeurs acceptées : \"paypal\", \"primary\" (par défaut), votre_valeu
 
 #: Authorization Honor Period (days)
 msgid "Authorization Honor Period (days)"
-msgstr ""
+msgstr "Période d'autorisation d'honneur (jours)"
 
 #: Authorized amount of %s.
 msgid "Authorized amount of %s."
-msgstr ""
+msgstr "Montant autorisé de %s."
 
 #: Authorizing amount of %s is pending approval on gateway.
 msgid "Authorizing amount of %s is pending approval on gateway."
-msgstr ""
+msgstr "Saisir le montant de %s est en attente d'approbation sur la passerelle."
 
 #: Buyer's Tax ID
 msgid "Buyer's Tax ID"
-msgstr ""
+msgstr "ID de taxe de l'acheteur"
 
 #: Buyer's Tax ID Type
 msgid "Buyer's Tax ID Type"
-msgstr ""
+msgstr "Type d'ID de taxe de l'acheteur"
 
 #: CNPJ
 msgid "CNPJ"
@@ -1712,141 +1712,273 @@ msgstr ""
 
 #: Centinel Custom API URL
 msgid "Centinel Custom API URL"
-msgstr ""
+msgstr "URL personnalisée de l'API de Centinel"
 
 #: Integral Evolution
 msgid "Integral Evolution"
-msgstr ""
+msgstr "Évolution intégrale"
 
 #: Integral Evolution Settings
 msgid "Integral Evolution Settings"
-msgstr ""
+msgstr "Paramètres de Évolution intégrale"
 
 #: Number of Child Authorizations
 msgid "Number of Child Authorizations"
-msgstr ""
+msgstr "Nombre d'autorisations enfants"
 
 #: Order Valid Period (days)
 msgid "Order Valid Period (days)"
-msgstr ""
+msgstr "Période de validité d'une commande (jours)"
 
 #: Ordered amount of %s.
 msgid "Ordered amount of %s."
-msgstr ""
+msgstr "Montant commandé de %s"
 
 #: Ordering amount of %s is pending approval on gateway.
 msgid "Ordering amount of %s is pending approval on gateway."
-msgstr ""
+msgstr "La capture d'un montant de %s est en attente d'approbation sur la passerelle."
 
 #: Pasarela integral
 msgid "Pasarela integral"
-msgstr ""
+msgstr "Pasarela integral"
 
 #: Pasarela integral Settings
 msgid "Pasarela integral Settings"
-msgstr ""
+msgstr "Paramètres de Pasarela integral"
 
 #: PayPal Pro
 msgid "PayPal Pro"
-msgstr ""
+msgstr "PayPal Pro"
 
 #: PayPal Pro Settings
 msgid "PayPal Pro Settings"
-msgstr ""
+msgstr "Paramètres de PayPal Pro"
 
 #: Please agree to all the terms and conditions before placing the order.
 msgid "Please agree to all the terms and conditions before placing the order."
-msgstr ""
+msgstr "Veuillez accepter les conditions générales de ventes avant de valider la commande."
 
 #: Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.
 msgid "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal."
-msgstr ""
+msgstr "Indiquez quelle est la période d'autorisation d'honneur sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal."
 
 #: Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.
 msgid "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal."
-msgstr ""
+msgstr "Indiquez quelle est la période de validité de commande sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal."
 
 #: The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.
 msgid "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase."
-msgstr ""
+msgstr "Le nombre par défaut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation."
 
 #: The maximum number of child authorizations is reached.
 msgid "The maximum number of child authorizations is reached."
-msgstr ""
+msgstr "Le nombre maximum d'autorisations enfants est atteint."
 
 #: Website Payments Plus
 msgid "Website Payments Plus"
-msgstr ""
+msgstr "Website Payments Plus"
 
 #: Website Payments Plus Settings
 msgid "Website Payments Plus Settings"
-msgstr ""
+msgstr "Paramètres de Website Payments Plus"
 
 #: Website Payments Pro Hosted Solution
 msgid "Website Payments Pro Hosted Solution"
-msgstr ""
+msgstr "Solution hébergée Website Payments Pro"
 
 #: To use Payflow Link, you must configure your Payflow Link account on the Paypal website.
 msgid "To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
-msgstr ""
+msgstr "Pour utiliser Payflow Link, vous devez configurer votre compte Payflow Link sur le site de PayPal."
 
 #: Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below
 msgid "Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
-msgstr ""
+msgstr "Une fois connecté dans votre compte Payflow Link, allez dans le menu Paramétrages du service - Pages de commande hébergées - Configuration et renseignez les options décrites ci-dessous"
 
 #: Required settings
 msgid "Required settings"
-msgstr ""
+msgstr "Paramètres obligatoires"
 
 #: On my website
 msgid "On my website"
-msgstr ""
+msgstr "Sur mon site web"
 
 #: Use Silent Post:
 msgid "Use Silent Post:"
-msgstr ""
+msgstr "Utiliser la soumission silencieuce (Silent Post) :"
 
 #: Silent Post URL:
 msgid "Silent Post URL:"
-msgstr ""
+msgstr "URL de soumission silencieuse (Silent Post) :"
 
 #: Enable Secure Token:
 msgid "Enable Secure Token:"
-msgstr ""
+msgstr "Éditer le jeton de sécurité :"
 
 #: Note:
 msgid "Note:"
-msgstr ""
+msgstr "Remarque :"
 
 #: Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.
 msgid "Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
-msgstr ""
+msgstr "Dans le bloc d'informations de facturation et de livraison de votre compte Payflow, ne rendez éditable aucun champ."
 
 #: Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.
 msgid "Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
-msgstr ""
+msgstr "Ne pas activer les options AVS ou CSC. Ces options ne fonctionnent pas en mode Payflow Link Silent."
 
 #: If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.
 msgid "If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
-msgstr ""
+msgstr "Si votre instance Magento est utilisée pour plusieurs sites web, vous devez configurer un compte Payflow Link pour chaque site web."
 
 #: Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.
 msgid "Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
-msgstr ""
+msgstr "Assurez-vous d'avoir configuré le design pour le formulaire Payflow Link dans votre compte Payflow Link."
 
 #: Add New
 msgid "Add New"
-msgstr ""
+msgstr "Ajouter"
 
 #: Back
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: of %s pages
 msgid "of %s pages"
-msgstr ""
+msgstr "sur %s pages"
 
 #: Total %d records found
 msgid "Total %d records found"
+msgstr "%d enregistrement(s) trouvé(s)"
+
+#: Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.
+msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal."
+msgstr ""
+
+#: Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.
+msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account."
+msgstr ""
+
+#: Address
+msgid "Address"
+msgstr ""
+
+#: City
+msgid "City"
+msgstr ""
+
+#: Click here if you are not redirected within 10 seconds...
+msgid "Click here if you are not redirected within 10 seconds..."
+msgstr ""
+
+#: Company
+msgid "Company"
+msgstr ""
+
+#: Country
+msgid "Country"
+msgstr ""
+
+#: Customer Information
+msgid "Customer Information"
+msgstr ""
+
+#: Display Express Checkout in the Payment Information step
+msgid "Display Express Checkout in the Payment Information step"
+msgstr ""
+
+#: Email Address
+msgid "Email Address"
+msgstr ""
+
+#: Fax
+msgid "Fax"
+msgstr ""
+
+#: For Virtual Quotes Only
+msgid "For Virtual Quotes Only"
+msgstr ""
+
+#: PayPal Payments Advanced
+msgid "PayPal Payments Advanced"
+msgstr ""
+
+#: Payment transactions disallow storing objects.
+msgid "Payment transactions disallow storing objects."
+msgstr ""
+
+#: Please select region, state or province
+msgid "Please select region, state or province"
+msgstr ""
+
+#: Please update order data to get shipping methods and rates
+msgid "Please update order data to get shipping methods and rates"
+msgstr ""
+
+#: Require Customer's Billing Address
+msgid "Require Customer's Billing Address"
+msgstr ""
+
+#: Same as shipping
+msgid "Same as shipping"
+msgstr ""
+
+#: Server Error. Please try again.
+msgid "Server Error. Please try again."
+msgstr ""
+
+#: State/Province
+msgid "State/Province"
+msgstr ""
+
+#: Street Address
+msgid "Street Address"
+msgstr ""
+
+#: Street Address %s
+msgid "Street Address %s"
+msgstr ""
+
+#: Telephone
+msgid "Telephone"
+msgstr ""
+
+#: This feature needs be enabled first for the merchant account through PayPal technical support.
+msgid "This feature needs be enabled first for the merchant account through PayPal technical support."
+msgstr ""
+
+#: This operation requires an existing transaction object.
+msgid "This operation requires an existing transaction object."
+msgstr ""
+
+#: Transaction ID must not be empty.
+msgid "Transaction ID must not be empty."
+msgstr ""
+
+#: Unable to update Order data.
+msgid "Unable to update Order data."
+msgstr ""
+
+#: Unknown Error. Please try again later.
+msgid "Unknown Error. Please try again later."
+msgstr ""
+
+#: Update Order Data
+msgid "Update Order Data"
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+
+#: Vendor / Merchant Login
+msgid "Vendor / Merchant Login"
+msgstr ""
+
+#: You cannot void a verification transaction
+msgid "You cannot void a verification transaction"
+msgstr ""
+
+#: Zip/Postal Code
+msgid "Zip/Postal Code"
 msgstr ""
 

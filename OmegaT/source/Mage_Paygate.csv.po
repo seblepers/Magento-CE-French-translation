@@ -208,7 +208,7 @@ msgstr "Vérification 3D Secure stricte"
 
 #: Severe Validation Removes Chargeback Liability on Merchant
 msgid "Severe Validation Removes Chargeback Liability on Merchant"
-msgstr "supprime la validation graves responsabilité de rétrofacturation sur marchand"
+msgstr "La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand"
 
 #: Shopping cart contents and/or address has been changed.
 msgid "Shopping cart contents and/or address has been changed."
@@ -276,17 +276,17 @@ msgstr "invalider"
 
 #: Centinel API URL
 msgid "Centinel API URL"
-msgstr ""
+msgstr "URL API de Centinel"
 
 #: Payment updating error.
 msgid "Payment updating error."
-msgstr ""
+msgstr "Erreur lors de la mise à jour de paiement."
 
 #: Gateway URL
 msgid "Gateway URL"
-msgstr ""
+msgstr "URL de passerelle"
 
 #: <a href="http://celinks.magento.com/authorize_netRegistration" target="_blank">Click here to sign up for an Authorize.net account</a>
 msgid "<a href=\"http://celinks.magento.com/authorize_netRegistration\" target=\"_blank\">Click here to sign up for an Authorize.net account</a>"
-msgstr ""
+msgstr "<a href=\"http://celinks.magento.com/authorize_netRegistration\" target=\"_blank\">Cliquez ici pour ouvrir un compte Authorize.net</a>"
 

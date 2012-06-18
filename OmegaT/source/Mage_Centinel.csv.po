@@ -48,7 +48,7 @@ msgstr "Code de sécurité MasterCard"
 
 #: Merchant Liability
 msgid "Merchant Liability"
-msgstr "Responsable (Marchand)"
+msgstr "Responsabilité du marchand"
 
 #: Not Enrolled
 msgid "Not Enrolled"

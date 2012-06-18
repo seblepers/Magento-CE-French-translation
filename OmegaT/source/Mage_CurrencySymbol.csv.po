@@ -1,0 +1,40 @@
+#: Custom currency symbols were applied successfully.
+msgid "Custom currency symbols were applied successfully."
+msgstr ""
+
+#: Manage Currency
+msgid "Manage Currency"
+msgstr ""
+
+#: Manage Currency Rates
+msgid "Manage Currency Rates"
+msgstr ""
+
+#: Rates
+msgid "Rates"
+msgstr ""
+
+#: Save Currency Symbols
+msgid "Save Currency Symbols"
+msgstr ""
+
+#: Symbols
+msgid "Symbols"
+msgstr ""
+
+#: System
+msgid "System"
+msgstr ""
+
+#: Use Default
+msgid "Use Default"
+msgstr ""
+
+#: Use Standard
+msgid "Use Standard"
+msgstr ""
+
+#: Use Website
+msgid "Use Website"
+msgstr ""
+

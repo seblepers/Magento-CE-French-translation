@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1. set up</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T211941Z" changeid="seb">
+        <seg>1. configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1.5.0.0 &amp; later</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Périmètre de 2 pixels autour de l'espace d'en-tête</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2. customize</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T211955Z" changeid="seb">
+        <seg>2. personnaliser</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>&lt;strong&gt;%d produits&lt;/strong&gt; ont été trouvés avec ces critères de recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;strong&gt;%s&lt;/strong&gt; requests access to your account</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212016Z" changeid="seb">
+        <seg>&lt;strong&gt;%s&lt;/strong&gt; nécessite l'accès à votre compte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;strong&gt;Attention&lt;/strong&gt;: Captcha is case sensitive.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212037Z" changeid="seb">
+        <seg>&lt;strong&gt;Attention&lt;/strong&gt; : le captcha est sensible à la casse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3726,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After authorization application will have access to you account.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212104Z" changeid="seb">
+        <seg>Après l'autorisation, l'application aura accès à votre compte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After selecting a new media storage location, press the Synchronize button
                                 to transfer all media to that location. Media will not be available in the new
                                 location until the synchronization process is complete.</seg>
@@ -4410,6 +4450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always (during development)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212127Z" changeid="seb">
+        <seg>Toujours (pendant le developpement)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always optional.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -4634,10 +4682,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while deleting URL Rewrite.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212255Z" changeid="seb">
+        <seg>Une erreur est survenue pendant la suppression des réécritures d'URLs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while deleting email template data. Please review log and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la suppression des données de gabarit d'email. Consultez les logs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while deleting record(s).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212219Z" changeid="seb">
+        <seg>Une erreur est survenue pendant la suppression des enregistrements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +5034,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while saving URL Rewrite.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212247Z" changeid="seb">
+        <seg>Une erreur est survenur pendant l'enregistrement de la réécriture d'URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while saving a record, aborting. Error:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -4990,6 +5062,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la sauvegarde du statut de commande. Le statut n'a pas été ajouté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while saving review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212322Z" changeid="seb">
+        <seg>Une erreur est survenue lors de l'enregistrement du commentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +5518,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Toutes les visibilités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any data created since the backup was made will be lost including admin users, customers and orders.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212436Z" changeid="seb">
+        <seg>Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6070,6 +6158,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Êtes-vous sûr(e) de vouloir effectuer cette opération ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to proceed?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212448Z" changeid="seb">
+        <seg>Voulez-vous vraiment continuer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6722,6 +6818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorization confirmed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212455Z" changeid="seb">
+        <seg>Autorisation confirmée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorization not known: A technical problem arose during authorization process, giving unpredictable result</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6738,6 +6842,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorize</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212500Z" changeid="seb">
+        <seg>Autoriser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorize Only</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6750,6 +6862,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Autorisation et collecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authorize application</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212508Z" changeid="seb">
+        <seg>Autoriser l'application</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +6894,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Soumission directe Authorize.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authorized OAuth Tokens</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212520Z" changeid="seb">
+        <seg>Jetons OAuth autorisés</seg>
       </tuv>
     </tu>
     <tu>
@@ -6862,6 +6990,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Automatique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic (equalize price ranges)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212536Z" changeid="seb">
+        <seg>Automatique (égalise les tranches de prix)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic (equalize product counts)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212553Z" changeid="seb">
+        <seg>Automatique (égalise le nombre de produits)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,6 +7306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backup Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212559Z" changeid="seb">
+        <seg>Nom de la sauvegarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backup Options</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7206,6 +7358,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le chemin du fichier de sauvegarde n'a pas été spécifié.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212605Z" changeid="seb">
+        <seg>Options de sauvegarde</seg>
       </tuv>
     </tu>
     <tu>
@@ -10678,6 +10838,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Choisir une vue magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose Store View:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T212617Z" changeid="seb">
+        <seg>Choisir la vue magasin :</seg>
       </tuv>
     </tu>
     <tu>
@@ -18522,6 +18690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exclude media folder from backup</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142612Z" changeid="seb">
+        <seg>Exclure le dossier media de la sauvegarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excluding FPT</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -18898,10 +19074,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FTP Host</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142317Z" changeid="seb">
+        <seg>Hôte FTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FTP Host[:Port]</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Hôte FTP [:Port]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FTP Login</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142326Z" changeid="seb">
+        <seg>Login FTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -18942,6 +19134,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Utilisateur FTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FTP credentials</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142348Z" changeid="seb">
+        <seg>Informations de connexion FTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -20010,6 +20210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forgot Admin Password</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142357Z" changeid="seb">
+        <seg>Mot de passe admin oublié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forgot Email Sender</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20974,6 +21182,14 @@
       </tuv>
       <tuv lang="FR-FR" changedate="20111107T122726Z" changeid="seb">
         <seg>Circonférence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give the verifier code to application administrator</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142423Z" changeid="seb">
+        <seg>Donner le code de vérification à l'administrateur de l'application</seg>
       </tuv>
     </tu>
     <tu>
@@ -22190,6 +22406,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La facture à été crée hors-ligne, essayez de créer l'avoir hors-ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If there is an account associated with %s you will receive an email with a link to reset your password.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142515Z" changeid="seb">
+        <seg>S'il y a un compte associé à l'adresse %s, vous recevrez un email avec un lien pour réinitialiser votre mot de passe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,6 +23738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid User Name or Password.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142526Z" changeid="seb">
+        <seg>Nom d'utilisateur ou mot de passe invalide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Username or Password.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24166,6 +24398,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Block parent invalide pour ce block.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid password reset token.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120618T142552Z" changeid="seb">
+        <seg>Jeton de réinitialisation de mot de passe invalide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49989,8 +50229,8 @@
       <tuv lang="EN-US">
         <seg>This attribute is used in configurable products. You cannot remove it from the attribute set.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d\'attributs.</seg>
+      <tuv lang="FR-FR" changedate="20120220T143114Z" changeid="seb">
+        <seg>Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57049,6 +57289,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will need to navigate to your</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T211903Z" changeid="seb">
+        <seg>Vous devrez vous rendre dans le </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will no longer receive price alerts for this product.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -57517,6 +57765,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>et plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and go to the</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T211852Z" changeid="seb">
+        <seg>et aller dans le </seg>
       </tuv>
     </tu>
     <tu>
@@ -58109,6 +58365,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>économisez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sections for your Hosted Checkout Pages.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changedate="20120520T211932Z" changeid="seb">
+        <seg>sections pour vos pages de commande hébergées.</seg>
       </tuv>
     </tu>
     <tu>

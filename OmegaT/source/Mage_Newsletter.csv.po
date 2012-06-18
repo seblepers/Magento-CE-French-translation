@@ -364,7 +364,7 @@ msgstr "Expéditeur"
 
 #: Sender Email
 msgid "Sender Email"
-msgstr "Expéditeur de l'email"
+msgstr "Email de l'expéditeur"
 
 #: Sender Name
 msgid "Sender Name"
@@ -548,5 +548,5 @@ msgstr "Copie"
 
 #: Please refer to exeption.log
 msgid "Please refer to exeption.log"
-msgstr ""
+msgstr "Veuillez consulter le fichier exception.log"
 

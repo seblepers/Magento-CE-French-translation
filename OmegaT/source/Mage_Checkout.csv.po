@@ -590,7 +590,7 @@ msgstr "Réussite du passage de commande en une seule page"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -1034,7 +1034,7 @@ msgstr "Votre n° de commande est : %s."
 msgid "Your order has been received"
 msgstr "Votre commande a été reçue"
 
-#: Your order number is 
+#: Your order number is
 msgid "Your order number is "
 msgstr "Votre numéro de commande est "
 
@@ -1156,7 +1156,7 @@ msgstr "Produits"
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Quote item does not exist.
 msgid "Quote item does not exist."
@@ -1232,37 +1232,145 @@ msgstr "Séparer par \",\"."
 
 #: Add gift messages to shopping cart
 msgid "Add gift messages to shopping cart"
-msgstr ""
+msgstr "Ajouter des messages cadeau au panier"
 
 #: Cart Product API
 msgid "Cart Product API"
-msgstr ""
+msgstr "API de produit du panier"
 
 #: Gift Message
 msgid "Gift Message"
-msgstr ""
+msgstr "Message du cadeau"
 
 #: ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER
 msgid "ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER"
-msgstr ""
+msgstr "LE TOTAL DE LA COMMANDE S'AFFICHERA AVANT LA CONFIRMATION DE COMMANDE"
 
 #: One item of products do not have identifier or sku
 msgid "One item of products do not have identifier or sku"
-msgstr ""
+msgstr "Un produit n'a pas d'identifiant ou de référence (sku)."
 
 #: One item of products is not belong any of quote item
 msgid "One item of products is not belong any of quote item"
-msgstr ""
+msgstr "Un produit n'appartient à aucun des éléments du devis"
 
 #: Order place error.
 msgid "Order place error."
-msgstr ""
+msgstr "Erreur lors de la création de commande."
 
 #: See price before order confirmation.
 msgid "See price before order confirmation."
-msgstr ""
+msgstr "Voir le prix avant la confirmation de la commande"
 
 #: What's this?
 msgid "What's this?"
+msgstr "Qu'est-ce que c'est ?"
+
+#: Clear Shopping Cart
+msgid "Clear Shopping Cart"
+msgstr ""
+
+#: Customer Address is not valid.
+msgid "Customer Address is not valid."
+msgstr ""
+
+#: Edit Condition
+msgid "Edit Condition"
+msgstr ""
+
+#: Invalid checkout type.
+msgid "Invalid checkout type."
+msgstr ""
+
+#: Invalid data.
+msgid "Invalid data."
+msgstr ""
+
+#: Invalid email address \"%s\"
+msgid "Invalid email address \"%s\""
+msgstr ""
+
+#: Invalid shipping method.
+msgid "Invalid shipping method."
+msgstr ""
+
+#: Manage Terms and Conditions
+msgid "Manage Terms and Conditions"
+msgstr ""
+
+#: Minimum order amount is %s
+msgid "Minimum order amount is %s"
+msgstr ""
+
+#: Move
+msgid "Move"
+msgstr ""
+
+#: New Terms and Conditions
+msgid "New Terms and Conditions"
+msgstr ""
+
+#: Please check billing address information.
+msgid "Please check billing address information."
+msgstr ""
+
+#: Please check shipping address information.
+msgid "Please check shipping address information."
+msgstr ""
+
+#: Please check shipping addresses information.
+msgid "Please check shipping addresses information."
+msgstr ""
+
+#: Please choose to register or to checkout as a guest
+msgid "Please choose to register or to checkout as a guest"
+msgstr ""
+
+#: Please select valid payment method.
+msgid "Please select valid payment method."
+msgstr ""
+
+#: Please specify payment method.
+msgid "Please specify payment method."
+msgstr ""
+
+#: Please specify shipping method.
+msgid "Please specify shipping method."
+msgstr ""
+
+#: Please specify shipping methods for all addresses.
+msgid "Please specify shipping methods for all addresses."
+msgstr ""
+
+#: Require Customer To Be Logged In To Checkout
+msgid "Require Customer To Be Logged In To Checkout"
+msgstr ""
+
+#: Sorry, guest checkout is not enabled. Please try again or contact store owner.
+msgid "Sorry, guest checkout is not enabled. Please try again or contact store owner."
+msgstr ""
+
+#: Sorry, guest checkout is not enabled. Please try again or contact the store owner.
+msgid "Sorry, guest checkout is not enabled. Please try again or contact the store owner."
+msgstr ""
+
+#: Subtotal must exceed minimum order amount
+msgid "Subtotal must exceed minimum order amount"
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+
+#: Your order cannot be completed at this time as there is no payment methods available for it.
+msgid "Your order cannot be completed at this time as there is no payment methods available for it."
+msgstr ""
+
+#: Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.
+msgid "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
+msgstr ""
+
+#: Your order has been received.
+msgid "Your order has been received."
 msgstr ""
 

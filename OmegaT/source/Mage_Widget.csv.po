@@ -280,7 +280,7 @@ msgstr "par page"
 
 #: Add New
 msgid "Add New"
-msgstr "Nouvelle instance de widget"
+msgstr "Ajouter"
 
 #: Back
 msgid "Back"
@@ -288,17 +288,35 @@ msgstr "Retour"
 
 #: Anchor Custom Title
 msgid "Anchor Custom Title"
-msgstr ""
+msgstr "Présenter un titre personnalisé"
 
 #: Anchor Custom Text
 msgid "Anchor Custom Text"
+msgstr "Présenter un texte personnalisé"
+
+#:
+msgid ""
+
+#:
+msgid ""
+
+#: Apply
+msgid "Apply"
 msgstr ""
 
-#: 
-msgid ""
+#: Insert Widget...
+msgid "Insert Widget..."
 msgstr ""
 
-#: 
-msgid ""
+#: Open Chooser
+msgid "Open Chooser"
+msgstr ""
+
+#: Widget Insertion
+msgid "Widget Insertion"
+msgstr ""
+
+#: Wrong widget instance specified.
+msgid "Wrong widget instance specified."
 msgstr ""
 

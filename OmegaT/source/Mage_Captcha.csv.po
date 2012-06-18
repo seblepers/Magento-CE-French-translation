@@ -1,0 +1,88 @@
+#: <strong>Attention</strong>: Captcha is case sensitive.
+msgid "<strong>Attention</strong>: Captcha is case sensitive."
+msgstr ""
+
+#: After number of attempts to login
+msgid "After number of attempts to login"
+msgstr ""
+
+#: Always
+msgid "Always"
+msgstr ""
+
+#: CAPTCHA
+msgid "CAPTCHA"
+msgstr ""
+
+#: CAPTCHA Timeout (minutes)
+msgid "CAPTCHA Timeout (minutes)"
+msgstr ""
+
+#: CAPTCHA for \"Create user\" and \"Forgot password\" forms is always enabled if chosen
+msgid "CAPTCHA for \"Create user\" and \"Forgot password\" forms is always enabled if chosen"
+msgstr ""
+
+#: Case Sensitive
+msgid "Case Sensitive"
+msgstr ""
+
+#: Displaying Mode
+msgid "Displaying Mode"
+msgstr ""
+
+#: Enable CAPTCHA in Admin
+msgid "Enable CAPTCHA in Admin"
+msgstr ""
+
+#: Enable CAPTCHA on Frontend
+msgid "Enable CAPTCHA on Frontend"
+msgstr ""
+
+#: Font
+msgid "Font"
+msgstr ""
+
+#: Forms
+msgid "Forms"
+msgstr ""
+
+#: If 0 is specified, CAPTCHA on the Login form will be always available.
+msgid "If 0 is specified, CAPTCHA on the Login form will be always available."
+msgstr ""
+
+#: Incorrect CAPTCHA.
+msgid "Incorrect CAPTCHA."
+msgstr ""
+
+#: Number of Symbols
+msgid "Number of Symbols"
+msgstr ""
+
+#: Number of Unsuccessful Attempts to Login
+msgid "Number of Unsuccessful Attempts to Login"
+msgstr ""
+
+#: Please specify 8 symbols at the most. Range allowed (e.g. 3-5)
+msgid "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)"
+msgstr ""
+
+#: Please type the letters below
+msgid "Please type the letters below"
+msgstr ""
+
+#: Please type the letters from the image:
+msgid "Please type the letters from the image:"
+msgstr ""
+
+#: Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. \"i\", \"l\", \"1\") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. \"i\", \"l"
+msgid "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. \"i\", \"l\", \"1\") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. \"i\", \"l""
+msgstr ""
+
+#: Reload captcha
+msgid "Reload captcha"
+msgstr ""
+
+#: Symbols Used in CAPTCHA
+msgid "Symbols Used in CAPTCHA"
+msgstr ""
+

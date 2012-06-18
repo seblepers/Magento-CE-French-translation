@@ -1,4 +1,4 @@
-#: 
+#:
 msgid ""
 
 #: But cart has some errors.
@@ -1913,7 +1913,7 @@ msgstr "économisez"
 msgid "Page"
 msgstr "Page"
 
-#: To activate PayPal MEP payment method activate Express checkout first. 
+#: To activate PayPal MEP payment method activate Express checkout first.
 msgid "To activate PayPal MEP payment method activate Express checkout first. "
 msgstr "Pour activer le mode de paiement PayPal MEP, vous devez d'abord activer Express checkout. "
 
@@ -1927,363 +1927,363 @@ msgstr "Erreur lors de l'upload du fichier \"%s\". Type de fichier non autorisé
 
 #: \"Description\" is more than %d characters long
 msgid "\"Description\" is more than %d characters long"
-msgstr ""
+msgstr "La description fait plus de %d caractères"
 
 #: %s API Key required.
 msgid "%s API Key required."
-msgstr ""
+msgstr "La clé d'API %s est obligatoire."
 
 #: %s Application ID required.
 msgid "%s Application ID required."
-msgstr ""
+msgstr "L'ID d'application %s est obligatoire."
 
 #: %s Secret Key required.
 msgid "%s Secret Key required."
-msgstr ""
+msgstr "La clé secrète %s est obligatoire."
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr ""
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: *Subject to change
 msgid "*Subject to change"
-msgstr ""
+msgstr "* Sous réserve de modifications"
 
 #: <a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship.
 msgid "<a href=\"%s\" target=\"_blank\">Login</a> to Urabn Airship."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_blank\">Se connecter</a> à Urban Airship"
 
 #: Additional Product Info
 msgid "Additional Product Info"
-msgstr ""
+msgstr "Complément d'information de produit"
 
 #: After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.
 msgid "After submitting the App to Magento, please contact <a href=\"mailto:%1$s\">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret."
-msgstr ""
+msgstr "Après soumission de l'application à Magento, contactez %1$s afin de recevoir la clé d'application, le code secret et le code secret maître."
 
 #: All Allowed Countries
 msgid "All Allowed Countries"
-msgstr ""
+msgstr "Tous les pays autorisés"
 
 #: All locations
 msgid "All locations"
-msgstr ""
+msgstr "Tous les lieux"
 
 #: App Background (landscape mode).
 msgid "App Background (landscape mode)."
-msgstr ""
+msgstr "Arrière-plan de l'appli (mode paysage)"
 
 #: App Background (portrait mode).
 msgid "App Background (portrait mode)."
-msgstr ""
+msgstr "Arrière-plan de l'appli (mode portrait)"
 
 #: App Background <br />(landscape mode)
 msgid "App Background <br />(landscape mode)"
-msgstr ""
+msgstr "Arrière-plan de l'appli <br/>(mode paysage)"
 
 #: App Background <br />(portrait mode)
 msgid "App Background <br />(portrait mode)"
-msgstr ""
+msgstr "Arrière-plan de l'appli <br/>(mode portrait)"
 
 #: App Background image missing.
 msgid "App Background image missing."
-msgstr ""
+msgstr "L'image d'arrière-plan de l'appli est manquante."
 
 #: App Stores
 msgid "App Stores"
-msgstr ""
+msgstr "App Stores"
 
 #: Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)
 msgid "Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)"
-msgstr ""
+msgstr "Apparaît dans la section infos de votre appli (par exemple : Copyright 2011 - Votre société)"
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial.
 msgid "As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial."
-msgstr ""
+msgstr "En tant que client de Magento, Urban Airship vous offre les notifications Push illimités et Rich Push pour 100$/an* avec un essai de 60 jours gratuitement."
 
 #: Banner on Home Screen (landscape mode) image missing.
 msgid "Banner on Home Screen (landscape mode) image missing."
-msgstr ""
+msgstr "L'image de bannière sur l'écran d'accueil (mode paysage) est manquante."
 
 #: Banner on Home Screen (portrait mode) image missing.
 msgid "Banner on Home Screen (portrait mode) image missing."
-msgstr ""
+msgstr "L'image de bannière sur l'écran d'accueil (mode portrait) est manquante."
 
 #: Banner on Home Screen <br />(landscape mode)
 msgid "Banner on Home Screen <br />(landscape mode)"
-msgstr ""
+msgstr "Bannière sur l'écran d'accueil <br/> (mode paysage)"
 
 #: Banner on Home Screen <br />(portrait mode)
 msgid "Banner on Home Screen <br />(portrait mode)"
-msgstr ""
+msgstr "Bannière sur l'écran d'accueil <br/> (mode portrait)"
 
 #: Banner on Home Screen image missing.
 msgid "Banner on Home Screen image missing."
-msgstr ""
+msgstr "L'image de bannière sur l'écran d'accueil est manquante."
 
 #: Buyer country is not allowed by store.
 msgid "Buyer country is not allowed by store."
-msgstr ""
+msgstr "Le pays de l'acheteur n'est pas autorisé par la boutique."
 
 #: Cache Lifetime (seconds)
 msgid "Cache Lifetime (seconds)"
-msgstr ""
+msgstr "Durée de vie du cache (secondes)"
 
 #: Cache Management
 msgid "Cache Management"
-msgstr ""
+msgstr "Gestion du cache"
 
 #: Can't copy file \"%s\" to \"%s\".
 msgid "Can't copy file \"%s\" to \"%s\"."
-msgstr ""
+msgstr "Impossible de copier le fichier depuis \"%s\" vers \"%s\"."
 
 #: Can't delete \"%s\" theme.
 msgid "Can't delete \"%s\" theme."
-msgstr ""
+msgstr "Impossible de supprimer le thème \"%s\""
 
 #: Can't load default themes.
 msgid "Can't load default themes."
-msgstr ""
+msgstr "Impossible de charger les thèmes par défaut"
 
 #: Changes have been saved to theme.
 msgid "Changes have been saved to theme."
-msgstr ""
+msgstr "Les modifications ont été enregistrées dans le thème."
 
 #: Copyright Page Logo <br />(iPhone 4 retina)
 msgid "Copyright Page Logo <br />(iPhone 4 retina)"
-msgstr ""
+msgstr "Logo de la page copyright <br/>(iPhone 4 retina)"
 
 #: Countries Payment Applicable From
 msgid "Countries Payment Applicable From"
-msgstr ""
+msgstr "Pays applicables pour le paiement"
 
 #: Country options don't recognized for \"%s\".
 msgid "Country options don't recognized for \"%s\"."
-msgstr ""
+msgstr "Les options de pays ne sont pas reconnues pour \"%s\"."
 
 #: Credit Card
 msgid "Credit Card"
-msgstr ""
+msgstr "Carte de crédit"
 
 #: Credit Card %s
 msgid "Credit Card %s"
-msgstr ""
+msgstr "Carte de crédit %s"
 
 #: Currently, PayPal MEP is not available for the Android application
 msgid "Currently, PayPal MEP is not available for the Android application"
-msgstr ""
+msgstr "PayPal MEP n'est pas encore disponible pour les applications Android."
 
 #: Custom App Icon <br />(iPhone 4 retina)
 msgid "Custom App Icon <br />(iPhone 4 retina)"
-msgstr ""
+msgstr "Icône d'appli personnalisée <br/>(iPhone 4 retina)"
 
 #: Deeper Messaging and Engagement with Rich Push.
 msgid "Deeper Messaging and Engagement with Rich Push."
-msgstr ""
+msgstr "Deeper Messaging et engagement avec Rich Push."
 
 #: Delete theme
 msgid "Delete theme"
-msgstr ""
+msgstr "Supprimer le thème"
 
 #: Description that appears in Android Market. %s chars maximum.
 msgid "Description that appears in Android Market. %s chars maximum."
-msgstr ""
+msgstr "Description qui apparaît dans l'Android Market. %s caractères maxi."
 
 #: Description that appears in the iTunes App Store. %s chars maximum.
 msgid "Description that appears in the iTunes App Store. %s chars maximum."
-msgstr ""
+msgstr "Description apparaissant dans l'App Store iTunes. %s caractères maximum."
 
 #: Deselect All
 msgid "Deselect All"
-msgstr ""
+msgstr "Tout désélectionner"
 
 #: Device doesn't recognized: \"%s\". Unable to load preview model.
 msgid "Device doesn't recognized: \"%s\". Unable to load preview model."
-msgstr ""
+msgstr "Terminal non reconnu : \"%s\". Impossible de charger le modèle de prévisualisation."
 
 #: Enable Facebook
 msgid "Enable Facebook"
-msgstr ""
+msgstr "Activer Facebook"
 
 #: Enable LinkedIn
 msgid "Enable LinkedIn"
-msgstr ""
+msgstr "Activer LinkedIn"
 
 #: Enable Twitter
 msgid "Enable Twitter"
-msgstr ""
+msgstr "Activer Twitter"
 
 #: Error while reading data from Payment Bridge. Please, try again.
 msgid "Error while reading data from Payment Bridge. Please, try again."
-msgstr ""
+msgstr "Erreur lors de la lecture des données reçues du pont de paiement. Veuillez réessayer."
 
 #: Excl. Tax
 msgid "Excl. Tax"
-msgstr ""
+msgstr "HT"
 
 #: Extend the life of your app with Urban Airship Push Notifications.
 msgid "Extend the life of your app with Urban Airship Push Notifications."
-msgstr ""
+msgstr "Prolongez la vie de votre application avec Urban Notifications Push Airship."
 
 #: Facebook API
 msgid "Facebook API"
-msgstr ""
+msgstr "API Facebook"
 
 #: Facebook Application ID
 msgid "Facebook Application ID"
-msgstr ""
+msgstr "ID d'application Facebook"
 
 #: File can't be uploaded.
 msgid "File can't be uploaded."
-msgstr ""
+msgstr "Le fichier ne peut pas être chargé."
 
 #: Flurry API Code
 msgid "Flurry API Code"
-msgstr ""
+msgstr "Code d'API Flurry"
 
 #: High Resolution Application Icon
 msgid "High Resolution Application Icon"
-msgstr ""
+msgstr "Icône d'appli haute résolution"
 
 #: How do you rate this product?
 msgid "How do you rate this product?"
-msgstr ""
+msgstr "Quelle note donneriez-vous à ce produit ?"
 
 #: How to incorporate Urban Airship within your application:
 msgid "How to incorporate Urban Airship within your application:"
-msgstr ""
+msgstr "Comment intégrer Urban Airship à votre application :"
 
 #: Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px.
 msgid "Icon that will appear on the user's device after they download your app. Recommended size: 48px x 48px."
-msgstr ""
+msgstr "Icône qui apparaîtra sur le terminal de l'utilisateur après le téléchargement de votre appli. Taille recommandée : 48px x 48px."
 
 #: Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.
 msgid "Icon that will appear on the user's device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px."
-msgstr ""
+msgstr "Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 72 x 72 px."
 
 #: Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.
 msgid "Icon that will appear on the user's phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px."
-msgstr ""
+msgstr "Icône qui apparaîtra sur le téléphone de l'utilisateur après le téléchargement de l'application. Il n'est pas nécessaire d'appliquer de gradient ou d'adoucissement de bordures (ce sera fait automatiquement par Apple). Taille recommandée : 114 x 114 px."
 
 #: If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.
 msgid "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page."
-msgstr ""
+msgstr "Si vous souhaitez désactiver le cache du côté de l'application, laissez le champ vide. Attention ! Lorsque le cache est désactivé, l'application mettra du temps à charger chaque page."
 
 #: Image that appears on first screen while your app is loading. Required size: 1024px x 768px.
 msgid "Image that appears on first screen while your app is loading. Required size: 1024px x 768px."
-msgstr ""
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 1024 x 768px."
 
 #: Image that appears on first screen while your app is loading. Required size: 320px x 455px.
 msgid "Image that appears on first screen while your app is loading. Required size: 320px x 455px."
-msgstr ""
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 320 x 455px."
 
 #: Image that appears on first screen while your app is loading. Required size: 640px x 920px.
 msgid "Image that appears on first screen while your app is loading. Required size: 640px x 920px."
-msgstr ""
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 640 x 920px."
 
 #: Image that appears on first screen while your app is loading. Required size: 768px x 1024px.
 msgid "Image that appears on first screen while your app is loading. Required size: 768px x 1024px."
-msgstr ""
+msgstr "Image qui apparaît sur le premier écran pendant le chargement de votre appli. Taille obligatoire : 768 x 1024px."
 
 #: In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>.
 msgid "In addition, click here to review Urban Airship's Terms of Service: <a href=\"%s\" target=\"_blank\">click here</a>."
-msgstr ""
+msgstr "En plus, pour voir les conditions d'utilisation de Urban Airship : <a href=\"%s\" target=\"_blank\">cliquez ici</a>."
 
 #: Incl. Tax
 msgid "Incl. Tax"
-msgstr ""
+msgstr "TTC"
 
 #: LinkedIn API
 msgid "LinkedIn API"
-msgstr ""
+msgstr "API LinkedIn"
 
 #: LinkedIn API Key
 msgid "LinkedIn API Key"
-msgstr ""
+msgstr "Clé d'API LinkedIn"
 
 #: LinkedIn Secret Key
 msgid "LinkedIn Secret Key"
-msgstr ""
+msgstr "Clé secrète de LinkedIn"
 
 #: Loader Splash Screen <br />(iPhone 4 retina)
 msgid "Loader Splash Screen <br />(iPhone 4 retina)"
-msgstr ""
+msgstr "Écran de chargement <br/>(iPhone 4 retina)"
 
 #: Loader Splash Screen <br />(landscape mode)
 msgid "Loader Splash Screen <br />(landscape mode)"
-msgstr ""
+msgstr "Écran de chargement <br/>(mode paysage)"
 
 #: Loader Splash Screen <br />(portrait mode)
 msgid "Loader Splash Screen <br />(portrait mode)"
-msgstr ""
+msgstr "Écran de chargement <br/>(mode portrait)"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr ""
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Locations
 msgid "Locations"
-msgstr ""
+msgstr "Emplacements"
 
 #: Logo in Header image missing.
 msgid "Logo in Header image missing."
-msgstr ""
+msgstr "Image du logo dans l'en-tête manquante."
 
 #: MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>
 msgid "MEP is PayPal's native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=\"%s\">PayPal business account</a>"
-msgstr ""
+msgstr "MEP est la solution de paiement native de PayPal pour l'iPhone. Vous pouvez choisir d'utiliser MEP en même temps que le paiement standard ou de l'utiliser comme unique moyen de paiement pour Magento mobile. PayPal MEP nécessite un <a href=\"%s\">compte business PayPal</a>"
 
 #: Message can be edited when status of the message is \"IN QUEUE\" only.
 msgid "Message can be edited when status of the message is \"IN QUEUE\" only."
-msgstr ""
+msgstr "Le message peut être édité seulement quand son statut est \"DANS LA FILE\"."
 
 #: Model of order is not loaded.
 msgid "Model of order is not loaded."
-msgstr ""
+msgstr "Le modèle pour la commande n'est pas chargé"
 
 #: Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.
 msgid "Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max."
-msgstr ""
+msgstr "Nom qui apparaît sous votre application quand les utilisateurs l'installent sur leur terminal. Nous vous recommandons de choisir un nom d'une longueur de 10-12 caractères que vos clients sauront reconnaître. %s caractères maximum."
 
 #: Nickname
 msgid "Nickname"
-msgstr ""
+msgstr "Pseudo"
 
 #: Notice
 msgid "Notice"
-msgstr ""
+msgstr "Remarque"
 
 #: One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.
 msgid "One or more keywords that describe your app. Keywords are matched to users' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
-msgstr ""
+msgstr "Un ou plusieurs mots-clés décrivant votre appli. Les mots-clés sont utilisés lors des recherches des utilisateurs dans l'App Store et aident à retourner des résultats adaptés. Séparez les mots-clés multiples par des virgules. 100 caractères maximum."
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr ""
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr ""
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Only registered users can write reviews. Please, log in or register.
 msgid "Only registered users can write reviews. Please, log in or register."
-msgstr ""
+msgstr "Seuls les utilisateurs enregistrés peuvent écrire un commentaire. Veuillez vous connectez ou vous inscrire."
 
 #: Order id not specified.
 msgid "Order id not specified."
-msgstr ""
+msgstr "L'Id de la commande n'est pas spécifié."
 
 #: Order is not available.
 msgid "Order is not available."
-msgstr ""
+msgstr "La commande n'est pas disponible"
 
 #: Ordered
 msgid "Ordered"
-msgstr ""
+msgstr "Commandé"
 
 #: PayPal MEP
 msgid "PayPal MEP"
@@ -2291,153 +2291,629 @@ msgstr ""
 
 #: Payment Applicable From
 msgid "Payment Applicable From"
-msgstr ""
+msgstr "Paiement valable depuis"
 
 #: Payment Bridge module unavailable.
 msgid "Payment Bridge module unavailable."
-msgstr ""
+msgstr "Module de connexion de paiement indisponible"
 
 #: Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials.
 msgid "Please <a href=\"%s\" target=\"_blank\">click here</a> to see how to setup and retrieve API credentials."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_blank\">Cliquez ici</a> pour voir comment paramétrer et obtenir votre certificat d'API."
 
 #: Please enter the Description.
 msgid "Please enter the Description."
-msgstr ""
+msgstr "Saisissez la description"
 
 #: Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab.
 msgid "Please upload  an image for \"Banner on Home Screen (landscape mode)\" field from Design Tab."
-msgstr ""
+msgstr "Uploadez une image pour le champ \"Bannière en page d'accueil (mode paysage)\" dans l'onglet Design"
 
 #: Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab.
 msgid "Please upload  an image for \"Banner on Home Screen (portrait mode)\" field from Design Tab."
-msgstr ""
+msgstr "Uploadez une image pour le champ \"Bannière en page d'accueil (mode portrait)\" dans l'onglet Design"
 
 #: Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
 msgid "Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
-msgstr ""
+msgstr "Les notifications Push vous permettent d'envoyer des messages directement aux personnes qui ont installé votre application sur leur appareil. Envoyez des messages à l'ensemble de vos abonnés même lorsque votre application est fermée. Les notifications Push sont l'une des meilleures façons de garder votre application active en offrant un contenu de qualité à vos clients. En savoir plus sur les notifications Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a> "
 
 #: Recipient Information
 msgid "Recipient Information"
-msgstr ""
+msgstr "Informations sur le destinataire"
 
 #: Recommended size 1024px x 344px. Note: Image size affects the performance of your app.
 msgid "Recommended size 1024px x 344px. Note: Image size affects the performance of your app."
-msgstr ""
+msgstr "Taille recommandée 1024 x 344px. Remarque : la taille de l'image affecte les performances de votre application."
 
 #: Refunded
 msgid "Refunded"
-msgstr ""
+msgstr "Remboursé"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr ""
+msgstr "Réinitialiser le thème par défaut"
 
 #: Review
 msgid "Review"
-msgstr ""
+msgstr "Commentaire"
 
 #: Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>
 msgid "Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
-msgstr ""
+msgstr "Rich Push vous permet de créer et d'envoyer des expériences engageantes en ajoutant du HTML et d'autres composants riches en médias pour vos notifications Push. Au-delà des alertes et des mises à jour de badge, Rich Push prend les utilisateurs dans l'application tout en affichant le contenu d'une vue personnalisable WebKit. Créer des messages de marque qui s'engagent à vos utilisateurs de nouveaux contenus et d'informations, le tout sans avoir à mettre à jour votre application. En savoir plus sur Rich Push - <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
 
 #: Save As
 msgid "Save As"
-msgstr ""
+msgstr "Sauvegarder sous"
 
 #: Select All
 msgid "Select All"
-msgstr ""
+msgstr "Sélectionner tout"
 
 #: Sender Information
 msgid "Sender Information"
-msgstr ""
+msgstr "Informations sur l'expéditeur"
 
 #: Shipped
 msgid "Shipped"
-msgstr ""
+msgstr "Livré"
 
 #: Shipping to this address is not possible.
 msgid "Shipping to this address is not possible."
-msgstr ""
+msgstr "La livraison à cette adresse n'est pas possible."
 
 #: Social Networking
 msgid "Social Networking"
-msgstr ""
+msgstr "Réseaux sociaux"
 
 #: Specific Countries
 msgid "Specific Countries"
-msgstr ""
+msgstr "Certains pays"
 
 #: Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.
 msgid "Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px."
-msgstr ""
+msgstr "Logo de la boutique affiché sur la page de copyright de l'application. Taille préférée: 200px x 200px."
 
 #: Summary of Your Review
 msgid "Summary of Your Review"
-msgstr ""
+msgstr "Résumé de votre commentaire"
 
 #: Tax
 msgid "Tax"
-msgstr ""
+msgstr "TVA & autres taxes"
 
 #: The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.
 msgid "The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB."
-msgstr ""
+msgstr "L'icône qui apparaît dans l'Android Market. Taille recommandée: 512px x 512px. Taille maximale: 1024 KB."
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr ""
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme has been created.
 msgid "Theme has been created."
-msgstr ""
+msgstr "Le thème a été créé."
 
 #: Theme has been delete.
 msgid "Theme has been delete."
-msgstr ""
+msgstr "Le thème a été éffacé."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr ""
+msgstr "L\\'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr ""
+msgstr "Étiquette du thème :"
 
 #: Twitter API
 msgid "Twitter API"
-msgstr ""
+msgstr "API Twitter"
 
 #: Twitter API Key
 msgid "Twitter API Key"
-msgstr ""
+msgstr "Clé d'API Twitter"
 
 #: Twitter Secret Key
 msgid "Twitter Secret Key"
-msgstr ""
+msgstr "Clé secrète Twitter"
 
 #: Unable to post the review.
 msgid "Unable to post the review."
-msgstr ""
+msgstr "Impossible de poster le commentaire"
 
 #: Unable to render an order.
 msgid "Unable to render an order."
-msgstr ""
+msgstr "Impossible de fournir une commande"
 
 #: Unsupported character in path: \"%s\"
 msgid "Unsupported character in path: \"%s\""
-msgstr ""
+msgstr "Caractère \"%s\" non supporté dans le chemin"
 
 #: Unsupported value type received
 msgid "Unsupported value type received"
-msgstr ""
+msgstr "Type de valeur reçu non supporté"
 
 #: Upon receiving these credentials, please fill in the corresponding fields.
 msgid "Upon receiving these credentials, please fill in the corresponding fields."
-msgstr ""
+msgstr "Après avoir reçu ces informations d'identification, veuillez les inscrire dans les champs correspondants."
 
 #: Your review has been accepted for moderation.
 msgid "Your review has been accepted for moderation."
+msgstr "Votre commentaire a été accepté pour modération."
+
+#: \"id\" attribute is required for a \"%s\" field.
+msgid "\"id\" attribute is required for a \"%s\" field."
+msgstr ""
+
+#: \"line_count\" attribute is required for \"multiline\" element.
+msgid "\"line_count\" attribute is required for \"multiline\" element."
+msgstr ""
+
+#: \"message\" attribute is required for \"%s\" validator rule.
+msgid "\"message\" attribute is required for \"%s\" validator rule."
+msgstr ""
+
+#: %s attribute is required.
+msgid "%s attribute is required."
+msgstr ""
+
+#: Activate PayPal MECL
+msgid "Activate PayPal MECL"
+msgstr ""
+
+#: An error occurred while loading categories.
+msgid "An error occurred while loading categories."
+msgstr ""
+
+#: An error occurred while loading wishlist.
+msgid "An error occurred while loading wishlist."
+msgstr ""
+
+#: Android doesn't support AirMail message type.
+msgid "Android doesn't support AirMail message type."
+msgstr ""
+
+#: Are you sure you want to do this?
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: At last one application has to be created.
+msgid "At last one application has to be created."
+msgstr ""
+
+#: Balance
+msgid "Balance"
+msgstr ""
+
+#: Balance Change
+msgid "Balance Change"
+msgstr ""
+
+#: Balance History
+msgid "Balance History"
+msgstr ""
+
+#: Billing Address
+msgid "Billing Address"
+msgstr ""
+
+#: Buy %1$s with %2$s discount each
+msgid "Buy %1$s with %2$s discount each"
+msgstr ""
+
+#: Can't load application with id \"%s\"
+msgid "Can't load application with id \"%s\""
+msgstr ""
+
+#: Can't load cart info.
+msgid "Can't load cart info."
+msgstr ""
+
+#: Can't load cart.
+msgid "Can't load cart."
+msgstr ""
+
+#: Can't load customer form.
+msgid "Can't load customer form."
+msgstr ""
+
+#: Can't load selected theme. Please check your media folder permissions.
+msgid "Can't load selected theme. Please check your media folder permissions."
+msgstr ""
+
+#: Cannot apply gift card.
+msgid "Cannot apply gift card."
+msgstr ""
+
+#: Cannot redeem Gift Card.
+msgid "Cannot redeem Gift Card."
+msgstr ""
+
+#: Cannot remove gift card.
+msgid "Cannot remove gift card."
+msgstr ""
+
+#: Container is not defined.
+msgid "Container is not defined."
+msgstr ""
+
+#: Current Balance: %s
+msgid "Current Balance: %s"
+msgstr ""
+
+#: Customer balance available in enterprise version of Magento only.
+msgid "Customer balance available in enterprise version of Magento only."
+msgstr ""
+
+#: Customer balance is disabled for current store
+msgid "Customer balance is disabled for current store"
+msgstr ""
+
+#: DD
+msgid "DD"
+msgstr ""
+
+#: Date
+msgid "Date"
+msgstr ""
+
+#: Day
+msgid "Day"
+msgstr ""
+
+#: Element with id %s already exists
+msgid "Element with id %s already exists"
+msgstr ""
+
+#: Expires: %s
+msgid "Expires: %s"
+msgstr ""
+
+#: Gift Card \"%s\" was added.
+msgid "Gift Card \"%s\" was added."
+msgstr ""
+
+#: Gift Card \"%s\" was redeemed.
+msgid "Gift Card \"%s\" was redeemed."
+msgstr ""
+
+#: Gift Card \"%s\" was removed.
+msgid "Gift Card \"%s\" was removed."
+msgstr ""
+
+#: Gift Card (%s)
+msgid "Gift Card (%s)"
+msgstr ""
+
+#: Gift Card amount applied to order: %s
+msgid "Gift Card amount applied to order: %s"
+msgstr ""
+
+#: Gift Card code is empty.
+msgid "Gift Card code is empty."
+msgstr ""
+
+#: Gift Card: %s
+msgid "Gift Card: %s"
+msgstr ""
+
+#: Gift card account available in enterprise version of Magento only.
+msgid "Gift card account available in enterprise version of Magento only."
+msgstr ""
+
+#: M.I.
+msgid "M.I."
+msgstr ""
+
+#: MM
+msgid "MM"
+msgstr ""
+
+#: Message can be edited when status of the message is \"In Queue\" only.
+msgid "Message can be edited when status of the message is \"In Queue\" only."
+msgstr ""
+
+#: Mobile Express Checkout has been canceled.
+msgid "Mobile Express Checkout has been canceled."
+msgstr ""
+
+#: Mobile Express Checkout processed successfully.
+msgid "Mobile Express Checkout processed successfully."
+msgstr ""
+
+#: Month
+msgid "Month"
+msgstr ""
+
+#: No Payment Information Required
+msgid "No Payment Information Required"
+msgstr ""
+
+#: No shipping method required.
+msgid "No shipping method required."
+msgstr ""
+
+#: Order #%s - %s
+msgid "Order #%s - %s"
+msgstr ""
+
+#: Order Date: %s
+msgid "Order Date: %s"
+msgstr ""
+
+#: Order id is not specified.
+msgid "Order id is not specified."
+msgstr ""
+
+#: Output format is not specified. Please, specify \"format\" key in constructor, or set it using setFormat().
+msgid "Output format is not specified. Please, specify \"format\" key in constructor, or set it using setFormat()."
+msgstr ""
+
+#: PayPal MECL is the mobile version of PayPal's Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile.
+msgid "PayPal MECL is the mobile version of PayPal's Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile."
+msgstr ""
+
+#: PayPal Mobile Express Checkout
+msgid "PayPal Mobile Express Checkout"
+msgstr ""
+
+#: PayPal Mobile Express Checkout Library (MECL)
+msgid "PayPal Mobile Express Checkout Library (MECL)"
+msgstr ""
+
+#: PayPal Mobile Express Checkout Token does not exist.
+msgid "PayPal Mobile Express Checkout Token does not exist."
+msgstr ""
+
+#: Payer Email: %s
+msgid "Payer Email: %s"
+msgstr ""
+
+#: Payment Method
+msgid "Payment Method"
+msgstr ""
+
+#: Paypal MEP doesn't support checkout with any discount.
+msgid "Paypal MEP doesn't support checkout with any discount."
+msgstr ""
+
+#: Please create and save an application first.
+msgid "Please create and save an application first."
+msgstr ""
+
+#: Please enter a valid URL. Protocol is required (http://, https:// or ftp://)
+msgid "Please enter a valid URL. Protocol is required (http://, https:// or ftp://)"
+msgstr ""
+
+#: Please enter a valid date.
+msgid "Please enter a valid date."
+msgstr ""
+
+#: Please enter a valid email address. For example johndoe@domain.com.
+msgid "Please enter a valid email address. For example johndoe@domain.com."
+msgstr ""
+
+#: Please select an option.
+msgid "Please select an option."
+msgstr ""
+
+#: Please use letters only (a-z or A-Z) in this field.
+msgid "Please use letters only (a-z or A-Z) in this field."
+msgstr ""
+
+#: Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.
+msgid "Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
+msgstr ""
+
+#: Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.
+msgid "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
+msgstr ""
+
+#: Prefix
+msgid "Prefix"
+msgstr ""
+
+#: Queue is allowed only for applications with enabled Push Notification.
+msgid "Queue is allowed only for applications with enabled Push Notification."
+msgstr ""
+
+#: Redemption functionality is disabled.
+msgid "Redemption functionality is disabled."
+msgstr ""
+
+#: Request internal error.
+msgid "Request internal error."
+msgstr ""
+
+#: Shipping Address
+msgid "Shipping Address"
+msgstr ""
+
+#: Shipping Method
+msgid "Shipping Method"
+msgstr ""
+
+#: Shipping method is required
+msgid "Shipping method is required"
+msgstr ""
+
+#: Shipping method successfully updated
+msgid "Shipping method successfully updated"
+msgstr ""
+
+#: Store Credit payment is not being used in your shopping cart.
+msgid "Store Credit payment is not being used in your shopping cart."
+msgstr ""
+
+#: Street Address %s
+msgid "Street Address %s"
+msgstr ""
+
+#: Suffix
+msgid "Suffix"
+msgstr ""
+
+#: Text length does not satisfy specified max text range.
+msgid "Text length does not satisfy specified max text range."
+msgstr ""
+
+#: Text length does not satisfy specified min text range.
+msgid "Text length does not satisfy specified min text range."
+msgstr ""
+
+#: The store credit payment has been removed from shopping cart.
+msgid "The store credit payment has been removed from shopping cart."
+msgstr ""
+
+#: This is a required field.
+msgid "This is a required field."
+msgstr ""
+
+#: Token has not been set.
+msgid "Token has not been set."
+msgstr ""
+
+#: Unable to cancel Mobile Express Checkout.
+msgid "Unable to cancel Mobile Express Checkout."
+msgstr ""
+
+#: Unable to initialize PayPal Mobile Express Checkout.
+msgid "Unable to initialize PayPal Mobile Express Checkout."
+msgstr ""
+
+#: Unable to initialize express checkout review.
+msgid "Unable to initialize express checkout review."
+msgstr ""
+
+#: Unable to initialize express checkout shipping method list.
+msgid "Unable to initialize express checkout shipping method list."
+msgstr ""
+
+#: Unable to initialize return action.
+msgid "Unable to initialize return action."
+msgstr ""
+
+#: Unable to load addresses.
+msgid "Unable to load addresses."
+msgstr ""
+
+#: Unable to load billing address form.
+msgid "Unable to load billing address form."
+msgstr ""
+
+#: Unable to load billing address.
+msgid "Unable to load billing address."
+msgstr ""
+
+#: Unable to load categories.
+msgid "Unable to load categories."
+msgstr ""
+
+#: Unable to load checkout.
+msgid "Unable to load checkout."
+msgstr ""
+
+#: Unable to load order list.
+msgid "Unable to load order list."
+msgstr ""
+
+#: Unable to load order review.
+msgid "Unable to load order review."
+msgstr ""
+
+#: Unable to load product gallery.
+msgid "Unable to load product gallery."
+msgstr ""
+
+#: Unable to load product options.
+msgid "Unable to load product options."
+msgstr ""
+
+#: Unable to load product review.
+msgid "Unable to load product review."
+msgstr ""
+
+#: Unable to load product reviews.
+msgid "Unable to load product reviews."
+msgstr ""
+
+#: Unable to load review form.
+msgid "Unable to load review form."
+msgstr ""
+
+#: Unable to load search.
+msgid "Unable to load search."
+msgstr ""
+
+#: Unable to load shipping address form.
+msgid "Unable to load shipping address form."
+msgstr ""
+
+#: Unable to render a gift card account.
+msgid "Unable to render a gift card account."
+msgstr ""
+
+#: Unable to render the store credits.
+msgid "Unable to render the store credits."
+msgstr ""
+
+#: Unable to start Mobile Express Checkout.
+msgid "Unable to start Mobile Express Checkout."
+msgstr ""
+
+#: Unable to update shipping method.
+msgid "Unable to update shipping method."
+msgstr ""
+
+#: Use Store Credit (%s available)
+msgid "Use Store Credit (%s available)"
+msgstr ""
+
+#: Warning: All related AirMail messages will be deleted!
+msgid "Warning: All related AirMail messages will be deleted!"
+msgstr ""
+
+#: Wrong PayPal Mobile Express Checkout Token specified.
+msgid "Wrong PayPal Mobile Express Checkout Token specified."
+msgstr ""
+
+#: Wrong or expired Gift Card Code.
+msgid "Wrong or expired Gift Card Code."
+msgstr ""
+
+#: YYYY
+msgid "YYYY"
+msgstr ""
+
+#: Year
+msgid "Year"
+msgstr ""
+
+#: You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.
+msgid "You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL."
+msgstr ""
+
+#: Your current balance is:
+msgid "Your current balance is:"
+msgstr ""
+
+#: '%s' exceeds the allowed file size: %d (bytes)
+msgid "'%s' exceeds the allowed file size: %d (bytes)"
+msgstr ""
+
+#: '%s' height exceeds allowed value of %d px
+msgid "'%s' height exceeds allowed value of %d px"
+msgstr ""
+
+#: '%s' is not a valid file extension. Allowed extensions: %s
+msgid "'%s' is not a valid file extension. Allowed extensions: %s"
+msgstr ""
+
+#: '%s' width exceeds allowed value of %d px
+msgid "'%s' width exceeds allowed value of %d px"
+msgstr ""
+
+#: ver. %s
+msgid "ver. %s"
 msgstr ""
 

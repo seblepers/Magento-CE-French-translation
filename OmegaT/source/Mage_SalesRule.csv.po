@@ -60,7 +60,7 @@ msgstr "remise en %%"
 
 #: By Percentage of the Original Price
 msgid "By Percentage of the Original Price"
-msgstr "En pourcentage du prix original"
+msgstr "En pourcentage du prix d'origine"
 
 #: Can\'t acquire coupon.
 msgid "Can\'t acquire coupon."
@@ -200,7 +200,7 @@ msgstr "Qté maxi à laquelle la remise est appliquée"
 
 #: NOT LOGGED IN
 msgid "NOT LOGGED IN"
-msgstr "SESSION FERMEE"
+msgstr "NON CONNECTÉ"
 
 #: Name: %s
 msgid "Name: %s"
@@ -469,4 +469,116 @@ msgstr "ABSENT DU"
 #: Can't acquire coupon.
 msgid "Can't acquire coupon."
 msgstr "Impossible d'appliquer le bon."
+
+#: %s Coupon(s) have been generated
+msgid "%s Coupon(s) have been generated"
+msgstr ""
+
+#: Alphabetical
+msgid "Alphabetical"
+msgstr ""
+
+#: Alphanumeric
+msgid "Alphanumeric"
+msgstr ""
+
+#: An error occurred while generating coupons. Please review the log and try again.
+msgid "An error occurred while generating coupons. Please review the log and try again."
+msgstr ""
+
+#: Are you sure you want to delete the selected coupon(s)?
+msgid "Are you sure you want to delete the selected coupon(s)?"
+msgstr ""
+
+#: Auto Generated Specific Coupon Codes
+msgid "Auto Generated Specific Coupon Codes"
+msgstr ""
+
+#: Code Format
+msgid "Code Format"
+msgstr ""
+
+#: Code Length
+msgid "Code Length"
+msgstr ""
+
+#: Code Prefix
+msgid "Code Prefix"
+msgstr ""
+
+#: Code Suffix
+msgid "Code Suffix"
+msgstr ""
+
+#: Coupon Qty
+msgid "Coupon Qty"
+msgstr ""
+
+#: Coupons Information
+msgid "Coupons Information"
+msgstr ""
+
+#: Created On
+msgid "Created On"
+msgstr ""
+
+#: Dash Every X Characters
+msgid "Dash Every X Characters"
+msgstr ""
+
+#: Excluding prefix, suffix and separators.
+msgid "Excluding prefix, suffix and separators."
+msgstr ""
+
+#: Generate
+msgid "Generate"
+msgstr ""
+
+#: If empty no separation.
+msgid "If empty no separation."
+msgstr ""
+
+#: If you select and save the rule you will be able to generate multiple coupon codes.
+msgid "If you select and save the rule you will be able to generate multiple coupon codes."
+msgstr ""
+
+#: Manage Coupon Codes
+msgid "Manage Coupon Codes"
+msgstr ""
+
+#: Not valid data provided
+msgid "Not valid data provided"
+msgstr ""
+
+#: Numeric
+msgid "Numeric"
+msgstr ""
+
+#: Rule is not defined
+msgid "Rule is not defined"
+msgstr ""
+
+#: Times Used
+msgid "Times Used"
+msgstr ""
+
+#: Unable to create requested Coupon Qty. Please check settings and try again.
+msgid "Unable to create requested Coupon Qty. Please check settings and try again."
+msgstr ""
+
+#: Use Auto Generation
+msgid "Use Auto Generation"
+msgstr ""
+
+#: Used
+msgid "Used"
+msgstr ""
+
+#: Website
+msgid "Website"
+msgstr ""
+
+#: Websites
+msgid "Websites"
+msgstr ""
 

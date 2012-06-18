@@ -160,7 +160,7 @@ msgstr "Prix de cette configuration"
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Radio Buttons
 msgid "Radio Buttons"

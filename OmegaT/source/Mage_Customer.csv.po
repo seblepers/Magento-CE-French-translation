@@ -982,7 +982,7 @@ msgstr "Non confirmé, connexion possible."
 msgid "Not confirmed, cannot login"
 msgstr "Non confirmé, connexion impossible."
 
-#: Number of Lines in a Street Address 
+#: Number of Lines in a Street Address
 msgid "Number of Lines in a Street Address "
 msgstr "Nombre de lignes dans l'adresse de rue "
 
@@ -1010,7 +1010,7 @@ msgstr "Intervalle en minutes"
 msgid "Order #"
 msgstr "Commande n°"
 
-#: Order # 
+#: Order #
 msgid "Order # "
 msgstr "Commande n° "
 
@@ -1764,61 +1764,337 @@ msgstr "Saisissez votre email ci-dessous et nous vous enverrons un lien de confi
 
 #: '%value%' appears to be a DNS hostname but cannot extract TLD part
 msgid "'%value%' appears to be a DNS hostname but cannot extract TLD part"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne peut pas être extraite"
 
 #: '%value%' appears to be a DNS hostname but cannot match TLD against known list
 msgid "'%value%' appears to be a DNS hostname but cannot match TLD against known list"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la partie TLD ne fait pas partie de la liste des TLD connus."
 
 #: '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'
 msgid "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais il est impossibile de faire correspondre le schéma de nom d'hôte au TLD '%tld%'."
 
 #: '%value%' appears to be a DNS hostname but contains a dash in an invalid position
 msgid "'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais elle contient un tiret à une position incorrecte."
 
 #: '%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded
 msgid "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais la notation punycode donnée ne peut pas être décodée."
 
 #: '%value%' appears to be a local network name but local network names are not allowed
 msgid "'%value%' appears to be a local network name but local network names are not allowed"
-msgstr ""
+msgstr "'%value%' semble être un nom d'hôte de DNS, mais les noms de réseau local ne sont pas autorisés."
 
 #: '%value%' appears to be an IP address, but IP addresses are not allowed
 msgid "'%value%' appears to be an IP address, but IP addresses are not allowed"
-msgstr ""
+msgstr "'%value%' semble être une adresse IP, mais celles-ci ne sont pas autorisées."
 
 #: '%value%' does not appear to be a valid local network name
 msgid "'%value%' does not appear to be a valid local network name"
-msgstr ""
+msgstr "'%value%' n'est pas un nom de réseau local valide."
 
 #: Customer API
 msgid "Customer API"
-msgstr ""
+msgstr "API client"
 
 #: Customer email is required
 msgid "Customer email is required"
-msgstr ""
+msgstr "L'email du client est obligatoire"
 
 #: Customer website ID must be specified when using the website scope
 msgid "Customer website ID must be specified when using the website scope"
-msgstr ""
+msgstr "L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée."
 
 #: Forgot Your Password
 msgid "Forgot Your Password"
-msgstr ""
+msgstr "Mot de passe oublié"
 
 #: The group \"%s\" cannot be deleted
 msgid "The group \"%s\" cannot be deleted"
-msgstr ""
+msgstr "Le groupe \"%s\" ne peut pas être effacé"
 
 #: This customer email already exists
 msgid "This customer email already exists"
-msgstr ""
+msgstr "Cet email client existe déjà"
 
 #: Wrong transactional account email type
 msgid "Wrong transactional account email type"
+msgstr "Le type d'email de compte transactionnel est erroné"
+
+#: Based on the VAT ID, the customer would belong to the Customer Group %s.
+msgid "Based on the VAT ID, the customer would belong to the Customer Group %s."
+msgstr ""
+
+#: Cannot save a new password.
+msgid "Cannot save a new password."
+msgstr ""
+
+#: Default Value for Disable Automatic Group Changes Based on VAT ID
+msgid "Default Value for Disable Automatic Group Changes Based on VAT ID"
+msgstr ""
+
+#: Enable Automatic Assignment to Customer Group
+msgid "Enable Automatic Assignment to Customer Group"
+msgstr ""
+
+#: Forgot Password
+msgid "Forgot Password"
+msgstr ""
+
+#: Forgot and Remind Email Sender
+msgid "Forgot and Remind Email Sender"
+msgstr ""
+
+#: Gender is required.
+msgid "Gender is required."
+msgstr ""
+
+#: Group for Invalid VAT ID
+msgid "Group for Invalid VAT ID"
+msgstr ""
+
+#: Group for Valid VAT ID - Domestic
+msgid "Group for Valid VAT ID - Domestic"
+msgstr ""
+
+#: Group for Valid VAT ID - Intra-Union
+msgid "Group for Valid VAT ID - Intra-Union"
+msgstr ""
+
+#: If there is an account associated with %s you will receive an email with a link to reset your password.
+msgid "If there is an account associated with %s you will receive an email with a link to reset your password."
+msgstr ""
+
+#: If you are a registered VAT customer, please click <a href=\"%s\">here</a> to enter you billing address for proper VAT calculation
+msgid "If you are a registered VAT customer, please click <a href=\"%s\">here</a> to enter you billing address for proper VAT calculation"
+msgstr ""
+
+#: If you are a registered VAT customer, please click <a href=\"%s\">here</a> to enter you shipping address for proper VAT calculation
+msgid "If you are a registered VAT customer, please click <a href=\"%s\">here</a> to enter you shipping address for proper VAT calculation"
+msgstr ""
+
+#: If you believe this is an error, please contact us at %s
+msgid "If you believe this is an error, please contact us at %s"
+msgstr ""
+
+#: Invalid billing address for (%s)
+msgid "Invalid billing address for (%s)"
+msgstr ""
+
+#: Invalid email address \"%s\".
+msgid "Invalid email address \"%s\"."
+msgstr ""
+
+#: Invalid password reset token.
+msgid "Invalid password reset token."
+msgstr ""
+
+#: Invalid shipping address for (%s)
+msgid "Invalid shipping address for (%s)"
+msgstr ""
+
+#: Invalid website, skipping the record, line: %s
+msgid "Invalid website, skipping the record, line: %s"
+msgstr ""
+
+#: Maximum length must be less then %s symbols
+msgid "Maximum length must be less then %s symbols"
+msgstr ""
+
+#: Missing email, skipping the record, line: %s
+msgid "Missing email, skipping the record, line: %s"
+msgstr ""
+
+#: Missing first name, skipping the record, line: %s
+msgid "Missing first name, skipping the record, line: %s"
+msgstr ""
+
+#: Missing last name, skipping the record, line: %s
+msgid "Missing last name, skipping the record, line: %s"
+msgstr ""
+
+#: Missing website, skipping the record, line: %s
+msgid "Missing website, skipping the record, line: %s"
+msgstr ""
+
+#: Please enter a number 1 or greater in this field.
+msgid "Please enter a number 1 or greater in this field."
+msgstr ""
+
+#: Please enter a valid date between %s and %s at %s.
+msgid "Please enter a valid date between %s and %s at %s."
+msgstr ""
+
+#: Please enter a valid date equal to or greater than %s at %s.
+msgid "Please enter a valid date equal to or greater than %s at %s."
+msgstr ""
+
+#: Please enter a valid date less than or equal to %s at %s.
+msgid "Please enter a valid date less than or equal to %s at %s."
+msgstr ""
+
+#: Please enter the country.
+msgid "Please enter the country."
+msgstr ""
+
+#: Please enter the first name.
+msgid "Please enter the first name."
+msgstr ""
+
+#: Please enter the last name.
+msgid "Please enter the last name."
+msgstr ""
+
+#: Please enter your email address below. You will receive a link to reset your password.
+msgid "Please enter your email address below. You will receive a link to reset your password."
+msgstr ""
+
+#: Please make sure your passwords match.
+msgid "Please make sure your passwords match."
+msgstr ""
+
+#: Please select a website which contains store view
+msgid "Please select a website which contains store view"
+msgstr ""
+
+#: Recovery Link Expiration Period (days)
+msgid "Recovery Link Expiration Period (days)"
+msgstr ""
+
+#: Remind Email Template
+msgid "Remind Email Template"
+msgstr ""
+
+#: Remind Password
+msgid "Remind Password"
+msgstr ""
+
+#: Reset a Password
+msgid "Reset a Password"
+msgstr ""
+
+#: Shopping Cart of %1$s - %2$d item(s)
+msgid "Shopping Cart of %1$s - %2$d item(s)"
+msgstr ""
+
+#: Show VAT Number on Frontend
+msgid "Show VAT Number on Frontend"
+msgstr ""
+
+#: Tax Calculation Based On
+msgid "Tax Calculation Based On"
+msgstr ""
+
+#: The Date of Birth is required.
+msgid "The Date of Birth is required."
+msgstr ""
+
+#: The TAX/VAT number is required.
+msgid "The TAX/VAT number is required."
+msgstr ""
+
+#: The VAT ID entered (%s) is not a valid VAT ID.
+msgid "The VAT ID entered (%s) is not a valid VAT ID."
+msgstr ""
+
+#: The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.
+msgid "The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s."
+msgstr ""
+
+#: The VAT ID is valid. The current Customer Group will be used.
+msgid "The VAT ID is valid. The current Customer Group will be used."
+msgstr ""
+
+#: The customer ID and email did not match, skipping the record, line: %s
+msgid "The customer ID and email did not match, skipping the record, line: %s"
+msgstr ""
+
+#: The customer email (%s) already exists, skipping the record, line: %s
+msgid "The customer email (%s) already exists, skipping the record, line: %s"
+msgstr ""
+
+#: The customer is currently assigned to Customer Group %s.
+msgid "The customer is currently assigned to Customer Group %s."
+msgstr ""
+
+#: The first name cannot be empty.
+msgid "The first name cannot be empty."
+msgstr ""
+
+#: The last name cannot be empty.
+msgid "The last name cannot be empty."
+msgstr ""
+
+#: The minimum password length is %s
+msgid "The minimum password length is %s"
+msgstr ""
+
+#: The password cannot be empty.
+msgid "The password cannot be empty."
+msgstr ""
+
+#: There was an error validating the VAT ID.
+msgid "There was an error validating the VAT ID."
+msgstr ""
+
+#: There was an error validating the VAT ID. The customer would belong to Customer Group %s.
+msgid "There was an error validating the VAT ID. The customer would belong to Customer Group %s."
+msgstr ""
+
+#: To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.
+msgid "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes."
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+
+#: VAT Request Date
+msgid "VAT Request Date"
+msgstr ""
+
+#: VAT Request Identifier
+msgid "VAT Request Identifier"
+msgstr ""
+
+#: Validate VAT Number
+msgid "Validate VAT Number"
+msgstr ""
+
+#: Validate on Each Transaction
+msgid "Validate on Each Transaction"
+msgstr ""
+
+#: Validation Error Group
+msgid "Validation Error Group"
+msgstr ""
+
+#: Would you like to change the Customer Group for this order?
+msgid "Would you like to change the Customer Group for this order?"
+msgstr ""
+
+#: You will be charged tax.
+msgid "You will be charged tax."
+msgstr ""
+
+#: You will not be charged tax.
+msgid "You will not be charged tax."
+msgstr ""
+
+#: Your Tax ID cannot be validated.
+msgid "Your Tax ID cannot be validated."
+msgstr ""
+
+#: Your VAT ID was successfully validated.
+msgid "Your VAT ID was successfully validated."
+msgstr ""
+
+#: Your password has been updated.
+msgid "Your password has been updated."
+msgstr ""
+
+#: Your password reset link has expired.
+msgid "Your password reset link has expired."
 msgstr ""
 

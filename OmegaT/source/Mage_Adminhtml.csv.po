@@ -606,7 +606,7 @@ msgstr "Grande image"
 msgid "Billing Address"
 msgstr "Adresse de facturation"
 
-#: Billing Address: 
+#: Billing Address:
 msgid "Billing Address: "
 msgstr "Adresse de facturation "
 
@@ -864,7 +864,7 @@ msgstr "Créer"
 
 #: Create DB Backup
 msgid "Create DB Backup"
-msgstr "Créez une sauvegarde de la BD"
+msgstr "Créer une sauvegarde de la BDD"
 
 #: Create New Attribute
 msgid "Create New Attribute"
@@ -3234,7 +3234,7 @@ msgstr "Livraison"
 msgid "Shipping Address"
 msgstr "Adresse de livraison"
 
-#: Shipping Address: 
+#: Shipping Address:
 msgid "Shipping Address: "
 msgstr "Adresse de livraison "
 
@@ -4220,11 +4220,11 @@ msgstr "Attention ! Les valeurs vides peuvent poser problème avec le format CSV
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: Please do not close the window during importing/exporting data
 msgid "Warning: Please do not close the window during importing/exporting data"
@@ -4598,7 +4598,7 @@ msgstr "Le client n'existe plus dans le système."
 msgid "[deleted]"
 msgstr "[effacé]"
 
-#:  note that the URLs provided below are the correct values for your current website): 
+#:  note that the URLs provided below are the correct values for your current website):
 msgid " note that the URLs provided below are the correct values for your current website): "
 msgstr "  les URLs fournies ci-dessous sont les valeurs correctes pour votre site web actuel) : "
 
@@ -4872,7 +4872,7 @@ msgstr "Le produit n'est pas chargé."
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Regular Price:
 msgid "Regular Price:"
@@ -5016,11 +5016,11 @@ msgstr "Voir la galerie"
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?
 msgid "Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?"
@@ -5068,143 +5068,143 @@ msgstr " les URLs fournies ci-dessous sont les valeurs correctes pour votre site
 
 #: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
 msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
-msgstr ""
+msgstr "(Pour le type \"Serveur local\", il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr ""
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: (\t for tab)
 msgid "(\t for tab)"
-msgstr ""
+msgstr "(\\t pour une tabulation)"
 
 #: ASCII
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #: Add New
 msgid "Add New"
-msgstr ""
+msgstr "Ajouter"
 
 #: All locations
 msgid "All locations"
-msgstr ""
+msgstr "Tous les lieux"
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: BINARY
 msgid "BINARY"
-msgstr ""
+msgstr "BINAIRE"
 
 #: Chosen category does not associated with any website, so url rewrite is not possible.
 msgid "Chosen category does not associated with any website, so url rewrite is not possible."
-msgstr ""
+msgstr "La catégorie choisie n'est associée à aucun site web, la réécriture URL n'est pas possible."
 
 #: Chosen product does not associated with any website, so url rewrite is not possible.
 msgid "Chosen product does not associated with any website, so url rewrite is not possible."
-msgstr ""
+msgstr "Le produit choisi n'est associé à aucun site web, la réécriture URL n'est pas possible."
 
 #: Delete theme
 msgid "Delete theme"
-msgstr ""
+msgstr "Supprimer le thème"
 
 #: Deselect All
 msgid "Deselect All"
-msgstr ""
+msgstr "Tout désélectionner"
 
 #: Error
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: File mode
 msgid "File mode"
-msgstr ""
+msgstr "Mode de fichier"
 
 #: Helper attributes should not be used in custom layout updates.
 msgid "Helper attributes should not be used in custom layout updates."
-msgstr ""
+msgstr "Les attributs de helper ne devraient pas être utilisés dans les mises à jour personnalisées de gabarits."
 
 #: Invalid timezone
 msgid "Invalid timezone"
-msgstr ""
+msgstr "Fuseau horaire invalide"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr ""
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr ""
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr ""
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Order
 msgid "Order"
-msgstr ""
+msgstr "Commande"
 
 #: Product Tax Classes
 msgid "Product Tax Classes"
-msgstr ""
+msgstr "Classe de taxe produit"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr ""
+msgstr "Réinitialiser le thème par défaut"
 
 #: Save As
 msgid "Save As"
-msgstr ""
+msgstr "Sauvegarder sous"
 
 #: The invoice and the shipment  have been created. The shipping label cannot be created at the moment.
 msgid "The invoice and the shipment  have been created. The shipping label cannot be created at the moment."
-msgstr ""
+msgstr "La facture et l'expédition ont été créées. L'étiquette d'expédition ne peut pas être créée pour le moment."
 
 #: The profile you are trying to save no longer exists
 msgid "The profile you are trying to save no longer exists"
-msgstr ""
+msgstr "Le profil que vous êtes en train d'essayer de sauvegarder n'existe plus"
 
 #: The shipment has been created. The shipping label has been created.
 msgid "The shipment has been created. The shipping label has been created."
-msgstr ""
+msgstr "L'envoi a été créé. L'étiquette d'expédition a été créée."
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr ""
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr ""
+msgstr "L\\'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr ""
+msgstr "Étiquette du thème :"
 
 #: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
 msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
-msgstr ""
+msgstr "Attention !\\r\\nCette action supprimera"
 
 #: Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?
 msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
-msgstr ""
+msgstr "jj"
 
 #: Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?
 msgid "Warning: All related AirMail messages will be deteted!n Are you sure you want to do this?"
-msgstr ""
+msgstr "**Attention : Tous les messagez relatifs à AirMail seront effacés ! Voulez-vous continuer ?"
 
 #: XML data is invalid.
 msgid "XML data is invalid."
-msgstr ""
+msgstr "Les données XML sont invalides"
 
 #: XML object is not instance of \"Varien_Simplexml_Element\".
 msgid "XML object is not instance of \"Varien_Simplexml_Element\"."
-msgstr ""
+msgstr "L'objet XML n'est pas une instance de \"Varien_Simplexml_Element\"."
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr ""
+msgstr "Rapports de règlements PayPal"
 
 #: General
 msgid "General"
@@ -5216,21 +5216,449 @@ msgstr "Inventaire"
 
 #: Address
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 #: Minimum Order Amount
 msgid "Minimum Order Amount"
-msgstr ""
+msgstr "Montant de commande minimum"
 
 #: Shipping Methods
 msgid "Shipping Methods"
-msgstr ""
+msgstr "Modes de livraison"
 
 #: Payment Methods
 msgid "Payment Methods"
-msgstr ""
+msgstr "Modes de paiement"
 
 #: Google API
 msgid "Google API"
+msgstr "API Google"
+
+#: You will need to navigate to your
+msgid "You will need to navigate to your"
+msgstr ""
+
+#: and go to the
+msgid "and go to the"
+msgstr ""
+
+#: sections for your Hosted Checkout Pages.
+msgid "sections for your Hosted Checkout Pages."
+msgstr ""
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr ""
+
+#: 1. set up
+msgid "1. set up"
+msgstr ""
+
+#: 2. customize
+msgid "2. customize"
+msgstr ""
+
+#: <strong>%s</strong> requests access to your account
+msgid "<strong>%s</strong> requests access to your account"
+msgstr ""
+
+#: <strong>Attention</strong>: Captcha is case sensitive.
+msgid "<strong>Attention</strong>: Captcha is case sensitive."
+msgstr ""
+
+#: Add Products
+msgid "Add Products"
+msgstr ""
+
+#: After authorization application will have access to you account.
+msgid "After authorization application will have access to you account."
+msgstr ""
+
+#: Always (during development)
+msgid "Always (during development)"
+msgstr ""
+
+#: An error occurred while deleting URL Rewrite.
+msgid "An error occurred while deleting URL Rewrite."
+msgstr ""
+
+#: An error occurred while deleting record(s).
+msgid "An error occurred while deleting record(s)."
+msgstr ""
+
+#: An error occurred while saving URL Rewrite.
+msgid "An error occurred while saving URL Rewrite."
+msgstr ""
+
+#: An error occurred while saving review.
+msgid "An error occurred while saving review."
+msgstr ""
+
+#: Any data created since the backup was made will be lost including admin users, customers and orders.
+msgid "Any data created since the backup was made will be lost including admin users, customers and orders."
+msgstr ""
+
+#: Are you sure you want to proceed?
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+#: Authorization confirmed
+msgid "Authorization confirmed"
+msgstr ""
+
+#: Authorize
+msgid "Authorize"
+msgstr ""
+
+#: Authorize application
+msgid "Authorize application"
+msgstr ""
+
+#: Authorized OAuth Tokens
+msgid "Authorized OAuth Tokens"
+msgstr ""
+
+#: Automatic (equalize price ranges)
+msgid "Automatic (equalize price ranges)"
+msgstr ""
+
+#: Automatic (equalize product counts)
+msgid "Automatic (equalize product counts)"
+msgstr ""
+
+#: Backup Name
+msgid "Backup Name"
+msgstr ""
+
+#: Backup options
+msgid "Backup options"
+msgstr ""
+
+#: Choose Store View:
+msgid "Choose Store View:"
+msgstr ""
+
+#: Confirm New Password
+msgid "Confirm New Password"
+msgstr ""
+
+#: Confirm token authorization Pop Up for admin
+msgid "Confirm token authorization Pop Up for admin"
+msgstr ""
+
+#: Confirm token authorization for admin
+msgid "Confirm token authorization for admin"
+msgstr ""
+
+#: Confirmation Of Authorization
+msgid "Confirmation Of Authorization"
+msgstr ""
+
+#: Currency \"%s\" is used as %s in %s.
+msgid "Currency \"%s\" is used as %s in %s."
+msgstr ""
+
+#: Do you really want to proceed?
+msgid "Do you really want to proceed?"
+msgstr ""
+
+#: Edit Order
+msgid "Edit Order"
+msgstr ""
+
+#: Exclude media folder from backup
+msgid "Exclude media folder from backup"
+msgstr ""
+
+#: FTP Host
+msgid "FTP Host"
+msgstr ""
+
+#: FTP Login
+msgid "FTP Login"
+msgstr ""
+
+#: FTP Password
+msgid "FTP Password"
+msgstr ""
+
+#: FTP credentials
+msgid "FTP credentials"
+msgstr ""
+
+#: Forgot Admin Password
+msgid "Forgot Admin Password"
+msgstr ""
+
+#: Give the verifier code to application administrator
+msgid "Give the verifier code to application administrator"
+msgstr ""
+
+#: If there is an account associated with %s you will receive an email with a link to reset your password.
+msgid "If there is an account associated with %s you will receive an email with a link to reset your password."
+msgstr ""
+
+#: Invalid User Name or Password.
+msgid "Invalid User Name or Password."
+msgstr ""
+
+#: Invalid email address.
+msgid "Invalid email address."
+msgstr ""
+
+#: Invalid password reset token.
+msgid "Invalid password reset token."
+msgstr ""
+
+#: JavaScript seems to be disabled in your browser.
+msgid "JavaScript seems to be disabled in your browser."
+msgstr ""
+
+#: Log in to use <strong>%s</strong>
+msgid "Log in to use <strong>%s</strong>"
+msgstr ""
+
+#: Magento root directory
+msgid "Magento root directory"
+msgstr ""
+
+#: My Applications
+msgid "My Applications"
+msgstr ""
+
+#: Never (production)
+msgid "Never (production)"
+msgstr ""
+
+#: New password field cannot be empty.
+msgid "New password field cannot be empty."
+msgstr ""
+
+#: Number of Views
+msgid "Number of Views"
+msgstr ""
+
+#: OAuth Consumers
+msgid "OAuth Consumers"
+msgstr ""
+
+#: OAuth authorization for admin
+msgid "OAuth authorization for admin"
+msgstr ""
+
+#: OAuth authorization simple for admin
+msgid "OAuth authorization simple for admin"
+msgstr ""
+
+#: OK
+msgid "OK"
+msgstr ""
+
+#: Only Once (version upgrade)
+msgid "Only Once (version upgrade)"
+msgstr ""
+
+#: PayPal Manager
+msgid "PayPal Manager"
+msgstr ""
+
+#: Please enter password
+msgid "Please enter password"
+msgstr ""
+
+#: Please enter password to confirm rollback.
+msgid "Please enter password to confirm rollback."
+msgstr ""
+
+#: Please specify backup creation options
+msgid "Please specify backup creation options"
+msgstr ""
+
+#: Please type the letters from the image:
+msgid "Please type the letters from the image:"
+msgstr ""
+
+#: Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.
+msgid "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field."
+msgstr ""
+
+#: Product Name
+msgid "Product Name"
+msgstr ""
+
+#: Products Most Viewed Report
+msgid "Products Most Viewed Report"
+msgstr ""
+
+#: Put store on the maintenance mode while backup creation
+msgid "Put store on the maintenance mode while backup creation"
+msgstr ""
+
+#: Put store on the maintenance mode while rollback processing
+msgid "Put store on the maintenance mode while rollback processing"
+msgstr ""
+
+#: REST Roles
+msgid "REST Roles"
+msgstr ""
+
+#: Reject
+msgid "Reject"
+msgstr ""
+
+#: Reject token authorization Pop Up for admin
+msgid "Reject token authorization Pop Up for admin"
+msgstr ""
+
+#: Reject token authorization for admin
+msgid "Reject token authorization for admin"
+msgstr ""
+
+#: Rejection Of Authorization
+msgid "Rejection Of Authorization"
+msgstr ""
+
+#: Reload captcha
+msgid "Reload captcha"
+msgstr ""
+
+#: Reset Password
+msgid "Reset Password"
+msgstr ""
+
+#: Reset a Password
+msgid "Reset a Password"
+msgstr ""
+
+#: Service Settings
+msgid "Service Settings"
+msgstr ""
+
+#: Set up & Customize
+msgid "Set up & Customize"
+msgstr ""
+
+#: Show Report For:
+msgid "Show Report For:"
+msgstr ""
+
+#: Symbol
+msgid "Symbol"
+msgstr ""
+
+#: The backup's creation process will take time.
+msgid "The backup's creation process will take time."
+msgstr ""
+
+#: The item %s (SKU %s) does not exist in the catalog anymore.
+msgid "The item %s (SKU %s) does not exist in the catalog anymore."
+msgstr ""
+
+#: The shipping label has been created.
+msgid "The shipping label has been created."
+msgstr ""
+
+#: The transaction details have been updated.
+msgid "The transaction details have been updated."
+msgstr ""
+
+#: This action cannot be undone.
+msgid "This action cannot be undone."
+msgstr ""
+
+#: To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into
+msgid "To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into"
+msgstr ""
+
+#: To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into
+msgid "To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into"
+msgstr ""
+
+#: Total of %d record(s) were deleted
+msgid "Total of %d record(s) were deleted"
+msgstr ""
+
+#: Total of %d record(s) were deleted.
+msgid "Total of %d record(s) were deleted."
+msgstr ""
+
+#: Total of %d record(s) were updated
+msgid "Total of %d record(s) were updated"
+msgstr ""
+
+#: Total of %d record(s) were updated.
+msgid "Total of %d record(s) were updated."
+msgstr ""
+
+#: Unable to update transaction details.
+msgid "Unable to update transaction details."
+msgstr ""
+
+#: Uploaded file is larger than %.2f kilobytes allowed by server
+msgid "Uploaded file is larger than %.2f kilobytes allowed by server"
+msgstr ""
+
+#: Use FTP Connection
+msgid "Use FTP Connection"
+msgstr ""
+
+#: User Password
+msgid "User Password"
+msgstr ""
+
+#: User Type Resources
+msgid "User Type Resources"
+msgstr ""
+
+#: VAT Number is Invalid
+msgid "VAT Number is Invalid"
+msgstr ""
+
+#: VAT Number is Valid
+msgid "VAT Number is Valid"
+msgstr ""
+
+#: Verifier code: %s
+msgid "Verifier code: %s"
+msgstr ""
+
+#: View Statistics For:
+msgid "View Statistics For:"
+msgstr ""
+
+#: Warning
+msgid "Warning"
+msgstr ""
+
+#: Wrong account specified.
+msgid "Wrong account specified."
+msgstr ""
+
+#: You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>.
+msgid "You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>."
+msgstr ""
+
+#: You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>.
+msgid "You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>."
+msgstr ""
+
+#: You will need to wait when the action ends.
+msgid "You will need to wait when the action ends."
+msgstr ""
+
+#: Your password has been updated.
+msgid "Your password has been updated."
+msgstr ""
+
+#: Your password reset link has expired.
+msgid "Your password reset link has expired."
+msgstr ""
+
+#: failed
+msgid "failed"
+msgstr ""
+
+#: successful
+msgid "successful"
 msgstr ""
 

@@ -228,5 +228,9 @@ msgstr "%s ne peut être commandé que par multiples de %s."
 
 #: Only %s left
 msgid "Only %s left"
-msgstr "Only %s left"
+msgstr "Plus que %s en stock"
+
+#: Qty for Item's Status to Become Out of Stock
+msgid "Qty for Item's Status to Become Out of Stock"
+msgstr ""
 

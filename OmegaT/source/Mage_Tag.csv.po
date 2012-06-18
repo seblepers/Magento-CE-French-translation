@@ -96,7 +96,7 @@ msgstr "Client - Mon compte - Ma liste de mots clés"
 
 #: Customer My Account Tag View
 msgid "Customer My Account Tag View"
-msgstr "Client - Mon compte - Mots clést"
+msgstr "Client - Mon compte - Mots clés"
 
 #: Customer Since
 msgid "Customer Since"
@@ -212,7 +212,7 @@ msgstr "Nom du produit"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "SKU Produit"
+msgstr "Réf. Produit"
 
 #: Product Tags
 msgid "Product Tags"
@@ -332,7 +332,7 @@ msgstr "Impossible de sauvegarder le(s) mot(s) clé(s)."
 
 #: Use spaces to separate tags. Use single quotes (') for phrases.
 msgid "Use spaces to separate tags. Use single quotes (') for phrases."
-msgstr "Utilisez un espace pour separer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
+msgstr "Utilisez un espace pour séparer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase."
 
 #: View All Tags
 msgid "View All Tags"
@@ -393,4 +393,48 @@ msgstr "Appliquer la taxe au TFP"
 #: Include FPT In Subtotal
 msgid "Include FPT In Subtotal"
 msgstr "Inclure TFP dans le sous-total"
+
+#: Add
+msgid "Add"
+msgstr ""
+
+#: Add tag(s) to product
+msgid "Add tag(s) to product"
+msgstr ""
+
+#: Info
+msgid "Info"
+msgstr ""
+
+#: Product Tag API
+msgid "Product Tag API"
+msgstr ""
+
+#: Remove
+msgid "Remove"
+msgstr ""
+
+#: Remove product tag
+msgid "Remove product tag"
+msgstr ""
+
+#: Retrieve list of tags by product
+msgid "Retrieve list of tags by product"
+msgstr ""
+
+#: Retrieve product tag info
+msgid "Retrieve product tag info"
+msgstr ""
+
+#: Update
+msgid "Update"
+msgstr ""
+
+#: Update product tag
+msgid "Update product tag"
+msgstr ""
+
+#: [STORE VIEW]
+msgid "[STORE VIEW]"
+msgstr ""
 

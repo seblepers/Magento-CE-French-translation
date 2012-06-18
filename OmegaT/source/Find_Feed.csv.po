@@ -166,7 +166,7 @@ msgstr "Flux TheFind"
 msgid "Type"
 msgstr "Type"
 
-#: Unable to process an import. 
+#: Unable to process an import.
 msgid "Unable to process an import. "
 msgstr "Impossible d'exécuter l'import. "
 

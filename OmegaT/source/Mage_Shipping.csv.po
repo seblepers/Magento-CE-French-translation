@@ -1,4 +1,4 @@
-#:  for more information or 
+#:  for more information or
 msgid " for more information or "
 msgstr " pour plus d'information ou "
 
@@ -286,7 +286,7 @@ msgstr "Informations de suivi"
 msgid "Tracking Number:"
 msgstr "Numéro de suivi :"
 
-#: Tracking information is currently not available. Please 
+#: Tracking information is currently not available. Please
 msgid "Tracking information is currently not available. Please "
 msgstr "Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez  "
 
@@ -318,7 +318,7 @@ msgstr "Code postal"
 msgid "contact us"
 msgstr "nous contacter"
 
-#: email us at 
+#: email us at
 msgid "email us at "
 msgstr "nous envoyer un email à  "
 
@@ -336,9 +336,45 @@ msgstr "nous envoyer un email à "
 
 #: Street Address
 msgid "Street Address"
-msgstr ""
+msgstr "Adresse"
 
 #: Street Address Line 2
 msgid "Street Address Line 2"
+msgstr "Adresse - ligne 2"
+
+#: Divide to equal weight (one request)
+msgid "Divide to equal weight (one request)"
+msgstr ""
+
+#: Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\").
+msgid "Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\")."
+msgstr ""
+
+#: File has not been imported. See the following list of errors: %s
+msgid "File has not been imported. See the following list of errors: %s"
+msgstr ""
+
+#: Invalid %s \"%s\" in the Row #%s.
+msgid "Invalid %s \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Country \"%s\" in the Row #%s.
+msgid "Invalid Country \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Region/State \"%s\" in the Row #%s.
+msgid "Invalid Region/State \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Shipping Price \"%s\" in the Row #%s.
+msgid "Invalid Shipping Price \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Table Rates format in the Row #%s
+msgid "Invalid Table Rates format in the Row #%s"
+msgstr ""
+
+#: Use origin weight (few requests)
+msgid "Use origin weight (few requests)"
 msgstr ""
 

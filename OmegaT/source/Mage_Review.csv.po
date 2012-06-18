@@ -228,7 +228,7 @@ msgstr "Commentaires"
 
 #: Product SKU
 msgid "Product SKU"
-msgstr "SKU Produit"
+msgstr "Réf. Produit"
 
 #: Qty
 msgid "Qty"
@@ -352,9 +352,29 @@ msgstr "Non approuvé"
 
 #: Customers Reviews
 msgid "Customers Reviews"
-msgstr ""
+msgstr "Clients ayant commenté"
 
 #: Products Reviews
 msgid "Products Reviews"
+msgstr "Produits commentés"
+
+#: <a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>
+msgid "<a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>"
+msgstr ""
+
+#: All Reviews of Product `%s`
+msgid "All Reviews of Product `%s`"
+msgstr ""
+
+#: Nickname can't be empty
+msgid "Nickname can't be empty"
+msgstr ""
+
+#: Review can't be empty
+msgid "Review can't be empty"
+msgstr ""
+
+#: Review summary can't be empty
+msgid "Review summary can't be empty"
 msgstr ""
 

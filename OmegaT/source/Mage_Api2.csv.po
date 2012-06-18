@@ -1,0 +1,940 @@
+#: %s
+msgid "%s"
+msgstr ""
+
+#: ACL Attribute Rules
+msgid "ACL Attribute Rules"
+msgstr ""
+
+#: ACL Attributes Information
+msgid "ACL Attributes Information"
+msgstr ""
+
+#: Add
+msgid "Add"
+msgstr ""
+
+#: Add Admin Role
+msgid "Add Admin Role"
+msgstr ""
+
+#: Add New Role
+msgid "Add New Role"
+msgstr ""
+
+#: Address Type
+msgid "Address Type"
+msgstr ""
+
+#: Admin
+msgid "Admin"
+msgstr ""
+
+#: Allow
+msgid "Allow"
+msgstr ""
+
+#: An error occurred while deleting the role.
+msgid "An error occurred while deleting the role."
+msgstr ""
+
+#: An error occurred while saving attribute rules.
+msgid "An error occurred while saving attribute rules."
+msgstr ""
+
+#: An error occurred while saving role.
+msgid "An error occurred while saving role."
+msgstr ""
+
+#: Api Rules Information
+msgid "Api Rules Information"
+msgstr ""
+
+#: Assigned
+msgid "Assigned"
+msgstr ""
+
+#: Associate to Website
+msgid "Associate to Website"
+msgstr ""
+
+#: Attribute Rules Information
+msgid "Attribute Rules Information"
+msgstr ""
+
+#: Attribute Set
+msgid "Attribute Set"
+msgstr ""
+
+#: Attributes
+msgid "Attributes"
+msgstr ""
+
+#: Automatically Return Credit Memo Item to Stock
+msgid "Automatically Return Credit Memo Item to Stock"
+msgstr ""
+
+#: Back
+msgid "Back"
+msgstr ""
+
+#: Backorders
+msgid "Backorders"
+msgstr ""
+
+#: Base Currency
+msgid "Base Currency"
+msgstr ""
+
+#: Base Customer Balance
+msgid "Base Customer Balance"
+msgstr ""
+
+#: Base Discount
+msgid "Base Discount"
+msgstr ""
+
+#: Base Discount Amount
+msgid "Base Discount Amount"
+msgstr ""
+
+#: Base Item Subtotal
+msgid "Base Item Subtotal"
+msgstr ""
+
+#: Base Item Subtotal Including Tax
+msgid "Base Item Subtotal Including Tax"
+msgstr ""
+
+#: Base Original Price
+msgid "Base Original Price"
+msgstr ""
+
+#: Base Price
+msgid "Base Price"
+msgstr ""
+
+#: Base Price Including Tax
+msgid "Base Price Including Tax"
+msgstr ""
+
+#: Base Shipping
+msgid "Base Shipping"
+msgstr ""
+
+#: Base Shipping Discount
+msgid "Base Shipping Discount"
+msgstr ""
+
+#: Base Shipping Tax
+msgid "Base Shipping Tax"
+msgstr ""
+
+#: Base Subtotal
+msgid "Base Subtotal"
+msgstr ""
+
+#: Base Subtotal Including Tax
+msgid "Base Subtotal Including Tax"
+msgstr ""
+
+#: Base Tax Amount
+msgid "Base Tax Amount"
+msgstr ""
+
+#: Base Total Due
+msgid "Base Total Due"
+msgstr ""
+
+#: Base Total Paid
+msgid "Base Total Paid"
+msgstr ""
+
+#: Base Total Refunded
+msgid "Base Total Refunded"
+msgstr ""
+
+#: Buy Now URL
+msgid "Buy Now URL"
+msgstr ""
+
+#: Can Be Divided into Multiple Boxes for Shipping
+msgid "Can Be Divided into Multiple Boxes for Shipping"
+msgstr ""
+
+#: Canceled Qty
+msgid "Canceled Qty"
+msgstr ""
+
+#: Catalog
+msgid "Catalog"
+msgstr ""
+
+#: Catalog Product
+msgid "Catalog Product"
+msgstr ""
+
+#: CatalogInventory
+msgid "CatalogInventory"
+msgstr ""
+
+#: Category ID
+msgid "Category ID"
+msgstr ""
+
+#: City
+msgid "City"
+msgstr ""
+
+#: Company
+msgid "Company"
+msgstr ""
+
+#: Country
+msgid "Country"
+msgstr ""
+
+#: Coupon Code
+msgid "Coupon Code"
+msgstr ""
+
+#: Create
+msgid "Create"
+msgstr ""
+
+#: Create Permanent Redirect for old URL
+msgid "Create Permanent Redirect for old URL"
+msgstr ""
+
+#: Created From
+msgid "Created From"
+msgstr ""
+
+#: Customer
+msgid "Customer"
+msgstr ""
+
+#: Customer Address
+msgid "Customer Address"
+msgstr ""
+
+#: Customer Address ID
+msgid "Customer Address ID"
+msgstr ""
+
+#: Customer Balance
+msgid "Customer Balance"
+msgstr ""
+
+#: Customer First Name
+msgid "Customer First Name"
+msgstr ""
+
+#: Customer ID
+msgid "Customer ID"
+msgstr ""
+
+#: Customer Last Name
+msgid "Customer Last Name"
+msgstr ""
+
+#: Customer Middle Name
+msgid "Customer Middle Name"
+msgstr ""
+
+#: Customer Prefix
+msgid "Customer Prefix"
+msgstr ""
+
+#: Customer Suffix
+msgid "Customer Suffix"
+msgstr ""
+
+#: Default Image
+msgid "Default Image"
+msgstr ""
+
+#: Delete
+msgid "Delete"
+msgstr ""
+
+#: Deny
+msgid "Deny"
+msgstr ""
+
+#: Disable automatic group change based on VAT ID
+msgid "Disable automatic group change based on VAT ID"
+msgstr ""
+
+#: Discount
+msgid "Discount"
+msgstr ""
+
+#: Discount Amount
+msgid "Discount Amount"
+msgstr ""
+
+#: Discount Description
+msgid "Discount Description"
+msgstr ""
+
+#: Edit
+msgid "Edit"
+msgstr ""
+
+#: Edit %s ACL attribute rules
+msgid "Edit %s ACL attribute rules"
+msgstr ""
+
+#: Edit Role
+msgid "Edit Role"
+msgstr ""
+
+#: Edit attribute rules for %s Role
+msgid "Edit attribute rules for %s Role"
+msgstr ""
+
+#: Email
+msgid "Email"
+msgstr ""
+
+#: Enable Qty Increments
+msgid "Enable Qty Increments"
+msgstr ""
+
+#: Exclude
+msgid "Exclude"
+msgstr ""
+
+#: File Content
+msgid "File Content"
+msgstr ""
+
+#: File MIME Type
+msgid "File MIME Type"
+msgstr ""
+
+#: File Name
+msgid "File Name"
+msgstr ""
+
+#: Final Price With Tax
+msgid "Final Price With Tax"
+msgstr ""
+
+#: Final Price Without Tax
+msgid "Final Price Without Tax"
+msgstr ""
+
+#: First Name
+msgid "First Name"
+msgstr ""
+
+#: Gift Message
+msgid "Gift Message"
+msgstr ""
+
+#: Grand Total
+msgid "Grand Total"
+msgstr ""
+
+#: Grand Total to Be Charged
+msgid "Grand Total to Be Charged"
+msgstr ""
+
+#: Group
+msgid "Group"
+msgstr ""
+
+#: Guest
+msgid "Guest"
+msgstr ""
+
+#: Has Custom Options
+msgid "Has Custom Options"
+msgstr ""
+
+#: ID
+msgid "ID"
+msgstr ""
+
+#: Inventory Data
+msgid "Inventory Data"
+msgstr ""
+
+#: Invoiced Qty
+msgid "Invoiced Qty"
+msgstr ""
+
+#: Is Confirmed
+msgid "Is Confirmed"
+msgstr ""
+
+#: Is Default Billing Address
+msgid "Is Default Billing Address"
+msgstr ""
+
+#: Is Default Shipping Address
+msgid "Is Default Shipping Address"
+msgstr ""
+
+#: Item ID
+msgid "Item ID"
+msgstr ""
+
+#: Item Subtotal
+msgid "Item Subtotal"
+msgstr ""
+
+#: Item Subtotal Including Tax
+msgid "Item Subtotal Including Tax"
+msgstr ""
+
+#: Label
+msgid "Label"
+msgstr ""
+
+#: Last Logged In
+msgid "Last Logged In"
+msgstr ""
+
+#: Last Name
+msgid "Last Name"
+msgstr ""
+
+#: Low Stock Date
+msgid "Low Stock Date"
+msgstr ""
+
+#: Manage Stock
+msgid "Manage Stock"
+msgstr ""
+
+#: Maximum Qty Allowed in Shopping Cart
+msgid "Maximum Qty Allowed in Shopping Cart"
+msgstr ""
+
+#: Minimum Qty Allowed in Shopping Cart
+msgid "Minimum Qty Allowed in Shopping Cart"
+msgstr ""
+
+#: New Role
+msgid "New Role"
+msgstr ""
+
+#: Notify for Quantity Below
+msgid "Notify for Quantity Below"
+msgstr ""
+
+#: OAuth
+msgid "OAuth"
+msgstr ""
+
+#: Order
+msgid "Order"
+msgstr ""
+
+#: Order Addresses
+msgid "Order Addresses"
+msgstr ""
+
+#: Order Comments
+msgid "Order Comments"
+msgstr ""
+
+#: Order Currency
+msgid "Order Currency"
+msgstr ""
+
+#: Order Date
+msgid "Order Date"
+msgstr ""
+
+#: Order ID
+msgid "Order ID"
+msgstr ""
+
+#: Order ID (internal)
+msgid "Order ID (internal)"
+msgstr ""
+
+#: Order Item ID
+msgid "Order Item ID"
+msgstr ""
+
+#: Order Items
+msgid "Order Items"
+msgstr ""
+
+#: Order Status
+msgid "Order Status"
+msgstr ""
+
+#: Ordered Qty
+msgid "Ordered Qty"
+msgstr ""
+
+#: Orders
+msgid "Orders"
+msgstr ""
+
+#: Original Price
+msgid "Original Price"
+msgstr ""
+
+#: Parent Order Item ID
+msgid "Parent Order Item ID"
+msgstr ""
+
+#: Payment Method
+msgid "Payment Method"
+msgstr ""
+
+#: Phone Number
+msgid "Phone Number"
+msgstr ""
+
+#: Placed from IP
+msgid "Placed from IP"
+msgstr ""
+
+#: Please enter a valid number in \"max_sale_qty\" field
+msgid "Please enter a valid number in \"max_sale_qty\" field"
+msgstr ""
+
+#: Please enter a valid number in \"min_qty\" field
+msgid "Please enter a valid number in \"min_qty\" field"
+msgstr ""
+
+#: Please enter a valid number in \"min_sale_qty\" field
+msgid "Please enter a valid number in \"min_sale_qty\" field"
+msgstr ""
+
+#: Please enter a valid number in \"notify_stock_qty\" field
+msgid "Please enter a valid number in \"notify_stock_qty\" field"
+msgstr ""
+
+#: Please use numbers only in \"category_id\" field.
+msgid "Please use numbers only in \"category_id\" field."
+msgstr ""
+
+#: Please use numbers only in \"qty_increments\" field. Please avoid spaces or other characters such as dots or commas.
+msgid "Please use numbers only in \"qty_increments\" field. Please avoid spaces or other characters such as dots or commas."
+msgstr ""
+
+#: Position
+msgid "Position"
+msgstr ""
+
+#: Price
+msgid "Price"
+msgstr ""
+
+#: Price Including Tax
+msgid "Price Including Tax"
+msgstr ""
+
+#: Product
+msgid "Product"
+msgstr ""
+
+#: Product Category
+msgid "Product Category"
+msgstr ""
+
+#: Product ID
+msgid "Product ID"
+msgstr ""
+
+#: Product Image
+msgid "Product Image"
+msgstr ""
+
+#: Product Type
+msgid "Product Type"
+msgstr ""
+
+#: Product URL
+msgid "Product URL"
+msgstr ""
+
+#: Product Website
+msgid "Product Website"
+msgstr ""
+
+#: Product and Custom Options Name
+msgid "Product and Custom Options Name"
+msgstr ""
+
+#: Qty
+msgid "Qty"
+msgstr ""
+
+#: Qty Increments
+msgid "Qty Increments"
+msgstr ""
+
+#: Qty Uses Decimals
+msgid "Qty Uses Decimals"
+msgstr ""
+
+#: Qty for Item's Status to Become Out of Stock
+msgid "Qty for Item's Status to Become Out of Stock"
+msgstr ""
+
+#: REST - Attributes
+msgid "REST - Attributes"
+msgstr ""
+
+#: REST - Roles
+msgid "REST - Roles"
+msgstr ""
+
+#: REST ACL Attributes
+msgid "REST ACL Attributes"
+msgstr ""
+
+#: REST Attributes
+msgid "REST Attributes"
+msgstr ""
+
+#: REST Role
+msgid "REST Role"
+msgstr ""
+
+#: REST Roles
+msgid "REST Roles"
+msgstr ""
+
+#: REST Roles Information
+msgid "REST Roles Information"
+msgstr ""
+
+#: Read
+msgid "Read"
+msgstr ""
+
+#: Refunded Qty
+msgid "Refunded Qty"
+msgstr ""
+
+#: Regular Price With Tax
+msgid "Regular Price With Tax"
+msgstr ""
+
+#: Regular Price Without Tax
+msgid "Regular Price Without Tax"
+msgstr ""
+
+#: Rest Roles
+msgid "Rest Roles"
+msgstr ""
+
+#: Retrieve
+msgid "Retrieve"
+msgstr ""
+
+#: Role \"%s\" no longer exists
+msgid "Role \"%s\" no longer exists"
+msgstr ""
+
+#: Role \"%s\" not found.
+msgid "Role \"%s\" not found."
+msgstr ""
+
+#: Role API Resources
+msgid "Role API Resources"
+msgstr ""
+
+#: Role Info
+msgid "Role Info"
+msgstr ""
+
+#: Role Information
+msgid "Role Information"
+msgstr ""
+
+#: Role Name
+msgid "Role Name"
+msgstr ""
+
+#: Role Users
+msgid "Role Users"
+msgstr ""
+
+#: Role has been deleted.
+msgid "Role has been deleted."
+msgstr ""
+
+#: Roles
+msgid "Roles"
+msgstr ""
+
+#: SKU
+msgid "SKU"
+msgstr ""
+
+#: Salability Status
+msgid "Salability Status"
+msgstr ""
+
+#: Sales
+msgid "Sales"
+msgstr ""
+
+#: Save
+msgid "Save"
+msgstr ""
+
+#: Shipped Qty
+msgid "Shipped Qty"
+msgstr ""
+
+#: Shipping Amount
+msgid "Shipping Amount"
+msgstr ""
+
+#: Shipping Discount
+msgid "Shipping Discount"
+msgstr ""
+
+#: Shipping Including Tax
+msgid "Shipping Including Tax"
+msgstr ""
+
+#: Shipping Method
+msgid "Shipping Method"
+msgstr ""
+
+#: Shipping Tax
+msgid "Shipping Tax"
+msgstr ""
+
+#: State
+msgid "State"
+msgstr ""
+
+#: Stock Availability
+msgid "Stock Availability"
+msgstr ""
+
+#: Stock ID
+msgid "Stock ID"
+msgstr ""
+
+#: Stock Item
+msgid "Stock Item"
+msgstr ""
+
+#: Stock Status
+msgid "Stock Status"
+msgstr ""
+
+#: Store Currency to Order Currency Rate
+msgid "Store Currency to Order Currency Rate"
+msgstr ""
+
+#: Store Name
+msgid "Store Name"
+msgstr ""
+
+#: Street
+msgid "Street"
+msgstr ""
+
+#: Subtotal
+msgid "Subtotal"
+msgstr ""
+
+#: Subtotal Including Tax
+msgid "Subtotal Including Tax"
+msgstr ""
+
+#: System
+msgid "System"
+msgstr ""
+
+#: Tax Amount
+msgid "Tax Amount"
+msgstr ""
+
+#: Tax Name
+msgid "Tax Name"
+msgstr ""
+
+#: Tax Percent
+msgid "Tax Percent"
+msgstr ""
+
+#: Tax Rate
+msgid "Tax Rate"
+msgstr ""
+
+#: The \"enable_qty_increments\" field must be set to 0 or 1.
+msgid "The \"enable_qty_increments\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"is_decimal_divided\" field must be set to 0 or 1.
+msgid "The \"is_decimal_divided\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"is_in_stock\" field must be set to 0 or 1.
+msgid "The \"is_in_stock\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"is_qty_decimal\" field must be set to 0 or 1.
+msgid "The \"is_qty_decimal\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"is_qty_decimal\" field must be set to 0, 1, or 2.
+msgid "The \"is_qty_decimal\" field must be set to 0, 1, or 2."
+msgstr ""
+
+#: The \"manage_stock\" field must be set to 0 or 1.
+msgid "The \"manage_stock\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"stock_status_changed_auto\" field must be set to 0 or 1.
+msgid "The \"stock_status_changed_auto\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_backorders\" field must be set to 0 or 1.
+msgid "The \"use_config_backorders\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_enable_qty_inc\" field must be set to 0 or 1.
+msgid "The \"use_config_enable_qty_inc\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_manage_stock\" field must be set to 0 or 1.
+msgid "The \"use_config_manage_stock\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_max_sale_qty\" field must be set to 0 or 1.
+msgid "The \"use_config_max_sale_qty\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_min_qty\" field must be set to 0 or 1.
+msgid "The \"use_config_min_qty\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_min_sale_qty\" field must be set to 0 or 1.
+msgid "The \"use_config_min_sale_qty\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_notify_stock_qty\" field must be set to 0 or 1.
+msgid "The \"use_config_notify_stock_qty\" field must be set to 0 or 1."
+msgstr ""
+
+#: The \"use_config_qty_increments\" field must be set to 0 or 1.
+msgid "The \"use_config_qty_increments\" field must be set to 0 or 1."
+msgstr ""
+
+#: The attribute rules were saved.
+msgid "The attribute rules were saved."
+msgstr ""
+
+#: The role has been saved.
+msgid "The role has been saved."
+msgstr ""
+
+#: The role is a special one and not for assigning it to admin users.
+msgid "The role is a special one and not for assigning it to admin users."
+msgstr ""
+
+#: Total Due
+msgid "Total Due"
+msgstr ""
+
+#: Total Paid
+msgid "Total Paid"
+msgstr ""
+
+#: Total Refunded
+msgid "Total Refunded"
+msgstr ""
+
+#: Total Reviews Count
+msgid "Total Reviews Count"
+msgstr ""
+
+#: Type
+msgid "Type"
+msgstr ""
+
+#: URL
+msgid "URL"
+msgstr ""
+
+#: Update
+msgid "Update"
+msgstr ""
+
+#: Use Config Settings for Allow Gift Message
+msgid "Use Config Settings for Allow Gift Message"
+msgstr ""
+
+#: Use Config Settings for Allow Gift Wrapping
+msgid "Use Config Settings for Allow Gift Wrapping"
+msgstr ""
+
+#: Use Config Settings for Backorders
+msgid "Use Config Settings for Backorders"
+msgstr ""
+
+#: Use Config Settings for Enable Qty Increments
+msgid "Use Config Settings for Enable Qty Increments"
+msgstr ""
+
+#: Use Config Settings for Manage Stock
+msgid "Use Config Settings for Manage Stock"
+msgstr ""
+
+#: Use Config Settings for Maximum Qty Allowed in Shopping Cart
+msgid "Use Config Settings for Maximum Qty Allowed in Shopping Cart"
+msgstr ""
+
+#: Use Config Settings for Minimum Qty Allowed in Shopping Cart
+msgid "Use Config Settings for Minimum Qty Allowed in Shopping Cart"
+msgstr ""
+
+#: Use Config Settings for Notify for Quantity Below
+msgid "Use Config Settings for Notify for Quantity Below"
+msgstr ""
+
+#: Use Config Settings for Qty Increments
+msgid "Use Config Settings for Qty Increments"
+msgstr ""
+
+#: Use Config Settings for Qty for Item's Status to Become Out of Stock
+msgid "Use Config Settings for Qty for Item's Status to Become Out of Stock"
+msgstr ""
+
+#: User Type
+msgid "User Type"
+msgstr ""
+
+#: User type \"%s\" no longer exists
+msgid "User type \"%s\" no longer exists"
+msgstr ""
+
+#: User type \"%s\" not found.
+msgid "User type \"%s\" not found."
+msgstr ""
+
+#: Web Services
+msgid "Web Services"
+msgstr ""
+
+#: Web services
+msgid "Web services"
+msgstr ""
+
+#: Write
+msgid "Write"
+msgstr ""
+
+#: ZIP/Postal Code
+msgid "ZIP/Postal Code"
+msgstr ""
+

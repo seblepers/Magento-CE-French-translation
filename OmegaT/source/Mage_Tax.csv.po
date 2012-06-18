@@ -604,37 +604,49 @@ msgstr "Le taux de taxe ne peut pas être enlevé. Il est utilisé dans une règ
 
 #: Fixed Product Taxes
 msgid "Fixed Product Taxes"
-msgstr ""
+msgstr "Taxes Fixes de Produit"
 
 #: Enable FPT
 msgid "Enable FPT"
-msgstr ""
+msgstr "Activer les TFP"
 
 #: Display Prices In Product Lists
 msgid "Display Prices In Product Lists"
-msgstr ""
+msgstr "Afficher les prix dans la liste des produits"
 
 #: Display Prices On Product View Page
 msgid "Display Prices On Product View Page"
-msgstr ""
+msgstr "Afficher les prix dans les fiches produits"
 
 #: Display Prices In Sales Modules
 msgid "Display Prices In Sales Modules"
-msgstr ""
+msgstr "Afficher les prix dans les modules de paiement"
 
 #: Display Prices In Emails
 msgid "Display Prices In Emails"
-msgstr ""
+msgstr "Afficher les prix dans les emails"
 
 #: Apply Discounts To FPT
 msgid "Apply Discounts To FPT"
-msgstr ""
+msgstr "Appliquer les remises au TFP"
 
 #: Apply Tax To FPT
 msgid "Apply Tax To FPT"
-msgstr ""
+msgstr "Appliquer la taxe au TFP"
 
 #: Include FPT In Subtotal
 msgid "Include FPT In Subtotal"
+msgstr "Inclure TFP dans le sous-total"
+
+#: An error occurred while saving this tax class. A class with the same name
+msgid "An error occurred while saving this tax class. A class with the same name"
+msgstr ""
+
+#: Orders, Invoices, Credit Memos Display Settings
+msgid "Orders, Invoices, Credit Memos Display Settings"
+msgstr ""
+
+#: Shipping & Handling Tax
+msgid "Shipping & Handling Tax"
 msgstr ""
 

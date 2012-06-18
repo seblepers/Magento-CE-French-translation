@@ -156,5 +156,5 @@ msgstr "Aide ?"
 
 #: You will be required to enter your payment details before you place an order.
 msgid "You will be required to enter your payment details before you place an order."
-msgstr "Vouz devrez saisir les informations de paiement avant de valider une commande."
+msgstr "Vous devrez saisir les informations de paiement avant de valider une commande."
 

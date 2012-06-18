@@ -88,7 +88,7 @@ msgstr "Montant global"
 
 #: Low Stock Products
 msgid "Low Stock Products"
-msgstr "Produits ayant un bas niveau de stock"
+msgstr "Produits ayant un faible niveau de stock"
 
 #: Message:
 msgid "Message:"
@@ -128,7 +128,7 @@ msgstr "Commentaire(s) de produit en attente"
 
 #: Product: \"%s\" review By: %s
 msgid "Product: \"%s\" review By: %s"
-msgstr "Produit : \"%s\" commentaire par : %s"
+msgstr "Produit : \"%s\" commenté par : %s"
 
 #: Product: <a href=\"%s\">%s</a> <br/>
 msgid "Product: <a href=\"%s\">%s</a> <br/>"
@@ -224,9 +224,13 @@ msgstr "Liste d'envies de %s"
 
 #: Click for price
 msgid "Click for price"
-msgstr ""
+msgstr "Cliquez pour afficher le prix"
 
 #: Order
 msgid "Order"
+msgstr "Commande"
+
+#: RSS Feeds Section
+msgid "RSS Feeds Section"
 msgstr ""
 

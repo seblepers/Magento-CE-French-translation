@@ -812,29 +812,29 @@ msgstr "Configuration"
 
 #: Sales
 msgid "Sales"
-msgstr ""
+msgstr "Ventes"
 
 #: Reports
 msgid "Reports"
-msgstr ""
+msgstr "Rapports"
 
 #: Refresh Statistics
 msgid "Refresh Statistics"
-msgstr ""
+msgstr "Actualiser les statistiques"
 
 #: Total Invoiced
 msgid "Total Invoiced"
-msgstr ""
+msgstr "Total de la facture"
 
 #: Coupons
 msgid "Coupons"
-msgstr ""
+msgstr "Bons de réduction"
 
 #: Total Refunded
 msgid "Total Refunded"
-msgstr ""
+msgstr "Total remboursé"
 
 #: PayPal Settlement Reports
 msgid "PayPal Settlement Reports"
-msgstr ""
+msgstr "Rapports de règlements PayPal"
 

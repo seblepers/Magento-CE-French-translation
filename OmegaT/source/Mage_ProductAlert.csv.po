@@ -20,7 +20,7 @@ msgstr "Cliquez ici pour ne plus recevoir d'alerte pour ce produit"
 
 #: Error Email Recipient
 msgid "Error Email Recipient"
-msgstr "Erreur de mail destinataire"
+msgstr "Destinataire du mail d'erreur"
 
 #: Error Email Sender
 msgid "Error Email Sender"

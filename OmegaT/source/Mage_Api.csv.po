@@ -1280,11 +1280,11 @@ msgstr "Attention ! Les valeurs vides peuvent poser problème avec le format CSV
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning: Please do not close the window during importing/exporting data
 msgid "Warning: Please do not close the window during importing/exporting data"
@@ -1576,7 +1576,7 @@ msgstr "Product Name3 2"
 
 #: Qty:
 msgid "Qty:"
-msgstr "Quantité :"
+msgstr "Qté :"
 
 #: Regular Price:
 msgid "Regular Price:"
@@ -1700,11 +1700,11 @@ msgstr "Voir la galerie"
 
 #: Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera cet utilisateur des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?
 msgid "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-msgstr "Attention !\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\\nÊtes-vous sûr(e) ?"
+msgstr "Attention !\\r\\nCette action supprimera ces utilisateurs des rôles déjà assignés.\\r\\nÊtes-vous sûr(e) ?"
 
 #: You have %s unread message(s).
 msgid "You have %s unread message(s)."
@@ -1712,97 +1712,113 @@ msgstr "Vous avez %s message(s) non lu(s)."
 
 #: (For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)
 msgid "(For Type \"Local Server\" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
-msgstr ""
+msgstr "(Pour le type \"Serveur local\", il est nécessaire d'utiliser un chemin relatif vers les répertoires d'installation var/export ou var/import. Par exemple, var/export, var/import, var/export/vers/dossier, var/import/vers/dossier)"
 
 #: (Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)
 msgid "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-msgstr ""
+msgstr "(Inclut plus de pays que ceux de la liste ci-dessous. En tant que propriétaire de l'application, vous êtes responsable de vous conformer aux lois spécifiques au pays en relation avec la vente ou la distribution de votre application dans ce pays, y compris dans votre pays de résidence.)"
 
 #: ASCII
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #: All locations
 msgid "All locations"
-msgstr ""
+msgstr "Tous les lieux"
 
 #: Are you sure you want to delete this theme? This change will affect all applications.
 msgid "Are you sure you want to delete this theme? This change will affect all applications."
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir supprimer ce thème ? Ce changement prendra effet sur toutes les applications."
 
 #: BINARY
 msgid "BINARY"
-msgstr ""
+msgstr "BINAIRE"
 
 #: Cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: Delete theme
 msgid "Delete theme"
-msgstr ""
+msgstr "Supprimer le thème"
 
 #: Deselect All
 msgid "Deselect All"
-msgstr ""
+msgstr "Tout désélectionner"
 
 #: File mode
 msgid "File mode"
-msgstr ""
+msgstr "Mode de fichier"
 
 #: Loading Preview...
 msgid "Loading Preview..."
-msgstr ""
+msgstr "Prévisualisation en cours de chargement..."
 
 #: Magento Core API
 msgid "Magento Core API"
-msgstr ""
+msgstr "API Core de Magento"
 
 #: Magento Core API Section
 msgid "Magento Core API Section"
-msgstr ""
+msgstr "Section de l'API Core de Magento"
 
 #: Only custom theme can be deleted
 msgid "Only custom theme can be deleted"
-msgstr ""
+msgstr "Seuls les thèmes personnalisés peuvent être supprimés"
 
 #: Only default theme can be reset
 msgid "Only default theme can be reset"
-msgstr ""
+msgstr "Seul le thème par défaut peut être réinitialisé"
 
 #: Reset theme to default
 msgid "Reset theme to default"
-msgstr ""
+msgstr "Réinitialiser le thème par défaut"
 
 #: Save
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 #: Save As
 msgid "Save As"
-msgstr ""
+msgstr "Sauvegarder sous"
 
 #: Theme configurations are successfully reset.
 msgid "Theme configurations are successfully reset."
-msgstr ""
+msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr ""
+msgstr "L\\'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"
-msgstr ""
+msgstr "Étiquette du thème :"
 
 #: WS-I Compliance
 msgid "WS-I Compliance"
-msgstr ""
+msgstr "Compatibilité WS-I"
 
 #: Warning!rnThis action will remove this user from already assigned rolernAre you sure?
 msgid "Warning!rnThis action will remove this user from already assigned rolernAre you sure?"
-msgstr ""
+msgstr "Attention !\\r\\nCette action supprimera"
 
 #: Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?
 msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
+msgstr "jj"
+
+#: Can not find webservice adapter.
+msgid "Can not find webservice adapter."
+msgstr ""
+
+#: Enable WSDL Cache
+msgid "Enable WSDL Cache"
+msgstr ""
+
+#: SOAP/XML-RPC - Roles
+msgid "SOAP/XML-RPC - Roles"
+msgstr ""
+
+#: SOAP/XML-RPC - Users
+msgid "SOAP/XML-RPC - Users"
 msgstr ""
 

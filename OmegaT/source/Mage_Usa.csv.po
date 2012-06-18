@@ -848,23 +848,23 @@ msgstr "n'a été ni livré ni scanné"
 
 #: 2 Day
 msgid "2 Day"
-msgstr ""
+msgstr "2 jours"
 
 #: Adult
 msgid "Adult"
-msgstr ""
+msgstr "Adulte"
 
 #: Adult Signature Required
 msgid "Adult Signature Required"
-msgstr ""
+msgstr "La signature d'un adulte est requise"
 
 #: Customer Supplied Package
 msgid "Customer Supplied Package"
-msgstr ""
+msgstr "Emballage fourni par le client"
 
 #: Delivery Confirmation
 msgid "Delivery Confirmation"
-msgstr ""
+msgstr "Confirmation de livraison"
 
 #: Direct
 msgid "Direct"
@@ -876,23 +876,23 @@ msgstr ""
 
 #: Enabled for Checkout
 msgid "Enabled for Checkout"
-msgstr ""
+msgstr "Activé pour commander"
 
 #: Freight
 msgid "Freight"
-msgstr ""
+msgstr "Fret"
 
 #: Gift
 msgid "Gift"
-msgstr ""
+msgstr "Cadeau"
 
 #: Girth
 msgid "Girth"
-msgstr ""
+msgstr "Circonférence"
 
 #: Height
 msgid "Height"
-msgstr ""
+msgstr "Hauteur"
 
 #: Indirect
 msgid "Indirect"
@@ -900,47 +900,47 @@ msgstr ""
 
 #: International Ground
 msgid "International Ground"
-msgstr ""
+msgstr "Sol international"
 
 #: Key
 msgid "Key"
-msgstr ""
+msgstr "Clé"
 
 #: Large Express Box
 msgid "Large Express Box"
-msgstr ""
+msgstr "Boite Express large"
 
 #: Length
 msgid "Length"
-msgstr ""
+msgstr "Longueur"
 
 #: Medium Express Box
 msgid "Medium Express Box"
-msgstr ""
+msgstr "Boite Express Medium"
 
 #: Merchandise
 msgid "Merchandise"
-msgstr ""
+msgstr "Marchandises"
 
 #: Meter Number
 msgid "Meter Number"
-msgstr ""
+msgstr "Numéro du compteur"
 
 #: National Freight
 msgid "National Freight"
-msgstr ""
+msgstr "Fret National"
 
 #: No packages for request
 msgid "No packages for request"
-msgstr ""
+msgstr "Pas de paquet demandé"
 
 #: Not Required
 msgid "Not Required"
-msgstr ""
+msgstr "Non requis"
 
 #: Other
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #: PAK
 msgid "PAK"
@@ -948,43 +948,43 @@ msgstr ""
 
 #: Pallet
 msgid "Pallet"
-msgstr ""
+msgstr "Pallettes"
 
 #: Required
 msgid "Required"
-msgstr ""
+msgstr "Obligatoire"
 
 #: Required for negotiated rates; 6-character UPS.
 msgid "Required for negotiated rates; 6-character UPS."
-msgstr ""
+msgstr "Obligatoire pour les tarifs négociés; 6 caractères UPS."
 
 #: Return
 msgid "Return"
-msgstr ""
+msgstr "Retour"
 
 #: Sample
 msgid "Sample"
-msgstr ""
+msgstr "Exemple"
 
 #: Sandbox Mode
 msgid "Sandbox Mode"
-msgstr ""
+msgstr "Mode Sandbox"
 
 #: Secure Gateway URL
 msgid "Secure Gateway URL"
-msgstr ""
+msgstr "URL sécurisée de la passerelle"
 
 #: Service type does not match
 msgid "Service type does not match"
-msgstr ""
+msgstr "Le type de service ne correspond pas"
 
 #: Signature Required
 msgid "Signature Required"
-msgstr ""
+msgstr "Signature obligatoire"
 
 #: Small Express Box
 msgid "Small Express Box"
-msgstr ""
+msgstr "Boite Express petite"
 
 #: Smart Post
 msgid "Smart Post"
@@ -996,5 +996,273 @@ msgstr ""
 
 #: Width
 msgid "Width"
+msgstr "Largeur"
+
+#: \"Per Order\" allows single handling fee for entire order. \"Per Package\" allows individual  handling fee for each package.
+msgid "\"Per Order\" allows single handling fee for entire order. \"Per Package\" allows individual  handling fee for each package."
+msgstr ""
+
+#: 2 Day AM
+msgid "2 Day AM"
+msgstr ""
+
+#: Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges.
+msgid "Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges."
+msgstr ""
+
+#: Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.
+msgid "Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges."
+msgstr ""
+
+#: Break bulk economy
+msgid "Break bulk economy"
+msgstr ""
+
+#: Break bulk express
+msgid "Break bulk express"
+msgstr ""
+
+#: Cannot identify measure unit for %s
+msgid "Cannot identify measure unit for %s"
+msgstr ""
+
+#: Cannot identify weight unit for %s
+msgid "Cannot identify weight unit for %s"
+msgstr ""
+
+#: Centimeters
+msgid "Centimeters"
+msgstr ""
+
+#: Content Type
+msgid "Content Type"
+msgstr ""
+
+#: Customer services
+msgid "Customer services"
+msgstr ""
+
+#: DHL (Deprecated)
+msgid "DHL (Deprecated)"
+msgstr ""
+
+#: Depth
+msgid "Depth"
+msgstr ""
+
+#: Destination facility code is empty
+msgid "Destination facility code is empty"
+msgstr ""
+
+#: Divide Order Weight
+msgid "Divide Order Weight"
+msgstr ""
+
+#: Domestic economy select
+msgid "Domestic economy select"
+msgstr ""
+
+#: Domestic express
+msgid "Domestic express"
+msgstr ""
+
+#: Easy shop
+msgid "Easy shop"
+msgstr ""
+
+#: Economy select
+msgid "Economy select"
+msgstr ""
+
+#: Error #%s : %s
+msgid "Error #%s : %s"
+msgstr ""
+
+#: Europack
+msgid "Europack"
+msgstr ""
+
+#: Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped
+msgid "Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped"
+msgstr ""
+
+#: Express 10:30
+msgid "Express 10:30"
+msgstr ""
+
+#: Express 12:00
+msgid "Express 12:00"
+msgstr ""
+
+#: Express 9:00
+msgid "Express 9:00"
+msgstr ""
+
+#: Express easy
+msgid "Express easy"
+msgstr ""
+
+#: Express envelope
+msgid "Express envelope"
+msgstr ""
+
+#: Express worldwide
+msgid "Express worldwide"
+msgstr ""
+
+#: Freight worldwide
+msgid "Freight worldwide"
+msgstr ""
+
+#: Globalmail business
+msgid "Globalmail business"
+msgstr ""
+
+#: Height, width and length should be equal or greater than %s
+msgid "Height, width and length should be equal or greater than %s"
+msgstr ""
+
+#: Hub ID
+msgid "Hub ID"
+msgstr ""
+
+#: Inches
+msgid "Inches"
+msgstr ""
+
+#: Jetline
+msgid "Jetline"
+msgstr ""
+
+#: Jumbo box
+msgid "Jumbo box"
+msgstr ""
+
+#: Medical express
+msgid "Medical express"
+msgstr ""
+
+#: Non Documents
+msgid "Non Documents"
+msgstr ""
+
+#: Non documents
+msgid "Non documents"
+msgstr ""
+
+#: None
+msgid "None"
+msgstr ""
+
+#: Order #%s
+msgid "Order #%s"
+msgstr ""
+
+#: Origin serviceAreaCode is missing
+msgid "Origin serviceAreaCode is missing"
+msgstr ""
+
+#: Others
+msgid "Others"
+msgstr ""
+
+#: Package content is missing
+msgid "Package content is missing"
+msgstr ""
+
+#: Packages Request Type
+msgid "Packages Request Type"
+msgstr ""
+
+#: Piece Id barcode is missing
+msgid "Piece Id barcode is missing"
+msgstr ""
+
+#: Piece number information is missing
+msgid "Piece number information is missing"
+msgstr ""
+
+#: Please, specify origin country
+msgid "Please, specify origin country"
+msgstr ""
+
+#: Product content code is invalid
+msgid "Product content code is invalid"
+msgstr ""
+
+#: Product name is missing
+msgid "Product name is missing"
+msgstr ""
+
+#: Reference code is missing
+msgid "Reference code is missing"
+msgstr ""
+
+#: Routing barcode is missing
+msgid "Routing barcode is missing"
+msgstr ""
+
+#: Same day
+msgid "Same day"
+msgstr ""
+
+#: Secureline
+msgid "Secureline"
+msgstr ""
+
+#: Sender city info is missing
+msgid "Sender city info is missing"
+msgstr ""
+
+#: Sender contact name is missing
+msgid "Sender contact name is missing"
+msgstr ""
+
+#: Sender country info is missing
+msgid "Sender country info is missing"
+msgstr ""
+
+#: Specific
+msgid "Specific"
+msgstr ""
+
+#: Sprintline
+msgid "Sprintline"
+msgstr ""
+
+#: The field is applicable if the Smart Post method is selected.
+msgid "The field is applicable if the Smart Post method is selected."
+msgstr ""
+
+#: There is no items in this order
+msgid "There is no items in this order"
+msgstr ""
+
+#: Waybill barcode information is missing
+msgid "Waybill barcode information is missing"
+msgstr ""
+
+#: Weight unit is invalid
+msgid "Weight unit is invalid"
+msgstr ""
+
+#: Wrong Content Type.
+msgid "Wrong Content Type."
+msgstr ""
+
+#: Wrong Region.
+msgid "Wrong Region."
+msgstr ""
+
+#: Zero shipping charge for '%s'
+msgid "Zero shipping charge for '%s'"
+msgstr ""
+
+#: cm
+msgid "cm"
+msgstr ""
+
+#: inch
+msgid "inch"
 msgstr ""
 
