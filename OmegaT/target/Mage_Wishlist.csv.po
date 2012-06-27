@@ -48,11 +48,11 @@ msgstr "Erreur lors de la suppression de produit à la liste d'envies : %s."
 
 #: Are you sure you want to remove this product from your wishlist?
 msgid "Are you sure you want to remove this product from your wishlist?"
-msgstr "Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d\\'envies ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d'envies ?"
 
 #: Are you sure you would like to remove this item from the wishlist?
 msgid "Are you sure you would like to remove this item from the wishlist?"
-msgstr "Êtes-vous sûr(e) de vouloir enlever cet article de votre liste d\\'envies ?"
+msgstr "Êtes-vous sûr(e) de vouloir enlever cet article de votre liste d'envies ?"
 
 #: Back
 msgid "Back"
@@ -104,15 +104,15 @@ msgstr "Commentaire :"
 
 #: Customer My Account My Wishlist
 msgid "Customer My Account My Wishlist"
-msgstr "Liste d\\'envies du compte client"
+msgstr "Liste d'envies du compte client"
 
 #: Customer My Account Wishlist Sharing Form
 msgid "Customer My Account Wishlist Sharing Form"
-msgstr "Formulaire de partage de liste d\\'envies"
+msgstr "Formulaire de partage de liste d'envies"
 
 #: Customer Shared Wishlist View
 msgid "Customer Shared Wishlist View"
-msgstr "Vue de liste d\\'envies partagée"
+msgstr "Vue de liste d'envies partagée"
 
 #: Email Sender
 msgid "Email Sender"
@@ -124,7 +124,7 @@ msgstr "Gabarit du mail"
 
 #: Email address can\'t be empty.
 msgid "Email address can\'t be empty."
-msgstr "L\\'email ne peut pas être vide."
+msgstr "L'email ne peut pas être vide."
 
 #: Email addresses, separated by commas
 msgid "Email addresses, separated by commas"
@@ -172,7 +172,7 @@ msgstr "Épuisé"
 
 #: Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com.
 msgid "Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com."
-msgstr "Saisissez une liste d\\'adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com"
+msgstr "Saisissez une liste d'adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com"
 
 #: Please input a valid email address.
 msgid "Please input a valid email address."
@@ -316,7 +316,7 @@ msgstr "Impossible de spécifier l'article de la liste d'envies."
 
 #: Configure Wishlist Item
 msgid "Configure Wishlist Item"
-msgstr "Configurer l\\'article de la liste d\\'envies"
+msgstr "Configurer l'article de la liste d'envies"
 
 #: Configured Price:
 msgid "Configured Price:"

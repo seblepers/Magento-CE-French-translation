@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>%s\'s Wishlist</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Liste d\'envies de %s</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163354Z">
+        <seg>Liste d'envies de %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Group Price</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163550Z">
+        <seg>Ajouter un prix par groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Layout Update</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3190,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add attribute into attribute set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163623Z">
+        <seg>Ajouter un attribut au jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add comment to order</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3278,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add group into attribute set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163618Z">
+        <seg>Ajouter un groupe au jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3294,10 +3318,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new custom option into product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163638Z">
+        <seg>Ajouter une option personnalisable au produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new tracking number</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ajouter un numéro de suivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add new values into custom option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163652Z">
+        <seg>Ajouter des valeurs à l'options personnalisable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163657Z">
+        <seg>Ajouter une option</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,8 +4476,8 @@
       <tuv lang="EN-US">
         <seg>Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par \'_\'.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163249Z">
+        <seg>Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par '_'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +4846,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la suppression de ce taux. Identifiant de taux incorrect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while deleting this review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163711Z">
+        <seg>Erreur lors de la suppression de ce commentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5180,8 +5236,8 @@
       <tuv lang="EN-US">
         <seg>An error occurred while saving the file(s).</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Une erreur est survenue pendant l\'enregistrement des fichiers.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163256Z">
+        <seg>Une erreur est survenue pendant l'enregistrement des fichiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5310,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la sauvegarde de ce taux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while saving this review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163723Z">
+        <seg>Erreur lors de la sauvegarde de ce commentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6252,16 +6316,16 @@
       <tuv lang="EN-US">
         <seg>Are you sure you want to remove this product from your wishlist?</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d\'envies ?</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163424Z">
+        <seg>Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d'envies ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Are you sure you want to send Creditmemo email to customer?</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Êtes-vous sûr(e) de vouloir envoyer l\'avoir par email au client ?   </seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163359Z">
+        <seg>Êtes-vous sûr(e) de vouloir envoyer l'avoir par email au client ?   </seg>
       </tuv>
     </tu>
     <tu>
@@ -6356,8 +6420,8 @@
       <tuv lang="EN-US">
         <seg>Are you sure you would like to remove this item from the wishlist?</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Êtes-vous sûr(e) de vouloir enlever cet article de votre liste d\'envies ?</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163428Z">
+        <seg>Êtes-vous sûr(e) de vouloir enlever cet article de votre liste d'envies ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,6 +6806,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Jeu d'attributs et type d'article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute Sets</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163728Z">
+        <seg>Jeux d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute add</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163746Z">
+        <seg>Ajout d'attribut</seg>
       </tuv>
     </tu>
     <tu>
@@ -8276,8 +8356,8 @@
       <tuv lang="EN-US">
         <seg>Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Un bundle avec un prix dynamique ne peut pas inclure d\'options définies. Les options ne seront pas sauvegardées.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T162828Z">
+        <seg>Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8580,8 +8660,8 @@
       <tuv lang="EN-US">
         <seg>CMS Home Page</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Page d\'accueil CMS</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163209Z">
+        <seg>Page d'accueil CMS</seg>
       </tuv>
     </tu>
     <tu>
@@ -8780,16 +8860,16 @@
       <tuv lang="EN-US">
         <seg>Cache storage may contain additional data. Are you sure that you want flush it?</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163219Z">
+        <seg>Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cache storage may contain another data. Are you sure that you want flush it?</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163214Z">
+        <seg>Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9116,8 +9196,8 @@
       <tuv lang="EN-US">
         <seg>Can\'t create image.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Impossible de créer l\'image</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T162938Z">
+        <seg>Impossible de créer l'image</seg>
       </tuv>
     </tu>
     <tu>
@@ -11308,16 +11388,16 @@
       <tuv lang="EN-US">
         <seg>Click &lt;a href="%s" onclick="this.target='_blank'"&gt;here to print&lt;/a&gt; a copy of your order confirmation.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Cliquez &lt;a href="%s" onclick="this.target=\'_blank\'"&gt;ici pour imprimer&lt;/a&gt; une copie de votre confirmation de commande.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163158Z">
+        <seg>Cliquez &lt;a href="%s" onclick="this.target='_blank'"&gt;ici pour imprimer&lt;/a&gt; une copie de votre confirmation de commande.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Click &lt;a href="%s" onclick="this.target=\'_blank\'"&gt;here to print&lt;/a&gt; a copy of your order confirmation.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Cliquez &lt;a href="%s" onclick="this.target=\'_blank\'"&gt;ici pour imprimer&lt;/a&gt; une copie de votre confirmation de commande.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163100Z">
+        <seg>Cliquez &lt;a href="%s" onclick="this.target='_blank'"&gt;ici pour imprimer&lt;/a&gt; une copie de votre confirmation de commande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11876,8 +11956,8 @@
       <tuv lang="EN-US">
         <seg>Configure Cart Item</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Configurer l\'article</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163203Z">
+        <seg>Configurer l'article</seg>
       </tuv>
     </tu>
     <tu>
@@ -11892,8 +11972,8 @@
       <tuv lang="EN-US">
         <seg>Configure Wishlist Item</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T163430Z">
-        <seg>Configurer l\'article de la liste d\'envies</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163504Z">
+        <seg>Configurer l'article de la liste d'envies</seg>
       </tuv>
     </tu>
     <tu>
@@ -13740,8 +13820,8 @@
       <tuv lang="EN-US">
         <seg>Customer Account Registration Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire d\'enregistrement de compte client</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163224Z">
+        <seg>Formulaire d'enregistrement de compte client</seg>
       </tuv>
     </tu>
     <tu>
@@ -13828,8 +13908,8 @@
       <tuv lang="EN-US">
         <seg>Customer Forgot Password Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire d\'oubli de mot de passe client</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163229Z">
+        <seg>Formulaire d'oubli de mot de passe client</seg>
       </tuv>
     </tu>
     <tu>
@@ -13932,16 +14012,16 @@
       <tuv lang="EN-US">
         <seg>Customer My Account Address Book</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Carnet d\'adresses</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163234Z">
+        <seg>Carnet d'adresses</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Customer My Account Address Edit Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire de modification d\'adresse</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163240Z">
+        <seg>Formulaire de modification d'adresse</seg>
       </tuv>
     </tu>
     <tu>
@@ -13972,8 +14052,8 @@
       <tuv lang="EN-US">
         <seg>Customer My Account My Wishlist</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Liste d\'envies du compte client</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163436Z">
+        <seg>Liste d'envies du compte client</seg>
       </tuv>
     </tu>
     <tu>
@@ -14052,8 +14132,8 @@
       <tuv lang="EN-US">
         <seg>Customer My Account Wishlist Sharing Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire de partage de liste d\'envies</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163452Z">
+        <seg>Formulaire de partage de liste d'envies</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,8 +14196,8 @@
       <tuv lang="EN-US">
         <seg>Customer Shared Wishlist View</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Vue de liste d\'envies partagée</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163440Z">
+        <seg>Vue de liste d'envies partagée</seg>
       </tuv>
     </tu>
     <tu>
@@ -18036,8 +18116,8 @@
       <tuv lang="EN-US">
         <seg>Email address can\'t be empty.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>L\'email ne peut pas être vide.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163445Z">
+        <seg>L'email ne peut pas être vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28396,8 +28476,8 @@
       <tuv lang="EN-US">
         <seg>Maximum Image Size</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Taille d\'image maximum</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163004Z">
+        <seg>Taille d'image maximum</seg>
       </tuv>
     </tu>
     <tu>
@@ -29508,40 +29588,40 @@
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Billing Address Creation</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Création d\'adresse de facturation pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163106Z">
+        <seg>Création d'adresse de facturation pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Billing Address Edit Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire de modification d\'adresse de facturation pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163112Z">
+        <seg>Formulaire de modification d'adresse de facturation pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Billing Address Selection</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Sélection d\'adresse de facturation pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163117Z">
+        <seg>Sélection d'adresse de facturation pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Billing Information Step</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Étape d\'informations de facturation pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163124Z">
+        <seg>Étape d'informations de facturation pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Customer Address Edit Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire de modification d\'adresse client pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163128Z">
+        <seg>Formulaire de modification d'adresse client pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
@@ -29556,32 +29636,32 @@
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Shipping Address Creation</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Création d\'adresse de livraison pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163134Z">
+        <seg>Création d'adresse de livraison pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Shipping Address Edit Form</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Formulaire de modification d\'adresse de livraison pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163138Z">
+        <seg>Formulaire de modification d'adresse de livraison pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Shipping Address Selection</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Sélection d\'adresse de livraison pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163140Z">
+        <seg>Sélection d'adresse de livraison pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Multishipping Checkout Shipping Information Step</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Étape d\'informations de livraison pour la commande à livraisons multiples</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163143Z">
+        <seg>Étape d'informations de livraison pour la commande à livraisons multiples</seg>
       </tuv>
     </tu>
     <tu>
@@ -35629,8 +35709,8 @@
       <tuv lang="EN-US">
         <seg>Please add rows to option.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Veuillez ajouter des lignes à l\'option</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163010Z">
+        <seg>Veuillez ajouter des lignes à l'option</seg>
       </tuv>
     </tu>
     <tu>
@@ -36053,8 +36133,8 @@
       <tuv lang="EN-US">
         <seg>Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Saisissez une liste d\'adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163457Z">
+        <seg>Saisissez une liste d'adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -40989,8 +41069,8 @@
       <tuv lang="EN-US">
         <seg>Remove Layout Update</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Supprimer la mise à jour d\'agencement</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163418Z">
+        <seg>Supprimer la mise à jour d'agencement</seg>
       </tuv>
     </tu>
     <tu>
@@ -41389,8 +41469,8 @@
       <tuv lang="EN-US">
         <seg>Response from server isn\'t valid.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>La réponse du serveur n\'est pas valide.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163323Z">
+        <seg>La réponse du serveur n'est pas valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43805,8 +43885,8 @@
       <tuv lang="EN-US">
         <seg>Select type of option</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Choisissez un type d\'option</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163015Z">
+        <seg>Choisissez un type d'option</seg>
       </tuv>
     </tu>
     <tu>
@@ -46189,16 +46269,16 @@
       <tuv lang="EN-US">
         <seg>Some of the products below do not have all the required options. Please edit them and configure all the required options.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Certains articles ci-dessous n\'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163045Z">
+        <seg>Certains articles ci-dessous n'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Some of the products below do not have all the required options. Please remove them and add again with all the required options.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Certains articles ci-dessous n\'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163051Z">
+        <seg>Certains articles ci-dessous n'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49157,24 +49237,24 @@
       <tuv lang="EN-US">
         <seg>The attribute code '%s' is reserved by system. Please try another attribute code</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T180627Z">
-        <seg>Le code d\'attribut \'%s\' est réservé par le système. Choisissez-en un autre.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163348Z">
+        <seg>Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The attribute code '%s' is reserved by system. Please try another attribute code.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le code d\'attribut \'%s\' est réservé par le système. Choisissez-en un autre.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163338Z">
+        <seg>Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The attribute code \'%s\' is reserved by system. Please try another attribute code.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le code d\'attribut \'%s\' est réservé par le système. Choisissez-en un autre.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163330Z">
+        <seg>Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51325,8 +51405,8 @@
       <tuv lang="EN-US">
         <seg>Theme label can't be empty</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T125224Z">
-        <seg>L\'étiquette du thème ne peut pas être vide.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T162920Z">
+        <seg>L'étiquette du thème ne peut pas être vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52182,8 +52262,8 @@ Please, move system attributes to another group and try again.</seg>
       <tuv lang="EN-US">
         <seg>This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Cette commande contient des articles %s et ne peut donc pas être modifiée via l\'interface d\'administration. Si vous souhaitez l\'éditer, les articles %s seront supprimés, la commande sera annulée et une nouvelle commande sera créée.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163413Z">
+        <seg>Cette commande contient des articles %s et ne peut donc pas être modifiée via l'interface d'administration. Si vous souhaitez l'éditer, les articles %s seront supprimés, la commande sera annulée et une nouvelle commande sera créée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57267,16 +57347,16 @@ Are you sure?</seg>
       <tuv lang="EN-US">
         <seg>We appreciate our merchants' feedback, please &lt;a href="#" onclick="surveyAction('yes'); return false;"&gt;take our survey&lt;/a&gt; to provide insight on the features you would like included in Magento. &lt;a href="#" onclick="surveyAction('no'); return false;"&gt;Remove this notification&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez &lt;a href="#" onclick="surveyAction(\'yes\'); return false;"&gt;à notre sondage&lt;/a&gt; pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. &lt;a href="#" onclick="surveyAction(\'no\'); return false;"&gt;Supprimer cette notification&lt;/a&gt;</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T162906Z">
+        <seg>Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez &lt;a href="#" onclick="surveyAction('yes'); return false;"&gt;à notre sondage&lt;/a&gt; pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. &lt;a href="#" onclick="surveyAction('no'); return false;"&gt;Supprimer cette notification&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>We appreciate our merchants\' feedback, please &lt;a href="#" onclick="surveyAction(\'yes\'); return false;"&gt;take our survey&lt;/a&gt; to provide insight on the features you would like included in Magento. &lt;a href="#" onclick="surveyAction(\'no\'); return false;"&gt;Remove this notification&lt;/a&gt;</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez &lt;a href="#" onclick="surveyAction(\'yes\'); return false;"&gt;à notre sondage&lt;/a&gt; pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. &lt;a href="#" onclick="surveyAction(\'no\'); return false;"&gt;Supprimer cette notification&lt;/a&gt;</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T162958Z">
+        <seg>Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez &lt;a href="#" onclick="surveyAction('yes'); return false;"&gt;à notre sondage&lt;/a&gt; pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. &lt;a href="#" onclick="surveyAction('no'); return false;"&gt;Supprimer cette notification&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60115,8 +60195,8 @@ Are you sure?</seg>
       <tuv lang="EN-US">
         <seg>leave blank if its not an image</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Laisser vide si ce n\'est pas une image</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T163037Z">
+        <seg>Laisser vide si ce n'est pas une image</seg>
       </tuv>
     </tu>
     <tu>

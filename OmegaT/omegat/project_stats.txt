@@ -1,11 +1,11 @@
-27/06/12 18:16
+27/06/12 18:37
 Données du projet
 
                            	Segments	 Mots	Caractères (sans espaces)	Caractères (avec espaces)	
 Total :                    	   11196	48039	                   256383	                   292581	
-Restants :                 	     574	 3262	                    17251	                    19901	
+Restants :                 	     564	 3217	                    17019	                    19634	
 Segments uniques :         	    8127	39319	                   210253	                   240923	
-Segments uniques restants :	     564	 3233	                    17112	                    19743	
+Segments uniques restants :	     554	 3188	                    16880	                    19476	
 
 
 Statistiques par fichiers :
@@ -22,7 +22,7 @@ Mage_Authorizenet.csv.po     	            40	                0	              31	
 Mage_Backup.csv.po           	            52	                0	              43	                        0	       286	            0	         265	                    0	                           1506	                                 0	                             1393	                                         0	                           1738	                                 0	                             1613	                                         0	
 Mage_Bundle.csv.po           	            57	                0	              37	                        0	       151	            0	         119	                    0	                            794	                                 0	                              622	                                         0	                            886	                                 0	                              702	                                         0	
 Mage_Captcha.csv.po          	            22	                0	              19	                        0	       135	            0	         119	                    0	                            713	                                 0	                              617	                                         0	                            821	                                 0	                              714	                                         0	
-Mage_Catalog.csv.po          	           880	               58	             737	                       58	      3905	          309	        3566	                  309	                          20763	                              1644	                            19002	                                      1644	                          23714	                              1894	                            21761	                                      1894	
+Mage_Catalog.csv.po          	           880	               48	             737	                       48	      3905	          264	        3566	                  264	                          20763	                              1412	                            19002	                                      1412	                          23714	                              1627	                            21761	                                      1627	
 Mage_CatalogInventory.csv.po 	            59	                0	              45	                        0	       328	            0	         279	                    0	                           1630	                                 0	                             1374	                                         0	                           1897	                                 0	                             1606	                                         0	
 Mage_CatalogRule.csv.po      	            69	                1	              45	                        1	       237	            4	         201	                    4	                           1197	                                27	                              962	                                        27	                           1365	                                30	                             1118	                                        30	
 Mage_CatalogSearch.csv.po    	            50	                2	              40	                        2	       220	           26	         206	                   26	                           1134	                               106	                             1078	                                       106	                           1297	                               128	                             1237	                                       128	

@@ -2399,7 +2399,7 @@ msgstr "Le thème a été éffacé."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr "L\\'étiquette du thème ne peut pas être vide."
+msgstr "L'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"

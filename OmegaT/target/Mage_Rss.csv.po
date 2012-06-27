@@ -16,7 +16,7 @@ msgstr "%s a atteint la quantité de %s."
 
 #: %s\'s Wishlist
 msgid "%s\'s Wishlist"
-msgstr "Liste d\\'envies de %s"
+msgstr "Liste d'envies de %s"
 
 #: Cannot retrieve the wishlist
 msgid "Cannot retrieve the wishlist"

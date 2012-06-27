@@ -236,7 +236,7 @@ msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: Are you sure you want to send Creditmemo email to customer?
 msgid "Are you sure you want to send Creditmemo email to customer?"
-msgstr "Êtes-vous sûr(e) de vouloir envoyer l\\'avoir par email au client ?   "
+msgstr "Êtes-vous sûr(e) de vouloir envoyer l'avoir par email au client ?   "
 
 #: Are you sure you want to send Invoice email to customer?
 msgid "Are you sure you want to send Invoice email to customer?"
@@ -2392,7 +2392,7 @@ msgstr "Réf."
 
 #: Some of the products below do not have all the required options. Please remove them and add again with all the required options.
 msgid "Some of the products below do not have all the required options. Please remove them and add again with all the required options."
-msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires."
+msgstr "Certains articles ci-dessous n'ont pas toutes les options obligatoires. Enlevez-les puis ajoutez-les de nouveau en renseignant les options obligatoires."
 
 #: Sorry, no quotes are available for this order at this time.
 msgid "Sorry, no quotes are available for this order at this time."
@@ -2624,7 +2624,7 @@ msgstr "Cette opération nécessite l'existance d'une transaction."
 
 #: This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.
 msgid "This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed."
-msgstr "Cette commande contient des articles %s et ne peut donc pas être modifiée via l\\'interface d\\'administration. Si vous souhaitez l\\'éditer, les articles %s seront supprimés, la commande sera annulée et une nouvelle commande sera créée."
+msgstr "Cette commande contient des articles %s et ne peut donc pas être modifiée via l'interface d'administration. Si vous souhaitez l'éditer, les articles %s seront supprimés, la commande sera annulée et une nouvelle commande sera créée."
 
 #: This order no longer exists.
 msgid "This order no longer exists."
@@ -3140,7 +3140,7 @@ msgstr "Envoyer l'email de commande"
 
 #: Some of the products below do not have all the required options. Please edit them and configure all the required options.
 msgid "Some of the products below do not have all the required options. Please edit them and configure all the required options."
-msgstr "Certains articles ci-dessous n\\'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires."
+msgstr "Certains articles ci-dessous n'ont pas toutes les options obligatoires. Éditez-les et configurez-les en renseignant les options obligatoires."
 
 #: State Code [State Title]
 msgid "State Code [State Title]"

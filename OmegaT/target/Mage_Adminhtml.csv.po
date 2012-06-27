@@ -640,7 +640,7 @@ msgstr "Articles packagés"
 
 #: Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.
 msgid "Bundle with dynamic pricing cannot include custom defined options. Options will not be saved."
-msgstr "Un bundle avec un prix dynamique ne peut pas inclure d\\'options définies. Les options ne seront pas sauvegardées."
+msgstr "Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées."
 
 #: CMS
 msgid "CMS"
@@ -4236,7 +4236,7 @@ msgstr "Fichier de filigrane pour %s"
 
 #: We appreciate our merchants\' feedback, please <a href=\"#\" onclick=\"surveyAction(\'yes\'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction(\'no\'); return false;\">Remove this notification</a>
 msgid "We appreciate our merchants\' feedback, please <a href=\"#\" onclick=\"surveyAction(\'yes\'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction(\'no\'); return false;\">Remove this notification</a>"
-msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction(\\'yes\\'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction(\\'no\\'); return false;\">Supprimer cette notification</a>"
+msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
 
 #: We detected that your JavaScript seem to be disabled.
 msgid "We detected that your JavaScript seem to be disabled."
@@ -5028,7 +5028,7 @@ msgstr "Attention : Tous les messagez relatifs à AirMail seront effacés ! Voul
 
 #: We appreciate our merchants' feedback, please <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Remove this notification</a>
 msgid "We appreciate our merchants' feedback, please <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">take our survey</a> to provide insight on the features you would like included in Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Remove this notification</a>"
-msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction(\\'yes\\'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction(\\'no\\'); return false;\">Supprimer cette notification</a>"
+msgstr "Nous apprécions les retours de nos marchands, nous aimerions que vous répondiez <a href=\"#\" onclick=\"surveyAction('yes'); return false;\">à notre sondage</a> pour indiquer les fonctionnalités que vous aimeriez voir intégrées dans Magento. <a href=\"#\" onclick=\"surveyAction('no'); return false;\">Supprimer cette notification</a>"
 
 #: We're in our typing table, coding away more features for Magento. Thank you for your patience.
 msgid "We're in our typing table, coding away more features for Magento. Thank you for your patience."
@@ -5176,7 +5176,7 @@ msgstr "Les configurations du thème ont bien été réinitialisées."
 
 #: Theme label can't be empty
 msgid "Theme label can't be empty"
-msgstr "L\\'étiquette du thème ne peut pas être vide."
+msgstr "L'étiquette du thème ne peut pas être vide."
 
 #: Theme label:
 msgid "Theme label:"

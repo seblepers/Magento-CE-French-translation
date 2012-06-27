@@ -268,7 +268,7 @@ msgstr "Champ texte"
 
 #: The attribute code \'%s\' is reserved by system. Please try another attribute code.
 msgid "The attribute code \'%s\' is reserved by system. Please try another attribute code."
-msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: The value of attribute \"%s\" must be unique.
 msgid "The value of attribute \"%s\" must be unique."
@@ -332,7 +332,7 @@ msgstr "Erreur lors de la sauvegarde d'un enregistrement. Erreur :"
 
 #: The attribute code '%s' is reserved by system. Please try another attribute code.
 msgid "The attribute code '%s' is reserved by system. Please try another attribute code."
-msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: \"%s\" contains not only digit characters.
 msgid "\"%s\" contains not only digit characters."
@@ -580,7 +580,7 @@ msgstr "Le modèle source \"%s\" n'a pas été trouvé pour l'attribut \"%s\""
 
 #: The attribute code '%s' is reserved by system. Please try another attribute code
 msgid "The attribute code '%s' is reserved by system. Please try another attribute code"
-msgstr "Le code d\\'attribut \\'%s\\' est réservé par le système. Choisissez-en un autre."
+msgstr "Le code d'attribut '%s' est réservé par le système. Choisissez-en un autre."
 
 #: The value of attribute \"%s\" must be unique
 msgid "The value of attribute \"%s\" must be unique"

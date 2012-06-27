@@ -144,7 +144,7 @@ msgstr "Produits"
 
 #: Remove Layout Update
 msgid "Remove Layout Update"
-msgstr "Supprimer la mise à jour d\\'agencement"
+msgstr "Supprimer la mise à jour d'agencement"
 
 #: Save and Continue Edit
 msgid "Save and Continue Edit"

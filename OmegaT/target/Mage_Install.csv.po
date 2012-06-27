@@ -364,7 +364,7 @@ msgstr "Champs obligatoires"
 
 #: Response from server isn\'t valid.
 msgid "Response from server isn\'t valid."
-msgstr "La réponse du serveur n\\'est pas valide."
+msgstr "La réponse du serveur n'est pas valide."
 
 #: Run admin interface with SSL
 msgid "Run admin interface with SSL"

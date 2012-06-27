@@ -208,7 +208,7 @@ msgstr "Ville"
 
 #: Click <a href=\"%s\" onclick=\"this.target=\'_blank\'\">here to print</a> a copy of your order confirmation.
 msgid "Click <a href=\"%s\" onclick=\"this.target=\'_blank\'\">here to print</a> a copy of your order confirmation."
-msgstr "Cliquez <a href=\"%s\" onclick=\"this.target=\\'_blank\\'\">ici pour imprimer</a> une copie de votre confirmation de commande."
+msgstr "Cliquez <a href=\"%s\" onclick=\"this.target='_blank'\">ici pour imprimer</a> une copie de votre confirmation de commande."
 
 #: Click <a href=\"%s\">here</a> to continue shopping.
 msgid "Click <a href=\"%s\">here</a> to continue shopping."
@@ -504,23 +504,23 @@ msgstr "Formulaire de commande à livraisons multiples"
 
 #: Multishipping Checkout Billing Address Creation
 msgid "Multishipping Checkout Billing Address Creation"
-msgstr "Création d\\'adresse de facturation pour la commande à livraisons multiples"
+msgstr "Création d'adresse de facturation pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Billing Address Edit Form
 msgid "Multishipping Checkout Billing Address Edit Form"
-msgstr "Formulaire de modification d\\'adresse de facturation pour la commande à livraisons multiples"
+msgstr "Formulaire de modification d'adresse de facturation pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Billing Address Selection
 msgid "Multishipping Checkout Billing Address Selection"
-msgstr "Sélection d\\'adresse de facturation pour la commande à livraisons multiples"
+msgstr "Sélection d'adresse de facturation pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Billing Information Step
 msgid "Multishipping Checkout Billing Information Step"
-msgstr "Étape d\\'informations de facturation pour la commande à livraisons multiples"
+msgstr "Étape d'informations de facturation pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Customer Address Edit Form
 msgid "Multishipping Checkout Customer Address Edit Form"
-msgstr "Formulaire de modification d\\'adresse client pour la commande à livraisons multiples"
+msgstr "Formulaire de modification d'adresse client pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Overview
 msgid "Multishipping Checkout Overview"
@@ -528,19 +528,19 @@ msgstr "Aperçu de commande à livraisons multiples"
 
 #: Multishipping Checkout Shipping Address Creation
 msgid "Multishipping Checkout Shipping Address Creation"
-msgstr "Création d\\'adresse de livraison pour la commande à livraisons multiples"
+msgstr "Création d'adresse de livraison pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Shipping Address Edit Form
 msgid "Multishipping Checkout Shipping Address Edit Form"
-msgstr "Formulaire de modification d\\'adresse de livraison pour la commande à livraisons multiples"
+msgstr "Formulaire de modification d'adresse de livraison pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Shipping Address Selection
 msgid "Multishipping Checkout Shipping Address Selection"
-msgstr "Sélection d\\'adresse de livraison pour la commande à livraisons multiples"
+msgstr "Sélection d'adresse de livraison pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Shipping Information Step
 msgid "Multishipping Checkout Shipping Information Step"
-msgstr "Étape d\\'informations de livraison pour la commande à livraisons multiples"
+msgstr "Étape d'informations de livraison pour la commande à livraisons multiples"
 
 #: Multishipping Checkout Success
 msgid "Multishipping Checkout Success"
@@ -1088,11 +1088,11 @@ msgstr "API de produit du panier"
 
 #: Click <a href=\"%s\" onclick=\"this.target='_blank'\">here to print</a> a copy of your order confirmation.
 msgid "Click <a href=\"%s\" onclick=\"this.target='_blank'\">here to print</a> a copy of your order confirmation."
-msgstr "Cliquez <a href=\"%s\" onclick=\"this.target=\\'_blank\\'\">ici pour imprimer</a> une copie de votre confirmation de commande."
+msgstr "Cliquez <a href=\"%s\" onclick=\"this.target='_blank'\">ici pour imprimer</a> une copie de votre confirmation de commande."
 
 #: Configure Cart Item
 msgid "Configure Cart Item"
-msgstr "Configurer l\\'article"
+msgstr "Configurer l'article"
 
 #: Create an order from shopping cart
 msgid "Create an order from shopping cart"

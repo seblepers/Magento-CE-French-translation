@@ -388,7 +388,7 @@ msgstr "Réussite de la déconnexion du compte client"
 
 #: Customer Account Registration Form
 msgid "Customer Account Registration Form"
-msgstr "Formulaire d\\'enregistrement de compte client"
+msgstr "Formulaire d'enregistrement de compte client"
 
 #: Customer Addresses
 msgid "Customer Addresses"
@@ -404,7 +404,7 @@ msgstr "Configuration client"
 
 #: Customer Forgot Password Form
 msgid "Customer Forgot Password Form"
-msgstr "Formulaire d\\'oubli de mot de passe client"
+msgstr "Formulaire d'oubli de mot de passe client"
 
 #: Customer Group
 msgid "Customer Group"
@@ -428,11 +428,11 @@ msgstr "Client - Mon Compte - (toutes les pages)"
 
 #: Customer My Account Address Book
 msgid "Customer My Account Address Book"
-msgstr "Carnet d\\'adresses"
+msgstr "Carnet d'adresses"
 
 #: Customer My Account Address Edit Form
 msgid "Customer My Account Address Edit Form"
-msgstr "Formulaire de modification d\\'adresse"
+msgstr "Formulaire de modification d'adresse"
 
 #: Customer My Account Dashboard
 msgid "Customer My Account Dashboard"

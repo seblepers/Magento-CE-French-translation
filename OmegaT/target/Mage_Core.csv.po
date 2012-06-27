@@ -152,7 +152,7 @@ msgstr "Gestion du cache"
 
 #: Cache storage may contain another data. Are you sure that you want flush it?
 msgid "Cache storage may contain another data. Are you sure that you want flush it?"
-msgstr "Le stockage de cache peut contenir d\\'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
+msgstr "Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
 
 #: Can't retrieve request object
 msgid "Can't retrieve request object"
@@ -1400,7 +1400,7 @@ msgstr "<strong style=\"color:red\">Attention !</strong> Lors de l'utilisation d
 
 #: Cache storage may contain additional data. Are you sure that you want flush it?
 msgid "Cache storage may contain additional data. Are you sure that you want flush it?"
-msgstr "Le stockage de cache peut contenir d\\'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
+msgstr "Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
 
 #: File %s does not exist
 msgid "File %s does not exist"

@@ -89,7 +89,7 @@
 "Provide a complete base URL for SSL connection. For example: %s","Fournissez une URL de base complète pour la connexion SSL. Par exemple : %s"
 "Report All Bugs","Signaler un dysfonctionnement"
 "Required Fields","Champs obligatoires"
-"Response from server isn\'t valid.","La réponse du serveur n\'est pas valide."
+"Response from server isn\'t valid.","La réponse du serveur n'est pas valide."
 "Run admin interface with SSL","Lancer l'interface d'administration en SSL"
 "Run this in your shell from Magento root folder:","Lancer ceci dans votre shell depuis votre répertoire racine Magento :"
 "Save Session Data In","Enregistrer les données de session dans"
