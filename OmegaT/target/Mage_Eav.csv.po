@@ -618,3 +618,7 @@ msgstr "Prénom"
 msgid "Last Name"
 msgstr "Nom"
 
+#: For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols
+msgid "For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols"
+msgstr ""
+

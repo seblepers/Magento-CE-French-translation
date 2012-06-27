@@ -174,3 +174,27 @@ msgstr "Mise à jour à la sauvegarde"
 msgid "Manual Update"
 msgstr "Mise à jour manuelle"
 
+#: Delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: No
+msgid "No"
+msgstr "Non"
+
+#: Revoke
+msgid "Revoke"
+msgstr ""
+
+#: Update Required
+msgid "Update Required"
+msgstr ""
+
+#: Updated At
+msgid "Updated At"
+msgstr "Mise à jour à"
+
+#: Yes
+msgid "Yes"
+msgstr "Oui"
+

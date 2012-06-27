@@ -2468,7 +2468,7 @@ msgstr "Cet attribut ne peut pas être mis à jour."
 
 #: This attribute is used in configurable products. You cannot remove it from the attribute set.
 msgid "This attribute is used in configurable products. You cannot remove it from the attribute set."
-msgstr "Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d\\'attributs."
+msgstr "Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs."
 
 #: This attribute no longer exists
 msgid "This attribute no longer exists"
@@ -3265,4 +3265,256 @@ msgstr "Général"
 #: Gift Options
 msgid "Gift Options"
 msgstr "Options cadeau"
+
+#: %s and above
+msgid "%s and above"
+msgstr "%s et plus"
+
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Add Group Price
+msgid "Add Group Price"
+msgstr ""
+
+#: Add attribute into attribute set
+msgid "Add attribute into attribute set"
+msgstr ""
+
+#: Add group into attribute set
+msgid "Add group into attribute set"
+msgstr ""
+
+#: Add new custom option into product
+msgid "Add new custom option into product"
+msgstr ""
+
+#: Add new values into custom option
+msgid "Add new values into custom option"
+msgstr ""
+
+#: Add option
+msgid "Add option"
+msgstr ""
+
+#: An error occurred while deleting this review.
+msgid "An error occurred while deleting this review."
+msgstr ""
+
+#: An error occurred while saving this review.
+msgid "An error occurred while saving this review."
+msgstr ""
+
+#: Attribute Sets
+msgid "Attribute Sets"
+msgstr ""
+
+#: Attribute add
+msgid "Attribute add"
+msgstr ""
+
+#: Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
+msgid "Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+msgstr ""
+
+#: Attribute remove
+msgid "Attribute remove"
+msgstr ""
+
+#: Can be Divided into Multiple Boxes for Shipping
+msgid "Can be Divided into Multiple Boxes for Shipping"
+msgstr ""
+
+#: Catalog product custom option values API
+msgid "Catalog product custom option values API"
+msgstr ""
+
+#: Catalog product custom options API
+msgid "Catalog product custom options API"
+msgstr ""
+
+#: Clear Price
+msgid "Clear Price"
+msgstr ""
+
+#: Create Permanent Redirect for URLs if URL Key Changed
+msgid "Create Permanent Redirect for URLs if URL Key Changed"
+msgstr ""
+
+#: Create attribute set based on another set
+msgid "Create attribute set based on another set"
+msgstr ""
+
+#: Create new attribute
+msgid "Create new attribute"
+msgstr ""
+
+#: Custom options
+msgid "Custom options"
+msgstr ""
+
+#: Delete Group Price
+msgid "Delete Group Price"
+msgstr ""
+
+#: Delete attribute
+msgid "Delete attribute"
+msgstr ""
+
+#: Display Price Interval as One Price
+msgid "Display Price Interval as One Price"
+msgstr ""
+
+#: Display Product Count
+msgid "Display Product Count"
+msgstr ""
+
+#: Duplicate website group price customer group.
+msgid "Duplicate website group price customer group."
+msgstr ""
+
+#: For the last time placed.
+msgid "For the last time placed."
+msgstr ""
+
+#: Get full information about attribute with list of options
+msgid "Get full information about attribute with list of options"
+msgstr ""
+
+#: Get full information about custom option in product
+msgid "Get full information about custom option in product"
+msgstr ""
+
+#: Get list of available custom option types
+msgid "Get list of available custom option types"
+msgstr ""
+
+#: Get list of non-default attributes by product type and attributes set
+msgid "Get list of non-default attributes by product type and attributes set"
+msgstr ""
+
+#: Get list of possible attribute types
+msgid "Get list of possible attribute types"
+msgstr ""
+
+#: Group add
+msgid "Group add"
+msgstr ""
+
+#: Group remove
+msgid "Group remove"
+msgstr ""
+
+#: Info
+msgid "Info"
+msgstr ""
+
+#: Interval Division Limit
+msgid "Interval Division Limit"
+msgstr ""
+
+#: List of types
+msgid "List of types"
+msgstr ""
+
+#: Maximum Number of Price Intervals
+msgid "Maximum Number of Price Intervals"
+msgstr ""
+
+#: Maximum number of price intervals is 100
+msgid "Maximum number of price intervals is 100"
+msgstr ""
+
+#: Number of results
+msgid "Number of results"
+msgstr ""
+
+#: Number of results (For the last time placed)
+msgid "Number of results (For the last time placed)"
+msgstr ""
+
+#: Option values
+msgid "Option values"
+msgstr ""
+
+#: Options
+msgid "Options"
+msgstr "Options"
+
+#: Please specify the number of products, that will not be divided into subintervals.
+msgid "Please specify the number of products, that will not be divided into subintervals."
+msgstr ""
+
+#: Qty for Item's Status to Become Out of Stock
+msgid "Qty for Item's Status to Become Out of Stock"
+msgstr "Qté pour que le statut du produit passe à épuisé"
+
+#: Remove attribute from attribute set
+msgid "Remove attribute from attribute set"
+msgstr ""
+
+#: Remove attribute set
+msgid "Remove attribute set"
+msgstr ""
+
+#: Remove custom option
+msgid "Remove custom option"
+msgstr ""
+
+#: Remove group from attribute set
+msgid "Remove group from attribute set"
+msgstr ""
+
+#: Remove option
+msgid "Remove option"
+msgstr ""
+
+#: Remove value from custom option
+msgid "Remove value from custom option"
+msgstr ""
+
+#: Rename existing group
+msgid "Rename existing group"
+msgstr ""
+
+#: Rename group
+msgid "Rename group"
+msgstr ""
+
+#: Retrieve list of option values
+msgid "Retrieve list of option values"
+msgstr ""
+
+#: Retrieve list of product custom options
+msgid "Retrieve list of product custom options"
+msgstr ""
+
+#: Retrieve option value info
+msgid "Retrieve option value info"
+msgstr ""
+
+#: This setting will be applied when all prices in the specific price interval are equal.
+msgid "This setting will be applied when all prices in the specific price interval are equal."
+msgstr ""
+
+#: Total of %d record(s) were updated
+msgid "Total of %d record(s) were updated"
+msgstr "%d enregistrement(s) ont été mis à jour"
+
+#: Update attribute
+msgid "Update attribute"
+msgstr ""
+
+#: Update custom option of product
+msgid "Update custom option of product"
+msgstr ""
+
+#: Update value of custom option
+msgid "Update value of custom option"
+msgstr ""
+
+#: Will make search for the query above return results for this search.
+msgid "Will make search for the query above return results for this search."
+msgstr ""
 

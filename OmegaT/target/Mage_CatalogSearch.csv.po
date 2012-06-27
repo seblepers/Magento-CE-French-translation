@@ -190,3 +190,11 @@ msgstr "jusqu'à %s"
 msgid "Specified date is invalid."
 msgstr "La date spécifiée est invalide."
 
+#: Maximum Search query length is %s. Your query was cut.
+msgid "Maximum Search query length is %s. Your query was cut."
+msgstr ""
+
+#: Maximum words count is %1$s. In your search query was cut next part: %2$s.
+msgid "Maximum words count is %1$s. In your search query was cut next part: %2$s."
+msgstr ""
+

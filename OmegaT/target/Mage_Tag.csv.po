@@ -394,3 +394,47 @@ msgstr "Appliquer la taxe au TFP"
 msgid "Include FPT In Subtotal"
 msgstr "Inclure TFP dans le sous-total"
 
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Add tag(s) to product
+msgid "Add tag(s) to product"
+msgstr ""
+
+#: Info
+msgid "Info"
+msgstr ""
+
+#: Product Tag API
+msgid "Product Tag API"
+msgstr ""
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Remove product tag
+msgid "Remove product tag"
+msgstr ""
+
+#: Retrieve list of tags by product
+msgid "Retrieve list of tags by product"
+msgstr ""
+
+#: Retrieve product tag info
+msgid "Retrieve product tag info"
+msgstr ""
+
+#: Update
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: Update product tag
+msgid "Update product tag"
+msgstr ""
+
+#: [STORE VIEW]
+msgid "[STORE VIEW]"
+msgstr "[VUE MAGASIN]"
+

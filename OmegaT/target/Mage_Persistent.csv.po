@@ -242,3 +242,15 @@ msgstr "Qu'est-ce que c'est ?"
 msgid "Zip/Postal Code"
 msgstr "Code postal"
 
+#: Shopping cart has been updated with appropriate prices
+msgid "Shopping cart has been updated with appropriate prices"
+msgstr ""
+
+#: To proceed to Checkout, please log in using your email address.
+msgid "To proceed to Checkout, please log in using your email address."
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+

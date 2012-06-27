@@ -1806,3 +1806,19 @@ msgstr "Attention !\\r\\nCette action supprimera"
 msgid "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?"
 msgstr "jj"
 
+#: Can not find webservice adapter.
+msgid "Can not find webservice adapter."
+msgstr "Impossible de trouver l'adapteur de web service."
+
+#: Enable WSDL Cache
+msgid "Enable WSDL Cache"
+msgstr "Activer le cache WSDL"
+
+#: SOAP/XML-RPC - Roles
+msgid "SOAP/XML-RPC - Roles"
+msgstr "SOAP/XML-RPC - Rôles"
+
+#: SOAP/XML-RPC - Users
+msgid "SOAP/XML-RPC - Users"
+msgstr "SOAP/XML-RPC - Utilisateurs"
+

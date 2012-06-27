@@ -3482,3 +3482,123 @@ msgstr "sur %s pages"
 msgid "Total %d records found"
 msgstr "%d enregistrement(s) trouvé(s)"
 
+#: Add new comment to credit memo
+msgid "Add new comment to credit memo"
+msgstr ""
+
+#: Are you sure you want to delete all items from shopping cart?
+msgid "Are you sure you want to delete all items from shopping cart?"
+msgstr ""
+
+#: Cancel credit memo
+msgid "Cancel credit memo"
+msgstr ""
+
+#: Clear Shopping Cart
+msgid "Clear Shopping Cart"
+msgstr ""
+
+#: Controls whether customer IP is shown in orders, invoices, shipments, credit memos.
+msgid "Controls whether customer IP is shown in orders, invoices, shipments, credit memos."
+msgstr ""
+
+#: Create new credit memo for order
+msgid "Create new credit memo for order"
+msgstr ""
+
+#: Credit memo canceling problem.
+msgid "Credit memo canceling problem."
+msgstr ""
+
+#: Credit memo cannot be canceled.
+msgid "Credit memo cannot be canceled."
+msgstr ""
+
+#: Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image
+msgid "Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image"
+msgstr ""
+
+#: General
+msgid "General"
+msgstr "Général"
+
+#: Hide Customer IP
+msgid "Hide Customer IP"
+msgstr ""
+
+#: Maximum amount available to refund is %s
+msgid "Maximum amount available to refund is %s"
+msgstr ""
+
+#: Most Viewed
+msgid "Most Viewed"
+msgstr "Les plus consultés"
+
+#: Most Viewed Products Report
+msgid "Most Viewed Products Report"
+msgstr ""
+
+#: New Credit Memo for Invoice #%s
+msgid "New Credit Memo for Invoice #%s"
+msgstr ""
+
+#: Order credit memo
+msgid "Order credit memo"
+msgstr ""
+
+#: Package types are disregarded for USPS domestic shipments.
+msgid "Package types are disregarded for USPS domestic shipments."
+msgstr ""
+
+#: Please check billing address information. %s
+msgid "Please check billing address information. %s"
+msgstr ""
+
+#: Please check shipping address information. %s
+msgid "Please check shipping address information. %s"
+msgstr ""
+
+#: Please select a valid payment method.
+msgid "Please select a valid payment method."
+msgstr ""
+
+#: Please specify a shipping method.
+msgid "Please specify a shipping method."
+msgstr ""
+
+#: Retrieve credit memo info
+msgid "Retrieve credit memo info"
+msgstr ""
+
+#: Retrieve credit memo information
+msgid "Retrieve credit memo information"
+msgstr ""
+
+#: Retrieve credit memo list
+msgid "Retrieve credit memo list"
+msgstr ""
+
+#: Retrieve list of credit memos by filters
+msgid "Retrieve list of credit memos by filters"
+msgstr ""
+
+#: Send shipment info
+msgid "Send shipment info"
+msgstr ""
+
+#: Ship to:
+msgid "Ship to:"
+msgstr ""
+
+#: Sold to:
+msgid "Sold to:"
+msgstr ""
+
+#: Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.
+msgid "Total model should be extended from Mage_Sales_Model_Order_Total_Abstract."
+msgstr ""
+
+#: Transaction # %s | %s
+msgid "Transaction # %s | %s"
+msgstr ""
+

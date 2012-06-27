@@ -43,3 +43,7 @@
 "Your current currency is: %s","Votre devise actuelle est : %s"
 "Country API","API de pays"
 "Region API","API de région"
+"Can't convert rate from ""%s-%s"".",""
+"Display not required State",""
+"State is required for",""
+"States Options",""

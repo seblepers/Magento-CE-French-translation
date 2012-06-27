@@ -282,3 +282,19 @@ msgstr "Votre langue :"
 msgid "per page"
 msgstr "par page"
 
+#: &copy; 2012 Magento Demo Store. All Rights Reserved.
+msgid "&copy; 2012 Magento Demo Store. All Rights Reserved."
+msgstr ""
+
+#: Allow
+msgid "Allow"
+msgstr "Autoriser"
+
+#: JavaScript seems to be disabled in your browser.
+msgid "JavaScript seems to be disabled in your browser."
+msgstr "Javascript est désactivé dans votre navigateur."
+
+#: This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.
+msgid "This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below."
+msgstr ""
+

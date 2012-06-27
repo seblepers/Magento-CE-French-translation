@@ -230,3 +230,7 @@ msgstr "%s ne peut être commandé que par multiples de %s."
 msgid "Only %s left"
 msgstr "Plus que %s en stock"
 
+#: Qty for Item's Status to Become Out of Stock
+msgid "Qty for Item's Status to Become Out of Stock"
+msgstr "Qté pour que le statut du produit passe à épuisé"
+

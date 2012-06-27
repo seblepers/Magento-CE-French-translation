@@ -638,3 +638,15 @@ msgstr "Appliquer la taxe au TFP"
 msgid "Include FPT In Subtotal"
 msgstr "Inclure TFP dans le sous-total"
 
+#: An error occurred while saving this tax class. A class with the same name
+msgid "An error occurred while saving this tax class. A class with the same name"
+msgstr ""
+
+#: Orders, Invoices, Credit Memos Display Settings
+msgid "Orders, Invoices, Credit Memos Display Settings"
+msgstr ""
+
+#: Shipping & Handling Tax
+msgid "Shipping & Handling Tax"
+msgstr ""
+

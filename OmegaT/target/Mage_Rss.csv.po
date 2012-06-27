@@ -230,3 +230,7 @@ msgstr "Cliquez pour afficher le prix"
 msgid "Order"
 msgstr "Commande"
 
+#: RSS Feeds Section
+msgid "RSS Feeds Section"
+msgstr ""
+

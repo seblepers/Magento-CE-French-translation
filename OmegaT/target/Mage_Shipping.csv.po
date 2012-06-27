@@ -342,3 +342,39 @@ msgstr "Adresse"
 msgid "Street Address Line 2"
 msgstr "Adresse - ligne 2"
 
+#: Divide to equal weight (one request)
+msgid "Divide to equal weight (one request)"
+msgstr ""
+
+#: Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\").
+msgid "Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\")."
+msgstr ""
+
+#: File has not been imported. See the following list of errors: %s
+msgid "File has not been imported. See the following list of errors: %s"
+msgstr ""
+
+#: Invalid %s \"%s\" in the Row #%s.
+msgid "Invalid %s \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Country \"%s\" in the Row #%s.
+msgid "Invalid Country \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Region/State \"%s\" in the Row #%s.
+msgid "Invalid Region/State \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Shipping Price \"%s\" in the Row #%s.
+msgid "Invalid Shipping Price \"%s\" in the Row #%s."
+msgstr ""
+
+#: Invalid Table Rates format in the Row #%s
+msgid "Invalid Table Rates format in the Row #%s"
+msgstr ""
+
+#: Use origin weight (few requests)
+msgid "Use origin weight (few requests)"
+msgstr ""
+

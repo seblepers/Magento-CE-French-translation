@@ -88,3 +88,8 @@
 "Not Approved","Non approuvé"
 "Customers Reviews","Clients ayant commenté"
 "Products Reviews","Produits commentés"
+"<a href=""%1$s"" onclick=""this.target='blank'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>",""
+"All Reviews of Product `%s`",""
+"Nickname can't be empty",""
+"Review can't be empty",""
+"Review summary can't be empty",""

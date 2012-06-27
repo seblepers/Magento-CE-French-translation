@@ -450,3 +450,7 @@
 "WS-I Compliance","Compatibilité WS-I"
 "Warning!rnThis action will remove this user from already assigned rolernAre you sure?","Attention !\r\nCette action supprimera"
 "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?","jj"
+"Can not find webservice adapter.","Impossible de trouver l'adapteur de web service."
+"Enable WSDL Cache","Activer le cache WSDL"
+"SOAP/XML-RPC - Roles","SOAP/XML-RPC - Rôles"
+"SOAP/XML-RPC - Users","SOAP/XML-RPC - Utilisateurs"

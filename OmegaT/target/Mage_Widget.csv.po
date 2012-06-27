@@ -300,3 +300,23 @@ msgid ""
 #:
 msgid ""
 
+#: Apply
+msgid "Apply"
+msgstr "Appliquer"
+
+#: Insert Widget...
+msgid "Insert Widget..."
+msgstr "Insérer un widget..."
+
+#: Open Chooser
+msgid "Open Chooser"
+msgstr "Ouvrir le sélecteur"
+
+#: Widget Insertion
+msgid "Widget Insertion"
+msgstr ""
+
+#: Wrong widget instance specified.
+msgid "Wrong widget instance specified."
+msgstr ""
+

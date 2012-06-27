@@ -46,3 +46,5 @@
 "Your search returns no results.","Aucun résultat pour votre recherche."
 "up to %s","jusqu'à %s"
 "Specified date is invalid.","La date spécifiée est invalide."
+"Maximum Search query length is %s. Your query was cut.",""
+"Maximum words count is %1$s. In your search query was cut next part: %2$s.",""

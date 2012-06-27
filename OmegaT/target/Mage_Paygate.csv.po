@@ -260,7 +260,7 @@ msgstr "capturer"
 
 #: failed
 msgid "failed"
-msgstr "échec"
+msgstr "échoué"
 
 #: refund
 msgid "refund"

@@ -122,3 +122,6 @@
 "Response from server isn't valid.","La réponse du serveur n'est pas valide."
 "Database Type","Type de base de données"
 "No resource for %s DB model.","Pas de ressource disponible pour ce modèle de base de données %s."
+"Installer does not exist for %s database type",""
+"PHP Extensions ""%s"" must be loaded.",""
+"The database server version doesn't match system requirements (required: %s, actual: %s).",""

@@ -330,3 +330,55 @@ msgstr "Utiliser la valeur par défaut"
 msgid "What's this?"
 msgstr "Qu'est-ce que c'est ?"
 
+#: Add
+msgid "Add"
+msgstr "Ajouter"
+
+#: Add links and samples to downloadable product
+msgid "Add links and samples to downloadable product"
+msgstr ""
+
+#: Category API
+msgid "Category API"
+msgstr "API de catégorie"
+
+#: Downloadable Product Section
+msgid "Downloadable Product Section"
+msgstr ""
+
+#: List
+msgid "List"
+msgstr "Liste"
+
+#: Move
+msgid "Move"
+msgstr "Déplacer"
+
+#: Please log in to download your product or purchase <a href=\"%s\">%s</a>.
+msgid "Please log in to download your product or purchase <a href=\"%s\">%s</a>."
+msgstr ""
+
+#: Product downloadable links
+msgid "Product downloadable links"
+msgstr ""
+
+#: Remove
+msgid "Remove"
+msgstr "Supprimer"
+
+#: Remove links and samples from downloadable product
+msgid "Remove links and samples from downloadable product"
+msgstr ""
+
+#: Retrieve links and samples list from downloadable product
+msgid "Retrieve links and samples list from downloadable product"
+msgstr ""
+
+#: Sorry, there was an error getting requested content. Please contact the store owner.
+msgid "Sorry, there was an error getting requested content. Please contact the store owner."
+msgstr ""
+
+#: There are files that were selected but not uploaded yet. Please upload or remove them first
+msgid "There are files that were selected but not uploaded yet. Please upload or remove them first"
+msgstr ""
+

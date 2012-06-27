@@ -74,3 +74,135 @@ msgstr "Impossible de faire une sauvegarde. Veuillez réessayer ultérieurement.
 msgid "Wrong order of creation for new backup."
 msgstr "Ordre de création erroné pour la nouvelle sauvegarde."
 
+#: An error occurred while creating the backup.
+msgid "An error occurred while creating the backup."
+msgstr "Erreur lors de la création de la sauvegarde."
+
+#: Are you sure you want to delete the selected backup(s)?
+msgid "Are you sure you want to delete the selected backup(s)?"
+msgstr "Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?"
+
+#: Backup Type
+msgid "Backup Type"
+msgstr "Type de sauvegarde"
+
+#: Backup file not found
+msgid "Backup file not found"
+msgstr "Fichier de sauvegarde non trouvé"
+
+#: Database Backup
+msgid "Database Backup"
+msgstr "Sauvegarde de base de données"
+
+#: Database and Media Backup
+msgid "Database and Media Backup"
+msgstr "Sauvegarde de base de données et media"
+
+#: Enable Scheduled Backup
+msgid "Enable Scheduled Backup"
+msgstr "Activer la sauvegarde programmée"
+
+#: Failed to connect to FTP
+msgid "Failed to connect to FTP"
+msgstr "Erreur lors de la connexion FTP"
+
+#: Failed to delete one or several backups.
+msgid "Failed to delete one or several backups."
+msgstr "Erreur lors de l'effacement d'une ou plusieurs sauvegardes."
+
+#: Failed to rollback
+msgid "Failed to rollback"
+msgstr "Erreur lors du retour arrière (rollback)"
+
+#: Failed to validate FTP
+msgid "Failed to validate FTP"
+msgstr "Erreur lors de la validation du FTP"
+
+#: Frequency
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: Invalid Password.
+msgid "Invalid Password."
+msgstr "Mot de passe invalide."
+
+#: Maintenance Mode
+msgid "Maintenance Mode"
+msgstr "Mode de maintenance"
+
+#: Name
+msgid "Name"
+msgstr "Nom"
+
+#: Not enough free space to create backup.
+msgid "Not enough free space to create backup."
+msgstr "Espace libre insuffisant pour créer une sauvegarde."
+
+#: Not enough permissions to create backup.
+msgid "Not enough permissions to create backup."
+msgstr "Permissions insuffisantes pour créer la sauvegarde."
+
+#: Not enough permissions to perform rollback
+msgid "Not enough permissions to perform rollback"
+msgstr "Permissions insuffisantes pour réaliser le retour arrière (rollback)"
+
+#: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\"
+msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the backup.\""
+msgstr "Veuillez déselectionner la case à cocher \"Mettre la boutique en mode maintenance\" ou mettez à jour les permissions pour continuer la sauvegarde."
+
+#: Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\"
+msgid "Please either unselect the \"Put store on the maintenance mode\" checkbox or update your permissions to proceed with the rollback.\""
+msgstr "Veuillez déselectionner la case à cocher \"Mettre la boutique en mode maintenance\" ou mettez à jour les permissions pour continuer le retour arrière (rollback)."
+
+#: Put store on the maintenance mode while backup's creation
+msgid "Put store on the maintenance mode while backup's creation"
+msgstr "Mettre la boutique en mode maintenance pendant la création de la sauvegarde"
+
+#: Rollback
+msgid "Rollback"
+msgstr "Retour arrière (rollback)"
+
+#: Scheduled Backup Settings
+msgid "Scheduled Backup Settings"
+msgstr "Paramètres de sauvegarde programmée"
+
+#: Start Time
+msgid "Start Time"
+msgstr "Heure de début"
+
+#: System Backup
+msgid "System Backup"
+msgstr "Sauvegarde système"
+
+#: System couldn't put store on the maintenance mode
+msgid "System couldn't put store on the maintenance mode"
+msgstr "Le système n'a pas pu mettre la boutique en mode maintenance"
+
+#: The database and media backup has been created.
+msgid "The database and media backup has been created."
+msgstr "La sauvegarde de la base de données et des media a bien été créée."
+
+#: The database backup has been created.
+msgid "The database backup has been created."
+msgstr "La sauvegarde de la base de données a bien été créée."
+
+#: The selected backup(s) has been deleted.
+msgid "The selected backup(s) has been deleted."
+msgstr "Les sauvegardes sélectionnées ont été effacées."
+
+#: The system (excluding Media) backup has been created.
+msgid "The system (excluding Media) backup has been created."
+msgstr "La sauvegarde du système (excepté les media) a été créée."
+
+#: The system backup has been created.
+msgid "The system backup has been created."
+msgstr "La sauvegarde du système a été créée."
+
+#: Unable to save the cron expression.
+msgid "Unable to save the cron expression."
+msgstr "Impossible d'enregistrer l'expression cron"
+
+#: You do not have sufficient permissions to enable Maintenance Mode during this operation.
+msgid "You do not have sufficient permissions to enable Maintenance Mode during this operation."
+msgstr "Vous n'avez pas les permissions suffisantes pour activer le mode maintenance pendant cette opération."
+

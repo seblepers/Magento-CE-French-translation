@@ -1266,3 +1266,111 @@ msgstr "Voir le prix avant la confirmation de la commande"
 msgid "What's this?"
 msgstr "Qu'est-ce que c'est ?"
 
+#: Clear Shopping Cart
+msgid "Clear Shopping Cart"
+msgstr ""
+
+#: Customer Address is not valid.
+msgid "Customer Address is not valid."
+msgstr ""
+
+#: Edit Condition
+msgid "Edit Condition"
+msgstr ""
+
+#: Invalid checkout type.
+msgid "Invalid checkout type."
+msgstr ""
+
+#: Invalid data.
+msgid "Invalid data."
+msgstr "Données non valides"
+
+#: Invalid email address \"%s\"
+msgid "Invalid email address \"%s\""
+msgstr ""
+
+#: Invalid shipping method.
+msgid "Invalid shipping method."
+msgstr "Méthode de livraison non valide"
+
+#: Manage Terms and Conditions
+msgid "Manage Terms and Conditions"
+msgstr ""
+
+#: Minimum order amount is %s
+msgid "Minimum order amount is %s"
+msgstr ""
+
+#: Move
+msgid "Move"
+msgstr "Déplacer"
+
+#: New Terms and Conditions
+msgid "New Terms and Conditions"
+msgstr ""
+
+#: Please check billing address information.
+msgid "Please check billing address information."
+msgstr ""
+
+#: Please check shipping address information.
+msgid "Please check shipping address information."
+msgstr ""
+
+#: Please check shipping addresses information.
+msgid "Please check shipping addresses information."
+msgstr ""
+
+#: Please choose to register or to checkout as a guest
+msgid "Please choose to register or to checkout as a guest"
+msgstr "Choisissez de vous enregistrer ou de passer votre commande en tant qu'invité"
+
+#: Please select valid payment method.
+msgid "Please select valid payment method."
+msgstr ""
+
+#: Please specify payment method.
+msgid "Please specify payment method."
+msgstr "Choisissez un mode de paiement."
+
+#: Please specify shipping method.
+msgid "Please specify shipping method."
+msgstr "Choisissez un mode de livraison."
+
+#: Please specify shipping methods for all addresses.
+msgid "Please specify shipping methods for all addresses."
+msgstr ""
+
+#: Require Customer To Be Logged In To Checkout
+msgid "Require Customer To Be Logged In To Checkout"
+msgstr ""
+
+#: Sorry, guest checkout is not enabled. Please try again or contact store owner.
+msgid "Sorry, guest checkout is not enabled. Please try again or contact store owner."
+msgstr ""
+
+#: Sorry, guest checkout is not enabled. Please try again or contact the store owner.
+msgid "Sorry, guest checkout is not enabled. Please try again or contact the store owner."
+msgstr ""
+
+#: Subtotal must exceed minimum order amount
+msgid "Subtotal must exceed minimum order amount"
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+
+#: Your order cannot be completed at this time as there is no payment methods available for it.
+msgid "Your order cannot be completed at this time as there is no payment methods available for it."
+msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible."
+
+#: Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.
+msgid "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
+msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de livraison n'est disponible pour votre adresse."
+
+#: Your order has been received.
+msgid "Your order has been received."
+msgstr ""
+

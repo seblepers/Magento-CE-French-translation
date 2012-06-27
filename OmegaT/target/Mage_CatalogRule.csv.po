@@ -238,3 +238,39 @@ msgstr "Mauvaise règle spécifiée"
 msgid "Yes"
 msgstr "Oui"
 
+#: Apply
+msgid "Apply"
+msgstr "Appliquer"
+
+#: By Fixed Amount
+msgid "By Fixed Amount"
+msgstr "Remise d'un montant fixe"
+
+#: By Percentage of the Original Price
+msgid "By Percentage of the Original Price"
+msgstr "En pourcentage du prix d'origine"
+
+#: Discount Amount
+msgid "Discount Amount"
+msgstr "Remise"
+
+#: Enable Discount to Subproducts
+msgid "Enable Discount to Subproducts"
+msgstr ""
+
+#: To Fixed Amount
+msgid "To Fixed Amount"
+msgstr "Nouveau prix en montant fixe"
+
+#: To Percentage of the Original Price
+msgid "To Percentage of the Original Price"
+msgstr "Pourcentage du prix original"
+
+#: Update Prices Using the Following Information
+msgid "Update Prices Using the Following Information"
+msgstr "Mettre à jour les prix en utilisant l'information suivante"
+
+#: Website
+msgid "Website"
+msgstr "Site web"
+

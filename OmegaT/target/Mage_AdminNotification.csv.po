@@ -118,3 +118,7 @@ msgstr "mineur"
 msgid "notice"
 msgstr "annonce"
 
+#: Wrong message type
+msgid "Wrong message type"
+msgstr "Mauvais type de message."
+

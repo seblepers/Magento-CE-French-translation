@@ -126,3 +126,11 @@ msgstr "minute"
 msgid "minutes"
 msgstr "minutes"
 
+#: Actions XML is not valid.
+msgid "Actions XML is not valid."
+msgstr ""
+
+#: Profile with the same name already exists.
+msgid "Profile with the same name already exists."
+msgstr ""
+

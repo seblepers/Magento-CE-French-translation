@@ -518,3 +518,71 @@ msgstr "ID de marchand"
 msgid "Processor ID"
 msgstr "ID de processeur"
 
+#: Authorize action is not available.
+msgid "Authorize action is not available."
+msgstr ""
+
+#: Bank Transfer Payment
+msgid "Bank Transfer Payment"
+msgstr ""
+
+#: Cannot retrieve the payment information object instance.
+msgid "Cannot retrieve the payment information object instance."
+msgstr ""
+
+#: Cannot retrieve the payment method code.
+msgid "Cannot retrieve the payment method code."
+msgstr ""
+
+#: Capture action is not available.
+msgid "Capture action is not available."
+msgstr ""
+
+#: Cash On Delivery Payment
+msgid "Cash On Delivery Payment"
+msgstr ""
+
+#: Credit card number mismatch with credit card type.
+msgid "Credit card number mismatch with credit card type."
+msgstr ""
+
+#: Credit card type is not allowed for this payment method.
+msgid "Credit card type is not allowed for this payment method."
+msgstr ""
+
+#: Incorrect credit card expiration date.
+msgid "Incorrect credit card expiration date."
+msgstr "Mauvaise date d'expiration de carte de crédit."
+
+#: Instructions
+msgid "Instructions"
+msgstr ""
+
+#: Invalid Credit Card Number
+msgid "Invalid Credit Card Number"
+msgstr ""
+
+#: Order action is not available.
+msgid "Order action is not available."
+msgstr ""
+
+#: Please enter a valid credit card verification number.
+msgid "Please enter a valid credit card verification number."
+msgstr "Veuillez saisir un numéro de vérification de carte bancaire valide."
+
+#: Refund action is not available.
+msgid "Refund action is not available."
+msgstr ""
+
+#: Selected payment type is not allowed for billing country.
+msgid "Selected payment type is not allowed for billing country."
+msgstr ""
+
+#: The requested Payment Method is not available.
+msgid "The requested Payment Method is not available."
+msgstr "La méthode demandée de paiement n'est pas disponible."
+
+#: Void action is not available.
+msgid "Void action is not available."
+msgstr ""
+

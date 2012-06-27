@@ -370,3 +370,43 @@ msgstr "Cliquez pour afficher le prix"
 msgid "What's this?"
 msgstr "Qu'est-ce que c'est ?"
 
+#: %1$s has been added to your wishlist. Click <a href=\"%2$s\">here</a> to continue shopping.
+msgid "%1$s has been added to your wishlist. Click <a href=\"%2$s\">here</a> to continue shopping."
+msgstr ""
+
+#: %s has been moved to wishlist %s
+msgid "%s has been moved to wishlist %s"
+msgstr ""
+
+#: Cannot move item to wishlist
+msgid "Cannot move item to wishlist"
+msgstr ""
+
+#: Could not find wishlist
+msgid "Could not find wishlist"
+msgstr ""
+
+#: In stock
+msgid "In stock"
+msgstr "En stock"
+
+#: Product Details and Comment
+msgid "Product Details and Comment"
+msgstr ""
+
+#: Requested cart item doesn't exist
+msgid "Requested cart item doesn't exist"
+msgstr ""
+
+#: Requested wishlist doesn't exist
+msgid "Requested wishlist doesn't exist"
+msgstr ""
+
+#: This Wishlist has no Items
+msgid "This Wishlist has no Items"
+msgstr ""
+
+#: Wishlist could not be created.
+msgid "Wishlist could not be created."
+msgstr ""
+

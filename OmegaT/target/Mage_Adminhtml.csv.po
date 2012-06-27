@@ -5234,3 +5234,431 @@ msgstr "Modes de paiement"
 msgid "Google API"
 msgstr "API Google"
 
+#: You will need to navigate to your
+msgid "You will need to navigate to your"
+msgstr "Vous devrez vous rendre dans le "
+
+#: and go to the
+msgid "and go to the"
+msgstr "et aller dans le "
+
+#: sections for your Hosted Checkout Pages.
+msgid "sections for your Hosted Checkout Pages."
+msgstr "sections pour vos pages de commande hébergées."
+
+#: * Required Fields
+msgid "* Required Fields"
+msgstr "* Champs obligatoires"
+
+#: 1. set up
+msgid "1. set up"
+msgstr "1. configuration"
+
+#: 2. customize
+msgid "2. customize"
+msgstr "2. personnaliser"
+
+#: <strong>%s</strong> requests access to your account
+msgid "<strong>%s</strong> requests access to your account"
+msgstr "<strong>%s</strong> nécessite l'accès à votre compte"
+
+#: <strong>Attention</strong>: Captcha is case sensitive.
+msgid "<strong>Attention</strong>: Captcha is case sensitive."
+msgstr "<strong>Attention</strong> : le captcha est sensible à la casse."
+
+#: Add Products
+msgid "Add Products"
+msgstr "Ajouter des produits"
+
+#: After authorization application will have access to you account.
+msgid "After authorization application will have access to you account."
+msgstr "Après l'autorisation, l'application aura accès à votre compte."
+
+#: Always (during development)
+msgid "Always (during development)"
+msgstr "Toujours (pendant le developpement)"
+
+#: An error occurred while deleting URL Rewrite.
+msgid "An error occurred while deleting URL Rewrite."
+msgstr "Une erreur est survenue pendant la suppression des réécritures d'URLs."
+
+#: An error occurred while deleting record(s).
+msgid "An error occurred while deleting record(s)."
+msgstr "Une erreur est survenue pendant la suppression des enregistrements."
+
+#: An error occurred while saving URL Rewrite.
+msgid "An error occurred while saving URL Rewrite."
+msgstr "Une erreur est survenur pendant l'enregistrement de la réécriture d'URL."
+
+#: An error occurred while saving review.
+msgid "An error occurred while saving review."
+msgstr "Une erreur est survenue lors de l'enregistrement du commentaire."
+
+#: Any data created since the backup was made will be lost including admin users, customers and orders.
+msgid "Any data created since the backup was made will be lost including admin users, customers and orders."
+msgstr "Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes)."
+
+#: Are you sure you want to proceed?
+msgid "Are you sure you want to proceed?"
+msgstr "Voulez-vous vraiment continuer ?"
+
+#: Authorization confirmed
+msgid "Authorization confirmed"
+msgstr "Autorisation confirmée"
+
+#: Authorize
+msgid "Authorize"
+msgstr "Autoriser"
+
+#: Authorize application
+msgid "Authorize application"
+msgstr "Autoriser l'application"
+
+#: Authorized OAuth Tokens
+msgid "Authorized OAuth Tokens"
+msgstr "Jetons OAuth autorisés"
+
+#: Automatic (equalize price ranges)
+msgid "Automatic (equalize price ranges)"
+msgstr "Automatique (égalise les tranches de prix)"
+
+#: Automatic (equalize product counts)
+msgid "Automatic (equalize product counts)"
+msgstr "Automatique (égalise le nombre de produits)"
+
+#: Backup Name
+msgid "Backup Name"
+msgstr "Nom de la sauvegarde"
+
+#: Backup options
+msgid "Backup options"
+msgstr "Options de sauvegarde"
+
+#: Choose Store View:
+msgid "Choose Store View:"
+msgstr "Choisir la vue magasin :"
+
+#: Confirm New Password
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: Confirm token authorization Pop Up for admin
+msgid "Confirm token authorization Pop Up for admin"
+msgstr "Pop up de confirmation d'autorisation de jeton pour l'admin"
+
+#: Confirm token authorization for admin
+msgid "Confirm token authorization for admin"
+msgstr "Confirmation d'autorisation de jeton pour l'admin"
+
+#: Confirmation Of Authorization
+msgid "Confirmation Of Authorization"
+msgstr "Confirmation de l'autorisation"
+
+#: Currency \"%s\" is used as %s in %s.
+msgid "Currency \"%s\" is used as %s in %s."
+msgstr "La devise \"%s\" est utilisée comme %s dans %s."
+
+#: Do you really want to proceed?
+msgid "Do you really want to proceed?"
+msgstr "Voulez-vous vraiment continuer ?"
+
+#: Edit Order
+msgid "Edit Order"
+msgstr "Éditer la commande"
+
+#: Exclude media folder from backup
+msgid "Exclude media folder from backup"
+msgstr "Exclure le dossier media de la sauvegarde"
+
+#: FTP Host
+msgid "FTP Host"
+msgstr "Hôte FTP"
+
+#: FTP Login
+msgid "FTP Login"
+msgstr "Login FTP"
+
+#: FTP Password
+msgid "FTP Password"
+msgstr "Mot de passe FTP"
+
+#: FTP credentials
+msgid "FTP credentials"
+msgstr "Informations de connexion FTP"
+
+#: Forgot Admin Password
+msgid "Forgot Admin Password"
+msgstr "Mot de passe admin oublié"
+
+#: Give the verifier code to application administrator
+msgid "Give the verifier code to application administrator"
+msgstr "Donner le code de vérification à l'administrateur de l'application"
+
+#: If there is an account associated with %s you will receive an email with a link to reset your password.
+msgid "If there is an account associated with %s you will receive an email with a link to reset your password."
+msgstr "S'il y a un compte associé à l'adresse %s, vous recevrez un email avec un lien pour réinitialiser votre mot de passe."
+
+#: Invalid User Name or Password.
+msgid "Invalid User Name or Password."
+msgstr "Nom d'utilisateur ou mot de passe invalide."
+
+#: Invalid email address.
+msgid "Invalid email address."
+msgstr "Email invalide."
+
+#: Invalid password reset token.
+msgid "Invalid password reset token."
+msgstr "Jeton de réinitialisation de mot de passe invalide."
+
+#: JavaScript seems to be disabled in your browser.
+msgid "JavaScript seems to be disabled in your browser."
+msgstr "Javascript est désactivé dans votre navigateur."
+
+#: Log in to use <strong>%s</strong>
+msgid "Log in to use <strong>%s</strong>"
+msgstr "Connectez-vous pour utiliser <strong>%s</strong>"
+
+#: Magento root directory
+msgid "Magento root directory"
+msgstr "Répertoire racine de Magento"
+
+#: My Applications
+msgid "My Applications"
+msgstr "Mes applications"
+
+#: Never (production)
+msgid "Never (production)"
+msgstr "Jamais (en production)"
+
+#: New password field cannot be empty.
+msgid "New password field cannot be empty."
+msgstr "Le champ de nouveau mot de passe ne peut pas être vide."
+
+#: Number of Views
+msgid "Number of Views"
+msgstr "Nombre de consultations"
+
+#: OAuth Consumers
+msgid "OAuth Consumers"
+msgstr "Consommateur d'OAuth"
+
+#: OAuth authorization for admin
+msgid "OAuth authorization for admin"
+msgstr "Autorisation OAuth pour l'admin"
+
+#: OAuth authorization simple for admin
+msgid "OAuth authorization simple for admin"
+msgstr "Autorisation OAuth simple pour l'admin"
+
+#: OK
+msgid "OK"
+msgstr "OK"
+
+#: Only Once (version upgrade)
+msgid "Only Once (version upgrade)"
+msgstr "Une fois seulement (mise à jour de version)"
+
+#: PayPal Manager
+msgid "PayPal Manager"
+msgstr "Gestionnaire PayPal"
+
+#: Please enter password
+msgid "Please enter password"
+msgstr "Saisissez le mot de passe"
+
+#: Please enter password to confirm rollback.
+msgid "Please enter password to confirm rollback."
+msgstr "Saisissez le mot de passe pour confirmer le retour arrière (rollback)."
+
+#: Please specify backup creation options
+msgid "Please specify backup creation options"
+msgstr "Spécifiez les options de création de sauvegarde"
+
+#: Please type the letters from the image:
+msgid "Please type the letters from the image:"
+msgstr "Saisissez les lettres de l'image :"
+
+#: Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.
+msgid "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field."
+msgstr "Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou des espaces dans ce champ."
+
+#: Product Name
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: Products Most Viewed Report
+msgid "Products Most Viewed Report"
+msgstr "Rapport des produits les plus vus"
+
+#: Put store on the maintenance mode while backup creation
+msgid "Put store on the maintenance mode while backup creation"
+msgstr "Mettre le magasin en mode maintenance pendant la création de la sauvegarde"
+
+#: Put store on the maintenance mode while rollback processing
+msgid "Put store on the maintenance mode while rollback processing"
+msgstr "Mettre le magasin en mode maintenance pendant l'exécution du retour arrière (rollback)"
+
+#: REST Roles
+msgid "REST Roles"
+msgstr "Rôles REST"
+
+#: Reject
+msgid "Reject"
+msgstr "Rejeter"
+
+#: Reject token authorization Pop Up for admin
+msgid "Reject token authorization Pop Up for admin"
+msgstr "Pop up de refus d'autorisation de jeton pour l'admin"
+
+#: Reject token authorization for admin
+msgid "Reject token authorization for admin"
+msgstr "Refus d'autorisation de jeton pour l'admin"
+
+#: Rejection Of Authorization
+msgid "Rejection Of Authorization"
+msgstr "Refus d'autorisation"
+
+#: Reload captcha
+msgid "Reload captcha"
+msgstr "Recharger le captcha"
+
+#: Reset Password
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: Reset a Password
+msgid "Reset a Password"
+msgstr "Réinitialiser un mot de passe"
+
+#: Service Settings
+msgid "Service Settings"
+msgstr "Paramètres du service"
+
+#: Set up & Customize
+msgid "Set up & Customize"
+msgstr "Configurer & personnaliser"
+
+#: Show Report For:
+msgid "Show Report For:"
+msgstr "Afficher le rapport pour :"
+
+#: Symbol
+msgid "Symbol"
+msgstr "Symbole"
+
+#: The backup's creation process will take time.
+msgid "The backup's creation process will take time."
+msgstr "La création de sauvegarde prendra du temps."
+
+#: The item %s (SKU %s) does not exist in the catalog anymore.
+msgid "The item %s (SKU %s) does not exist in the catalog anymore."
+msgstr "L'article %s (Réf. %s) n'existe plus dans le catalogue."
+
+#: The shipping label has been created.
+msgid "The shipping label has been created."
+msgstr "L'étiquette de livraison a été créée."
+
+#: The transaction details have been updated.
+msgid "The transaction details have been updated."
+msgstr "Les détails de la transaction ont été mis à jour."
+
+#: This action cannot be undone.
+msgid "This action cannot be undone."
+msgstr "Cette action ne peut pas être annulée."
+
+#: To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into
+msgid "To use PayPal Payflow Link you must configure some settings in your Payflow account by logging into"
+msgstr "Pour utiliser PayPal Payflow Link, vous devez configurer certains paramètres dans votre compte Payflow en vous connectant"
+
+#: To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into
+msgid "To use PayPal Payments Advanced you must configure some settings in your PayPal Payments Advanced account by logging into"
+msgstr "Pour utiliser les paiements avancés de PayPal, vous devez configurer certains paramètres dans votre compte paiements avancés de PayPal en vous connectant"
+
+#: Total of %d record(s) were deleted
+msgid "Total of %d record(s) were deleted"
+msgstr "%d enregistrement(s) ont été effacés"
+
+#: Total of %d record(s) were deleted.
+msgid "Total of %d record(s) were deleted."
+msgstr "%d enregistrement(s) ont été effacés."
+
+#: Total of %d record(s) were updated
+msgid "Total of %d record(s) were updated"
+msgstr "%d enregistrement(s) ont été mis à jour"
+
+#: Total of %d record(s) were updated.
+msgid "Total of %d record(s) were updated."
+msgstr "%d enregistrement(s) ont été mis à jour."
+
+#: Unable to update transaction details.
+msgid "Unable to update transaction details."
+msgstr "Impossible de mettre à jour les détails de la transaction."
+
+#: Uploaded file is larger than %.2f kilobytes allowed by server
+msgid "Uploaded file is larger than %.2f kilobytes allowed by server"
+msgstr "Le fichier uploadé fait plus que les %.2f kilo octets autorisés par le serveur"
+
+#: Use FTP Connection
+msgid "Use FTP Connection"
+msgstr "Utiliser une connexion FTP"
+
+#: User Password
+msgid "User Password"
+msgstr "Mot de passe utilisateur"
+
+#: User Type Resources
+msgid "User Type Resources"
+msgstr "Ressources du type d'utilisateur"
+
+#: VAT Number is Invalid
+msgid "VAT Number is Invalid"
+msgstr "Le numéro de TVA est invalide"
+
+#: VAT Number is Valid
+msgid "VAT Number is Valid"
+msgstr "Le numéro de TVA est valide"
+
+#: Verifier code: %s
+msgid "Verifier code: %s"
+msgstr "Code de vérification : %s"
+
+#: View Statistics For:
+msgid "View Statistics For:"
+msgstr "Voir les statistiques pour :"
+
+#: Warning
+msgid "Warning"
+msgstr "Attention"
+
+#: Wrong account specified.
+msgid "Wrong account specified."
+msgstr "Le compte spécifié est erroné"
+
+#: You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>.
+msgid "You have %s unread message(s). <a href=\"%s\">Go to messages inbox</a>."
+msgstr "Vous avez %s message(s) non lu(s). <a href=\"%s\">Aller à la boîte de réception</a>."
+
+#: You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>.
+msgid "You have %s, %s and %s unread messages. <a href=\"%s\">Go to messages inbox</a>."
+msgstr "Vous avez %s, %s et %s message(s) non lu(s). <a href=\"%s\">Aller à la boîte de réception</a>.<segment 1666>"
+
+#: You will need to wait when the action ends.
+msgid "You will need to wait when the action ends."
+msgstr "Vous devrez attendre que l'action se termine."
+
+#: Your password has been updated.
+msgid "Your password has been updated."
+msgstr "Votre mot de passe a été mis à jour."
+
+#: Your password reset link has expired.
+msgid "Your password reset link has expired."
+msgstr "Le lien de réinitialisation de mot de passe a expiré."
+
+#: failed
+msgid "failed"
+msgstr "échoué"
+
+#: successful
+msgid "successful"
+msgstr "réussi"
+

@@ -494,3 +494,15 @@ msgstr "Type de base de données"
 msgid "No resource for %s DB model."
 msgstr "Pas de ressource disponible pour ce modèle de base de données %s."
 
+#: Installer does not exist for %s database type
+msgid "Installer does not exist for %s database type"
+msgstr ""
+
+#: PHP Extensions \"%s\" must be loaded.
+msgid "PHP Extensions \"%s\" must be loaded."
+msgstr ""
+
+#: The database server version doesn't match system requirements (required: %s, actual: %s).
+msgid "The database server version doesn't match system requirements (required: %s, actual: %s)."
+msgstr ""
+

@@ -110,3 +110,7 @@ msgstr "Sauvegarder la notation"
 msgid "Visible In"
 msgstr "Visible dans"
 
+#: Sort Order
+msgid "Sort Order"
+msgstr "Ordre de tri"
+

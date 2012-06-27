@@ -1850,3 +1850,135 @@ msgstr "sur %s pages"
 msgid "Total %d records found"
 msgstr "%d enregistrement(s) trouvé(s)"
 
+#: Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.
+msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal."
+msgstr ""
+
+#: Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.
+msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account."
+msgstr ""
+
+#: Address
+msgid "Address"
+msgstr "Adresse"
+
+#: City
+msgid "City"
+msgstr "Ville"
+
+#: Click here if you are not redirected within 10 seconds...
+msgid "Click here if you are not redirected within 10 seconds..."
+msgstr ""
+
+#: Company
+msgid "Company"
+msgstr "Société"
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Customer Information
+msgid "Customer Information"
+msgstr "Informations client"
+
+#: Display Express Checkout in the Payment Information step
+msgid "Display Express Checkout in the Payment Information step"
+msgstr ""
+
+#: Email Address
+msgid "Email Address"
+msgstr "Adresse mail"
+
+#: Fax
+msgid "Fax"
+msgstr "Fax"
+
+#: For Virtual Quotes Only
+msgid "For Virtual Quotes Only"
+msgstr ""
+
+#: PayPal Payments Advanced
+msgid "PayPal Payments Advanced"
+msgstr ""
+
+#: Payment transactions disallow storing objects.
+msgid "Payment transactions disallow storing objects."
+msgstr "Les transactions de paiement rejettent de stocker des objets."
+
+#: Please select region, state or province
+msgid "Please select region, state or province"
+msgstr "Sélectionnez un département / état"
+
+#: Please update order data to get shipping methods and rates
+msgid "Please update order data to get shipping methods and rates"
+msgstr ""
+
+#: Require Customer's Billing Address
+msgid "Require Customer's Billing Address"
+msgstr ""
+
+#: Same as shipping
+msgid "Same as shipping"
+msgstr ""
+
+#: Server Error. Please try again.
+msgid "Server Error. Please try again."
+msgstr ""
+
+#: State/Province
+msgid "State/Province"
+msgstr "État/Région"
+
+#: Street Address
+msgid "Street Address"
+msgstr "Adresse"
+
+#: Street Address %s
+msgid "Street Address %s"
+msgstr "Rue - Voie – Bât. %s"
+
+#: Telephone
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: This feature needs be enabled first for the merchant account through PayPal technical support.
+msgid "This feature needs be enabled first for the merchant account through PayPal technical support."
+msgstr ""
+
+#: This operation requires an existing transaction object.
+msgid "This operation requires an existing transaction object."
+msgstr "Cette opération nécessite l'existance d'une transaction."
+
+#: Transaction ID must not be empty.
+msgid "Transaction ID must not be empty."
+msgstr "ID Transaction ne doit pas être vide."
+
+#: Unable to update Order data.
+msgid "Unable to update Order data."
+msgstr ""
+
+#: Unknown Error. Please try again later.
+msgid "Unknown Error. Please try again later."
+msgstr ""
+
+#: Update Order Data
+msgid "Update Order Data"
+msgstr ""
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+
+#: Vendor / Merchant Login
+msgid "Vendor / Merchant Login"
+msgstr ""
+
+#: You cannot void a verification transaction
+msgid "You cannot void a verification transaction"
+msgstr ""
+
+#: Zip/Postal Code
+msgid "Zip/Postal Code"
+msgstr "Code postal"
+

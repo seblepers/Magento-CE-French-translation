@@ -1696,3 +1696,175 @@ msgstr "Chercher"
 msgid "Place Order"
 msgstr "Passez la commande"
 
+#: <strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
+msgid "<strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
+msgstr ""
+
+#: "After selecting a new media storage location, press the Synchronize button
+msgid ""After selecting a new media storage location, press the Synchronize button"
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
+
+#: to transfer all media to that location. Media will not be available in the new
+msgid "to transfer all media to that location. Media will not be available in the new"
+msgstr "                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel"
+
+#: location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
+msgid "location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button"
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
+
+#: location until the synchronization process is complete."
+msgid "location until the synchronization process is complete.""
+msgstr ""
+
+#: Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!
+msgid "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!"
+msgstr ""
+
+#: Base Secure URL
+msgid "Base Secure URL"
+msgstr ""
+
+#: Base Unsecure URL
+msgid "Base Unsecure URL"
+msgstr ""
+
+#: Cookie Restriction Mode
+msgid "Cookie Restriction Mode"
+msgstr ""
+
+#: Core
+msgid "Core"
+msgstr ""
+
+#: Country
+msgid "Country"
+msgstr "Pays"
+
+#: Custom1 Contact Email
+msgid "Custom1 Contact Email"
+msgstr ""
+
+#: Custom1 Contact Name
+msgid "Custom1 Contact Name"
+msgstr ""
+
+#: Custom2 Contact Email
+msgid "Custom2 Contact Email"
+msgstr ""
+
+#: Custom2 Contact Name
+msgid "Custom2 Contact Name"
+msgstr ""
+
+#: European Union Countries
+msgid "European Union Countries"
+msgstr ""
+
+#: File not found
+msgid "File not found"
+msgstr ""
+
+#: File with an extension \"%value%\" is protected and cannot be uploaded
+msgid "File with an extension \"%value%\" is protected and cannot be uploaded"
+msgstr ""
+
+#: General Contact Email
+msgid "General Contact Email"
+msgstr ""
+
+#: General Contact Name
+msgid "General Contact Name"
+msgstr ""
+
+#: Get info about current Magento installation
+msgid "Get info about current Magento installation"
+msgstr ""
+
+#: HTML tags are not allowed
+msgid "HTML tags are not allowed"
+msgstr ""
+
+#: Invalid URL '%value%'.
+msgid "Invalid URL '%value%'."
+msgstr ""
+
+#: List of stores
+msgid "List of stores"
+msgstr ""
+
+#: Logo Image
+msgid "Logo Image"
+msgstr ""
+
+#: Magento info
+msgid "Magento info"
+msgstr ""
+
+#: Magento info API
+msgid "Magento info API"
+msgstr ""
+
+#: PHP SOAP extension is required.
+msgid "PHP SOAP extension is required."
+msgstr ""
+
+#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../"
+msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../""
+msgstr "Le chemin \"%value%\" ne peut pas inclure"
+
+#: Please enter a number 1 or greater in this field.
+msgid "Please enter a number 1 or greater in this field."
+msgstr ""
+
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page"
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page""
+msgstr "Saisissez une clé d'url valide. Par exemple, \"page-exemple\", \"page-exemple.html\" ou \"autreniveau/page-exemple\"."
+
+#: Please select a file
+msgid "Please select a file"
+msgstr ""
+
+#: Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
+msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+msgstr ""
+
+#: Recovery Link Expiration Period (days)
+msgid "Recovery Link Expiration Period (days)"
+msgstr ""
+
+#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../"
+msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../""
+msgstr ""
+
+#: Retrieve info about current Magento installation
+msgid "Retrieve info about current Magento installation"
+msgstr ""
+
+#: Retrieve store data
+msgid "Retrieve store data"
+msgstr ""
+
+#: Retrieve store list
+msgid "Retrieve store list"
+msgstr ""
+
+#: Sales Representative Contact Email
+msgid "Sales Representative Contact Email"
+msgstr ""
+
+#: Sales Representative Contact Name
+msgid "Sales Representative Contact Name"
+msgstr ""
+
+#: Store API
+msgid "Store API"
+msgstr ""
+
+#: Transactional Emails
+msgid "Transactional Emails"
+msgstr "Emails transactionnels"
+
+#: VAT Number
+msgid "VAT Number"
+msgstr ""
+

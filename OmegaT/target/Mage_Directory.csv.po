@@ -178,3 +178,19 @@ msgstr "API de pays"
 msgid "Region API"
 msgstr "API de région"
 
+#: Can't convert rate from \"%s-%s\".
+msgid "Can't convert rate from \"%s-%s\"."
+msgstr ""
+
+#: Display not required State
+msgid "Display not required State"
+msgstr ""
+
+#: State is required for
+msgid "State is required for"
+msgstr ""
+
+#: States Options
+msgid "States Options"
+msgstr ""
+

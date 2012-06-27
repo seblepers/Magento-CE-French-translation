@@ -714,3 +714,7 @@ msgstr "Terminée"
 msgid "Processing"
 msgstr "En cours de traitement"
 
+#: Shopping Cart Price Rule
+msgid "Shopping Cart Price Rule"
+msgstr "Règle de prix panier"
+
