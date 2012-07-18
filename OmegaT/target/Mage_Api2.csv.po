@@ -428,7 +428,7 @@ msgstr "Notifier quand la quantité passe en dessous de"
 
 #: OAuth
 msgid "OAuth"
-msgstr ""
+msgstr "OAuth"
 
 #: Order
 msgid "Order"

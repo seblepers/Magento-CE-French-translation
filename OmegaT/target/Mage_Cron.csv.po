@@ -24,7 +24,7 @@ msgstr "Nettoyer l'historique toutes les"
 
 #: Invalid callback: %s::%s does not exist
 msgid "Invalid callback: %s::%s does not exist"
-msgstr "Appel non valide : %s::%s n'existe pas"
+msgstr "Rappel non valide : %s::%s n'existe pas"
 
 #: Invalid model/method definition, expecting \"model/class::method\".
 msgid "Invalid model/method definition, expecting \"model/class::method\"."
@@ -40,7 +40,7 @@ msgstr "Mensuel"
 
 #: No callbacks found
 msgid "No callbacks found"
-msgstr "Aucun appel trouvé"
+msgstr "Aucun rappel trouvé"
 
 #: Schedule Ahead for
 msgid "Schedule Ahead for"

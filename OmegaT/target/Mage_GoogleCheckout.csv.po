@@ -344,7 +344,7 @@ msgstr "Bac à sable (sandbox)"
 
 #: Secure Callback URL
 msgid "Secure Callback URL"
-msgstr "URL d'appel de retour sécurisée"
+msgstr "URL sécurisée de rappel"
 
 #: Small - %s
 msgid "Small - %s"

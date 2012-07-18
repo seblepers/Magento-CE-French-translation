@@ -5440,7 +5440,7 @@ msgstr "Nombre de consultations"
 
 #: OAuth Consumers
 msgid "OAuth Consumers"
-msgstr "Consommateur d'OAuth"
+msgstr "Consommateurs d'OAuth"
 
 #: OAuth authorization for admin
 msgid "OAuth authorization for admin"

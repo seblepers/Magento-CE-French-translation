@@ -184,11 +184,11 @@ msgstr "Non"
 
 #: Revoke
 msgid "Revoke"
-msgstr ""
+msgstr "Révoquer"
 
 #: Update Required
 msgid "Update Required"
-msgstr ""
+msgstr "Mise à jour nécessaire"
 
 #: Updated At
 msgid "Updated At"

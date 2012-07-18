@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%name% '%value%' is too long. It must has length %min% symbols.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134003Z">
+        <seg>%name% '%value%' est trop long. Il doit avoir maximum %min% symboles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%name% '%value%' is too short. It must has length %min% symbols.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134037Z">
+        <seg>%name% '%value%' est trop court. Il doit avoir minimum %min% symboles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -714,6 +730,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>&amp;copy; 2008 Boutique de démo Magento. Tous droits réservés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;copy; 2012 Magento Demo Store. All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154545Z">
+        <seg>&amp;copy; 2012 Boutique de démo Magento. Tous droits réservés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,6 +4738,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred on confirm authorize.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134057Z">
+        <seg>Erreur lors de la confirmation d'autorisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred on delete action.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134156Z">
+        <seg>Erreur lors de la suppression de l'action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred on delete application.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134145Z">
+        <seg>Erreur lors de la suppression de l'application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred on reject authorize.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134228Z">
+        <seg>Erreur lors du refus d'autorisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred on saving consumer data.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T134248Z">
+        <seg>Erreur lors de la sauvegarde des données du consommateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred on update revoke status.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140134Z">
+        <seg>Erreur lors de la mise à jour du statut de révocation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while adding customers for the %s alert. Message: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -4838,6 +4910,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors de la suppression de l'adresse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while deleting the consumer.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140153Z">
+        <seg>Erreur lors de la suppression du consommateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,6 +5570,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140202Z">
+        <seg>Une erreur est survenue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred. Your authorization request is invalid.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140225Z">
+        <seg>Une erreur est survenue. Votre demande d'autorisation est invalide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An internal reference ID is required to save the payment profile.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5930,6 +6026,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application "%s" has been deleted.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140239Z">
+        <seg>L'application "%s" a été supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application "%s" has been enabled.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140255Z">
+        <seg>L'application "%s" a été activée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application "%s" has been revoked.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140301Z">
+        <seg>L'application "%s" a été révoquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Key</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5958,6 +6078,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Code secret de l'application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application not found.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140308Z">
+        <seg>Application non trouvée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6298,6 +6426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete this application?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140324Z">
+        <seg>Êtes-vous sûr(e) de vouloir supprimer cette application ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete this category?</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6330,6 +6466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to disable this application?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140334Z">
+        <seg>Êtes-vous sûr(e) de vouloir désactiver cette application ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to do it?</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6342,6 +6486,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Êtes-vous sûr(e) de vouloir effectuer cette opération ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to enable this application?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140346Z">
+        <seg>Êtes-vous sûr(e) de vouloir activer cette application ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7058,6 +7210,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorization confirmed.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140354Z">
+        <seg>Autorisation confirmée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorization not known: A technical problem arose during authorization process, giving unpredictable result</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7134,6 +7294,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120520T212520Z">
         <seg>Jetons OAuth autorisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authorized Tokens</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140402Z">
+        <seg>Jetons autorisés</seg>
       </tuv>
     </tu>
     <tu>
@@ -8982,6 +9150,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Paramètres de calcul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Callback URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140506Z">
+        <seg>URL de rappel</seg>
       </tuv>
     </tu>
     <tu>
@@ -11498,6 +11674,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleanup Probability</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140723Z">
+        <seg>Probabilité de nettoyage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cleanup Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140759Z">
+        <seg>Paramètres de nettoyage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12162,6 +12354,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm OAuth token authorization</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T141242Z">
+        <seg>Confirmer l'autorisation du jeton OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm Password</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12278,6 +12478,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Timeout de connexion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumer Information</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T141323Z">
+        <seg>Informations sur le consommateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumer Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T141329Z">
+        <seg>Nom du consommateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumers</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T141335Z">
+        <seg>Consommateurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,6 +14510,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Téléchargements dans le compte client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer My Account My OAuth Applications</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T142135Z">
+        <seg>Mon compte client - Mes application OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -17826,6 +18058,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Consumer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T142142Z">
+        <seg>Éditer le consommateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit Customer Group "%s"</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -19194,6 +19434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entry with ID #%s not found.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153617Z">
+        <seg>Entrée non trouvée pour l'identifiant #%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Environment Update Time</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -19710,6 +19958,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Date d'expiration : %s/%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expiration Period</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153627Z">
+        <seg>Période d'expiration</seg>
       </tuv>
     </tu>
     <tu>
@@ -24706,6 +24962,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installer does not exist for %s database type</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T132308Z">
+        <seg>Il n'existe pas d'installer pour le type de base de données %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T122829Z">
@@ -24858,6 +25122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid Callback URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140644Z">
+        <seg>URL de rappel invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid DHL XML code for type %s: %s.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24906,6 +25178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid ID parameter.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153640Z">
+        <seg>Paramètre identifiant invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Import Service Specified</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24942,6 +25222,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Modèle de produit invalide pour un article Google Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Rejected Callback URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153658Z">
+        <seg>URL de rappel rejeté invalide</seg>
       </tuv>
     </tu>
     <tu>
@@ -25228,8 +25516,8 @@
       <tuv lang="EN-US">
         <seg>Invalid callback: %s::%s does not exist</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Appel non valide : %s::%s n'existe pas</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140608Z">
+        <seg>Rappel non valide : %s::%s n'existe pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -25510,6 +25798,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>entity_type non valide : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid entry ID.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153718Z">
+        <seg>Identifiant d'entrée invalide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25806,6 +26102,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Format de réponse invalide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid revoke status.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153740Z">
+        <seg>Statut de revocation invalide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28014,6 +28318,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Alertes de nettoyage de logs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in as a customer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153750Z">
+        <seg>Se connecter en tant que client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in as admin</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153806Z">
+        <seg>Se connecter en tant qu'admin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log in as customer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153811Z">
+        <seg>Se connecter en tant que client</seg>
       </tuv>
     </tu>
     <tu>
@@ -31050,6 +31378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Consumer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153818Z">
+        <seg>Nouveau consommateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Credit Memo</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32052,8 +32388,8 @@
       <tuv lang="EN-US">
         <seg>No callbacks found</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Aucun appel trouvé</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140622Z">
+        <seg>Aucun rappel trouvé</seg>
       </tuv>
     </tu>
     <tu>
@@ -33148,16 +33484,40 @@
       <tuv lang="EN-US">
         <seg>OAuth</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120627T155620Z">
-        <seg></seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153832Z">
+        <seg>OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OAuth Admin My Apps</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153850Z">
+        <seg>Admin OAuth - Mes applis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OAuth Authorized Tokens</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153908Z">
+        <seg>Jetons OAuth autorisés</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>OAuth Consumers</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120618T152312Z">
-        <seg>Consommateur d'OAuth</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T142159Z">
+        <seg>Consommateurs d'OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OAuth authorization Pop Up for customer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153936Z">
+        <seg>Pop up d'autorisation OAuth pour le client</seg>
       </tuv>
     </tu>
     <tu>
@@ -33166,6 +33526,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T152326Z">
         <seg>Autorisation OAuth pour l'admin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OAuth authorization for customer</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T153950Z">
+        <seg>Autorisation OAuth pour le client</seg>
       </tuv>
     </tu>
     <tu>
@@ -34638,6 +35006,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Extension PHP '%s' chargée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PHP Extensions "%s" must be loaded.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T132325Z">
+        <seg>Les extensions PHP "%s" doivent être chargées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37451,6 +37827,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please login to proceed authorization.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154005Z">
+        <seg>Veuillez vous connecter pour procéder à l'autorisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please make sure that "%s" is writable by web-server.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37699,6 +38083,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select needed row(s).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154030Z">
+        <seg>Veuillez sélectionner les lignes nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select one of each of the ratings above</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37775,6 +38167,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sélectionnez au moins un commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select revoke status.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154044Z">
+        <seg>Sélectionnez le statut de révocation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40763,6 +41163,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>REST - My Apps</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154051Z">
+        <seg>REST - Mes applis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST - OAuth Authorized Tokens</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154106Z">
+        <seg>REST - Jetons OAuth autorisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>REST - OAuth Consumers</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154117Z">
+        <seg>REST - Consommateurs OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>REST - Roles</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T145347Z">
@@ -41931,6 +42355,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reject OAuth token authorization</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154133Z">
+        <seg>Rejeter l'autorisation de jeton OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reject authorization</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154139Z">
+        <seg>Rejeter l'autorisation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reject token authorization Pop Up for admin</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T153232Z">
@@ -41943,6 +42383,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T153222Z">
         <seg>Refus d'autorisation de jeton pour l'admin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rejected Callback URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154157Z">
+        <seg>URL de rappel rejetée</seg>
       </tuv>
     </tu>
     <tu>
@@ -43311,6 +43759,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Commentaires pour %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revoke</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T132226Z">
+        <seg>Révoquer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revoked</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154204Z">
+        <seg>Révoqué</seg>
       </tuv>
     </tu>
     <tu>
@@ -44779,6 +45243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secret</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154210Z">
+        <seg>Secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secret Word</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -44805,8 +45277,8 @@
       <tuv lang="EN-US">
         <seg>Secure Callback URL</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>URL d'appel de retour sécurisée</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T140523Z">
+        <seg>URL sécurisée de rappel</seg>
       </tuv>
     </tu>
     <tu>
@@ -45191,6 +45663,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La devise d'affichage par défaut ne fait pas partie des devises installées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected entries enabled.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154224Z">
+        <seg>Les entrées sélectionnées ont été activées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected entries has been deleted.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154248Z">
+        <seg>Les entrées sélectionnées ont été supprimées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected entries revoked.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154253Z">
+        <seg>Les entrées sélectionnées ont été révoquées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50579,6 +51075,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The application access request is rejected.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154316Z">
+        <seg>La requête d'accès de l'application est rejetée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The archive can be uncompressed with &lt;a href="%s"&gt;%s&lt;/a&gt; on Windows systems</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50831,6 +51335,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La configuration a été sauvegardée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The consumer has been deleted.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154332Z">
+        <seg>Le consommateur a bien été effacé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The consumer has been saved.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154343Z">
+        <seg>Le consommateur a été sauvegardé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51103,6 +51623,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La version du serveur de base de données ne satisfait pas les pré-requis (nécessaire : %s, actuel : %s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The database server version doesn't match system requirements (required: %s, actual: %s).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T132421Z">
+        <seg>La version du serveur de base de données ne correspond pas aux pré-requis (version requise : %s, version actuelle : %s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53932,6 +54460,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our &lt;a href="%s"&gt;Privacy Policy page&lt;/a&gt;. To accept cookies from this site, please click the Allow button below.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154820Z">
+        <seg>Ce site web utilise des cookies pour fournir l'intégralité de ses fonctionnalités. Pour plus d'informations sur les données contenues dans les cookies, vous pouvez consulter notre &lt;a href="%s"&gt;page de politique de confidentialité&lt;/a&gt;. Pour accepter l'utilisation de cookies sur ce site, veuillez cliquer sur le bouton 'Autoriser' ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will appear in the info section of your App (example:  Copyright 2010 – Your Company, Inc.)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -54328,6 +54864,22 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Changer d'éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Token Status Change</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154354Z">
+        <seg>Changement de statut de jeton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Token Status Change Email Template</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154420Z">
+        <seg>Gabarit de mail de changement de statut de jeton</seg>
       </tuv>
     </tu>
     <tu>
@@ -55844,6 +56396,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to find a consumer.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154429Z">
+        <seg>Impossible de trouver un consommateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to find a page to delete.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56848,6 +57408,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour les quantités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Required</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T132239Z">
+        <seg>Mise à jour nécessaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -60497,6 +61065,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have no applications.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154439Z">
+        <seg>Vous n'avez pas d'applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have no default billing address in your address book.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -61537,6 +62113,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>deleted</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154448Z">
+        <seg>effacé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>does not contain</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -61605,6 +62189,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>nous envoyer un email à </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>enabled</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154453Z">
+        <seg>activé</seg>
       </tuv>
     </tu>
     <tu>
@@ -61997,6 +62589,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>rembourser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>revoked</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T154459Z">
+        <seg>révoqué</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,10 +1,10 @@
 #: %name% '%value%' is too long. It must has length %min% symbols.
 msgid "%name% '%value%' is too long. It must has length %min% symbols."
-msgstr ""
+msgstr "%name% '%value%' est trop long. Il doit avoir maximum %min% symboles."
 
 #: %name% '%value%' is too short. It must has length %min% symbols.
 msgid "%name% '%value%' is too short. It must has length %min% symbols."
-msgstr ""
+msgstr "%name% '%value%' est trop court. Il doit avoir minimum %min% symboles."
 
 #: * Required Fields
 msgid "* Required Fields"
@@ -24,39 +24,39 @@ msgstr "Après l'autorisation, l'application aura accès à votre compte."
 
 #: An error occurred on confirm authorize.
 msgid "An error occurred on confirm authorize."
-msgstr ""
+msgstr "Erreur lors de la confirmation d'autorisation."
 
 #: An error occurred on delete action.
 msgid "An error occurred on delete action."
-msgstr ""
+msgstr "Erreur lors de la suppression de l'action."
 
 #: An error occurred on delete application.
 msgid "An error occurred on delete application."
-msgstr ""
+msgstr "Erreur lors de la suppression de l'application."
 
 #: An error occurred on reject authorize.
 msgid "An error occurred on reject authorize."
-msgstr ""
+msgstr "Erreur lors du refus d'autorisation."
 
 #: An error occurred on saving consumer data.
 msgid "An error occurred on saving consumer data."
-msgstr ""
+msgstr "Erreur lors de la sauvegarde des données du consommateur."
 
 #: An error occurred on update revoke status.
 msgid "An error occurred on update revoke status."
-msgstr ""
+msgstr "Erreur lors de la mise à jour du statut de révocation."
 
 #: An error occurred while deleting the consumer.
 msgid "An error occurred while deleting the consumer."
-msgstr ""
+msgstr "Erreur lors de la suppression du consommateur."
 
 #: An error occurred.
 msgid "An error occurred."
-msgstr ""
+msgstr "Une erreur est survenue."
 
 #: An error occurred. Your authorization request is invalid.
 msgid "An error occurred. Your authorization request is invalid."
-msgstr ""
+msgstr "Une erreur est survenue. Votre demande d'autorisation est invalide."
 
 #: App Name
 msgid "App Name"
@@ -64,15 +64,15 @@ msgstr "Nom de l'appli"
 
 #: Application \"%s\" has been deleted.
 msgid "Application \"%s\" has been deleted."
-msgstr ""
+msgstr "L'application \"%s\" a été supprimée."
 
 #: Application \"%s\" has been enabled.
 msgid "Application \"%s\" has been enabled."
-msgstr ""
+msgstr "L'application \"%s\" a été activée."
 
 #: Application \"%s\" has been revoked.
 msgid "Application \"%s\" has been revoked."
-msgstr ""
+msgstr "L'application \"%s\" a été révoquée."
 
 #: Application Name
 msgid "Application Name"
@@ -80,19 +80,19 @@ msgstr "Nom de l'application"
 
 #: Application not found.
 msgid "Application not found."
-msgstr ""
+msgstr "Application non trouvée."
 
 #: Are you sure you want to delete this application?
 msgid "Are you sure you want to delete this application?"
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir supprimer cette application ?"
 
 #: Are you sure you want to disable this application?
 msgid "Are you sure you want to disable this application?"
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir désactiver cette application ?"
 
 #: Are you sure you want to enable this application?
 msgid "Are you sure you want to enable this application?"
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir activer cette application ?"
 
 #: Authorization confirmed
 msgid "Authorization confirmed"
@@ -100,7 +100,7 @@ msgstr "Autorisation confirmée"
 
 #: Authorization confirmed.
 msgid "Authorization confirmed."
-msgstr ""
+msgstr "Autorisation confirmée."
 
 #: Authorize
 msgid "Authorize"
@@ -112,19 +112,19 @@ msgstr "Autoriser l'application"
 
 #: Authorized Tokens
 msgid "Authorized Tokens"
-msgstr ""
+msgstr "Jetons autorisés"
 
 #: Callback URL
 msgid "Callback URL"
-msgstr ""
+msgstr "URL de rappel"
 
 #: Cleanup Probability
 msgid "Cleanup Probability"
-msgstr ""
+msgstr "Probabilité de nettoyage"
 
 #: Cleanup Settings
 msgid "Cleanup Settings"
-msgstr ""
+msgstr "Paramètres de nettoyage"
 
 #: Close
 msgid "Close"
@@ -132,7 +132,7 @@ msgstr "Fermer"
 
 #: Confirm OAuth token authorization
 msgid "Confirm OAuth token authorization"
-msgstr ""
+msgstr "Confirmer l'autorisation du jeton OAuth"
 
 #: Confirm token authorization Pop Up for admin
 msgid "Confirm token authorization Pop Up for admin"
@@ -148,15 +148,15 @@ msgstr "Confirmation de l'autorisation"
 
 #: Consumer Information
 msgid "Consumer Information"
-msgstr ""
+msgstr "Informations sur le consommateur"
 
 #: Consumer Name
 msgid "Consumer Name"
-msgstr ""
+msgstr "Nom du consommateur"
 
 #: Consumers
 msgid "Consumers"
-msgstr ""
+msgstr "Consommateurs"
 
 #: Created At
 msgid "Created At"
@@ -168,7 +168,7 @@ msgstr "Client"
 
 #: Customer My Account My OAuth Applications
 msgid "Customer My Account My OAuth Applications"
-msgstr ""
+msgstr "Mon compte client - Mes application OAuth"
 
 #: Delete
 msgid "Delete"
@@ -188,7 +188,7 @@ msgstr "Éditer"
 
 #: Edit Consumer
 msgid "Edit Consumer"
-msgstr ""
+msgstr "Éditer le consommateur"
 
 #: Email
 msgid "Email"
@@ -208,11 +208,11 @@ msgstr "Activé"
 
 #: Entry with ID #%s not found.
 msgid "Entry with ID #%s not found."
-msgstr ""
+msgstr "Entrée non trouvée pour l'identifiant #%s"
 
 #: Expiration Period
 msgid "Expiration Period"
-msgstr ""
+msgstr "Période d'expiration"
 
 #: Give the verifier code to application administrator
 msgid "Give the verifier code to application administrator"
@@ -224,23 +224,23 @@ msgstr "ID"
 
 #: Invalid Callback URL
 msgid "Invalid Callback URL"
-msgstr ""
+msgstr "URL de rappel invalide"
 
 #: Invalid ID parameter.
 msgid "Invalid ID parameter."
-msgstr ""
+msgstr "Paramètre identifiant invalide"
 
 #: Invalid Rejected Callback URL
 msgid "Invalid Rejected Callback URL"
-msgstr ""
+msgstr "URL de rappel rejeté invalide"
 
 #: Invalid entry ID.
 msgid "Invalid entry ID."
-msgstr ""
+msgstr "Identifiant d'entrée invalide."
 
 #: Invalid revoke status.
 msgid "Invalid revoke status."
-msgstr ""
+msgstr "Statut de revocation invalide."
 
 #: Key
 msgid "Key"
@@ -252,15 +252,15 @@ msgstr "Connexion"
 
 #: Log in as a customer
 msgid "Log in as a customer"
-msgstr ""
+msgstr "Se connecter en tant que client"
 
 #: Log in as admin
 msgid "Log in as admin"
-msgstr ""
+msgstr "Se connecter en tant qu'admin"
 
 #: Log in as customer
 msgid "Log in as customer"
-msgstr ""
+msgstr "Se connecter en tant que client"
 
 #: Log in to use <strong>%s</strong>
 msgid "Log in to use <strong>%s</strong>"
@@ -280,27 +280,27 @@ msgstr "Nom"
 
 #: New Consumer
 msgid "New Consumer"
-msgstr ""
+msgstr "Nouveau consommateur"
 
 #: OAuth
 msgid "OAuth"
-msgstr ""
+msgstr "OAuth"
 
 #: OAuth Admin My Apps
 msgid "OAuth Admin My Apps"
-msgstr ""
+msgstr "Admin OAuth - Mes applis"
 
 #: OAuth Authorized Tokens
 msgid "OAuth Authorized Tokens"
-msgstr ""
+msgstr "Jetons OAuth autorisés"
 
 #: OAuth Consumers
 msgid "OAuth Consumers"
-msgstr "Consommateur d'OAuth"
+msgstr "Consommateurs d'OAuth"
 
 #: OAuth authorization Pop Up for customer
 msgid "OAuth authorization Pop Up for customer"
-msgstr ""
+msgstr "Pop up d'autorisation OAuth pour le client"
 
 #: OAuth authorization for admin
 msgid "OAuth authorization for admin"
@@ -308,7 +308,7 @@ msgstr "Autorisation OAuth pour l'admin"
 
 #: OAuth authorization for customer
 msgid "OAuth authorization for customer"
-msgstr ""
+msgstr "Autorisation OAuth pour le client"
 
 #: OAuth authorization simple for admin
 msgid "OAuth authorization simple for admin"
@@ -324,27 +324,27 @@ msgstr "Permissions"
 
 #: Please login to proceed authorization.
 msgid "Please login to proceed authorization."
-msgstr ""
+msgstr "Veuillez vous connecter pour procéder à l'autorisation."
 
 #: Please select needed row(s).
 msgid "Please select needed row(s)."
-msgstr ""
+msgstr "Veuillez sélectionner les lignes nécessaires."
 
 #: Please select revoke status.
 msgid "Please select revoke status."
-msgstr ""
+msgstr "Sélectionnez le statut de révocation."
 
 #: REST - My Apps
 msgid "REST - My Apps"
-msgstr ""
+msgstr "REST - Mes applis"
 
 #: REST - OAuth Authorized Tokens
 msgid "REST - OAuth Authorized Tokens"
-msgstr ""
+msgstr "REST - Jetons OAuth autorisés"
 
 #: REST - OAuth Consumers
 msgid "REST - OAuth Consumers"
-msgstr ""
+msgstr "REST - Consommateurs OAuth"
 
 #: Reject
 msgid "Reject"
@@ -352,11 +352,11 @@ msgstr "Rejeter"
 
 #: Reject OAuth token authorization
 msgid "Reject OAuth token authorization"
-msgstr ""
+msgstr "Rejeter l'autorisation de jeton OAuth"
 
 #: Reject authorization
 msgid "Reject authorization"
-msgstr ""
+msgstr "Rejeter l'autorisation"
 
 #: Reject token authorization Pop Up for admin
 msgid "Reject token authorization Pop Up for admin"
@@ -368,7 +368,7 @@ msgstr "Refus d'autorisation de jeton pour l'admin"
 
 #: Rejected Callback URL
 msgid "Rejected Callback URL"
-msgstr ""
+msgstr "URL de rappel rejetée"
 
 #: Rejection Of Authorization
 msgid "Rejection Of Authorization"
@@ -376,7 +376,7 @@ msgstr "Refus d'autorisation"
 
 #: Revoked
 msgid "Revoked"
-msgstr ""
+msgstr "Révoqué"
 
 #: Role Name
 msgid "Role Name"
@@ -392,19 +392,19 @@ msgstr "Sauvegarder et continuer à éditer"
 
 #: Secret
 msgid "Secret"
-msgstr ""
+msgstr "Secret"
 
 #: Selected entries enabled.
 msgid "Selected entries enabled."
-msgstr ""
+msgstr "Les entrées sélectionnées ont été activées."
 
 #: Selected entries has been deleted.
 msgid "Selected entries has been deleted."
-msgstr ""
+msgstr "Les entrées sélectionnées ont été supprimées."
 
 #: Selected entries revoked.
 msgid "Selected entries revoked."
-msgstr ""
+msgstr "Les entrées sélectionnées ont été révoquées."
 
 #: Status
 msgid "Status"
@@ -416,27 +416,27 @@ msgstr "Système"
 
 #: The application access request is rejected.
 msgid "The application access request is rejected."
-msgstr ""
+msgstr "La requête d'accès de l'application est rejetée."
 
 #: The consumer has been deleted.
 msgid "The consumer has been deleted."
-msgstr ""
+msgstr "Le consommateur a bien été effacé."
 
 #: The consumer has been saved.
 msgid "The consumer has been saved."
-msgstr ""
+msgstr "Le consommateur a été sauvegardé."
 
 #: Token Status Change
 msgid "Token Status Change"
-msgstr ""
+msgstr "Changement de statut de jeton"
 
 #: Token Status Change Email Template
 msgid "Token Status Change Email Template"
-msgstr ""
+msgstr "Gabarit de mail de changement de statut de jeton"
 
 #: Unable to find a consumer.
 msgid "Unable to find a consumer."
-msgstr ""
+msgstr "Impossible de trouver un consommateur."
 
 #: User ID
 msgid "User ID"
@@ -456,17 +456,17 @@ msgstr "Code de vérification : %s"
 
 #: You have no applications.
 msgid "You have no applications."
-msgstr ""
+msgstr "Vous n'avez pas d'applications."
 
 #: deleted
 msgid "deleted"
-msgstr ""
+msgstr "effacé"
 
 #: enabled
 msgid "enabled"
-msgstr ""
+msgstr "activé"
 
 #: revoked
 msgid "revoked"
-msgstr ""
+msgstr "révoqué"
 

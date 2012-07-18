@@ -284,7 +284,7 @@ msgstr "par page"
 
 #: &copy; 2012 Magento Demo Store. All Rights Reserved.
 msgid "&copy; 2012 Magento Demo Store. All Rights Reserved."
-msgstr ""
+msgstr "&copy; 2012 Boutique de démo Magento. Tous droits réservés."
 
 #: Allow
 msgid "Allow"
@@ -296,5 +296,5 @@ msgstr "Javascript est désactivé dans votre navigateur."
 
 #: This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.
 msgid "This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href=\"%s\">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below."
-msgstr ""
+msgstr "Ce site web utilise des cookies pour fournir l'intégralité de ses fonctionnalités. Pour plus d'informations sur les données contenues dans les cookies, vous pouvez consulter notre <a href=\"%s\">page de politique de confidentialité</a>. Pour accepter l'utilisation de cookies sur ce site, veuillez cliquer sur le bouton 'Autoriser' ci-dessous."
 
