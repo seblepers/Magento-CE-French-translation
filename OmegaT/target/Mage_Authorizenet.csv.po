@@ -32,7 +32,7 @@ msgstr "Information de carte bancaire"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "Numéro de carte de crédit"
+msgstr "Numéro de carte bancaire"
 
 #: Credit Card Type
 msgid "Credit Card Type"

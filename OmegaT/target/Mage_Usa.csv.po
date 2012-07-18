@@ -1128,7 +1128,7 @@ msgstr ""
 
 #: Inches
 msgid "Inches"
-msgstr ""
+msgstr "Pouces"
 
 #: Jetline
 msgid "Jetline"

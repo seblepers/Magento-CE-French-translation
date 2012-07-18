@@ -404,7 +404,7 @@ msgstr ""
 
 #: Info
 msgid "Info"
-msgstr ""
+msgstr "Informations"
 
 #: Product Tag API
 msgid "Product Tag API"

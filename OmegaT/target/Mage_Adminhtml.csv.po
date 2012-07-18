@@ -880,7 +880,7 @@ msgstr "Créé le"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "Numéro de carte de crédit"
+msgstr "Numéro de carte bancaire"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"

@@ -96,7 +96,7 @@ msgstr "Chèque / Liquide"
 
 #: Credit Card Number
 msgid "Credit Card Number"
-msgstr "Numéro de carte de crédit"
+msgstr "Numéro de carte bancaire"
 
 #: Credit Card Number: xxxx-%s
 msgid "Credit Card Number: xxxx-%s"
@@ -520,35 +520,35 @@ msgstr "ID de processeur"
 
 #: Authorize action is not available.
 msgid "Authorize action is not available."
-msgstr ""
+msgstr "L'action 'autoriser' n'est pas disponible."
 
 #: Bank Transfer Payment
 msgid "Bank Transfer Payment"
-msgstr ""
+msgstr "Paiement par virement bancaire"
 
 #: Cannot retrieve the payment information object instance.
 msgid "Cannot retrieve the payment information object instance."
-msgstr ""
+msgstr "Impossible de récupérer l'instance d'objet des informations de paiement."
 
 #: Cannot retrieve the payment method code.
 msgid "Cannot retrieve the payment method code."
-msgstr ""
+msgstr "Impossible de récupérer le code du mode de paiement."
 
 #: Capture action is not available.
 msgid "Capture action is not available."
-msgstr ""
+msgstr "L'action 'capturer' n'est pas disponible."
 
 #: Cash On Delivery Payment
 msgid "Cash On Delivery Payment"
-msgstr ""
+msgstr "Paiement en espèces à la livraison"
 
 #: Credit card number mismatch with credit card type.
 msgid "Credit card number mismatch with credit card type."
-msgstr ""
+msgstr "Le numéro de carte bancaire ne correspond pas au type de carte bancaire."
 
 #: Credit card type is not allowed for this payment method.
 msgid "Credit card type is not allowed for this payment method."
-msgstr ""
+msgstr "Le type de carte bancaire n'est pas autorisé pour ce mode de paiement."
 
 #: Incorrect credit card expiration date.
 msgid "Incorrect credit card expiration date."
@@ -556,15 +556,15 @@ msgstr "Mauvaise date d'expiration de carte de crédit."
 
 #: Instructions
 msgid "Instructions"
-msgstr ""
+msgstr "Instructions"
 
 #: Invalid Credit Card Number
 msgid "Invalid Credit Card Number"
-msgstr ""
+msgstr "Numéro de carte bancaire invalide"
 
 #: Order action is not available.
 msgid "Order action is not available."
-msgstr ""
+msgstr "L'action 'commande' n'est pas disponible."
 
 #: Please enter a valid credit card verification number.
 msgid "Please enter a valid credit card verification number."
@@ -572,11 +572,11 @@ msgstr "Veuillez saisir un numéro de vérification de carte bancaire valide."
 
 #: Refund action is not available.
 msgid "Refund action is not available."
-msgstr ""
+msgstr "L'action 'rembourser' n'est pas disponible."
 
 #: Selected payment type is not allowed for billing country.
 msgid "Selected payment type is not allowed for billing country."
-msgstr ""
+msgstr "Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation."
 
 #: The requested Payment Method is not available.
 msgid "The requested Payment Method is not available."
@@ -584,5 +584,5 @@ msgstr "La méthode demandée de paiement n'est pas disponible."
 
 #: Void action is not available.
 msgid "Void action is not available."
-msgstr ""
+msgstr "L'action 'annuler' n'est pas disponible."
 

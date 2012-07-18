@@ -141,7 +141,7 @@
 "Coupon code is empty.","Le code de réduction est vide."
 "Coupon code was canceled.","Le coupon de réduction a été annulé."
 "Creating a Template is allowed only for applications which have device type iPhone.","La création d'un gabarit n'est autorisée que pour les applications dont le type de terminal est l'iPhone."
-"Credit Card Number","Numéro de carte de crédit"
+"Credit Card Number","Numéro de carte bancaire"
 "Credit Card Type","Type de carte de crédit"
 "Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte."
 "Current Password","Mot de passe actuel"

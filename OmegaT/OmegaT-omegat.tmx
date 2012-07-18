@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="%1$s" onclick="this.target='blank'"&gt;%2$s %3$s&lt;/a&gt; &lt;a href="mailto:%4$s"&gt;(%4$s)&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161416Z">
+        <seg>&lt;a href="%1$s" onclick="this.target='blank'"&gt;%2$s %3$s&lt;/a&gt; &lt;a href="mailto:%4$s"&gt;(%4$s)&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href="%s" target="_blank"&gt;Link&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -2162,6 +2170,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Accepter ou refuser un paiement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160716Z">
+        <seg>Accepter les paiements avec un passage de commande conforme à la norme PCI et avec lequel les clients restent sur votre site. Ça inclut un compte commerçant de PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160807Z">
+        <seg>Accepter les paiements avec un passage de commande conforme à la norme PCI et avec lequel les clients restent sur votre site. À utiliser avec votre propre compte commerçant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4086,6 +4110,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Tous les commentaires du client '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Reviews of Product `%s`</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161433Z">
+        <seg>Tous les commentaires pour le produit '%s'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorize action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T155832Z">
+        <seg>L'action 'autoriser' n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorize and Capture</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7806,6 +7846,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Banque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bank Transfer Payment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T155917Z">
+        <seg>Paiement par virement bancaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -8986,6 +9034,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CNPJ</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160412Z">
+        <seg>CNPJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPF</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160429Z">
+        <seg>CPF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CRITICAL</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10018,6 +10082,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot retrieve the payment information object instance.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T155942Z">
+        <seg>Impossible de récupérer l'instance d'objet des informations de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot retrieve the payment method code.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T155958Z">
+        <seg>Impossible de récupérer le code du mode de paiement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot retrieve the payment method model object.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10254,6 +10334,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Capturer en ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160011Z">
+        <seg>L'action 'capturer' n'est pas disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10502,6 +10590,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T162246Z">
         <seg>Sensible à la casse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cash On Delivery Payment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160032Z">
+        <seg>Paiement en espèces à la livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -11734,6 +11830,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T122045Z">
         <seg>Cliquez pour afficher le prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click here if you are not redirected within 10 seconds...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160830Z">
+        <seg>Cliquez ici si vous n'êtes pas redirigé dans les 10 secondes...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13508,8 +13612,8 @@
       <tuv lang="EN-US">
         <seg>Credit Card Number</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Numéro de carte de crédit</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160201Z">
+        <seg>Numéro de carte bancaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -13710,6 +13814,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le numéro de carte ne correspond pas au type de carte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit card number mismatch with credit card type.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160058Z">
+        <seg>Le numéro de carte bancaire ne correspond pas au type de carte bancaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit card type is not allowed for this payment method.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160116Z">
+        <seg>Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14374,6 +14494,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Groupes clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Groups must be specified.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161534Z">
+        <seg>Les groupes client doivent être spécifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17250,6 +17378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Express Checkout in the Payment Information step</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160857Z">
+        <seg>Afficher le paiement Express dans l'étape des informations de paiement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display Full Tax Summary</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -19158,6 +19294,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Clé de cryptage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Date must be greater than Start Date.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161545Z">
+        <seg>La date de fin doit être postérieure à la date de début</seg>
       </tuv>
     </tu>
     <tu>
@@ -21374,6 +21518,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Pour les transactions d'achat uniquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For Virtual Quotes Only</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160926Z">
+        <seg>Pour les commandes virtuelles uniquement</seg>
       </tuv>
     </tu>
     <tu>
@@ -24930,6 +25082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160120Z">
+        <seg>Instructions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T122829Z">
@@ -25086,6 +25246,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T140644Z">
         <seg>URL de rappel invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Credit Card Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160137Z">
+        <seg>Numéro de carte bancaire invalide</seg>
       </tuv>
     </tu>
     <tu>
@@ -32210,6 +32378,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nickname can't be empty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161444Z">
+        <seg>Le surnom ne peut pas être vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34506,6 +34682,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160235Z">
+        <seg>L'action 'commande' n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order can't save</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35686,6 +35870,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarqué sur mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Payments Advanced</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160939Z">
+        <seg>Paiements PayPal avancé</seg>
       </tuv>
     </tu>
     <tu>
@@ -38383,6 +38575,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T152856Z">
         <seg>Saisissez les lettres de l'image :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please update order data to get shipping methods and rates</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161016Z">
+        <seg>Veuillez mettre à jour les données de commande pour obtenir les modes et tarifs de livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -41179,6 +41379,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RSS Feeds Section</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161519Z">
+        <seg>Section des flux RSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RSS link to %s's wishlist</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41987,6 +42195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refund action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160254Z">
+        <seg>L'action 'rembourser' n'est pas disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refund issued by merchant.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -42791,6 +43007,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T100908Z">
         <seg>Imposer au client d'être connecté pour passer une commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Require Customer's Billing Address</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161028Z">
+        <seg>Nécessite l'adresse de facturation du client</seg>
       </tuv>
     </tu>
     <tu>
@@ -43635,6 +43859,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review can't be empty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161453Z">
+        <seg>Le commentaire ne peut pas être vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review summary can't be empty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161507Z">
+        <seg>Le résumé de commentaire ne peut pas être vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review: %s &lt;br/&gt;</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -44359,6 +44599,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Identique à l'adresse de facturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same as shipping</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161037Z">
+        <seg>Identique à la livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -45595,6 +45843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected payment type is not allowed for billing country.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160317Z">
+        <seg>Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selected problem subscribers have been unsubscribed.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46007,6 +46263,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Séparément</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server Error. Please try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161049Z">
+        <seg>Erreur de serveur. Veuillez réessayer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47239,6 +47503,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le contenu du panier et/ou l'adresse a/ont été modifié(s).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shopping cart has been updated with appropriate prices</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161327Z">
+        <seg>Le panier a été mis à jour avec les prix correspondant</seg>
       </tuv>
     </tu>
     <tu>
@@ -54027,6 +54299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feature needs be enabled first for the merchant account through PayPal technical support.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161148Z">
+        <seg>Cette fonctionnalité doit d'abord être activée pour le compte commerçant via le support technique de PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This group contains attributes, used in configurable products. Please move these attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -54680,6 +54960,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Pour importer des commandes, il est nécessaire d'importer les clients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To proceed to Checkout, please log in using your email address.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161349Z">
+        <seg>Pour continuer la commande, veuillez vous connecter en utilisant votre email.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56732,6 +57020,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to update Order data.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161203Z">
+        <seg>Impossible de mettre à jour les données de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to update shipping method.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56944,6 +57240,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur inconnue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown Error. Please try again later.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161217Z">
+        <seg>Erreur inconnue. Veuillez réessayer plus tard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57256,6 +57560,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour les articles et quantités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Order Data</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161230Z">
+        <seg>Mettre à jour les données de commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -58692,6 +59004,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vendor / Merchant Login</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161244Z">
+        <seg>Identifiant de vendeur / commerçant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vendor Email</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -59128,6 +59448,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Invalider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Void action is not available.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T160330Z">
+        <seg>L'action 'annuler' n'est pas disponible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59637,6 +59965,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sites web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Websites must be specified.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161606Z">
+        <seg>Les sites web doivent être spécifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60837,6 +61173,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Vous ne pouvez pas envoyer plus de %d emails à la fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cannot void a verification transaction</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T161304Z">
+        <seg>Vous ne pouvez pas annuler une transaction de vérification</seg>
       </tuv>
     </tu>
     <tu>

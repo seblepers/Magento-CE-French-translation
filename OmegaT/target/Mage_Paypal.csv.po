@@ -1704,11 +1704,11 @@ msgstr "Type d'ID de taxe de l'acheteur"
 
 #: CNPJ
 msgid "CNPJ"
-msgstr ""
+msgstr "CNPJ"
 
 #: CPF
 msgid "CPF"
-msgstr ""
+msgstr "CPF"
 
 #: Centinel Custom API URL
 msgid "Centinel Custom API URL"
@@ -1852,11 +1852,11 @@ msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal.
 msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site.  Includes a merchant account from PayPal."
-msgstr ""
+msgstr "Accepter les paiements avec un passage de commande conforme à la norme PCI et avec lequel les clients restent sur votre site. Ça inclut un compte commerçant de PayPal."
 
 #: Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account.
 msgid "Accept payments with a PCI-compliant checkout that keeps customers on your site. For use with your own merchant account."
-msgstr ""
+msgstr "Accepter les paiements avec un passage de commande conforme à la norme PCI et avec lequel les clients restent sur votre site. À utiliser avec votre propre compte commerçant."
 
 #: Address
 msgid "Address"
@@ -1868,7 +1868,7 @@ msgstr "Ville"
 
 #: Click here if you are not redirected within 10 seconds...
 msgid "Click here if you are not redirected within 10 seconds..."
-msgstr ""
+msgstr "Cliquez ici si vous n'êtes pas redirigé dans les 10 secondes..."
 
 #: Company
 msgid "Company"
@@ -1884,7 +1884,7 @@ msgstr "Informations client"
 
 #: Display Express Checkout in the Payment Information step
 msgid "Display Express Checkout in the Payment Information step"
-msgstr ""
+msgstr "Afficher le paiement Express dans l'étape des informations de paiement"
 
 #: Email Address
 msgid "Email Address"
@@ -1896,11 +1896,11 @@ msgstr "Fax"
 
 #: For Virtual Quotes Only
 msgid "For Virtual Quotes Only"
-msgstr ""
+msgstr "Pour les commandes virtuelles uniquement"
 
 #: PayPal Payments Advanced
 msgid "PayPal Payments Advanced"
-msgstr ""
+msgstr "Paiements PayPal avancé"
 
 #: Payment transactions disallow storing objects.
 msgid "Payment transactions disallow storing objects."
@@ -1912,19 +1912,19 @@ msgstr "Sélectionnez un département / état"
 
 #: Please update order data to get shipping methods and rates
 msgid "Please update order data to get shipping methods and rates"
-msgstr ""
+msgstr "Veuillez mettre à jour les données de commande pour obtenir les modes et tarifs de livraison"
 
 #: Require Customer's Billing Address
 msgid "Require Customer's Billing Address"
-msgstr ""
+msgstr "Nécessite l'adresse de facturation du client"
 
 #: Same as shipping
 msgid "Same as shipping"
-msgstr ""
+msgstr "Identique à la livraison"
 
 #: Server Error. Please try again.
 msgid "Server Error. Please try again."
-msgstr ""
+msgstr "Erreur de serveur. Veuillez réessayer."
 
 #: State/Province
 msgid "State/Province"
@@ -1944,7 +1944,7 @@ msgstr "Téléphone"
 
 #: This feature needs be enabled first for the merchant account through PayPal technical support.
 msgid "This feature needs be enabled first for the merchant account through PayPal technical support."
-msgstr ""
+msgstr "Cette fonctionnalité doit d'abord être activée pour le compte commerçant via le support technique de PayPal."
 
 #: This operation requires an existing transaction object.
 msgid "This operation requires an existing transaction object."
@@ -1956,27 +1956,27 @@ msgstr "ID Transaction ne doit pas être vide."
 
 #: Unable to update Order data.
 msgid "Unable to update Order data."
-msgstr ""
+msgstr "Impossible de mettre à jour les données de commande."
 
 #: Unknown Error. Please try again later.
 msgid "Unknown Error. Please try again later."
-msgstr ""
+msgstr "Erreur inconnue. Veuillez réessayer plus tard."
 
 #: Update Order Data
 msgid "Update Order Data"
-msgstr ""
+msgstr "Mettre à jour les données de commande"
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 
 #: Vendor / Merchant Login
 msgid "Vendor / Merchant Login"
-msgstr ""
+msgstr "Identifiant de vendeur / commerçant"
 
 #: You cannot void a verification transaction
 msgid "You cannot void a verification transaction"
-msgstr ""
+msgstr "Vous ne pouvez pas annuler une transaction de vérification"
 
 #: Zip/Postal Code
 msgid "Zip/Postal Code"

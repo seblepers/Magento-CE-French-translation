@@ -3496,7 +3496,7 @@ msgstr ""
 
 #: Clear Shopping Cart
 msgid "Clear Shopping Cart"
-msgstr ""
+msgstr "Vider le panier"
 
 #: Controls whether customer IP is shown in orders, invoices, shipments, credit memos.
 msgid "Controls whether customer IP is shown in orders, invoices, shipments, credit memos."

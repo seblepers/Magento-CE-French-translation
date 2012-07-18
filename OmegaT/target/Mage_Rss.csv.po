@@ -232,5 +232,5 @@ msgstr "Commande"
 
 #: RSS Feeds Section
 msgid "RSS Feeds Section"
-msgstr ""
+msgstr "Section des flux RSS"
 

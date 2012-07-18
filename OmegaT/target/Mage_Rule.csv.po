@@ -140,13 +140,13 @@ msgstr "à"
 
 #: Customer Groups must be specified.
 msgid "Customer Groups must be specified."
-msgstr ""
+msgstr "Les groupes client doivent être spécifiés."
 
 #: End Date must be greater than Start Date.
 msgid "End Date must be greater than Start Date."
-msgstr ""
+msgstr "La date de fin doit être postérieure à la date de début"
 
 #: Websites must be specified.
 msgid "Websites must be specified."
-msgstr ""
+msgstr "Les sites web doivent être spécifiés."
 

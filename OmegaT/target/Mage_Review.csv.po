@@ -360,21 +360,21 @@ msgstr "Produits commentés"
 
 #: <a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>
 msgid "<a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>"
-msgstr ""
+msgstr "<a href=\"%1$s\" onclick=\"this.target='blank'\">%2$s %3$s</a> <a href=\"mailto:%4$s\">(%4$s)</a>"
 
 #: All Reviews of Product `%s`
 msgid "All Reviews of Product `%s`"
-msgstr ""
+msgstr "Tous les commentaires pour le produit '%s'"
 
 #: Nickname can't be empty
 msgid "Nickname can't be empty"
-msgstr ""
+msgstr "Le surnom ne peut pas être vide"
 
 #: Review can't be empty
 msgid "Review can't be empty"
-msgstr ""
+msgstr "Le commentaire ne peut pas être vide"
 
 #: Review summary can't be empty
 msgid "Review summary can't be empty"
-msgstr ""
+msgstr "Le résumé de commentaire ne peut pas être vide"
 
