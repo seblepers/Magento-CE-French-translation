@@ -1700,20 +1700,8 @@ msgstr "Passez la commande"
 msgid "<strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
 msgstr ""
 
-#: "After selecting a new media storage location, press the Synchronize button
-msgid ""After selecting a new media storage location, press the Synchronize button"
-msgstr ""
-
-#: to transfer all media to that location. Media will not be available in the new
-msgid "to transfer all media to that location. Media will not be available in the new"
-msgstr ""
-
-#: location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
-msgid "location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button"
-msgstr ""
-
-#: location until the synchronization process is complete."
-msgid "location until the synchronization process is complete.""
+#: "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
+msgid "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
 msgstr ""
 
 #: Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!
@@ -1808,16 +1796,16 @@ msgstr ""
 msgid "PHP SOAP extension is required."
 msgstr ""
 
-#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../"
-msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../""
+#: Requested file may not include parent directory traversal (\"../\", \"..\\\" notation)
+msgid "Requested file may not include parent directory traversal (\"../\", \"..\\\" notation)"
 msgstr ""
 
 #: Please enter a number 1 or greater in this field.
 msgid "Please enter a number 1 or greater in this field."
 msgstr ""
 
-#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page"
-msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page""
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
 msgstr ""
 
 #: Please select a file
@@ -1830,10 +1818,6 @@ msgstr ""
 
 #: Recovery Link Expiration Period (days)
 msgid "Recovery Link Expiration Period (days)"
-msgstr ""
-
-#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../"
-msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../""
 msgstr ""
 
 #: Retrieve info about current Magento installation

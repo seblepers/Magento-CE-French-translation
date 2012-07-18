@@ -192,9 +192,9 @@ msgstr "La date spécifiée est invalide."
 
 #: Maximum Search query length is %s. Your query was cut.
 msgid "Maximum Search query length is %s. Your query was cut."
-msgstr ""
+msgstr "La longueur maxi de requête de recherche est %s. Votre recherche a été coupée."
 
 #: Maximum words count is %1$s. In your search query was cut next part: %2$s.
 msgid "Maximum words count is %1$s. In your search query was cut next part: %2$s."
-msgstr ""
+msgstr "Le nombre maxi de mots est %1$s. Votre requête a été coupée de la façon suivante : %2$s."
 

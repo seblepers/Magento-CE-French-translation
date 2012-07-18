@@ -206,14 +206,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>"After selecting a new media storage location, press the Synchronize button</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140856Z">
-        <seg>Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>"Description" is more than %d characters long</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -1602,6 +1594,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>&lt;strong style="color:red"&gt;Attention !&lt;/strong&gt; Lors de l'utilisation de CDN, le code JavaScript peut ne pas fonctionner correctement si le CDN ne se trouve pas dans un sous-domaine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;strong style="color:red"&gt;Warning!&lt;/strong&gt; When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101924Z">
+        <seg>&lt;strong style="color:red"&gt;Attention !&lt;/strong&gt; Lors de l'utilisation des codes de magasin dans les URLs, le système peut ne pas fonctionner correctement dans certains cas si des URLs sans code sont spécifiées dans des services tiers (par ex. PayPal). </seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,6 +4450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102303Z">
+        <seg>Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allowed file types: jpeg, gif, png.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6826,6 +6834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164706Z">
+        <seg>Les code d'attribut est invalide. Utilisez uniquement des lettres (a-z), des chiffres (0-9) our des underscores (_). Le premier caractère doit être une lettre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attribute group with the "/name/" name already exists</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6838,6 +6854,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>L'objet attribut est indéfini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribute remove</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164716Z">
+        <seg>Suppression d'attribut</seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,6 +7794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Base Secure URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102314Z">
+        <seg>URL de base sécurisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base Shipping</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T160312Z">
@@ -7854,6 +7886,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>URL de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base Unsecure URL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102323Z">
+        <seg>URL de base non sécurisée</seg>
       </tuv>
     </tu>
     <tu>
@@ -8894,6 +8934,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T160418Z">
         <seg>Peut-être séparé en plusieurs colis pour la livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be Divided into Multiple Boxes for Shipping</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164738Z">
+        <seg>Peut être divisé en plusieurs colis pour la livraison</seg>
       </tuv>
     </tu>
     <tu>
@@ -10554,6 +10602,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Catalog product custom option values API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164810Z">
+        <seg>API de valeurs d'options personnalisables pour les produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Catalog product custom options API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164831Z">
+        <seg>API d'options personnalisables pour les produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Catalog, Search</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -11382,6 +11446,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T181701Z">
         <seg>Effacer la persistance lors de la déconnexion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Price</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164837Z">
+        <seg>Effacer le prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Shopping Cart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100503Z">
+        <seg>Vider le panier</seg>
       </tuv>
     </tu>
     <tu>
@@ -12410,6 +12490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cookie Restriction Mode</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102340Z">
+        <seg>Mode de restriction de cookie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12462,6 +12550,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Logo de la page de copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Core</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102345Z">
+        <seg>Noyau</seg>
       </tuv>
     </tu>
     <tu>
@@ -12858,6 +12954,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Permanent Redirect for URLs if URL Key Changed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164903Z">
+        <seg>Créer une redirection permanente pour les URLs si la clé d'URL change</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Permanent Redirect for old URL</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12970,6 +13074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create attribute set based on another set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164922Z">
+        <seg>Créer un jeu d'attributs basé sur un autre jeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create customer</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12982,6 +13094,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Créer une adresse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new attribute</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164931Z">
+        <seg>Créer un nouvel attribut</seg>
       </tuv>
     </tu>
     <tu>
@@ -13770,10 +13890,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom currency symbols were applied successfully.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103836Z">
+        <seg>Les symboles de devise personnalisés ont bien été appliqués.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164937Z">
+        <seg>Options personnalisables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom price if available</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Prix personnalisé si disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom1 Contact Email</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102446Z">
+        <seg>Email du contact personnalisé 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom1 Contact Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102420Z">
+        <seg>Nom du contact personnalisé 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom2 Contact Email</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102455Z">
+        <seg>Email du contact personnalisé 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom2 Contact Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102502Z">
+        <seg>Nom du contact personnalisé 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -13838,6 +14006,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T160523Z">
         <seg>ID de l'adresse du client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer Address is not valid.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100517Z">
+        <seg>L'adresse du client n'est pas valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15930,6 +16106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Group Price</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T164954Z">
+        <seg>Supprimer le prix pour le groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Image</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -16110,6 +16294,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Supprimer le site web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete attribute</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T165003Z">
+        <seg>Supprimer l'attribut</seg>
       </tuv>
     </tu>
     <tu>
@@ -16748,8 +16940,8 @@
       <tuv lang="EN-US">
         <seg>Display Actual Price</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T135528Z">
-        <seg>Afficher les prix actuels</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T165821Z">
+        <seg>Afficher les vrais prix</seg>
       </tuv>
     </tu>
     <tu>
@@ -16794,6 +16986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display Price Interval as One Price</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T165211Z">
+        <seg>Afficher l'intervale de prix en un seul prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display Prices</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -16830,6 +17030,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Afficher les prix dans les fiches produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Product Count</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T165219Z">
+        <seg>Afficher le nombre de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -17226,6 +17434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate website group price customer group.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T165716Z">
+        <seg>Doublon dans la correspondance de prix pour un groupe client et pour un même site web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate website tier price customer group and quantity.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17494,6 +17710,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Éditer la classe '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Condition</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100527Z">
+        <seg>Éditer la condition</seg>
       </tuv>
     </tu>
     <tu>
@@ -18278,6 +18502,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Activer la livraison numérique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Discount to Subproducts</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100325Z">
+        <seg>Activer les remises sur les sous-produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -19110,6 +19342,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Prioritaire Europe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>European Union Countries</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102513Z">
+        <seg>Pays de l'Union Européenne</seg>
       </tuv>
     </tu>
     <tu>
@@ -20362,6 +20602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File not found</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102518Z">
+        <seg>Fichier non trouvé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File options format is not valid.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20390,6 +20638,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>L'envoi de fichier a échoué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File with an extension "%value%" is protected and cannot be uploaded</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102604Z">
+        <seg>Le fichier avec l'extension "%value%" est protégé et ne peut pas être uploadé</seg>
       </tuv>
     </tu>
     <tu>
@@ -20862,6 +21118,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Pour les expéditions avec articles concordants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the last time placed.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T170411Z">
+        <seg>Lors de la dernière requête.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21362,6 +21626,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General Contact Email</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102623Z">
+        <seg>Email du contact général</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Contact Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102629Z">
+        <seg>Nom du contact général</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General Currency Conversion</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -21650,10 +21930,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get full information about attribute with list of options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T170452Z">
+        <seg>Récupérer l'information complète sur l'attribut avec la liste d'options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get full information about custom option in product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T170519Z">
+        <seg>Récupérer l'information complète sur l'option personnalisable dans le produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get help for this page</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Obtenir de l'aide pour cette page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get info about current Magento installation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102646Z">
+        <seg>Récupérer des informations sur l'installation Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get list of available custom option types</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120627T170616Z">
+        <seg>Récupérer la liste des types d'options personnalisables disponibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -21670,6 +21982,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer la liste des modes de livraison disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get list of non-default attributes by product type and attributes set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094153Z">
+        <seg>Récupérer la liste des attributs pas par défaut par type de produit et jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get list of possible attribute types</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094212Z">
+        <seg>Récupérer la liste des types d'attributs possibles</seg>
       </tuv>
     </tu>
     <tu>
@@ -22386,6 +22714,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group add</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094408Z">
+        <seg>Ajout d'un groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group remove</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094417Z">
+        <seg>Suppression d'un groupe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22462,6 +22806,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>En-tête HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTML tags are not allowed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102658Z">
+        <seg>Les balises HTML ne sont pas autorisées</seg>
       </tuv>
     </tu>
     <tu>
@@ -23954,6 +24306,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094422Z">
+        <seg>Informations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info Column Options Wrapper</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24258,6 +24618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interval Division Limit</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094516Z">
+        <seg>Limite de division d'intervalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intl Economy Freight</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -24430,6 +24798,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Type de code CGI UPS non valide : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid URL '%value%'.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102713Z">
+        <seg>URL invalide : '%value%'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24674,6 +25050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid checkout type.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100540Z">
+        <seg>Type de passage de commande invalide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid connection</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T153347Z">
@@ -24806,6 +25190,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Données de ligne invalides. Veuillez définir un jeu de lignes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid email address "%s"</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100553Z">
+        <seg>L'email "%s" est invalide</seg>
       </tuv>
     </tu>
     <tu>
@@ -27122,6 +27514,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>List of stores</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102905Z">
+        <seg>Liste des magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>List of types</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094523Z">
+        <seg>Liste de types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Live</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -27482,6 +27890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Logo Image</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102912Z">
+        <seg>Image du logo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Logo Image Alt</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -27794,6 +28210,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magento info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102924Z">
+        <seg>Informations sur Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magento info API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102934Z">
+        <seg>API d'informations sur Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magento is a trademark of Magento Inc. Copyright &amp;copy; %s Magento Inc.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -28026,6 +28458,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Currency</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103844Z">
+        <seg>Gérer la devise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency Rates</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -28190,6 +28630,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Gérer les zones de taxes et les taux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Terms and Conditions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100611Z">
+        <seg>Gérer les CGV</seg>
       </tuv>
     </tu>
     <tu>
@@ -28482,6 +28930,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum Number of Price Intervals</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094539Z">
+        <seg>Nombre maxi d'intervalles de prix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum Order Total</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -28550,6 +29006,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La longueur maxi de requête de recherche est %s. Votre requête a été coupée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Search query length is %s. Your query was cut.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100403Z">
+        <seg>La longueur maxi de requête de recherche est %s. Votre recherche a été coupée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28634,6 +29098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum number of price intervals is 100</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094647Z">
+        <seg>Le nombre maxi d'intervalles de prix est 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum qty allowed for Shipping to multiple addresses is %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -28646,6 +29118,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Montant maximum des expéditions permettant le remboursement : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum words count is %1$s. In your search query was cut next part: %2$s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100447Z">
+        <seg>Le nombre maxi de mots est %1$s. Votre requête a été coupée de la façon suivante : %2$s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29174,6 +29654,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Taux de TVA mini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum order amount is %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100635Z">
+        <seg>Le montant minimal de commande est %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -30778,6 +31266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Terms and Conditions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100642Z">
+        <seg>Nouvelles CGV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New User</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32298,6 +32794,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of results</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094653Z">
+        <seg>Nombre de résultats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of results (For the last time placed)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094754Z">
+        <seg>Nombre de résultats (retournés lors de la dernière recherche)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of results&lt;br/&gt;(For the last time placed)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32830,6 +33342,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La validation d'option a échoué lors de l'ajout du produit au panier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Option values</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T094800Z">
+        <seg>Valeurs d'option</seg>
       </tuv>
     </tu>
     <tu>
@@ -33818,6 +34338,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PHP SOAP extension is required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102956Z">
+        <seg>L'extension SOAP de PHP est requise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PHP Version</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34382,14 +34910,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le chemin "%value%" ne peut pas remonter vers le répertoire parent ("../", "..\").</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Path "%value%" may not include parent directory traversal ("../", "..\)."","Path "%value%" may not include parent directory traversal ("../"</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le chemin "%value%" ne peut pas inclure</seg>
       </tuv>
     </tu>
     <tu>
@@ -35755,10 +36275,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check billing address information.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100702Z">
+        <seg>Vérifiez les informations de l'adresse de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please check default website or input website code in General Information</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez choisir le site web par défaut ou le code du site web dans Informations générales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check shipping address information.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100719Z">
+        <seg>Vérifiez les informations de l'adresse de livraison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check shipping addresses information.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100737Z">
+        <seg>Vérifiez les informations des adresses de livraison.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35987,6 +36531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please enter a number 1 or greater in this field.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103020Z">
+        <seg>Saisissez un nombre supérieur ou égal à 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please enter a number greater than 0 in this field.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36015,14 +36567,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez saisir une URL valide. Par exemple "page-exemple", "page-exemple.html" ou "niveau/page-exemple".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Please enter a valid URL Key. For example "example-page", "example-page.html" or "anotherlevel/example-page".","Please enter a valid URL Key. For example "example-page"</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Saisissez une clé d'url valide. Par exemple, "page-exemple", "page-exemple.html" ou "autreniveau/page-exemple".</seg>
       </tuv>
     </tu>
     <tu>
@@ -36635,6 +37179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select a file</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103029Z">
+        <seg>Sélectionnez un fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select a product</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36867,6 +37419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select valid payment method.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100750Z">
+        <seg>Sélectionnez un mode de paiement valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please set all required settings before clicking Continue</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36979,10 +37539,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please specify shipping methods for all addresses.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100821Z">
+        <seg>Spécifiez le mode de livraison pour chaque adresse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please specify the admin custom URL.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Spécifiez l'URL d'admin personnalisée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please specify the number of products, that will not be divided into subintervals.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095736Z">
+        <seg>Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37223,6 +37799,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez utiliser uniquement des lettres (a-z ou A-Z), chiffres (0-9) ou underscore (_) dans le nom du fichier. Les espaces et autres caractères ne sont pas autorisés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103049Z">
+        <seg>Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40347,6 +40931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recovery Link Expiration Period (days)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103144Z">
+        <seg>Durée avant expiration d'un lien de récupération (en jours)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rectangular</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41091,6 +41683,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove attribute from attribute set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095810Z">
+        <seg>Supprimer l'attribut du jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove attribute set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095756Z">
+        <seg>Supprimer le jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove coupon code from shopping cart</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41099,10 +41707,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove custom option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095825Z">
+        <seg>Supprimer l'option personnalisable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove group from attribute set</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095840Z">
+        <seg>Supprimer le groupe du jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove item</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Retirer l'article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095846Z">
+        <seg>Supprimer l'option</seg>
       </tuv>
     </tu>
     <tu>
@@ -41151,6 +41783,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Supprimer le numéro de suivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove value from custom option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095904Z">
+        <seg>Supprimer la valeur de l'option personnalisable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename existing group</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095917Z">
+        <seg>Renommer un groupe existant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename group</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095923Z">
+        <seg>Renommer le groupe</seg>
       </tuv>
     </tu>
     <tu>
@@ -41275,6 +41931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requested file may not include parent directory traversal ("../", "..\" notation)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103657Z">
+        <seg>Le fichier demandé ne doit pas utiliser de chemin relatif (notation avec "../" ou "..\")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requested invalid store "%s"</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41295,6 +41959,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Entrée CVV Exiger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Require Customer To Be Logged In To Checkout</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100908Z">
+        <seg>Imposer au client d'être connecté pour passer une commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -41675,6 +42347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve info about current Magento installation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103537Z">
+        <seg>Récupérer des informations sur l'installation Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retrieve information about shopping cart</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41723,10 +42403,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve list of option values</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095934Z">
+        <seg>Récupérer la liste des valeurs d'option</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retrieve list of orders by filters</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer la liste filtrée des commandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve list of product custom options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T095950Z">
+        <seg>Récupérer la liste des options personnalisables de produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -41743,6 +42439,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer un niveau des catégories par site web/magasin/catégorie parente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve option value info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100007Z">
+        <seg>Récupérer les informations d'une valeur d'option</seg>
       </tuv>
     </tu>
     <tu>
@@ -41879,6 +42583,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer les données de stock par identifiants de produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve store data</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103706Z">
+        <seg>Récupérer les données du magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve store list</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103715Z">
+        <seg>Récupérer la liste des magasins</seg>
       </tuv>
     </tu>
     <tu>
@@ -42675,6 +43395,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sales Representative Contact Email</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103728Z">
+        <seg>Email du contact représentant des ventes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sales Representative Contact Name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103735Z">
+        <seg>Nom du contact représentant des ventes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sales Section</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -42935,6 +43671,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sauvegarder les taux de devises</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Currency Symbols</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103855Z">
+        <seg>Enregistrer les symboles de devise</seg>
       </tuv>
     </tu>
     <tu>
@@ -46347,6 +47091,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, guest checkout is not enabled. Please try again or contact store owner.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101541Z">
+        <seg>Désolé, le passage de commande en tant qu'invité n'est pas autorisé. Veuillez réessayer ou contacter le magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, guest checkout is not enabled. Please try again or contact the store owner.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101608Z">
+        <seg>Désolé, le passage de commande en tant qu'invité n'est pas autorisé. Veuillez réessayer ou contacter le magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, no payment options are available for this order at this time.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47051,6 +47811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Store API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103743Z">
+        <seg>API des magasins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Store Contact Address</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47723,6 +48491,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subtotal must exceed minimum order amount</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101644Z">
+        <seg>Le sous-total doit être supérieur au montant minimal de commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtotal:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47967,6 +48743,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T153404Z">
         <seg>Symbole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Symbols</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103859Z">
+        <seg>Symboles</seg>
       </tuv>
     </tu>
     <tu>
@@ -52412,6 +53196,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This setting will be applied when all prices in the specific price interval are equal.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100050Z">
+        <seg>Ce paramétrage s'appliquera lorsque tous les prix seront égaux dans l'intervalle de prix spécifique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -55444,6 +56236,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update attribute</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100104Z">
+        <seg>Mettre à jour l'attribut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update attributes</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -55456,6 +56256,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour la catégorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update custom option of product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100120Z">
+        <seg>Mettre à jour l'option personnalisable de produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -55560,6 +56368,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour le produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update value of custom option</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100142Z">
+        <seg>Mettre à jour les valeurs d'option personnalisable</seg>
       </tuv>
     </tu>
     <tu>
@@ -56012,6 +56828,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Standard</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103911Z">
+        <seg>Utiliser le standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use Static URLs for Media Content in WYSIWYG for Catalog</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56440,6 +57264,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Utiliser le nom du magasin par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAT Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101651Z">
+        <seg>Numéro de TVA</seg>
       </tuv>
     </tu>
     <tu>
@@ -57925,6 +58757,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Apparaît comme une option de paiement uniquement pour les clients qui ont au moins une entente de facturation active.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will make search for the query above return results for this search.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T100248Z">
+        <seg>Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59545,6 +60385,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your order has been received.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T101702Z">
+        <seg>Votre commande a bien été reçue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your order has not been placed, because contents of the shopping cart and/or address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process for your recent cart contents.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60209,14 +61057,6 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140936Z">
-        <seg>Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>major</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60501,14 +61341,6 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>à</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>to transfer all media to that location. Media will not be available in the new</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140918Z">
-        <seg>                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel</seg>
       </tuv>
     </tu>
     <tu>

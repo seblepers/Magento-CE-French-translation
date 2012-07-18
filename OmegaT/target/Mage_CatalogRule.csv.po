@@ -256,7 +256,7 @@ msgstr "Remise"
 
 #: Enable Discount to Subproducts
 msgid "Enable Discount to Subproducts"
-msgstr ""
+msgstr "Activer les remises sur les sous-produits"
 
 #: To Fixed Amount
 msgid "To Fixed Amount"

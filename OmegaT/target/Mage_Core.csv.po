@@ -1698,43 +1698,33 @@ msgstr "Passez la commande"
 
 #: <strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).
 msgid "<strong style=\"color:red\">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
-msgstr ""
+msgstr "<strong style=\"color:red\">Attention !</strong> Lors de l'utilisation des codes de magasin dans les URLs, le système peut ne pas fonctionner correctement dans certains cas si des URLs sans code sont spécifiées dans des services tiers (par ex. PayPal). "
 
-#: "After selecting a new media storage location, press the Synchronize button
-msgid ""After selecting a new media storage location, press the Synchronize button"
-msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
-
-#: to transfer all media to that location. Media will not be available in the new
-msgid "to transfer all media to that location. Media will not be available in the new"
-msgstr "                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel"
-
-#: location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button
-msgid "location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button"
-msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser"
-
-#: location until the synchronization process is complete."
-msgid "location until the synchronization process is complete.""
-msgstr ""
+#: "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
+msgid "After selecting a new media storage location, press the Synchronize button\n                                to transfer all media to that location. Media will not be available in the new\n                                location until the synchronization process is complete."
+msgstr "Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser\n"
+"                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel\n"
+"                                emplacement jusqu'à ce que le process de synchronisation soit terminé."
 
 #: Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!
 msgid "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!"
-msgstr ""
+msgstr "Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs."
 
 #: Base Secure URL
 msgid "Base Secure URL"
-msgstr ""
+msgstr "URL de base sécurisée"
 
 #: Base Unsecure URL
 msgid "Base Unsecure URL"
-msgstr ""
+msgstr "URL de base non sécurisée"
 
 #: Cookie Restriction Mode
 msgid "Cookie Restriction Mode"
-msgstr ""
+msgstr "Mode de restriction de cookie"
 
 #: Core
 msgid "Core"
-msgstr ""
+msgstr "Noyau"
 
 #: Country
 msgid "Country"
@@ -1742,123 +1732,119 @@ msgstr "Pays"
 
 #: Custom1 Contact Email
 msgid "Custom1 Contact Email"
-msgstr ""
+msgstr "Email du contact personnalisé 1"
 
 #: Custom1 Contact Name
 msgid "Custom1 Contact Name"
-msgstr ""
+msgstr "Nom du contact personnalisé 1"
 
 #: Custom2 Contact Email
 msgid "Custom2 Contact Email"
-msgstr ""
+msgstr "Email du contact personnalisé 2"
 
 #: Custom2 Contact Name
 msgid "Custom2 Contact Name"
-msgstr ""
+msgstr "Nom du contact personnalisé 2"
 
 #: European Union Countries
 msgid "European Union Countries"
-msgstr ""
+msgstr "Pays de l'Union Européenne"
 
 #: File not found
 msgid "File not found"
-msgstr ""
+msgstr "Fichier non trouvé"
 
 #: File with an extension \"%value%\" is protected and cannot be uploaded
 msgid "File with an extension \"%value%\" is protected and cannot be uploaded"
-msgstr ""
+msgstr "Le fichier avec l'extension \"%value%\" est protégé et ne peut pas être uploadé"
 
 #: General Contact Email
 msgid "General Contact Email"
-msgstr ""
+msgstr "Email du contact général"
 
 #: General Contact Name
 msgid "General Contact Name"
-msgstr ""
+msgstr "Nom du contact général"
 
 #: Get info about current Magento installation
 msgid "Get info about current Magento installation"
-msgstr ""
+msgstr "Récupérer des informations sur l'installation Magento"
 
 #: HTML tags are not allowed
 msgid "HTML tags are not allowed"
-msgstr ""
+msgstr "Les balises HTML ne sont pas autorisées"
 
 #: Invalid URL '%value%'.
 msgid "Invalid URL '%value%'."
-msgstr ""
+msgstr "URL invalide : '%value%'."
 
 #: List of stores
 msgid "List of stores"
-msgstr ""
+msgstr "Liste des magasins"
 
 #: Logo Image
 msgid "Logo Image"
-msgstr ""
+msgstr "Image du logo"
 
 #: Magento info
 msgid "Magento info"
-msgstr ""
+msgstr "Informations sur Magento"
 
 #: Magento info API
 msgid "Magento info API"
-msgstr ""
+msgstr "API d'informations sur Magento"
 
 #: PHP SOAP extension is required.
 msgid "PHP SOAP extension is required."
-msgstr ""
+msgstr "L'extension SOAP de PHP est requise."
 
-#: Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../"
-msgid "Path \"%value%\" may not include parent directory traversal (\"../\", \"..\).\"","Path \"%value%\" may not include parent directory traversal (\"../""
-msgstr "Le chemin \"%value%\" ne peut pas inclure"
+#: Requested file may not include parent directory traversal (\"../\", \"..\\\" notation)
+msgid "Requested file may not include parent directory traversal (\"../\", \"..\\\" notation)"
+msgstr "Le fichier demandé ne doit pas utiliser de chemin relatif (notation avec \"../\" ou \"..\\\")"
 
 #: Please enter a number 1 or greater in this field.
 msgid "Please enter a number 1 or greater in this field."
-msgstr ""
+msgstr "Saisissez un nombre supérieur ou égal à 1."
 
-#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page"
-msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\".","Please enter a valid URL Key. For example \"example-page""
-msgstr "Saisissez une clé d'url valide. Par exemple, \"page-exemple\", \"page-exemple.html\" ou \"autreniveau/page-exemple\"."
+#: Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
+msgid "Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel/example-page\"."
+msgstr "Veuillez saisir une URL valide. Par exemple \"page-exemple\", \"page-exemple.html\" ou \"niveau/page-exemple\"."
 
 #: Please select a file
 msgid "Please select a file"
-msgstr ""
+msgstr "Sélectionnez un fichier"
 
 #: Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
 msgid "Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-msgstr ""
+msgstr "Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre."
 
 #: Recovery Link Expiration Period (days)
 msgid "Recovery Link Expiration Period (days)"
-msgstr ""
-
-#: Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../"
-msgid "Requested file may not include parent directory traversal (\"../\", \"..\ notation)\"","Requested file may not include parent directory traversal (\"../""
-msgstr ""
+msgstr "Durée avant expiration d'un lien de récupération (en jours)"
 
 #: Retrieve info about current Magento installation
 msgid "Retrieve info about current Magento installation"
-msgstr ""
+msgstr "Récupérer des informations sur l'installation Magento"
 
 #: Retrieve store data
 msgid "Retrieve store data"
-msgstr ""
+msgstr "Récupérer les données du magasin"
 
 #: Retrieve store list
 msgid "Retrieve store list"
-msgstr ""
+msgstr "Récupérer la liste des magasins"
 
 #: Sales Representative Contact Email
 msgid "Sales Representative Contact Email"
-msgstr ""
+msgstr "Email du contact représentant des ventes"
 
 #: Sales Representative Contact Name
 msgid "Sales Representative Contact Name"
-msgstr ""
+msgstr "Nom du contact représentant des ventes"
 
 #: Store API
 msgid "Store API"
-msgstr ""
+msgstr "API des magasins"
 
 #: Transactional Emails
 msgid "Transactional Emails"
@@ -1866,5 +1852,5 @@ msgstr "Emails transactionnels"
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 

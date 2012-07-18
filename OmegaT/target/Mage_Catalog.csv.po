@@ -3164,7 +3164,7 @@ msgstr "Texte du message de popup par défaut"
 
 #: Display Actual Price
 msgid "Display Actual Price"
-msgstr "Afficher les prix actuels"
+msgstr "Afficher les vrais prix"
 
 #: Enable MAP
 msgid "Enable MAP"
@@ -3316,127 +3316,127 @@ msgstr "Ajout d'attribut"
 
 #: Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.
 msgid "Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
-msgstr ""
+msgstr "Les code d'attribut est invalide. Utilisez uniquement des lettres (a-z), des chiffres (0-9) our des underscores (_). Le premier caractère doit être une lettre."
 
 #: Attribute remove
 msgid "Attribute remove"
-msgstr ""
+msgstr "Suppression d'attribut"
 
 #: Can be Divided into Multiple Boxes for Shipping
 msgid "Can be Divided into Multiple Boxes for Shipping"
-msgstr ""
+msgstr "Peut être divisé en plusieurs colis pour la livraison"
 
 #: Catalog product custom option values API
 msgid "Catalog product custom option values API"
-msgstr ""
+msgstr "API de valeurs d'options personnalisables pour les produits"
 
 #: Catalog product custom options API
 msgid "Catalog product custom options API"
-msgstr ""
+msgstr "API d'options personnalisables pour les produits"
 
 #: Clear Price
 msgid "Clear Price"
-msgstr ""
+msgstr "Effacer le prix"
 
 #: Create Permanent Redirect for URLs if URL Key Changed
 msgid "Create Permanent Redirect for URLs if URL Key Changed"
-msgstr ""
+msgstr "Créer une redirection permanente pour les URLs si la clé d'URL change"
 
 #: Create attribute set based on another set
 msgid "Create attribute set based on another set"
-msgstr ""
+msgstr "Créer un jeu d'attributs basé sur un autre jeu"
 
 #: Create new attribute
 msgid "Create new attribute"
-msgstr ""
+msgstr "Créer un nouvel attribut"
 
 #: Custom options
 msgid "Custom options"
-msgstr ""
+msgstr "Options personnalisables"
 
 #: Delete Group Price
 msgid "Delete Group Price"
-msgstr ""
+msgstr "Supprimer le prix pour le groupe"
 
 #: Delete attribute
 msgid "Delete attribute"
-msgstr ""
+msgstr "Supprimer l'attribut"
 
 #: Display Price Interval as One Price
 msgid "Display Price Interval as One Price"
-msgstr ""
+msgstr "Afficher l'intervale de prix en un seul prix"
 
 #: Display Product Count
 msgid "Display Product Count"
-msgstr ""
+msgstr "Afficher le nombre de produits"
 
 #: Duplicate website group price customer group.
 msgid "Duplicate website group price customer group."
-msgstr ""
+msgstr "Doublon dans la correspondance de prix pour un groupe client et pour un même site web."
 
 #: For the last time placed.
 msgid "For the last time placed."
-msgstr ""
+msgstr "Lors de la dernière requête."
 
 #: Get full information about attribute with list of options
 msgid "Get full information about attribute with list of options"
-msgstr ""
+msgstr "Récupérer l'information complète sur l'attribut avec la liste d'options"
 
 #: Get full information about custom option in product
 msgid "Get full information about custom option in product"
-msgstr ""
+msgstr "Récupérer l'information complète sur l'option personnalisable dans le produit"
 
 #: Get list of available custom option types
 msgid "Get list of available custom option types"
-msgstr ""
+msgstr "Récupérer la liste des types d'options personnalisables disponibles"
 
 #: Get list of non-default attributes by product type and attributes set
 msgid "Get list of non-default attributes by product type and attributes set"
-msgstr ""
+msgstr "Récupérer la liste des attributs pas par défaut par type de produit et jeu d'attributs"
 
 #: Get list of possible attribute types
 msgid "Get list of possible attribute types"
-msgstr ""
+msgstr "Récupérer la liste des types d'attributs possibles"
 
 #: Group add
 msgid "Group add"
-msgstr ""
+msgstr "Ajout d'un groupe"
 
 #: Group remove
 msgid "Group remove"
-msgstr ""
+msgstr "Suppression d'un groupe"
 
 #: Info
 msgid "Info"
-msgstr ""
+msgstr "Informations"
 
 #: Interval Division Limit
 msgid "Interval Division Limit"
-msgstr ""
+msgstr "Limite de division d'intervalle"
 
 #: List of types
 msgid "List of types"
-msgstr ""
+msgstr "Liste de types"
 
 #: Maximum Number of Price Intervals
 msgid "Maximum Number of Price Intervals"
-msgstr ""
+msgstr "Nombre maxi d'intervalles de prix"
 
 #: Maximum number of price intervals is 100
 msgid "Maximum number of price intervals is 100"
-msgstr ""
+msgstr "Le nombre maxi d'intervalles de prix est 100"
 
 #: Number of results
 msgid "Number of results"
-msgstr ""
+msgstr "Nombre de résultats"
 
 #: Number of results (For the last time placed)
 msgid "Number of results (For the last time placed)"
-msgstr ""
+msgstr "Nombre de résultats (retournés lors de la dernière recherche)"
 
 #: Option values
 msgid "Option values"
-msgstr ""
+msgstr "Valeurs d'option"
 
 #: Options
 msgid "Options"
@@ -3444,7 +3444,7 @@ msgstr "Options"
 
 #: Please specify the number of products, that will not be divided into subintervals.
 msgid "Please specify the number of products, that will not be divided into subintervals."
-msgstr ""
+msgstr "Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles."
 
 #: Qty for Item's Status to Become Out of Stock
 msgid "Qty for Item's Status to Become Out of Stock"
@@ -3452,51 +3452,51 @@ msgstr "Qté pour que le statut du produit passe à épuisé"
 
 #: Remove attribute from attribute set
 msgid "Remove attribute from attribute set"
-msgstr ""
+msgstr "Supprimer l'attribut du jeu d'attributs"
 
 #: Remove attribute set
 msgid "Remove attribute set"
-msgstr ""
+msgstr "Supprimer le jeu d'attributs"
 
 #: Remove custom option
 msgid "Remove custom option"
-msgstr ""
+msgstr "Supprimer l'option personnalisable"
 
 #: Remove group from attribute set
 msgid "Remove group from attribute set"
-msgstr ""
+msgstr "Supprimer le groupe du jeu d'attributs"
 
 #: Remove option
 msgid "Remove option"
-msgstr ""
+msgstr "Supprimer l'option"
 
 #: Remove value from custom option
 msgid "Remove value from custom option"
-msgstr ""
+msgstr "Supprimer la valeur de l'option personnalisable"
 
 #: Rename existing group
 msgid "Rename existing group"
-msgstr ""
+msgstr "Renommer un groupe existant"
 
 #: Rename group
 msgid "Rename group"
-msgstr ""
+msgstr "Renommer le groupe"
 
 #: Retrieve list of option values
 msgid "Retrieve list of option values"
-msgstr ""
+msgstr "Récupérer la liste des valeurs d'option"
 
 #: Retrieve list of product custom options
 msgid "Retrieve list of product custom options"
-msgstr ""
+msgstr "Récupérer la liste des options personnalisables de produit"
 
 #: Retrieve option value info
 msgid "Retrieve option value info"
-msgstr ""
+msgstr "Récupérer les informations d'une valeur d'option"
 
 #: This setting will be applied when all prices in the specific price interval are equal.
 msgid "This setting will be applied when all prices in the specific price interval are equal."
-msgstr ""
+msgstr "Ce paramétrage s'appliquera lorsque tous les prix seront égaux dans l'intervalle de prix spécifique."
 
 #: Total of %d record(s) were updated
 msgid "Total of %d record(s) were updated"
@@ -3504,17 +3504,17 @@ msgstr "%d enregistrement(s) ont été mis à jour"
 
 #: Update attribute
 msgid "Update attribute"
-msgstr ""
+msgstr "Mettre à jour l'attribut"
 
 #: Update custom option of product
 msgid "Update custom option of product"
-msgstr ""
+msgstr "Mettre à jour l'option personnalisable de produit"
 
 #: Update value of custom option
 msgid "Update value of custom option"
-msgstr ""
+msgstr "Mettre à jour les valeurs d'option personnalisable"
 
 #: Will make search for the query above return results for this search.
 msgid "Will make search for the query above return results for this search."
-msgstr ""
+msgstr "Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats."
 

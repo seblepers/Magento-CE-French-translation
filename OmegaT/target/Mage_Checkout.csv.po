@@ -1268,19 +1268,19 @@ msgstr "Qu'est-ce que c'est ?"
 
 #: Clear Shopping Cart
 msgid "Clear Shopping Cart"
-msgstr ""
+msgstr "Vider le panier"
 
 #: Customer Address is not valid.
 msgid "Customer Address is not valid."
-msgstr ""
+msgstr "L'adresse du client n'est pas valide."
 
 #: Edit Condition
 msgid "Edit Condition"
-msgstr ""
+msgstr "Éditer la condition"
 
 #: Invalid checkout type.
 msgid "Invalid checkout type."
-msgstr ""
+msgstr "Type de passage de commande invalide."
 
 #: Invalid data.
 msgid "Invalid data."
@@ -1288,7 +1288,7 @@ msgstr "Données non valides"
 
 #: Invalid email address \"%s\"
 msgid "Invalid email address \"%s\""
-msgstr ""
+msgstr "L'email \"%s\" est invalide"
 
 #: Invalid shipping method.
 msgid "Invalid shipping method."
@@ -1296,11 +1296,11 @@ msgstr "Méthode de livraison non valide"
 
 #: Manage Terms and Conditions
 msgid "Manage Terms and Conditions"
-msgstr ""
+msgstr "Gérer les CGV"
 
 #: Minimum order amount is %s
 msgid "Minimum order amount is %s"
-msgstr ""
+msgstr "Le montant minimal de commande est %s"
 
 #: Move
 msgid "Move"
@@ -1308,19 +1308,19 @@ msgstr "Déplacer"
 
 #: New Terms and Conditions
 msgid "New Terms and Conditions"
-msgstr ""
+msgstr "Nouvelles CGV"
 
 #: Please check billing address information.
 msgid "Please check billing address information."
-msgstr ""
+msgstr "Vérifiez les informations de l'adresse de facturation."
 
 #: Please check shipping address information.
 msgid "Please check shipping address information."
-msgstr ""
+msgstr "Vérifiez les informations de l'adresse de livraison."
 
 #: Please check shipping addresses information.
 msgid "Please check shipping addresses information."
-msgstr ""
+msgstr "Vérifiez les informations des adresses de livraison."
 
 #: Please choose to register or to checkout as a guest
 msgid "Please choose to register or to checkout as a guest"
@@ -1328,7 +1328,7 @@ msgstr "Choisissez de vous enregistrer ou de passer votre commande en tant qu'in
 
 #: Please select valid payment method.
 msgid "Please select valid payment method."
-msgstr ""
+msgstr "Sélectionnez un mode de paiement valide."
 
 #: Please specify payment method.
 msgid "Please specify payment method."
@@ -1340,27 +1340,27 @@ msgstr "Choisissez un mode de livraison."
 
 #: Please specify shipping methods for all addresses.
 msgid "Please specify shipping methods for all addresses."
-msgstr ""
+msgstr "Spécifiez le mode de livraison pour chaque adresse."
 
 #: Require Customer To Be Logged In To Checkout
 msgid "Require Customer To Be Logged In To Checkout"
-msgstr ""
+msgstr "Imposer au client d'être connecté pour passer une commande"
 
 #: Sorry, guest checkout is not enabled. Please try again or contact store owner.
 msgid "Sorry, guest checkout is not enabled. Please try again or contact store owner."
-msgstr ""
+msgstr "Désolé, le passage de commande en tant qu'invité n'est pas autorisé. Veuillez réessayer ou contacter le magasin."
 
 #: Sorry, guest checkout is not enabled. Please try again or contact the store owner.
 msgid "Sorry, guest checkout is not enabled. Please try again or contact the store owner."
-msgstr ""
+msgstr "Désolé, le passage de commande en tant qu'invité n'est pas autorisé. Veuillez réessayer ou contacter le magasin."
 
 #: Subtotal must exceed minimum order amount
 msgid "Subtotal must exceed minimum order amount"
-msgstr ""
+msgstr "Le sous-total doit être supérieur au montant minimal de commande"
 
 #: VAT Number
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 
 #: Your order cannot be completed at this time as there is no payment methods available for it.
 msgid "Your order cannot be completed at this time as there is no payment methods available for it."
@@ -1372,5 +1372,5 @@ msgstr "Vous ne pouvez pas continuer votre commande car aucun mode de livraison 
 
 #: Your order has been received.
 msgid "Your order has been received."
-msgstr ""
+msgstr "Votre commande a bien été reçue."
 
