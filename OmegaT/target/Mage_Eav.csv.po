@@ -620,5 +620,5 @@ msgstr "Nom"
 
 #: For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols
 msgid "For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols"
-msgstr ""
+msgstr "À usage interne. Doit être unique sans espaces. La longueur maximale du code de l'attribut est de %s symboles."
 

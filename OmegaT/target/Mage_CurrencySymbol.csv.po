@@ -1,10 +1,10 @@
 #: Custom currency symbols were applied successfully.
 msgid "Custom currency symbols were applied successfully."
-msgstr ""
+msgstr "Les symboles de devise personnalisés ont bien été appliqués."
 
 #: Manage Currency
 msgid "Manage Currency"
-msgstr ""
+msgstr "Gérer la devise"
 
 #: Manage Currency Rates
 msgid "Manage Currency Rates"
@@ -16,11 +16,11 @@ msgstr "Taux"
 
 #: Save Currency Symbols
 msgid "Save Currency Symbols"
-msgstr ""
+msgstr "Enregistrer les symboles de devise"
 
 #: Symbols
 msgid "Symbols"
-msgstr ""
+msgstr "Symboles"
 
 #: System
 msgid "System"
@@ -32,7 +32,7 @@ msgstr "Utiliser la valeur par défaut"
 
 #: Use Standard
 msgid "Use Standard"
-msgstr ""
+msgstr "Utiliser le standard"
 
 #: Use Website
 msgid "Use Website"

@@ -180,17 +180,17 @@ msgstr "API de région"
 
 #: Can't convert rate from \"%s-%s\".
 msgid "Can't convert rate from \"%s-%s\"."
-msgstr ""
+msgstr "Impossible de convertir le taux à partir de \"%s-%s\"."
 
 #: Display not required State
 msgid "Display not required State"
-msgstr ""
+msgstr "Afficher l'état s'il n'est pas obligatoire"
 
 #: State is required for
 msgid "State is required for"
-msgstr ""
+msgstr "L'état est obligatoire pour"
 
 #: States Options
 msgid "States Options"
-msgstr ""
+msgstr "Options d'état"
 

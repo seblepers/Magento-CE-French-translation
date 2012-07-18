@@ -336,7 +336,7 @@ msgstr "Ajouter"
 
 #: Add links and samples to downloadable product
 msgid "Add links and samples to downloadable product"
-msgstr ""
+msgstr "Ajouter les liens et les échantillons au produit téléchargeable"
 
 #: Category API
 msgid "Category API"
@@ -344,7 +344,7 @@ msgstr "API de catégorie"
 
 #: Downloadable Product Section
 msgid "Downloadable Product Section"
-msgstr ""
+msgstr "Section de produit téléchargeable"
 
 #: List
 msgid "List"
@@ -356,11 +356,11 @@ msgstr "Déplacer"
 
 #: Please log in to download your product or purchase <a href=\"%s\">%s</a>.
 msgid "Please log in to download your product or purchase <a href=\"%s\">%s</a>."
-msgstr ""
+msgstr "Veuillez vous connecter pour télécharger votre produit ou le commander <a href=\"%s\">%s</a>."
 
 #: Product downloadable links
 msgid "Product downloadable links"
-msgstr ""
+msgstr "Liens de produit téléchargeable"
 
 #: Remove
 msgid "Remove"
@@ -368,17 +368,17 @@ msgstr "Supprimer"
 
 #: Remove links and samples from downloadable product
 msgid "Remove links and samples from downloadable product"
-msgstr ""
+msgstr "Supprimer les liens et les échantillons du produit téléchargeable"
 
 #: Retrieve links and samples list from downloadable product
 msgid "Retrieve links and samples list from downloadable product"
-msgstr ""
+msgstr "Récupérer les listes de liens et échantillons d'un produit téléchargeable"
 
 #: Sorry, there was an error getting requested content. Please contact the store owner.
 msgid "Sorry, there was an error getting requested content. Please contact the store owner."
-msgstr ""
+msgstr "Erreur lors de la récupération du contenu demandé. Veuillez contacter le magasin."
 
 #: There are files that were selected but not uploaded yet. Please upload or remove them first
 msgid "There are files that were selected but not uploaded yet. Please upload or remove them first"
-msgstr ""
+msgstr "Certains fichiers sélectionnés n'ont pas encore été uploadés. Veuillez les uploader ou les supprimer."
 

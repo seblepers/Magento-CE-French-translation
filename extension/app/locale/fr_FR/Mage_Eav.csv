@@ -153,4 +153,4 @@
 "Wrong type definition for %s","Mauvaise définition de type pour %s"
 "First Name","Prénom"
 "Last Name","Nom"
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols",""
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols","À usage interne. Doit être unique sans espaces. La longueur maximale du code de l'attribut est de %s symboles."

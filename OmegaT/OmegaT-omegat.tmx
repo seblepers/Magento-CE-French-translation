@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actions XML is not valid.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T123051Z">
+        <seg>Le XML d'actions n'est pas valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activate</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3298,6 +3306,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120627T163618Z">
         <seg>Ajouter un groupe au jeu d'attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add links and samples to downloadable product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T125007Z">
+        <seg>Ajouter les liens et les échantillons au produit téléchargeable</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +7938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Based on the VAT ID, the customer would belong to the Customer Group %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105407Z">
+        <seg>Selon le numéro de TVA, le client appartiendra au groupe clients %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Based on your selection, you may be interested in the following items:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -9034,6 +9058,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't convert rate from "%s-%s".</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T123135Z">
+        <seg>Impossible de convertir le taux à partir de "%s-%s".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't copy file "%s" to "%s".</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -9830,6 +9862,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de récupérer le détail du suivi pour ce numéro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot save a new password.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105422Z">
+        <seg>Impossible d'enregistrer un nouveau mot de passe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15882,6 +15922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Value for Disable Automatic Group Changes Based on VAT ID</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105518Z">
+        <seg>Valeur par défaut pour la désactivation des changement de groupe automatiques basés sur le numéro de TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default Values</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -16514,6 +16562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description-based delivery</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131218Z">
+        <seg>Livraison basée sur la description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17130,6 +17186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display not required State</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T124857Z">
+        <seg>Afficher l'état s'il n'est pas obligatoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display number of items in cart</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17334,6 +17398,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Options du produit téléchargeable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloadable Product Section</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T125020Z">
+        <seg>Section de produit téléchargeable</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,6 +18518,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Activer les notifications par AirMail Message Push</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Automatic Assignment to Customer Group</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105604Z">
+        <seg>Activer l'assignation automatique à un groupe clients</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131126Z">
+        <seg>À usage interne. Doit être unique sans espaces. La longueur maximale du code de l'attribut est de %s symboles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For latest version visit: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -21162,6 +21250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forgot Password</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105610Z">
+        <seg>Mot de passe oublié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forgot Password Email Sender</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -21198,6 +21294,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Vous avez oublié un article ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forgot and Remind Email Sender</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105636Z">
+        <seg>Expéditeur de l'email d'oubli et rappel de mot de passe</seg>
       </tuv>
     </tu>
     <tu>
@@ -21566,6 +21670,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sexe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gender is required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T105645Z">
+        <seg>Le genre est obligatoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22722,6 +22834,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group for Invalid VAT ID</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120546Z">
+        <seg>Groupe pour un numéro de TVA invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group for Valid VAT ID - Domestic</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120610Z">
+        <seg>Groupe pour un numéro de TVA invalide - Domestique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group for Valid VAT ID - Intra-Union</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120627Z">
+        <seg>Groupe pour un numéro de TVA invalide - Intra-Union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group remove</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T094417Z">
@@ -23498,6 +23634,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are a registered VAT customer, please click &lt;a href="%s"&gt;here&lt;/a&gt; to enter you billing address for proper VAT calculation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120752Z">
+        <seg>Si vous êtes un client avec un numéro de TVA enregistré, &lt;a href="%s"&gt;cliquez ici&lt;/a&gt; pour entrer votre adresse de facturation afin de calculer correctement la TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are a registered VAT customer, please click &lt;a href="%s"&gt;here&lt;/a&gt; to enter you shipping address for proper VAT calculation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120810Z">
+        <seg>Si vous êtes un client avec un numéro de TVA enregistré, &lt;a href="%s"&gt;cliquez ici&lt;/a&gt; pour entrer votre adresse de livraison afin de calculer correctement la TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are running PHP as CGI, your PHP processes may run under the same user as the user you used when uploading Magento files.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -23510,6 +23662,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si vous exécutez l'assistant d'installation sur une installation de Magento existante, utilisez cette méthode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you believe this is an error, please contact us at %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120846Z">
+        <seg>Si vous pensez que c'est une erreur, contactez-nous à %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -24070,6 +24230,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Incitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inches</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131225Z">
+        <seg>Pouces</seg>
       </tuv>
     </tu>
     <tu>
@@ -24978,6 +25146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid billing address for (%s)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120900Z">
+        <seg>Adresse de facturation invalide pour (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid block name to set child %s: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -25618,6 +25794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid shipping address for (%s)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T120916Z">
+        <seg>Adresse de livraison invalide pour (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid shipping method.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -25758,6 +25942,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Chemin de configuration des sites web non valide : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid website, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121003Z">
+        <seg>Site web invalide, l'enregistrement de la ligne %s est ignoré</seg>
       </tuv>
     </tu>
     <tu>
@@ -26670,6 +26862,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Clé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key/URL delivery</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131238Z">
+        <seg>Livraison par clé/URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -29082,6 +29282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum length must be less then %s symbols</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121019Z">
+        <seg>La longueur maximale est de %s symboles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum length of attribute code must be less then %s symbols</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T180538Z">
@@ -29706,10 +29914,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing email, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121043Z">
+        <seg>Email manquant, l'enregistrement de la ligne %s est ignoré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Missing email, skipping the record.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Email manquant, ligne ignorée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing first name, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121056Z">
+        <seg>Prénom manquant, l'enregistrement de la ligne %s est ignoré</seg>
       </tuv>
     </tu>
     <tu>
@@ -29722,10 +29946,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing last name, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121110Z">
+        <seg>Nom de famille manquant, l'enregistrement de la ligne %s est ignoré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Missing lastname, skipping the record.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom de famille manquant, ligne igorée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Missing website, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121124Z">
+        <seg>Site web manquant, l'enregistrement de la ligne %s est ignoré</seg>
       </tuv>
     </tu>
     <tu>
@@ -31658,6 +31898,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131248Z">
+        <seg>Sans commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Coupon</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -31742,6 +31990,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Aucun mode de paiement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Reason</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131252Z">
+        <seg>Sans raison</seg>
       </tuv>
     </tu>
     <tu>
@@ -33894,6 +34150,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de passer cette commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order creation error</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131304Z">
+        <seg>Erreur lors de la création de la commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -36533,8 +36797,8 @@
       <tuv lang="EN-US">
         <seg>Please enter a number 1 or greater in this field.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103020Z">
-        <seg>Saisissez un nombre supérieur ou égal à 1.</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121503Z">
+        <seg>Veuillez saisir un nombre supérieur ou égal à 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36627,10 +36891,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please enter a valid date between %s and %s at %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121511Z">
+        <seg>Veuillez saisir une date valide comprise entre %s et %s à %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please enter a valid date equal to or greater than %s</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Veuillez saisir une date valide égale ou supérieure à %s</seg>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121313Z">
+        <seg>Veuillez saisir une date valide supérieure ou égale à %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid date equal to or greater than %s at %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121514Z">
+        <seg>Veuillez saisir une date valide supérieure ou égale à %s à %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36639,6 +36919,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez saisir une date valide inférieure ou égale à %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid date less than or equal to %s at %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121515Z">
+        <seg>Veuillez saisir une date valide inférieure ou égale à %s à %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36923,6 +37211,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please enter the country.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121544Z">
+        <seg>Veuillez renseigner le pays.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter the first name.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121549Z">
+        <seg>Veuillez renseigner le prénom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter the last name.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121555Z">
+        <seg>Veuillez renseigner le nom de famille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please enter the package weight</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36967,6 +37279,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez saisir un mot de passe valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter your email address below. You will receive a link to reset your password.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121643Z">
+        <seg>Saisissez votre email ci-dessous. Nous vous enverrons un lien pour réinitialiser votre mot de passe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37039,6 +37359,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez vous identifier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please log in to download your product or purchase &lt;a href="%s"&gt;%s&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T130751Z">
+        <seg>Veuillez vous connecter pour télécharger votre produit ou le commander &lt;a href="%s"&gt;%s&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37223,6 +37551,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Choisissez un fuseau horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please select a website which contains store view</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121705Z">
+        <seg>Veuillez sélectionner un site web qui contienne une vue magasin</seg>
       </tuv>
     </tu>
     <tu>
@@ -39195,6 +39531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product downloadable links</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T130812Z">
+        <seg>Liens de produit téléchargeable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product import</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -39623,6 +39967,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Assistant de profil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Profile with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T123114Z">
+        <seg>Il existe déjà un profil portant ce nom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41619,6 +41971,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remind Email Template</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121715Z">
+        <seg>Template d'email de rappel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind Password</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121727Z">
+        <seg>Rappel de mot de passe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remote FTP</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41727,6 +42095,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Retirer l'article</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove links and samples from downloadable product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T130833Z">
+        <seg>Supprimer les liens et les échantillons du produit téléchargeable</seg>
       </tuv>
     </tu>
     <tu>
@@ -42007,6 +42383,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Obligatoire pour les transactions en direct avec Google Chekcout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend ("Web" &gt; "Secure").</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131427Z">
+        <seg>Obligatoire pour les transactions Google Checkout en direct. Assurez-vous que cette option correspond à Utiliser des URLs sécurisées dans le frontend ("Web" &gt; "Sécurité")</seg>
       </tuv>
     </tu>
     <tu>
@@ -42383,6 +42767,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer les produits liés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve links and samples list from downloadable product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T130916Z">
+        <seg>Récupérer les listes de liens et échantillons d'un produit téléchargeable</seg>
       </tuv>
     </tu>
     <tu>
@@ -46323,6 +46715,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopping Cart of %1$s - %2$d item(s)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121824Z">
+        <seg>Panier de %1$s - %2$d article(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shopping Options</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46575,6 +46975,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Afficher la barre d'outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show VAT Number on Frontend</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121844Z">
+        <seg>Afficher le numéro de TVA sur le frontend</seg>
       </tuv>
     </tu>
     <tu>
@@ -47123,6 +47531,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, there was an error getting requested content. Please contact the store owner.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T130958Z">
+        <seg>Erreur lors de la récupération du contenu demandé. Veuillez contacter le magasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, this feature is coming soon...</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47603,6 +48019,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>State is required for</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T124906Z">
+        <seg>L'état est obligatoire pour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>State/Province</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47623,6 +48047,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>État/Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>States Options</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T124936Z">
+        <seg>Options d'état</seg>
       </tuv>
     </tu>
     <tu>
@@ -49739,6 +50171,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Date of Birth is required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121912Z">
+        <seg>La date de naissance est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Find</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -49851,6 +50291,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The TAX/VAT number is required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121924Z">
+        <seg>Le numéro de TVA est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The URL "%s" is invalid.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -49919,6 +50367,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>URL du troisième serveur de paiement de secours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The VAT ID entered (%s) is not a valid VAT ID.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T121957Z">
+        <seg>Le numéro de TVA saisi (%s) n'est pas un numéro de TVA valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122024Z">
+        <seg>Le numéro de TVA saisi (%s) n'est pas un numéro de TVA valide. Le client appartiendra au groupe %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The VAT ID is valid. The current Customer Group will be used.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122047Z">
+        <seg>Le numéro de TVA est valide. Le groupe client en cours sera utilisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50315,6 +50787,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The customer ID and email did not match, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122126Z">
+        <seg>L'identifiant de client et l'email ne correspondent pas, l'enregistrement de la ligne %s est ignoré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The customer canceled payment.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50335,6 +50815,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le client n'a pas d'adresse de facturation par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The customer email (%s) already exists, skipping the record, line: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122202Z">
+        <seg>L'email (%s) existe déjà dans la base clients, l'enregistrement de la ligne %s est ignoré</seg>
       </tuv>
     </tu>
     <tu>
@@ -50407,6 +50895,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le client est revenu de eWAY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The customer is currently assigned to Customer Group %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122220Z">
+        <seg>Le client est actuellement assigné au groupe client %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50659,6 +51155,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first name cannot be empty.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122235Z">
+        <seg>Le prénom ne peut pas être vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The flat catalog category has been rebuilt.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50867,6 +51371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last name cannot be empty.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122245Z">
+        <seg>Le nom de famille ne peut pas être vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The limit is 8 attributes only.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -50967,6 +51479,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Il n'est pas possible d'envoyer plus de %d messages en une heure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum password length is %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122304Z">
+        <seg>La longueur minimale du mot de passe est %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -51263,6 +51783,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La page a bien été enregistrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122316Z">
+        <seg>Le mot de passe ne peut pas être vide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52235,6 +52763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are files that were selected but not uploaded yet. Please upload or remove them first</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131039Z">
+        <seg>Certains fichiers sélectionnés n'ont pas encore été uploadés. Veuillez les uploader ou les supprimer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no %s available.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -52607,6 +53143,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors du traitement de votre commande, veuillez réessayer plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was an error validating the VAT ID.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122328Z">
+        <seg>Erreur lors de la validation du numéro de TVA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was an error validating the VAT ID. The customer would belong to Customer Group %s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122358Z">
+        <seg>Erreur lors de la validation du numéro de TVA. Le client appartiendra au groupe client %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53616,6 +54168,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T140750Z">
         <seg>Pour voir le prix du produit, ajoutez cet article à votre panier. Vous pourrez toujours l'enlever plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122438Z">
+        <seg>Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55828,6 +56388,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unknown Reason</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T131435Z">
+        <seg>Raison inconnue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unknown State</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -57292,6 +57860,22 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VAT Request Date</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122454Z">
+        <seg>Date de demande de TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VAT Request Identifier</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122623Z">
+        <seg>Identifiant de demande de TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VISA</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -57356,10 +57940,34 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Validate VAT Number</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122630Z">
+        <seg>Valider le numéro de TVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validate on Each Transaction</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122642Z">
+        <seg>Valider à chaque transaction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Validation</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Validation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validation Error Group</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122657Z">
+        <seg>Groupe d'erreur de validation</seg>
       </tuv>
     </tu>
     <tu>
@@ -58929,6 +59537,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you like to change the Customer Group for this order?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122713Z">
+        <seg>Souhaitez-vous changer le groupe client pour cette commande ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would you like to sign a billing agreement to streamline further purchases with PayPal?</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -59929,6 +60545,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will be charged tax.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122732Z">
+        <seg>La TVA vous sera appliquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will be redirected to ChronoPay in a few seconds.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60169,6 +60793,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will not be charged tax.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122742Z">
+        <seg>La TVA ne vous sera pas appliquée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will receive an order confirmation email with details of your order and a link to track its progress.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60261,6 +60893,22 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>&lt;strong&gt;Votre commentaire&lt;/strong&gt; (posté le %s) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Tax ID cannot be validated.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122758Z">
+        <seg>Votre numéro de TVA ne peut pas être validé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your VAT ID was successfully validated.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="seb" changedate="20120718T122810Z">
+        <seg>Votre numéro de TVA a bien été validé.</seg>
       </tuv>
     </tu>
     <tu>

@@ -30,5 +30,5 @@
 "hours","heures"
 "minute","minute"
 "minutes","minutes"
-"Actions XML is not valid.",""
-"Profile with the same name already exists.",""
+"Actions XML is not valid.","Le XML d'actions n'est pas valide."
+"Profile with the same name already exists.","Il existe déjà un profil portant ce nom."

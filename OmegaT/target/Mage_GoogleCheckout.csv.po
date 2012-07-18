@@ -440,7 +440,7 @@ msgstr "Commercial"
 
 #: Description-based delivery
 msgid "Description-based delivery"
-msgstr ""
+msgstr "Livraison basée sur la description"
 
 #: Express Mail
 msgid "Express Mail"
@@ -468,11 +468,11 @@ msgstr "Livraison à domicile"
 
 #: Inches
 msgid "Inches"
-msgstr ""
+msgstr "Pouces"
 
 #: Key/URL delivery
 msgid "Key/URL delivery"
-msgstr ""
+msgstr "Livraison par clé/URL"
 
 #: Media Mail
 msgid "Media Mail"
@@ -492,15 +492,15 @@ msgstr "Next Day Air Saver"
 
 #: No Comment
 msgid "No Comment"
-msgstr ""
+msgstr "Sans commentaire"
 
 #: No Reason
 msgid "No Reason"
-msgstr ""
+msgstr "Sans raison"
 
 #: Order creation error
 msgid "Order creation error"
-msgstr ""
+msgstr "Erreur lors de la création de la commande"
 
 #: Parcel Post
 msgid "Parcel Post"
@@ -516,7 +516,7 @@ msgstr "Lendemain (prioritaire)"
 
 #: Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (\"Web\" > \"Secure\").
 msgid "Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (\"Web\" > \"Secure\")."
-msgstr ""
+msgstr "Obligatoire pour les transactions Google Checkout en direct. Assurez-vous que cette option correspond à Utiliser des URLs sécurisées dans le frontend (\"Web\" > \"Sécurité\")"
 
 #: Residential
 msgid "Residential"
@@ -536,5 +536,5 @@ msgstr "USPS"
 
 #: Unknown Reason
 msgid "Unknown Reason"
-msgstr ""
+msgstr "Raison inconnue"
 
