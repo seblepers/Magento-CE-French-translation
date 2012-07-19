@@ -1,5 +1,5 @@
-scripts/tmp/*
-scripts/backups/*
-new-version/*
+tools/scripts/tmp/*
+tools/scripts/backups/*
+tools/new-version/*
 *.bak
 
