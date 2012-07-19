@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.0" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -206,18 +206,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>"After selecting a new media storage location, press the Synchronize button</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140856Z">
-        <seg>Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>"Description" is more than %d characters long</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>La description fait plus de %d caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Per Order" allows single handling fee for entire order. "Per Package" allows individual  handling fee for each package.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172411Z">
+        <seg>"Par commande" autorise un seul frais de port par commande. "Par paquet" autorise un frais port pour chaque paquet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +234,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le titre fait plus de %d caractères</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"id" attribute is required for a "%s" field.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174432Z">
+        <seg>L'attribut "id" est obligatoire pour un champ "%s".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"line_count" attribute is required for "multiline" element.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174501Z">
+        <seg>L'attribut "line_count" est obligatoire pour un élément "multiline".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"message" attribute is required for "%s" validator rule.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174538Z">
+        <seg>L'attribut "message" est obligatoire pour une règle de validateur "%s".</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +306,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>%1$s a été ajouté à votre liste d'envies. Cliquez &lt;a href="%2$s"&gt;ici&lt;/a&gt; pour continuer vos achats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s has been added to your wishlist. Click &lt;a href="%2$s"&gt;here&lt;/a&gt; to continue shopping.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174158Z">
+        <seg>%1$s a été ajouté à votre liste d'envies. &lt;a href="%2$s"&gt;Cliquez ici&lt;/a&gt; pour continuer vos achats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s Coupon(s) have been generated</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154420Z">
+        <seg>%s bons de réduction ont été générés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s Index process is working now. Please try run this process later.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -510,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%s attribute is required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174547Z">
+        <seg>L'attribut %s est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s cache type(s) disabled.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -578,6 +626,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>%s a été ajouté à votre panier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%s has been moved to wishlist %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174213Z">
+        <seg>%s a été déplacé dans votre liste d'envies %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +806,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'%s' exceeds the allowed file size: %d (bytes)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182550Z">
+        <seg>'%s' dépasse la taille de fichier autorisée : %s (octets)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' height exceeds allowed value of %d px</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182617Z">
+        <seg>La hauteur de '%s' dépasse la valeur autorisée de %d px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' is not a valid file extension. Allowed extensions: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182641Z">
+        <seg>'%s' n'est pas une extension de fichier valide. Les extensions autorisées sont : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'%s' width exceeds allowed value of %d px</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182658Z">
+        <seg>La largeur de '%s' dépasse la valeur autorisée de %d px</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'%value%' appears to be a DNS hostname but cannot extract TLD part</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -850,14 +938,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>(%d)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(Absolute path or Relative to Magento install root, ex.</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>(Absolute path or Relative to Magento install root, ex.</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,14 +1058,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Noir plein (test)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>(When 'No', only mapped fields will be imported.</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>(When 'No', only mapped fields will be imported.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1338,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T123724Z">
         <seg>2 jours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Day AM</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172434Z">
+        <seg>J+2 matin</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activate PayPal MECL</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181137Z">
+        <seg>Activer PayPal Mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activated Key</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3398,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add new comment to credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153354Z">
+        <seg>Ajouter un commentaire à l'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add new comment to shipment</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -3450,6 +3546,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ajouter le(s) produit(s) au panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add tag(s) to product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162031Z">
+        <seg>Ajouter le(s) tag(s) au produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,10 +4666,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172542Z">
+        <seg>Autorise de diviser le poids d'une commande complète en plusieurs parties s'il excède %s %s pour s'assurer que le calcul des frais de port est exact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172558Z">
+        <seg>Autorise de diviser le poids d'une commande complète en plusieurs parties s'il excède 70 kg pour s'assurer que le calcul des frais de port est exact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows customers to stay logged in when switching between different stores.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Permet aux clients de rester connectés s'ils basculent entre les différentes boutiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alphabetical</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154425Z">
+        <seg>Alphabétique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alphanumeric</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154432Z">
+        <seg>Alphanumérique</seg>
       </tuv>
     </tu>
     <tu>
@@ -5066,6 +5202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while generating coupons. Please review the log and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154459Z">
+        <seg>Erreur lors de la génération des bons de réduction. Vérifiez les logs et réessayez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while getting requested content. Please contact the store owner.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5106,6 +5250,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while loading categories.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174612Z">
+        <seg>Erreur lors du chargement des catégories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while loading category filters.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5118,6 +5270,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Erreur lors du chargement d'une collection. Erreur : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while loading wishlist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174623Z">
+        <seg>Erreur lors du chargement de la liste d'envies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5498,6 +5658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while saving this tax class. A class with the same name</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162156Z">
+        <seg>Erreur lors de la sauvegarde de cette classe de taxe. Il existe déjà une classe portant ce nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while saving this tax class. A class with the same name already exists.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -5734,6 +5902,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Android doesn't support AirMail message type.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174643Z">
+        <seg>Android ne supporte pas le type de message AirMail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6418,6 +6594,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete all items from shopping cart?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153424Z">
+        <seg>Êtes-vous sûr(e) de vouloir enlever tous les articles du panier ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete current folder?</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -6438,6 +6622,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T151627Z">
         <seg>Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete the selected coupon(s)?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154516Z">
+        <seg>Êtes-vous sûr(e) de vouloir effacer les bons de réduction sélectionnés ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +7050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At last one application has to be created.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174656Z">
+        <seg>Au moins une application doit être créée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least a payment ID must be set.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -7067,14 +7267,6 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Attribute group with the "/name/" name already exists</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Il existe déjà un groupe portant le nom \"/name/\".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Attribute group with the \"/name/\" name already exists</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Il existe déjà un groupe portant le nom \"/name/\".</seg>
@@ -7382,6 +7574,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Facturer automatiquement au prochain cycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Generated Specific Coupon Codes</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154541Z">
+        <seg>Codes de bons de réduction spécifiques générés automatiquement</seg>
       </tuv>
     </tu>
     <tu>
@@ -7854,6 +8054,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Non trouvé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174935Z">
+        <seg>Solde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance Change</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174940Z">
+        <seg>Changement de solde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance History</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174946Z">
+        <seg>Historique du solde</seg>
       </tuv>
     </tu>
     <tu>
@@ -8614,6 +8838,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Fil d'Ariane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Break bulk economy</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172624Z">
+        <seg>Paquet divise éco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Break bulk express</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172630Z">
+        <seg>Paquet divisé express</seg>
       </tuv>
     </tu>
     <tu>
@@ -9402,10 +9642,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't load application with id "%s"</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174959Z">
+        <seg>Impossible de charger l'application dont l'identifiant est "%s"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't load cart info.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175014Z">
+        <seg>Impossible de charger les informations du panier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't load cart.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175022Z">
+        <seg>Impossible de charger le panier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't load customer form.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175034Z">
+        <seg>Impossible de charger le formulaire du client.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't load default themes.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T124441Z">
         <seg>Impossible de charger les thèmes par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can't load selected theme. Please check your media folder permissions.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175106Z">
+        <seg>Impossible de charger le thème sélectionné. Veuillez vérifier les permissions sur votre dossier media.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9882,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153431Z">
+        <seg>Annuler l'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel invoice</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -9718,6 +10006,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible d'ajouter un numéro de suivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot apply gift card.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175125Z">
+        <seg>Impossible d'appliquer la carte cadeau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +10226,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot identify measure unit for %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172647Z">
+        <seg>Impossible d'identifier l'unité de mesure pour %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot identify weight unit for %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172657Z">
+        <seg>Impossible d'identifier l'unité de poids pour %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot initialize shipment for adding tracking number.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10002,6 +10314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot move item to wishlist</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174227Z">
+        <seg>Impossible de déplacer l'article dans la liste d'envies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot open the overview page</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10026,6 +10346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot redeem Gift Card.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175258Z">
+        <seg>Impossible de transformer la carte cadeau en crédit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot register an existing credit memo.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -10046,6 +10374,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible d'enregistrer l'expédition existants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot remove gift card.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175309Z">
+        <seg>Impossible de supprimer la carte cadeau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +11530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Centimeters</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172701Z">
+        <seg>Centimètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Centinel API URL</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -11970,6 +12314,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code Format</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154545Z">
+        <seg>Format du code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Length</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154550Z">
+        <seg>Longueur du code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Prefix</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154555Z">
+        <seg>Préfixe de code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Code Suffix</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154600Z">
+        <seg>Suffixe de code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse All</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12674,6 +13050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Container is not defined.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175318Z">
+        <seg>Le conteneur n'est pas défini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -12710,6 +13094,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Gestion du contenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content Type</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172705Z">
+        <seg>Type de contenu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12814,6 +13206,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le fichier de controller a été chargé mais la classe n'existe pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controls whether customer IP is shown in orders, invoices, shipments, credit memos.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153507Z">
+        <seg>Contrôle si l'adresse IP du client est affichée dans les commandes, factures, expéditions, avoirs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12962,6 +13362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not find wishlist</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174238Z">
+        <seg>Impossible de trouver la liste d'envies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not load file: "%s".</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13082,6 +13490,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coupon Qty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154608Z">
+        <seg>Qté de bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coupon Redemption</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -13150,6 +13566,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coupons Information</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154619Z">
+        <seg>Informations sur les bons de réduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -13510,6 +13934,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Créer une catégorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new credit memo for order</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153518Z">
+        <seg>Créer un nouvel avoir pour la commande</seg>
       </tuv>
     </tu>
     <tu>
@@ -13882,6 +14314,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Credit memo canceling problem.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153529Z">
+        <seg>Problème lors de l'annulation de l'avoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credit memo cannot be canceled.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153540Z">
+        <seg>L'avoir n'a pas pu être annulé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Credit memo has been created automatically</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -14014,6 +14462,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le code de devise n'est pas défini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Balance: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175326Z">
+        <seg>Solde courant : %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -14906,6 +15362,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Customer balance available in enterprise version of Magento only.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175358Z">
+        <seg>Solde du client disponible uniquement dans la version Enterprise de Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer balance is disabled for current store</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175416Z">
+        <seg>Le solde du client est désactivé pour le magasin en cours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Customer collection expected.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -15022,6 +15494,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Client enregistré : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer services</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172710Z">
+        <seg>Services client</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +15818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DHL (Deprecated)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172718Z">
+        <seg>DHL (déprécié)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DHTML Date/Time Selector</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -15366,6 +15854,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Dankort (powered by Moneybookers) - Danemark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dash Every X Characters</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154637Z">
+        <seg>Ajouter un trait tous les X caractères</seg>
       </tuv>
     </tu>
     <tu>
@@ -16362,6 +16858,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default logo, will be used in PDF and HTML documents.&lt;br /&gt;(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153650Z">
+        <seg>Logo par défaut, il sera utilisé dans les documents PDF et HTML.&lt;br/&gt;(jpeg, tiff, png) Si l'image est de mauvaise qualité dans le PDF, essayez avec une image de taille supérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default option value is not defined</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T180404Z">
@@ -16914,6 +17418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172721Z">
+        <seg>Profondeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17030,6 +17542,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le répertoire de destination n'a pas les droits en écriture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination facility code is empty</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172733Z">
+        <seg>Le code de facilité de destination est vide</seg>
       </tuv>
     </tu>
     <tu>
@@ -17190,6 +17710,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Dimensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162240Z">
+        <seg>Directe</seg>
       </tuv>
     </tu>
     <tu>
@@ -17642,6 +18170,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Divide Order Weight</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172744Z">
+        <seg>Diviser le poids de la commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Divide to equal weight (one request)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161710Z">
+        <seg>Diviser en poids égal (une requête)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not check transaction status if order older than {N} days.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17698,6 +18242,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Documents</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162243Z">
+        <seg>Documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Does not work if there are more than 10 shipping options available.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -17710,6 +18262,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Domestic Shipment Days</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic economy select</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172757Z">
+        <seg>Sélection éco domestique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domestic express</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172805Z">
+        <seg>Domestique express</seg>
       </tuv>
     </tu>
     <tu>
@@ -17898,6 +18466,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Row #%s (Country "%s", Region/State "%s", Zip "%s" and Value "%s").</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161800Z">
+        <seg>Ligne en double n+%s (Pays "%s", Région "%s", Code postal "%s" et valeur "%s").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate template code.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -18050,10 +18626,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Easy shop</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172841Z">
+        <seg>Achat facile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eav code</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Code EAV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Economy select</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172848Z">
+        <seg>Sélection éco</seg>
       </tuv>
     </tu>
     <tu>
@@ -18334,14 +18926,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Modifier la commande n°%s</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Edit Order $1%s $2%s Address</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Éditer l'adresse de $2%s de la commande $1%s</seg>
       </tuv>
     </tu>
     <tu>
@@ -18670,6 +19254,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Éditer le profil osCommerce : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Element with id %s already exists</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175436Z">
+        <seg>Il existe déjà un élément avec l'identifiant %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -19602,6 +20194,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error #%s : %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172856Z">
+        <seg>Erreur n°%s : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error #%s : %s (%s)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -19850,6 +20450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Europack</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T172859Z">
+        <seg>Europack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Europe First Priority</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -19994,6 +20602,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exchange rate %s (Base Currency) -&gt; %s not found. DHL method %s skipped</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173047Z">
+        <seg>Taux de change %s (devise de base) -&gt; %s non trouvé. Mode DHL %s ignoré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Excl. Tax</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -20054,6 +20670,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>HT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excluding prefix, suffix and separators.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154653Z">
+        <seg>En excluant le préfixe, le suffixe et les séparateurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20142,6 +20766,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Expire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expires: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175442Z">
+        <seg>Expire le : %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -20242,10 +20874,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Express 10:30</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173055Z">
+        <seg>Express 10h30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Express 10:30 AM</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Express 10:30 AM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Express 12:00</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173101Z">
+        <seg>Express 12h00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Express 9:00</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173109Z">
+        <seg>Express 9h00</seg>
       </tuv>
     </tu>
     <tu>
@@ -20318,6 +20974,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Express économe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Express easy</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173115Z">
+        <seg>Express facile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Express envelope</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173123Z">
+        <seg>Enveloppe express</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Express worldwide</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173131Z">
+        <seg>Express monde</seg>
       </tuv>
     </tu>
     <tu>
@@ -21070,6 +21750,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le format de fichier n'est pas reconnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File has not been imported. See the following list of errors: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161818Z">
+        <seg>Le fichier n'a pas été importé. Voici la liste des erreurs : %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -21874,6 +22562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freight worldwide</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173139Z">
+        <seg>Frêt monde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22618,6 +23314,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gift Card "%s" was added.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175457Z">
+        <seg>La carte cadeau "%s" a été ajoutée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card "%s" was redeemed.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175509Z">
+        <seg>La carte cadeau "%s" a été transformée en crédit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card "%s" was removed.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175519Z">
+        <seg>La carte cadeau "%s" a été supprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card (%s)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175528Z">
+        <seg>Carte cadeau (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card amount applied to order: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175555Z">
+        <seg>Le montant de la carte cadeau a été appliqué à la commande : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card code is empty.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175603Z">
+        <seg>Le code de carte cadeau est vide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gift Card: %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175613Z">
+        <seg>Carte cadeau : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gift Certificate</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22730,6 +23482,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gift card account available in enterprise version of Magento only.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175639Z">
+        <seg>Montant de la carte cadeau disponible uniquement dans la version Enterprise de Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giropay (powered by Moneybookers) - Germany</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -22798,6 +23558,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Éditable globalement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Globalmail business</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173239Z">
+        <seg>Globalmail business</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,6 +24282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height, width and length should be equal or greater than %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173309Z">
+        <seg>Hauteur, largeur et longueur devrait être supérieurs ou égaux à %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hello, %s!</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -23590,6 +24366,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Cacher les contenus du panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Customer IP</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153702Z">
+        <seg>Masquer l'adresse IP du client</seg>
       </tuv>
     </tu>
     <tu>
@@ -23742,6 +24526,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T124510Z">
         <seg>Comment intégrer Urban Airship à votre application :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hub ID</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173337Z">
+        <seg>Identifiant de hub</seg>
       </tuv>
     </tu>
     <tu>
@@ -23942,6 +24734,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si un article est %s panier et qu'il répond à %s ces conditions :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If empty no separation.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154709Z">
+        <seg>Si vide, aucune séparation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24182,6 +24982,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Si vous avez téléchargé complètement les paquets ou installé Magento via SVN, vous devez passer l'installation et la validation des paquets en cliquant sur le bouton suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you select and save the rule you will be able to generate multiple coupon codes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154748Z">
+        <seg>Si vous sélectionnez et enregistrez la règle, vous pourrez générer des codes de bons de réductions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24922,6 +25730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Indirect</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162248Z">
+        <seg>Indirecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T094422Z">
@@ -25274,6 +26090,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid %s "%s" in the Row #%s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161836Z">
+        <seg>%s "%s" non valide à la ligne n°%s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Answer.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -25286,6 +26110,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T140644Z">
         <seg>URL de rappel invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Country "%s" in the Row #%s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161849Z">
+        <seg>Pays "%s" non valide à la ligne n°%s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25394,6 +26226,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid Region/State "%s" in the Row #%s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161900Z">
+        <seg>Région "%s" non valide à la ligne n°%s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Rejected Callback URL</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T153658Z">
@@ -25418,6 +26258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid Shipping Price "%s" in the Row #%s.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161919Z">
+        <seg>Frais de port "%s" non valide à la ligne n°%s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Table Rate code for type %s: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -25438,6 +26286,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Format de fichier de tarification invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Table Rates format in the Row #%s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161949Z">
+        <seg>Format du tableau de tarifs non valide à la ligne n°%s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27322,6 +28178,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jetline</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173341Z">
+        <seg>Jetline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joined field with this alias is already declared</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T180522Z">
@@ -27350,6 +28214,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Il existe déjà un champ de jointure ou une expression d'attribut portant cet alias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jumbo box</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173345Z">
+        <seg>Jumbo box</seg>
       </tuv>
     </tu>
     <tu>
@@ -29194,6 +30066,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Coupon Codes</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154758Z">
+        <seg>Gérer les codes de bons de réduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manage Currency</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T103844Z">
@@ -29778,6 +30658,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum amount available to refund is %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153733Z">
+        <seg>Le montant maximum pour un remboursement est %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum image height</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -29926,6 +30814,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La synchronisation des stockages de media est terminée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medical express</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173352Z">
+        <seg>Médical express</seg>
       </tuv>
     </tu>
     <tu>
@@ -30150,6 +31046,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T124638Z">
         <seg>Le message peut être édité seulement quand son statut est "DANS LA FILE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message can be edited when status of the message is "In Queue" only.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175702Z">
+        <seg>Le message peut être édité seulement quand son statut est "Dans la file".</seg>
       </tuv>
     </tu>
     <tu>
@@ -30522,6 +31426,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mobile Express Checkout has been canceled.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175715Z">
+        <seg>Le paiement Express Mobile a été annulé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobile Express Checkout processed successfully.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175748Z">
+        <seg>Le paiement Express Mobile a bien été traité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mobile Payment (made via a mobile phone)</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -30758,6 +31678,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Produits les plus consultés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most Viewed Products Report</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153743Z">
+        <seg>Rapport des produits les plus consultés</seg>
       </tuv>
     </tu>
     <tu>
@@ -31566,6 +32494,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nouvel avoir pour un invité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Credit Memo for Invoice #%s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153752Z">
+        <seg>Nouvel avoir pour la facture n°%s</seg>
       </tuv>
     </tu>
     <tu>
@@ -32538,6 +33474,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Payment Information Required</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175800Z">
+        <seg>Aucune information de paiement nécessaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Payment Methods</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32890,6 +33834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No shipping method required.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175820Z">
+        <seg>Aucun mode de livraison nécessaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No source specified</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -32974,6 +33926,22 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Commande nominale enregistrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non Documents</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173426Z">
+        <seg>Autres que documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non documents</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173422Z">
+        <seg>Autres que documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -33222,6 +34190,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Non partagé avec les autres produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not valid data provided</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154810Z">
+        <seg>Données fournies non valides</seg>
       </tuv>
     </tu>
     <tu>
@@ -33654,6 +34630,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nombre de listes d'envies : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numeric</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154813Z">
+        <seg>Numérique</seg>
       </tuv>
     </tu>
     <tu>
@@ -34754,6 +35738,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Order credit memo</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153759Z">
+        <seg>Avoir de commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Order does not allow to be canceled.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34774,6 +35766,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>L'id de commande ne peut pas être null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Order id is not specified.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175836Z">
+        <seg>L'identifiant de commande n'est pas spécifié.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34946,6 +35946,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orders, Invoices, Credit Memos Display Settings</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162218Z">
+        <seg>Paramètres d'affichage des commandes, factures et avoirs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orders, Invoices, Creditmemos Display Settings</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -34966,6 +35974,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Origine de la livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Origin serviceAreaCode is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173444Z">
+        <seg>Le code de zone de service d'origine est manquant</seg>
       </tuv>
     </tu>
     <tu>
@@ -35034,6 +36050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173448Z">
+        <seg>Autres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our customer service is available 24/7. Call us at (555) 555-0123.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35058,6 +36082,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output format is not specified. Please, specify "format" key in constructor, or set it using setFormat().</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T175920Z">
+        <seg>Le format de sortie n'est pas spécifié. Veuillez spécifier la clé "format" dans le constructeur ou la renseigner à l'aide de la méthode setFormat().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Overrides API URL that may be specified by a payment method.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35078,6 +36110,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Aperçu des articles après</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PAK</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162252Z">
+        <seg>PAK</seg>
       </tuv>
     </tu>
     <tu>
@@ -35330,10 +36370,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Package content is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173456Z">
+        <seg>Le contenu du paquet est manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package types are disregarded for USPS domestic shipments.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153911Z">
+        <seg>Les types de paquets sont pas pris en compte pour les expéditions domestiques USPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Packages</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Packages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Packages Request Type</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173509Z">
+        <seg>Type de requête de paquets</seg>
       </tuv>
     </tu>
     <tu>
@@ -35778,14 +36842,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Path "%value%" may not include parent directory traversal ("../", "..\)."","Path "%value%" may not include parent directory traversal ("../"</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le chemin "%value%" ne peut pas inclure</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -35898,6 +36954,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PayPal MECL is the mobile version of PayPal's Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181119Z">
+        <seg>PayPal Mobile est la version mobile du service PayPal Express. Vous pouvez choisir d'utiliser PayPal Mobile en parallèle du paiement standard ou d'utiliser cette seule méthode pour Magento Mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal MEP</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174348Z">
+        <seg>PayPal MEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PayPal Manager</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120618T152523Z">
@@ -35918,6 +36990,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>PayPal Mobile Embedded Payment (MEP) - Paiement PayPal embarqué sur mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Mobile Express Checkout</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181152Z">
+        <seg>PayPal Mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Mobile Express Checkout Library (MECL)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181201Z">
+        <seg>Bibliothèque PayPal Mobile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PayPal Mobile Express Checkout Token does not exist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181215Z">
+        <seg>Le jeton PayPal Mobile n'existe pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -36715,6 +37811,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paypal MEP doesn't support checkout with any discount.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181344Z">
+        <seg>Le paiement avec remise n'est pas supporté par PayPal MEP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paypal Merchant Account Email.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -36995,6 +38099,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piece Id barcode is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173527Z">
+        <seg>Le code barre identifiant de pièce est manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piece number information is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173542Z">
+        <seg>L'information du numéro de pièce est manquante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ping Flag</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -37155,18 +38275,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please check at least an option in Import Optionsn</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Veuillez vérifier</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Please check billing address information.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T100702Z">
         <seg>Vérifiez les informations de l'adresse de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check billing address information. %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153928Z">
+        <seg>Vérifiez les informations de l'adresse de facturation. %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -37179,18 +38299,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please check default website or input website code in General Informationn</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Veuillez choisir le site web par défaut ou le code </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Please check shipping address information.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T100719Z">
         <seg>Vérifiez les informations de l'adresse de livraison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check shipping address information. %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153941Z">
+        <seg>Vérifiez les informations de l'adresse de livraison. %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -37287,6 +38407,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Corrigez les données d'utilisateur et réessayez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please create and save an application first.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181401Z">
+        <seg>Veuillez d'abord créer et enregistrer une application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37463,14 +38591,6 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez saisir une URL valide. Par exemple "page-exemple", "page-exemple.html" ou "niveau/page-exemple".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Please enter a valid URL Key. For example "example-page", "example-page.html" or "anotherlevel/example-page".","Please enter a valid URL Key. For example "example-page"</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Saisissez une clé d'url valide. Par exemple, "page-exemple", "page-exemple.html" ou "autreniveau/page-exemple".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38203,6 +39323,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please select a valid payment method.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153952Z">
+        <seg>Sélectionnez un mode de paiement valide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select a website which contains store view</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T121705Z">
@@ -38455,6 +39583,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120626T162621Z">
         <seg>Spécifiez au maximum 8 symboles. Les tranches sont acceptées (par ex. 3-5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please specify a shipping method.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154017Z">
+        <seg>Sélectionnez un mode de livraison.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38779,14 +39915,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.&lt;br /&gt;Similar looking characters (e.g. "i", "l", "1") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.&lt;br /&gt;Similar looking characters (e.g. "i", "l"</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120626T162800Z">
-        <seg>Utilisez uniquement des lettres (a-z ou A-Z) ou des chiffres (0-9) dans ce champ. Aucun espaces ou autre caractère n'est accepté.&lt;br/&gt;Les caractères dont l'apparence </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -38959,6 +40087,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Veuillez sélectionner un jeu d'attributs et un type d'article Google pour charger les attributs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, specify origin country</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173559Z">
+        <seg>Veuillez spécifier le pays d'origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -39763,6 +40899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Processing A</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153344Z">
+        <seg>En cours de traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Processing Ogone Payment</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -39855,6 +40999,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Description du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product Details and Comment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174247Z">
+        <seg>Détails du produit et commentaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -40067,6 +41219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product Tag API</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162040Z">
+        <seg>API des tags de produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product Tags</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -40211,6 +41371,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Product content code is invalid</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173609Z">
+        <seg>Le code de contenu de produit est invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Product downloadable links</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T130812Z">
@@ -40263,6 +41431,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product name is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173618Z">
+        <seg>Le nom du produit est manquant</seg>
       </tuv>
     </tu>
     <tu>
@@ -41083,14 +42259,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Qty for Item\'s Status to become Out of Stock</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Quantité pour que l'article soit considéré comme épuisé</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Qty for Items' Status to Become Out of Stock</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -41255,6 +42423,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>La file n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Queue is allowed only for applications with enabled Push Notification.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181451Z">
+        <seg>La file d'attente n'est autorisée que pour les applications avec les notifications Push activées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42091,6 +43267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redemption functionality is disabled.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181520Z">
+        <seg>La fonctionnalité de remboursement est désactivée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redirect</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -42167,6 +43351,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Information sur la référence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reference code is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173626Z">
+        <seg>Le code de référence est manquant</seg>
       </tuv>
     </tu>
     <tu>
@@ -42899,6 +44091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove product tag</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162051Z">
+        <seg>Supprimer le tag du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove product(s) from shopping cart</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -43051,18 +44251,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Requested file may not include parent directory traversal ("../", "..\ notation)"</seg>
+        <seg>Request internal error.</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>Le chemin demandé ne peut pas remonter vers le répertoire parent ("../", "..\").</seg>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181527Z">
+        <seg>Erreur interne de requête.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Requested file may not include parent directory traversal ("../", "..\ notation)"","Requested file may not include parent directory traversal ("../"</seg>
+        <seg>Requested cart item doesn't exist</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120718T103514Z">
-        <seg>Requested file may not include parent directory traversal ("../", "..\ notation)"","Requested file may not include parent directory traversal ("../"</seg>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174308Z">
+        <seg>L'article du panier demandé n'existe pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requested file may not include parent directory traversal ("../", "..\ notation)"</seg>
+      </tuv>
+      <tuv lang="FR-FR">
+        <seg>Le chemin demandé ne peut pas remonter vers le répertoire parent ("../", "..\").</seg>
       </tuv>
     </tu>
     <tu>
@@ -43087,6 +44295,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le lien demandé n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requested wishlist doesn't exist</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174320Z">
+        <seg>La liste d'envies demandée n'existe pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -43451,6 +44667,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve credit memo info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154029Z">
+        <seg>Récupérer les informations d'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve credit memo information</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154042Z">
+        <seg>Récupérer les informations d'avoir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve credit memo list</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154050Z">
+        <seg>Récupérer la liste des avoirs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retrieve customer addresses</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -43555,6 +44795,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retrieve list of credit memos by filters</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154100Z">
+        <seg>Récupérer la liste des avoirs par filtres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Retrieve list of invoices by filters</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -43591,6 +44839,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer la liste filtrée des livraisons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve list of tags by product</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162109Z">
+        <seg>Récupérer la liste des tags par produit</seg>
       </tuv>
     </tu>
     <tu>
@@ -43679,6 +44935,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Récupérer les types de liens de produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retrieve product tag info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162122Z">
+        <seg>Récupérer les informations de tags de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -44219,6 +45483,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Routing barcode is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173644Z">
+        <seg>Le code barre de routage est manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Row Subtotal</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -44271,6 +45543,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom de la règle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rule is not defined</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154821Z">
+        <seg>La règle n'est pas définie</seg>
       </tuv>
     </tu>
     <tu>
@@ -44703,6 +45983,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T161037Z">
         <seg>Identique à la livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Same day</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173647Z">
+        <seg>Même jour</seg>
       </tuv>
     </tu>
     <tu>
@@ -45555,6 +46843,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secureline</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173840Z">
+        <seg>Secureline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46275,6 +47571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send shipment info</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154109Z">
+        <seg>Envoyer des informations de livraison</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sender</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -46303,6 +47607,30 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom de l'expéditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sender city info is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173854Z">
+        <seg>L'information de la ville de l'expéditeur est manquante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sender contact name is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173910Z">
+        <seg>Le nom de contact de l'expéditeur est manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sender country info is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173921Z">
+        <seg>L'information du pays de l'expéditeur est manquante</seg>
       </tuv>
     </tu>
     <tu>
@@ -46835,6 +48163,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ship to:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154117Z">
+        <seg>Livré à :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shipment</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47131,6 +48467,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shipping &amp; Handling Tax</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162232Z">
+        <seg>Taxe sur frais de port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shipping &amp;amp; Handling</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47419,6 +48763,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shipping method is required</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181536Z">
+        <seg>Le mode de livraison est obligatoire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shipping method must be specified.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -47431,6 +48783,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le mode de livraison sélectionné n'est pas applicable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shipping method successfully updated</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181546Z">
+        <seg>Le mode de livraison a bien été mis à jour</seg>
       </tuv>
     </tu>
     <tu>
@@ -48211,6 +49571,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smart Post</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162258Z">
+        <seg>Smart Post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social Networking</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T125153Z">
@@ -48223,6 +49591,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Sofortüberweisung (powered by Moneybookers) - Allemagne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sold to:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154123Z">
+        <seg>Vendu à :</seg>
       </tuv>
     </tu>
     <tu>
@@ -48547,6 +49923,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173924Z">
+        <seg>Spécifique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specific %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -48703,6 +50087,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Nom de la feuille de calcul :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sprintline</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173927Z">
+        <seg>Sprintline</seg>
       </tuv>
     </tu>
     <tu>
@@ -49143,6 +50535,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Carte de crédit du magasin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store Credit payment is not being used in your shopping cart.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181618Z">
+        <seg>Le paiement par crédit n'est pas utilisé dans votre panier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50827,6 +52227,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text length does not satisfy specified max text range.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181638Z">
+        <seg>La longueur du texte ne satisfait pas la plage de texte maximale spécifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Text length does not satisfy specified min text range.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181648Z">
+        <seg>La longueur du texte ne satisfait pas la plage de texte minimale spécifiée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Text length does not satisfy specified text range.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111110T143136Z">
@@ -51999,6 +53415,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le cache externe de page complète a été vidé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The field is applicable if the Smart Post method is selected.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173945Z">
+        <seg>Le champ est applicable si le mode Smart Post est choisi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53251,6 +54675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The store credit payment has been removed from shopping cart.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181703Z">
+        <seg>Le paiement par crédit a été supprimé de votre panier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The store does not exist</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -53915,6 +55347,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is no items in this order</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T173957Z">
+        <seg>Il n'y a pas d'article dans cette commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is no need to approve this payment.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -54119,6 +55559,14 @@
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ce rôle n'existe plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Wishlist has no Items</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174330Z">
+        <seg>Cette liste d'envies n'a pas d'article</seg>
       </tuv>
     </tu>
     <tu>
@@ -54421,14 +55869,6 @@ Please, move system attributes to another group and try again.</seg>
     <tu>
       <tuv lang="EN-US">
         <seg>This group contains system attributes. Please move system attributes to another group and try again.</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This group contains system attributes.nPlease, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer.</seg>
@@ -54900,6 +56340,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Times Used</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161554Z">
+        <seg>Nombre d'utilisations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timezone</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -55168,6 +56616,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T154420Z">
         <seg>Gabarit de mail de changement de statut de jeton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Token has not been set.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181712Z">
+        <seg>Le jeton n'a pas été renseigné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55540,6 +56996,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154149Z">
+        <seg>Le modèle de total devrait étendre la classe Mage_Sales_Model_Order_Total_Abstract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total of %d index(es) have changed index mode.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -55848,6 +57312,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>La transaction "%s" est déjà en cours</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transaction # %s | %s</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T154206Z">
+        <seg>Transaction n°%s | %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -56452,6 +57924,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPS Worldwide Saver</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162315Z">
+        <seg>UPS Worldwide Saver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>URL</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56548,6 +58028,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to cancel Mobile Express Checkout.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181722Z">
+        <seg>Impossible d'annuler le paiement PayPal Mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to cancel queue.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56632,6 +58120,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de créer le répertoire : %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to create requested Coupon Qty. Please check settings and try again.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161629Z">
+        <seg>Impossible de créer la quantité demandée de bons de réduction. Veuillez vérifier les paramètres et réessayer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56844,10 +58340,42 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to initialize PayPal Mobile Express Checkout.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181738Z">
+        <seg>Impossible d'initialiser PayPal Mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to initialize express checkout review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181820Z">
+        <seg>Impossible d'initialiser le commentaire PayPal Express.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to initialize express checkout shipping method list.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181848Z">
+        <seg>Impossible d'initialiser la liste des mode de livraison de PayPal Express</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to initialize import model</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible d'initialiser le modèle d'import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to initialize return action.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181929Z">
+        <seg>Impossible d'initialiser l'action de retour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56860,6 +58388,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to load addresses.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181939Z">
+        <seg>Impossible de charger les adresses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to load application form.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -56868,10 +58404,114 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to load billing address form.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T181954Z">
+        <seg>Impossible de charger le formulaire d'adresse de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load billing address.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182005Z">
+        <seg>Impossible de charger l'adresse de facturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load categories.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182013Z">
+        <seg>Impossible de charger les catégories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load checkout.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182023Z">
+        <seg>Impossible de charger le passage de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load order list.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182033Z">
+        <seg>Impossible de charger la liste de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load order review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182046Z">
+        <seg>Impossible de charger le commentaire de commande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load product gallery.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182103Z">
+        <seg>Impossible de charger la galerie du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to load product info.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de charger les infos du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load product options.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182116Z">
+        <seg>Impossible de charger les options du produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load product review.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182130Z">
+        <seg>Impossible de charger le commentaire de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load product reviews.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182142Z">
+        <seg>Impossible de charger les commentaires de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load review form.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182154Z">
+        <seg>Impossible de charger le formulaire de commentaire de produit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load search.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182203Z">
+        <seg>Impossible de charger la recherche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to load shipping address form.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182216Z">
+        <seg>Impossible de charger le formulaire d'adresse de livraison.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56964,10 +58604,26 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to render a gift card account.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182310Z">
+        <seg>Impossible de rendre un compte de carte cadeau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to render an order.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T125245Z">
         <seg>Impossible de fournir une commande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to render the store credits.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182319Z">
+        <seg>Impossible de rendre les crédits du magasin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57112,6 +58768,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Impossible de démarrer MEP Checkout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to start Mobile Express Checkout.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182333Z">
+        <seg>Impossible de démarrer PayPal Mobile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57716,14 +59380,6 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Update Qty\'s</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Mettre à jour les quantités</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Update Required</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120718T132239Z">
@@ -57896,6 +59552,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Mettre à jour les données de stock du produit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update product tag</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162133Z">
+        <seg>Mettre à jour les tags de produits</seg>
       </tuv>
     </tu>
     <tu>
@@ -58080,6 +59744,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Utiliser tous les attributs disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Auto Generation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161638Z">
+        <seg>Utiliser la génération automatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -58404,6 +60076,14 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Store Credit (%s available)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182353Z">
+        <seg>Utiliser le crédit du magasin (%s disponible)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use To Create Configurable Product</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -58556,10 +60236,26 @@ Please, move system attributes to another group and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use origin weight (few requests)</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T162008Z">
+        <seg>Utiliser le poids d'origine (peu de requêtes)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use spaces to separate tags. Use single quotes (') for phrases.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T120742Z">
         <seg>Utilisez un espace pour séparer les mots clés. Utilisez l'apostrophe (') pour rédiger une phrase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Used</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T161641Z">
+        <seg>Utilisé</seg>
       </tuv>
     </tu>
     <tu>
@@ -59712,6 +61408,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning: All related AirMail messages will be deleted!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182409Z">
+        <seg>Attention : tous les messages AirMail seront effacés !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warning: All related AirMail messages will be deteted!
  Are you sure you want to do this?</seg>
       </tuv>
@@ -59781,6 +61485,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Positionnement du filigrane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waybill barcode information is missing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174013Z">
+        <seg>Le code barre Waybille est manquant</seg>
       </tuv>
     </tu>
     <tu>
@@ -60137,6 +61849,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weight unit is invalid</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174022Z">
+        <seg>L'unité de poids n'est pas valide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weight vs. Destination</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60225,14 +61945,6 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>When changing media storage or selecting another media database,</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>Lors du changement de stockage des media ou de la sélection d'une autre base de données media,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Whether buyer can define the date when billing for the profile begins.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60317,6 +62029,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>ID de widget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Widget Insertion</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174057Z">
+        <seg>Insertion de widget</seg>
       </tuv>
     </tu>
     <tu>
@@ -60437,6 +62157,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Partage de liste d'envies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wishlist could not be created.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174340Z">
+        <seg>La liste d'envies n'a pas pu être créée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60617,6 +62345,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong Content Type.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174029Z">
+        <seg>Mauvais type de contenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrong Ipad background image orientation has been specified: "%s".</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60629,6 +62365,22 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Le jeton pour PayPal Express est incorrect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong PayPal Mobile Express Checkout Token specified.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182423Z">
+        <seg>Jeton PayPal Mobile incorrect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong Region.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174036Z">
+        <seg>Mauvaise région.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60833,6 +62585,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrong or expired Gift Card Code.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182439Z">
+        <seg>Code de carte cadeau incorrect ou expiré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrong order of creation for new backup.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -60965,6 +62725,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20111107T180736Z">
         <seg>Mauvaise définition de type pour %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong widget instance specified.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174127Z">
+        <seg>L'instance de widget spécifiée est erronée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61577,6 +63345,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182516Z">
+        <seg>Vous devez activer PayPal Express dans la configuration de paiement avant d'activer PayPal Mobile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to specify order items.</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -62009,6 +63785,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your current balance is:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182527Z">
+        <seg>Votre solde courant est :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your current currency is: %s</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -62217,6 +64001,14 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zero shipping charge for '%s'</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174048Z">
+        <seg>Aucun frais de port pour '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zip/Post Code</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -62405,6 +64197,14 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>Fermer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cm</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T113055Z">
+        <seg>cm</seg>
       </tuv>
     </tu>
     <tu>
@@ -62689,10 +64489,26 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T113655Z">
+        <seg>in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>in rows:</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>dans les lignes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inch</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T174050Z">
+        <seg>pouce</seg>
       </tuv>
     </tu>
     <tu>
@@ -62745,6 +64561,22 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>kg</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153257Z">
+        <seg>kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lb</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T153259Z">
+        <seg>lb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>leave blank if its not an image</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="seb" changedate="20120627T163037Z">
@@ -62757,22 +64589,6 @@ Are you sure?</seg>
       </tuv>
       <tuv lang="FR-FR">
         <seg>est inférieur(e) à</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>location until the synchronization process is complete."</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20120718T102014Z">
-        <seg>location until the synchronization process is complete."</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>location until the synchronization process is complete.","After selecting a new media storage location, press the Synchronize button</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140936Z">
-        <seg>Après avoir sélectionné un emplacement de stockage des nouveaux médias, appuyez sur le bouton Synchroniser</seg>
       </tuv>
     </tu>
     <tu>
@@ -62985,14 +64801,6 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>storage. After synchronization is completed, all new media will be</seg>
-      </tuv>
-      <tuv lang="FR-FR">
-        <seg>stockage sélectionné</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>store(%s) scope</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -63081,14 +64889,6 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>to transfer all media to that location. Media will not be available in the new</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="seb" changedate="20111107T140918Z">
-        <seg>                                pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>total amount</seg>
       </tuv>
       <tuv lang="FR-FR">
@@ -63137,10 +64937,10 @@ Are you sure?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>use the Synchronize function to transfer media to the selected</seg>
+        <seg>ver. %s</seg>
       </tuv>
-      <tuv lang="FR-FR">
-        <seg>utilisez la fonction Synchroniser pour transférer les media vers le</seg>
+      <tuv lang="FR-FR" changeid="Seb" changedate="20120719T182706Z">
+        <seg>(version %s)</seg>
       </tuv>
     </tu>
     <tu>
