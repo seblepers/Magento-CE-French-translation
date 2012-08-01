@@ -582,3 +582,99 @@ msgstr ""
 msgid "Websites"
 msgstr ""
 
+#: Set Product as New from Date
+msgid "Set Product as New from Date"
+msgstr "Nouveauté depuis le"
+
+#: Set Product as New to Date
+msgid "Set Product as New to Date"
+msgstr "Nouveauté jusqu'au"
+
+#: Country of Manufacture
+msgid "Country of Manufacture"
+msgstr "Pays de fabrication"
+
+#: Group Price
+msgid "Group Price"
+msgstr "Prix par groupe clients"
+
+#: Cost
+msgid "Cost"
+msgstr "Coût"
+
+#: Tier Price
+msgid "Tier Price"
+msgstr "Prix par quantité"
+
+#: Special Price From Date
+msgid "Special Price From Date"
+msgstr "Prix spécial à partir du"
+
+#: Special Price To Date
+msgid "Special Price To Date"
+msgstr "Prix spécial jusqu'au"
+
+#: Is Product Available for Purchase with Google Checkout
+msgid "Is Product Available for Purchase with Google Checkout"
+msgstr "Le produit est-il disponible à l'achat avec Google Checkout"
+
+#: Apply MAP
+msgid "Apply MAP"
+msgstr ""
+
+#: Manufacturer's Suggested Retail Price
+msgid "Manufacturer's Suggested Retail Price"
+msgstr ""
+
+#: Meta Title
+msgid "Meta Title"
+msgstr ""
+
+#: Short Description
+msgid "Short Description"
+msgstr ""
+
+#: Thumbnail
+msgid "Thumbnail"
+msgstr ""
+
+#: Small Image
+msgid "Small Image"
+msgstr ""
+
+#: Base Image
+msgid "Base Image"
+msgstr ""
+
+#: Active From
+msgid "Active From"
+msgstr ""
+
+#: Active To
+msgid "Active To"
+msgstr ""
+
+#: Custom Layout Update
+msgid "Custom Layout Update"
+msgstr ""
+
+#: Display Product Options In
+msgid "Display Product Options In"
+msgstr ""
+
+#: Enable Recurring Profile
+msgid "Enable Recurring Profile"
+msgstr ""
+
+#: Products with recurring profile participate in catalog as nominal items.
+msgid "Products with recurring profile participate in catalog as nominal items."
+msgstr ""
+
+#: Allow Gift Message
+msgid "Allow Gift Message"
+msgstr ""
+
+#: Recurring Payment Profile
+msgid "Recurring Payment Profile"
+msgstr ""
+
