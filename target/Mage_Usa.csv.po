@@ -868,11 +868,11 @@ msgstr "Confirmation de livraison"
 
 #: Direct
 msgid "Direct"
-msgstr ""
+msgstr "Directe"
 
 #: Documents
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: Enabled for Checkout
 msgid "Enabled for Checkout"
@@ -896,7 +896,7 @@ msgstr "Hauteur"
 
 #: Indirect
 msgid "Indirect"
-msgstr ""
+msgstr "Indirecte"
 
 #: International Ground
 msgid "International Ground"
@@ -944,7 +944,7 @@ msgstr "Autre"
 
 #: PAK
 msgid "PAK"
-msgstr ""
+msgstr "PAK"
 
 #: Pallet
 msgid "Pallet"
@@ -988,11 +988,11 @@ msgstr "Boite Express petite"
 
 #: Smart Post
 msgid "Smart Post"
-msgstr ""
+msgstr "Smart Post"
 
 #: UPS Worldwide Saver
 msgid "UPS Worldwide Saver"
-msgstr ""
+msgstr "UPS Worldwide Saver"
 
 #: Width
 msgid "Width"
@@ -1000,131 +1000,131 @@ msgstr "Largeur"
 
 #: \"Per Order\" allows single handling fee for entire order. \"Per Package\" allows individual  handling fee for each package.
 msgid "\"Per Order\" allows single handling fee for entire order. \"Per Package\" allows individual  handling fee for each package."
-msgstr ""
+msgstr "\"Par commande\" autorise un seul frais de port par commande. \"Par paquet\" autorise un frais port pour chaque paquet."
 
 #: 2 Day AM
 msgid "2 Day AM"
-msgstr ""
+msgstr "J+2 matin"
 
 #: Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges.
 msgid "Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges."
-msgstr ""
+msgstr "Autorise de diviser le poids d'une commande complète en plusieurs parties s'il excède %s %s pour s'assurer que le calcul des frais de port est exact."
 
 #: Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.
 msgid "Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges."
-msgstr ""
+msgstr "Autorise de diviser le poids d'une commande complète en plusieurs parties s'il excède 70 kg pour s'assurer que le calcul des frais de port est exact."
 
 #: Break bulk economy
 msgid "Break bulk economy"
-msgstr ""
+msgstr "Paquet divise éco"
 
 #: Break bulk express
 msgid "Break bulk express"
-msgstr ""
+msgstr "Paquet divisé express"
 
 #: Cannot identify measure unit for %s
 msgid "Cannot identify measure unit for %s"
-msgstr ""
+msgstr "Impossible d'identifier l'unité de mesure pour %s"
 
 #: Cannot identify weight unit for %s
 msgid "Cannot identify weight unit for %s"
-msgstr ""
+msgstr "Impossible d'identifier l'unité de poids pour %s"
 
 #: Centimeters
 msgid "Centimeters"
-msgstr ""
+msgstr "Centimètres"
 
 #: Content Type
 msgid "Content Type"
-msgstr ""
+msgstr "Type de contenu"
 
 #: Customer services
 msgid "Customer services"
-msgstr ""
+msgstr "Services client"
 
 #: DHL (Deprecated)
 msgid "DHL (Deprecated)"
-msgstr ""
+msgstr "DHL (déprécié)"
 
 #: Depth
 msgid "Depth"
-msgstr ""
+msgstr "Profondeur"
 
 #: Destination facility code is empty
 msgid "Destination facility code is empty"
-msgstr ""
+msgstr "Le code de facilité de destination est vide"
 
 #: Divide Order Weight
 msgid "Divide Order Weight"
-msgstr ""
+msgstr "Diviser le poids de la commande"
 
 #: Domestic economy select
 msgid "Domestic economy select"
-msgstr ""
+msgstr "Sélection éco domestique"
 
 #: Domestic express
 msgid "Domestic express"
-msgstr ""
+msgstr "Domestique express"
 
 #: Easy shop
 msgid "Easy shop"
-msgstr ""
+msgstr "Achat facile"
 
 #: Economy select
 msgid "Economy select"
-msgstr ""
+msgstr "Sélection éco"
 
 #: Error #%s : %s
 msgid "Error #%s : %s"
-msgstr ""
+msgstr "Erreur n°%s : %s"
 
 #: Europack
 msgid "Europack"
-msgstr ""
+msgstr "Europack"
 
 #: Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped
 msgid "Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped"
-msgstr ""
+msgstr "Taux de change %s (devise de base) -> %s non trouvé. Mode DHL %s ignoré"
 
 #: Express 10:30
 msgid "Express 10:30"
-msgstr ""
+msgstr "Express 10h30"
 
 #: Express 12:00
 msgid "Express 12:00"
-msgstr ""
+msgstr "Express 12h00"
 
 #: Express 9:00
 msgid "Express 9:00"
-msgstr ""
+msgstr "Express 9h00"
 
 #: Express easy
 msgid "Express easy"
-msgstr ""
+msgstr "Express facile"
 
 #: Express envelope
 msgid "Express envelope"
-msgstr ""
+msgstr "Enveloppe express"
 
 #: Express worldwide
 msgid "Express worldwide"
-msgstr ""
+msgstr "Express monde"
 
 #: Freight worldwide
 msgid "Freight worldwide"
-msgstr ""
+msgstr "Frêt monde"
 
 #: Globalmail business
 msgid "Globalmail business"
-msgstr ""
+msgstr "Globalmail business"
 
 #: Height, width and length should be equal or greater than %s
 msgid "Height, width and length should be equal or greater than %s"
-msgstr ""
+msgstr "Hauteur, largeur et longueur devrait être supérieurs ou égaux à %s"
 
 #: Hub ID
 msgid "Hub ID"
-msgstr ""
+msgstr "Identifiant de hub"
 
 #: Inches
 msgid "Inches"
@@ -1132,23 +1132,23 @@ msgstr "Pouces"
 
 #: Jetline
 msgid "Jetline"
-msgstr ""
+msgstr "Jetline"
 
 #: Jumbo box
 msgid "Jumbo box"
-msgstr ""
+msgstr "Jumbo box"
 
 #: Medical express
 msgid "Medical express"
-msgstr ""
+msgstr "Médical express"
 
 #: Non Documents
 msgid "Non Documents"
-msgstr ""
+msgstr "Autres que documents"
 
 #: Non documents
 msgid "Non documents"
-msgstr ""
+msgstr "Autres que documents"
 
 #: None
 msgid "None"
@@ -1160,109 +1160,109 @@ msgstr "Commande n°%s"
 
 #: Origin serviceAreaCode is missing
 msgid "Origin serviceAreaCode is missing"
-msgstr ""
+msgstr "Le code de zone de service d'origine est manquant"
 
 #: Others
 msgid "Others"
-msgstr ""
+msgstr "Autres"
 
 #: Package content is missing
 msgid "Package content is missing"
-msgstr ""
+msgstr "Le contenu du paquet est manquant"
 
 #: Packages Request Type
 msgid "Packages Request Type"
-msgstr ""
+msgstr "Type de requête de paquets"
 
 #: Piece Id barcode is missing
 msgid "Piece Id barcode is missing"
-msgstr ""
+msgstr "Le code barre identifiant de pièce est manquant"
 
 #: Piece number information is missing
 msgid "Piece number information is missing"
-msgstr ""
+msgstr "L'information du numéro de pièce est manquante"
 
 #: Please, specify origin country
 msgid "Please, specify origin country"
-msgstr ""
+msgstr "Veuillez spécifier le pays d'origine"
 
 #: Product content code is invalid
 msgid "Product content code is invalid"
-msgstr ""
+msgstr "Le code de contenu de produit est invalide"
 
 #: Product name is missing
 msgid "Product name is missing"
-msgstr ""
+msgstr "Le nom du produit est manquant"
 
 #: Reference code is missing
 msgid "Reference code is missing"
-msgstr ""
+msgstr "Le code de référence est manquant"
 
 #: Routing barcode is missing
 msgid "Routing barcode is missing"
-msgstr ""
+msgstr "Le code barre de routage est manquant"
 
 #: Same day
 msgid "Same day"
-msgstr ""
+msgstr "Même jour"
 
 #: Secureline
 msgid "Secureline"
-msgstr ""
+msgstr "Secureline"
 
 #: Sender city info is missing
 msgid "Sender city info is missing"
-msgstr ""
+msgstr "L'information de la ville de l'expéditeur est manquante"
 
 #: Sender contact name is missing
 msgid "Sender contact name is missing"
-msgstr ""
+msgstr "Le nom de contact de l'expéditeur est manquant"
 
 #: Sender country info is missing
 msgid "Sender country info is missing"
-msgstr ""
+msgstr "L'information du pays de l'expéditeur est manquante"
 
 #: Specific
 msgid "Specific"
-msgstr ""
+msgstr "Spécifique"
 
 #: Sprintline
 msgid "Sprintline"
-msgstr ""
+msgstr "Sprintline"
 
 #: The field is applicable if the Smart Post method is selected.
 msgid "The field is applicable if the Smart Post method is selected."
-msgstr ""
+msgstr "Le champ est applicable si le mode Smart Post est choisi."
 
 #: There is no items in this order
 msgid "There is no items in this order"
-msgstr ""
+msgstr "Il n'y a pas d'article dans cette commande"
 
 #: Waybill barcode information is missing
 msgid "Waybill barcode information is missing"
-msgstr ""
+msgstr "Le code barre Waybille est manquant"
 
 #: Weight unit is invalid
 msgid "Weight unit is invalid"
-msgstr ""
+msgstr "L'unité de poids n'est pas valide"
 
 #: Wrong Content Type.
 msgid "Wrong Content Type."
-msgstr ""
+msgstr "Mauvais type de contenu."
 
 #: Wrong Region.
 msgid "Wrong Region."
-msgstr ""
+msgstr "Mauvaise région."
 
 #: Zero shipping charge for '%s'
 msgid "Zero shipping charge for '%s'"
-msgstr ""
+msgstr "Aucun frais de port pour '%s'"
 
 #: cm
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: inch
 msgid "inch"
-msgstr ""
+msgstr "pouce"
 

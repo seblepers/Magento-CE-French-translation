@@ -344,37 +344,37 @@ msgstr "Adresse - ligne 2"
 
 #: Divide to equal weight (one request)
 msgid "Divide to equal weight (one request)"
-msgstr ""
+msgstr "Diviser en poids égal (une requête)"
 
 #: Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\").
 msgid "Duplicate Row #%s (Country \"%s\", Region/State \"%s\", Zip \"%s\" and Value \"%s\")."
-msgstr ""
+msgstr "Ligne en double n+%s (Pays \"%s\", Région \"%s\", Code postal \"%s\" et valeur \"%s\")."
 
 #: File has not been imported. See the following list of errors: %s
 msgid "File has not been imported. See the following list of errors: %s"
-msgstr ""
+msgstr "Le fichier n'a pas été importé. Voici la liste des erreurs : %s"
 
 #: Invalid %s \"%s\" in the Row #%s.
 msgid "Invalid %s \"%s\" in the Row #%s."
-msgstr ""
+msgstr "%s \"%s\" non valide à la ligne n°%s."
 
 #: Invalid Country \"%s\" in the Row #%s.
 msgid "Invalid Country \"%s\" in the Row #%s."
-msgstr ""
+msgstr "Pays \"%s\" non valide à la ligne n°%s."
 
 #: Invalid Region/State \"%s\" in the Row #%s.
 msgid "Invalid Region/State \"%s\" in the Row #%s."
-msgstr ""
+msgstr "Région \"%s\" non valide à la ligne n°%s."
 
 #: Invalid Shipping Price \"%s\" in the Row #%s.
 msgid "Invalid Shipping Price \"%s\" in the Row #%s."
-msgstr ""
+msgstr "Frais de port \"%s\" non valide à la ligne n°%s."
 
 #: Invalid Table Rates format in the Row #%s
 msgid "Invalid Table Rates format in the Row #%s"
-msgstr ""
+msgstr "Format du tableau de tarifs non valide à la ligne n°%s."
 
 #: Use origin weight (few requests)
 msgid "Use origin weight (few requests)"
-msgstr ""
+msgstr "Utiliser le poids d'origine (peu de requêtes)"
 

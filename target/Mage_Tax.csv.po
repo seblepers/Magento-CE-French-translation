@@ -640,13 +640,13 @@ msgstr "Inclure TFP dans le sous-total"
 
 #: An error occurred while saving this tax class. A class with the same name
 msgid "An error occurred while saving this tax class. A class with the same name"
-msgstr ""
+msgstr "Erreur lors de la sauvegarde de cette classe de taxe. Il existe déjà une classe portant ce nom."
 
 #: Orders, Invoices, Credit Memos Display Settings
 msgid "Orders, Invoices, Credit Memos Display Settings"
-msgstr ""
+msgstr "Paramètres d'affichage des commandes, factures et avoirs"
 
 #: Shipping & Handling Tax
 msgid "Shipping & Handling Tax"
-msgstr ""
+msgstr "Taxe sur frais de port"
 

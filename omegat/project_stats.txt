@@ -1,10 +1,10 @@
-01/08/12 15:11
+01/08/12 17:16
 Données du projet
 
                            	Segments	 Mots	Caractères (sans espaces)	Caractères (avec espaces)	
-Total :                    	   11192	47988	                   256034	                   292247	
+Total :                    	   11216	48069	                   256484	                   292754	
 Restants :                 	       0	    0	                        0	                        0	
-Segments uniques :         	    8121	39222	                   209627	                   240207	
+Segments uniques :         	    8142	39298	                   210049	                   240684	
 Segments uniques restants :	       0	    0	                        0	                        0	
 
 
@@ -77,7 +77,7 @@ Mage_Review.csv.po           	            95	                0	              59	
 Mage_Rss.csv.po              	            59	                0	              46	                        0	       177	            0	         159	                    0	                            885	                                 0	                              785	                                         0	                            992	                                 0	                              887	                                         0	
 Mage_Rule.csv.po             	            38	                0	              29	                        0	       109	            0	          93	                    0	                            510	                                 0	                              431	                                         0	                            581	                                 0	                              495	                                         0	
 Mage_Sales.csv.po            	           901	                0	             653	                        0	      3450	            0	        2885	                    0	                          18378	                                 0	                            15212	                                         0	                          20915	                                 0	                            17428	                                         0	
-Mage_SalesRule.csv.po        	           146	                0	              78	                        0	       518	            0	         350	                    0	                           2657	                                 0	                             1803	                                         0	                           3025	                                 0	                             2071	                                         0	
+Mage_SalesRule.csv.po        	           170	                0	              99	                        0	       599	            0	         426	                    0	                           3107	                                 0	                             2225	                                         0	                           3532	                                 0	                             2548	                                         0	
 Mage_Sendfriend.csv.po       	            38	                0	              27	                        0	       159	            0	         137	                    0	                            778	                                 0	                              668	                                         0	                            899	                                 0	                              778	                                         0	
 Mage_Shipping.csv.po         	            95	                0	              65	                        0	       345	            0	         292	                    0	                           1887	                                 0	                             1588	                                         0	                           2135	                                 0	                             1815	                                         0	
 Mage_Sitemap.csv.po          	            46	                0	              27	                        0	       171	            0	         143	                    0	                            894	                                 0	                              733	                                         0	                           1019	                                 0	                              849	                                         0	

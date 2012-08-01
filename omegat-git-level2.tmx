@@ -2622,6 +2622,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Active From</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150424Z">
+        <seg>Actif à partir du</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Active To</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150431Z">
+        <seg>Actif jusqu'au</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Actual Price</seg>
       </tuv>
       <tuv xml:lang="FR-FR" changeid="seb" changedate="20111107T135241Z">
@@ -4446,6 +4462,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Autoriser les URLs de media dynamiques dans les produits et catégories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Allow Gift Message</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150627Z">
+        <seg>Autoriser le message cadeau</seg>
       </tuv>
     </tu>
     <tu>
@@ -6374,6 +6398,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Apply MAP</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150343Z">
+        <seg>Appliquer un prix minimum affiché</seg>
       </tuv>
     </tu>
     <tu>
@@ -13362,6 +13394,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Coût</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Could not find wishlist</seg>
       </tuv>
       <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120719T174238Z">
@@ -13430,6 +13470,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>La combinaison Pays et Type de format doit être unique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Country of Manufacture</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Pays de fabrication</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,6 +14726,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Agencement personnalisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Custom Layout Update</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150445Z">
+        <seg>Mise à jour d'agencement personnalisé</seg>
       </tuv>
     </tu>
     <tu>
@@ -18026,6 +18082,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Display Product Options In</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150456Z">
+        <seg>Afficher les options de produits dans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Display Product Prices In Catalog</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -19758,6 +19822,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Activer le RSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enable Recurring Profile</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150545Z">
+        <seg>Activer le profil récurrent</seg>
       </tuv>
     </tu>
     <tu>
@@ -24042,6 +24114,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Group Price</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Prix par groupe clients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Group add</seg>
       </tuv>
       <tuv xml:lang="FR-FR" changeid="seb" changedate="20120718T094408Z">
@@ -27714,6 +27794,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Is Product Available for Purchase with Google Checkout</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Le produit est-il disponible à l'achat avec Google Checkout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Is Required</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -30346,6 +30434,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Manufacturer's Suggested Retail Price</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150407Z">
+        <seg>Prix au détail conseillé par le fabricant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Mark as Read</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -31134,6 +31230,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Mots-clés meta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Meta Title</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150412Z">
+        <seg>Titre méta</seg>
       </tuv>
     </tu>
     <tu>
@@ -41739,6 +41843,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Products with recurring profile participate in catalog as nominal items.</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150614Z">
+        <seg>Les produits avec un profil récurrent participent dans le catalogue en tant qu'articles nominaux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Profile #%s</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -43191,6 +43303,14 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Rectangulaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recurring Payment Profile</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150635Z">
+        <seg>Profil récurrent de paiement</seg>
       </tuv>
     </tu>
     <tu>
@@ -47819,6 +47939,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Set Product as New from Date</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Nouveauté depuis le</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Set Product as New to Date</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Nouveauté jusqu'au</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Set Return-Path</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -48979,6 +49115,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Short Description</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20120801T150417Z">
+        <seg>Description courte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Short description of the recurring payment. By default equals to the product name.</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
@@ -49887,6 +50031,22 @@
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Prix spécial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special Price From Date</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Prix spécial à partir du</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Special Price To Date</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Prix spécial jusqu'au</seg>
       </tuv>
     </tu>
     <tu>
@@ -56224,6 +56384,14 @@ Please, move system attributes to another group and try again.</seg>
       </tuv>
       <tuv xml:lang="FR-FR">
         <seg>Miniature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tier Price</seg>
+      </tuv>
+      <tuv xml:lang="FR-FR">
+        <seg>Prix par quantité</seg>
       </tuv>
     </tu>
     <tu>

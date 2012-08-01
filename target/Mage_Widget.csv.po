@@ -314,9 +314,9 @@ msgstr "Ouvrir le sélecteur"
 
 #: Widget Insertion
 msgid "Widget Insertion"
-msgstr ""
+msgstr "Insertion de widget"
 
 #: Wrong widget instance specified.
 msgid "Wrong widget instance specified."
-msgstr ""
+msgstr "L'instance de widget spécifiée est erronée."
 

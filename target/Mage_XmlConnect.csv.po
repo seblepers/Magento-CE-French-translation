@@ -2287,7 +2287,7 @@ msgstr "Commandé"
 
 #: PayPal MEP
 msgid "PayPal MEP"
-msgstr ""
+msgstr "PayPal MEP"
 
 #: Payment Applicable From
 msgid "Payment Applicable From"
@@ -2443,35 +2443,35 @@ msgstr "Votre commentaire a été accepté pour modération."
 
 #: \"id\" attribute is required for a \"%s\" field.
 msgid "\"id\" attribute is required for a \"%s\" field."
-msgstr ""
+msgstr "L'attribut \"id\" est obligatoire pour un champ \"%s\"."
 
 #: \"line_count\" attribute is required for \"multiline\" element.
 msgid "\"line_count\" attribute is required for \"multiline\" element."
-msgstr ""
+msgstr "L'attribut \"line_count\" est obligatoire pour un élément \"multiline\"."
 
 #: \"message\" attribute is required for \"%s\" validator rule.
 msgid "\"message\" attribute is required for \"%s\" validator rule."
-msgstr ""
+msgstr "L'attribut \"message\" est obligatoire pour une règle de validateur \"%s\"."
 
 #: %s attribute is required.
 msgid "%s attribute is required."
-msgstr ""
+msgstr "L'attribut %s est obligatoire."
 
 #: Activate PayPal MECL
 msgid "Activate PayPal MECL"
-msgstr ""
+msgstr "Activer PayPal Mobile"
 
 #: An error occurred while loading categories.
 msgid "An error occurred while loading categories."
-msgstr ""
+msgstr "Erreur lors du chargement des catégories."
 
 #: An error occurred while loading wishlist.
 msgid "An error occurred while loading wishlist."
-msgstr ""
+msgstr "Erreur lors du chargement de la liste d'envies."
 
 #: Android doesn't support AirMail message type.
 msgid "Android doesn't support AirMail message type."
-msgstr ""
+msgstr "Android ne supporte pas le type de message AirMail."
 
 #: Are you sure you want to do this?
 msgid "Are you sure you want to do this?"
@@ -2479,19 +2479,19 @@ msgstr "Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
 
 #: At last one application has to be created.
 msgid "At last one application has to be created."
-msgstr ""
+msgstr "Au moins une application doit être créée."
 
 #: Balance
 msgid "Balance"
-msgstr ""
+msgstr "Solde"
 
 #: Balance Change
 msgid "Balance Change"
-msgstr ""
+msgstr "Changement de solde"
 
 #: Balance History
 msgid "Balance History"
-msgstr ""
+msgstr "Historique du solde"
 
 #: Billing Address
 msgid "Billing Address"
@@ -2503,51 +2503,51 @@ msgstr "Achetez-en %1$s et profitez d'une remise de %2$s par produit"
 
 #: Can't load application with id \"%s\"
 msgid "Can't load application with id \"%s\""
-msgstr ""
+msgstr "Impossible de charger l'application dont l'identifiant est \"%s\""
 
 #: Can't load cart info.
 msgid "Can't load cart info."
-msgstr ""
+msgstr "Impossible de charger les informations du panier."
 
 #: Can't load cart.
 msgid "Can't load cart."
-msgstr ""
+msgstr "Impossible de charger le panier."
 
 #: Can't load customer form.
 msgid "Can't load customer form."
-msgstr ""
+msgstr "Impossible de charger le formulaire du client."
 
 #: Can't load selected theme. Please check your media folder permissions.
 msgid "Can't load selected theme. Please check your media folder permissions."
-msgstr ""
+msgstr "Impossible de charger le thème sélectionné. Veuillez vérifier les permissions sur votre dossier media."
 
 #: Cannot apply gift card.
 msgid "Cannot apply gift card."
-msgstr ""
+msgstr "Impossible d'appliquer la carte cadeau."
 
 #: Cannot redeem Gift Card.
 msgid "Cannot redeem Gift Card."
-msgstr ""
+msgstr "Impossible de transformer la carte cadeau en crédit."
 
 #: Cannot remove gift card.
 msgid "Cannot remove gift card."
-msgstr ""
+msgstr "Impossible de supprimer la carte cadeau."
 
 #: Container is not defined.
 msgid "Container is not defined."
-msgstr ""
+msgstr "Le conteneur n'est pas défini."
 
 #: Current Balance: %s
 msgid "Current Balance: %s"
-msgstr ""
+msgstr "Solde courant : %s"
 
 #: Customer balance available in enterprise version of Magento only.
 msgid "Customer balance available in enterprise version of Magento only."
-msgstr ""
+msgstr "Solde du client disponible uniquement dans la version Enterprise de Magento."
 
 #: Customer balance is disabled for current store
 msgid "Customer balance is disabled for current store"
-msgstr ""
+msgstr "Le solde du client est désactivé pour le magasin en cours"
 
 #: DD
 msgid "DD"
@@ -2563,43 +2563,43 @@ msgstr "Jour"
 
 #: Element with id %s already exists
 msgid "Element with id %s already exists"
-msgstr ""
+msgstr "Il existe déjà un élément avec l'identifiant %s"
 
 #: Expires: %s
 msgid "Expires: %s"
-msgstr ""
+msgstr "Expire le : %s"
 
 #: Gift Card \"%s\" was added.
 msgid "Gift Card \"%s\" was added."
-msgstr ""
+msgstr "La carte cadeau \"%s\" a été ajoutée."
 
 #: Gift Card \"%s\" was redeemed.
 msgid "Gift Card \"%s\" was redeemed."
-msgstr ""
+msgstr "La carte cadeau \"%s\" a été transformée en crédit."
 
 #: Gift Card \"%s\" was removed.
 msgid "Gift Card \"%s\" was removed."
-msgstr ""
+msgstr "La carte cadeau \"%s\" a été supprimée."
 
 #: Gift Card (%s)
 msgid "Gift Card (%s)"
-msgstr ""
+msgstr "Carte cadeau (%s)"
 
 #: Gift Card amount applied to order: %s
 msgid "Gift Card amount applied to order: %s"
-msgstr ""
+msgstr "Le montant de la carte cadeau a été appliqué à la commande : %s"
 
 #: Gift Card code is empty.
 msgid "Gift Card code is empty."
-msgstr ""
+msgstr "Le code de carte cadeau est vide."
 
 #: Gift Card: %s
 msgid "Gift Card: %s"
-msgstr ""
+msgstr "Carte cadeau : %s"
 
 #: Gift card account available in enterprise version of Magento only.
 msgid "Gift card account available in enterprise version of Magento only."
-msgstr ""
+msgstr "Montant de la carte cadeau disponible uniquement dans la version Enterprise de Magento."
 
 #: M.I.
 msgid "M.I."
@@ -2611,15 +2611,15 @@ msgstr "MM"
 
 #: Message can be edited when status of the message is \"In Queue\" only.
 msgid "Message can be edited when status of the message is \"In Queue\" only."
-msgstr ""
+msgstr "Le message peut être édité seulement quand son statut est \"Dans la file\"."
 
 #: Mobile Express Checkout has been canceled.
 msgid "Mobile Express Checkout has been canceled."
-msgstr ""
+msgstr "Le paiement Express Mobile a été annulé."
 
 #: Mobile Express Checkout processed successfully.
 msgid "Mobile Express Checkout processed successfully."
-msgstr ""
+msgstr "Le paiement Express Mobile a bien été traité."
 
 #: Month
 msgid "Month"
@@ -2627,11 +2627,11 @@ msgstr "Mois"
 
 #: No Payment Information Required
 msgid "No Payment Information Required"
-msgstr ""
+msgstr "Aucune information de paiement nécessaire"
 
 #: No shipping method required.
 msgid "No shipping method required."
-msgstr ""
+msgstr "Aucun mode de livraison nécessaire."
 
 #: Order #%s - %s
 msgid "Order #%s - %s"
@@ -2643,27 +2643,27 @@ msgstr "<strong>Date de commande :</strong> %s"
 
 #: Order id is not specified.
 msgid "Order id is not specified."
-msgstr ""
+msgstr "L'identifiant de commande n'est pas spécifié."
 
 #: Output format is not specified. Please, specify \"format\" key in constructor, or set it using setFormat().
 msgid "Output format is not specified. Please, specify \"format\" key in constructor, or set it using setFormat()."
-msgstr ""
+msgstr "Le format de sortie n'est pas spécifié. Veuillez spécifier la clé \"format\" dans le constructeur ou la renseigner à l'aide de la méthode setFormat()."
 
 #: PayPal MECL is the mobile version of PayPal's Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile.
 msgid "PayPal MECL is the mobile version of PayPal's Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile."
-msgstr ""
+msgstr "PayPal Mobile est la version mobile du service PayPal Express. Vous pouvez choisir d'utiliser PayPal Mobile en parallèle du paiement standard ou d'utiliser cette seule méthode pour Magento Mobile."
 
 #: PayPal Mobile Express Checkout
 msgid "PayPal Mobile Express Checkout"
-msgstr ""
+msgstr "PayPal Mobile"
 
 #: PayPal Mobile Express Checkout Library (MECL)
 msgid "PayPal Mobile Express Checkout Library (MECL)"
-msgstr ""
+msgstr "Bibliothèque PayPal Mobile"
 
 #: PayPal Mobile Express Checkout Token does not exist.
 msgid "PayPal Mobile Express Checkout Token does not exist."
-msgstr ""
+msgstr "Le jeton PayPal Mobile n'existe pas"
 
 #: Payer Email: %s
 msgid "Payer Email: %s"
@@ -2675,11 +2675,11 @@ msgstr "Mode de paiement"
 
 #: Paypal MEP doesn't support checkout with any discount.
 msgid "Paypal MEP doesn't support checkout with any discount."
-msgstr ""
+msgstr "Le paiement avec remise n'est pas supporté par PayPal MEP."
 
 #: Please create and save an application first.
 msgid "Please create and save an application first."
-msgstr ""
+msgstr "Veuillez d'abord créer et enregistrer une application."
 
 #: Please enter a valid URL. Protocol is required (http://, https:// or ftp://)
 msgid "Please enter a valid URL. Protocol is required (http://, https:// or ftp://)"
@@ -2715,15 +2715,15 @@ msgstr "Préfixe"
 
 #: Queue is allowed only for applications with enabled Push Notification.
 msgid "Queue is allowed only for applications with enabled Push Notification."
-msgstr ""
+msgstr "La file d'attente n'est autorisée que pour les applications avec les notifications Push activées."
 
 #: Redemption functionality is disabled.
 msgid "Redemption functionality is disabled."
-msgstr ""
+msgstr "La fonctionnalité de remboursement est désactivée."
 
 #: Request internal error.
 msgid "Request internal error."
-msgstr ""
+msgstr "Erreur interne de requête."
 
 #: Shipping Address
 msgid "Shipping Address"
@@ -2735,15 +2735,15 @@ msgstr "Mode de livraison"
 
 #: Shipping method is required
 msgid "Shipping method is required"
-msgstr ""
+msgstr "Le mode de livraison est obligatoire."
 
 #: Shipping method successfully updated
 msgid "Shipping method successfully updated"
-msgstr ""
+msgstr "Le mode de livraison a bien été mis à jour"
 
 #: Store Credit payment is not being used in your shopping cart.
 msgid "Store Credit payment is not being used in your shopping cart."
-msgstr ""
+msgstr "Le paiement par crédit n'est pas utilisé dans votre panier."
 
 #: Street Address %s
 msgid "Street Address %s"
@@ -2755,15 +2755,15 @@ msgstr "Suffixe"
 
 #: Text length does not satisfy specified max text range.
 msgid "Text length does not satisfy specified max text range."
-msgstr ""
+msgstr "La longueur du texte ne satisfait pas la plage de texte maximale spécifiée."
 
 #: Text length does not satisfy specified min text range.
 msgid "Text length does not satisfy specified min text range."
-msgstr ""
+msgstr "La longueur du texte ne satisfait pas la plage de texte minimale spécifiée."
 
 #: The store credit payment has been removed from shopping cart.
 msgid "The store credit payment has been removed from shopping cart."
-msgstr ""
+msgstr "Le paiement par crédit a été supprimé de votre panier."
 
 #: This is a required field.
 msgid "This is a required field."
@@ -2771,95 +2771,95 @@ msgstr "Ce champ est obligatoire."
 
 #: Token has not been set.
 msgid "Token has not been set."
-msgstr ""
+msgstr "Le jeton n'a pas été renseigné."
 
 #: Unable to cancel Mobile Express Checkout.
 msgid "Unable to cancel Mobile Express Checkout."
-msgstr ""
+msgstr "Impossible d'annuler le paiement PayPal Mobile."
 
 #: Unable to initialize PayPal Mobile Express Checkout.
 msgid "Unable to initialize PayPal Mobile Express Checkout."
-msgstr ""
+msgstr "Impossible d'initialiser PayPal Mobile."
 
 #: Unable to initialize express checkout review.
 msgid "Unable to initialize express checkout review."
-msgstr ""
+msgstr "Impossible d'initialiser le commentaire PayPal Express."
 
 #: Unable to initialize express checkout shipping method list.
 msgid "Unable to initialize express checkout shipping method list."
-msgstr ""
+msgstr "Impossible d'initialiser la liste des mode de livraison de PayPal Express"
 
 #: Unable to initialize return action.
 msgid "Unable to initialize return action."
-msgstr ""
+msgstr "Impossible d'initialiser l'action de retour."
 
 #: Unable to load addresses.
 msgid "Unable to load addresses."
-msgstr ""
+msgstr "Impossible de charger les adresses."
 
 #: Unable to load billing address form.
 msgid "Unable to load billing address form."
-msgstr ""
+msgstr "Impossible de charger le formulaire d'adresse de facturation."
 
 #: Unable to load billing address.
 msgid "Unable to load billing address."
-msgstr ""
+msgstr "Impossible de charger l'adresse de facturation."
 
 #: Unable to load categories.
 msgid "Unable to load categories."
-msgstr ""
+msgstr "Impossible de charger les catégories."
 
 #: Unable to load checkout.
 msgid "Unable to load checkout."
-msgstr ""
+msgstr "Impossible de charger le passage de commande."
 
 #: Unable to load order list.
 msgid "Unable to load order list."
-msgstr ""
+msgstr "Impossible de charger la liste de commande."
 
 #: Unable to load order review.
 msgid "Unable to load order review."
-msgstr ""
+msgstr "Impossible de charger le commentaire de commande."
 
 #: Unable to load product gallery.
 msgid "Unable to load product gallery."
-msgstr ""
+msgstr "Impossible de charger la galerie du produit."
 
 #: Unable to load product options.
 msgid "Unable to load product options."
-msgstr ""
+msgstr "Impossible de charger les options du produit."
 
 #: Unable to load product review.
 msgid "Unable to load product review."
-msgstr ""
+msgstr "Impossible de charger le commentaire de produit."
 
 #: Unable to load product reviews.
 msgid "Unable to load product reviews."
-msgstr ""
+msgstr "Impossible de charger les commentaires de produit."
 
 #: Unable to load review form.
 msgid "Unable to load review form."
-msgstr ""
+msgstr "Impossible de charger le formulaire de commentaire de produit."
 
 #: Unable to load search.
 msgid "Unable to load search."
-msgstr ""
+msgstr "Impossible de charger la recherche."
 
 #: Unable to load shipping address form.
 msgid "Unable to load shipping address form."
-msgstr ""
+msgstr "Impossible de charger le formulaire d'adresse de livraison."
 
 #: Unable to render a gift card account.
 msgid "Unable to render a gift card account."
-msgstr ""
+msgstr "Impossible de rendre un compte de carte cadeau."
 
 #: Unable to render the store credits.
 msgid "Unable to render the store credits."
-msgstr ""
+msgstr "Impossible de rendre les crédits du magasin."
 
 #: Unable to start Mobile Express Checkout.
 msgid "Unable to start Mobile Express Checkout."
-msgstr ""
+msgstr "Impossible de démarrer PayPal Mobile."
 
 #: Unable to update shipping method.
 msgid "Unable to update shipping method."
@@ -2867,19 +2867,19 @@ msgstr "Impossible de mettre à jour le mode de livraison."
 
 #: Use Store Credit (%s available)
 msgid "Use Store Credit (%s available)"
-msgstr ""
+msgstr "Utiliser le crédit du magasin (%s disponible)"
 
 #: Warning: All related AirMail messages will be deleted!
 msgid "Warning: All related AirMail messages will be deleted!"
-msgstr ""
+msgstr "Attention : tous les messages AirMail seront effacés !"
 
 #: Wrong PayPal Mobile Express Checkout Token specified.
 msgid "Wrong PayPal Mobile Express Checkout Token specified."
-msgstr ""
+msgstr "Jeton PayPal Mobile incorrect."
 
 #: Wrong or expired Gift Card Code.
 msgid "Wrong or expired Gift Card Code."
-msgstr ""
+msgstr "Code de carte cadeau incorrect ou expiré."
 
 #: YYYY
 msgid "YYYY"
@@ -2891,29 +2891,29 @@ msgstr "Année"
 
 #: You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.
 msgid "You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL."
-msgstr ""
+msgstr "Vous devez activer PayPal Express dans la configuration de paiement avant d'activer PayPal Mobile."
 
 #: Your current balance is:
 msgid "Your current balance is:"
-msgstr ""
+msgstr "Votre solde courant est :"
 
 #: '%s' exceeds the allowed file size: %d (bytes)
 msgid "'%s' exceeds the allowed file size: %d (bytes)"
-msgstr ""
+msgstr "'%s' dépasse la taille de fichier autorisée : %s (octets)"
 
 #: '%s' height exceeds allowed value of %d px
 msgid "'%s' height exceeds allowed value of %d px"
-msgstr ""
+msgstr "La hauteur de '%s' dépasse la valeur autorisée de %d px"
 
 #: '%s' is not a valid file extension. Allowed extensions: %s
 msgid "'%s' is not a valid file extension. Allowed extensions: %s"
-msgstr ""
+msgstr "'%s' n'est pas une extension de fichier valide. Les extensions autorisées sont : %s"
 
 #: '%s' width exceeds allowed value of %d px
 msgid "'%s' width exceeds allowed value of %d px"
-msgstr ""
+msgstr "La largeur de '%s' dépasse la valeur autorisée de %d px"
 
 #: ver. %s
 msgid "ver. %s"
-msgstr ""
+msgstr "(version %s)"
 

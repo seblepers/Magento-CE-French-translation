@@ -3456,23 +3456,23 @@ msgstr "Largeur"
 
 #: cm
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: in
 msgid "in"
-msgstr ""
+msgstr "in"
 
 #: kg
 msgid "kg"
-msgstr ""
+msgstr "kg"
 
 #: lb
 msgid "lb"
-msgstr ""
+msgstr "lb"
 
 #: Processing A
 msgid "Processing A"
-msgstr ""
+msgstr "En cours de traitement"
 
 #: of %s pages
 msgid "of %s pages"
@@ -3484,15 +3484,15 @@ msgstr "%d enregistrement(s) trouvé(s)"
 
 #: Add new comment to credit memo
 msgid "Add new comment to credit memo"
-msgstr ""
+msgstr "Ajouter un commentaire à l'avoir"
 
 #: Are you sure you want to delete all items from shopping cart?
 msgid "Are you sure you want to delete all items from shopping cart?"
-msgstr ""
+msgstr "Êtes-vous sûr(e) de vouloir enlever tous les articles du panier ?"
 
 #: Cancel credit memo
 msgid "Cancel credit memo"
-msgstr ""
+msgstr "Annuler l'avoir"
 
 #: Clear Shopping Cart
 msgid "Clear Shopping Cart"
@@ -3500,23 +3500,23 @@ msgstr "Vider le panier"
 
 #: Controls whether customer IP is shown in orders, invoices, shipments, credit memos.
 msgid "Controls whether customer IP is shown in orders, invoices, shipments, credit memos."
-msgstr ""
+msgstr "Contrôle si l'adresse IP du client est affichée dans les commandes, factures, expéditions, avoirs."
 
 #: Create new credit memo for order
 msgid "Create new credit memo for order"
-msgstr ""
+msgstr "Créer un nouvel avoir pour la commande"
 
 #: Credit memo canceling problem.
 msgid "Credit memo canceling problem."
-msgstr ""
+msgstr "Problème lors de l'annulation de l'avoir."
 
 #: Credit memo cannot be canceled.
 msgid "Credit memo cannot be canceled."
-msgstr ""
+msgstr "L'avoir n'a pas pu être annulé."
 
 #: Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image
 msgid "Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image"
-msgstr ""
+msgstr "Logo par défaut, il sera utilisé dans les documents PDF et HTML.<br/>(jpeg, tiff, png) Si l'image est de mauvaise qualité dans le PDF, essayez avec une image de taille supérieure"
 
 #: General
 msgid "General"
@@ -3524,11 +3524,11 @@ msgstr "Général"
 
 #: Hide Customer IP
 msgid "Hide Customer IP"
-msgstr ""
+msgstr "Masquer l'adresse IP du client"
 
 #: Maximum amount available to refund is %s
 msgid "Maximum amount available to refund is %s"
-msgstr ""
+msgstr "Le montant maximum pour un remboursement est %s"
 
 #: Most Viewed
 msgid "Most Viewed"
@@ -3536,69 +3536,69 @@ msgstr "Les plus consultés"
 
 #: Most Viewed Products Report
 msgid "Most Viewed Products Report"
-msgstr ""
+msgstr "Rapport des produits les plus consultés"
 
 #: New Credit Memo for Invoice #%s
 msgid "New Credit Memo for Invoice #%s"
-msgstr ""
+msgstr "Nouvel avoir pour la facture n°%s"
 
 #: Order credit memo
 msgid "Order credit memo"
-msgstr ""
+msgstr "Avoir de commande"
 
 #: Package types are disregarded for USPS domestic shipments.
 msgid "Package types are disregarded for USPS domestic shipments."
-msgstr ""
+msgstr "Les types de paquets sont pas pris en compte pour les expéditions domestiques USPS."
 
 #: Please check billing address information. %s
 msgid "Please check billing address information. %s"
-msgstr ""
+msgstr "Vérifiez les informations de l'adresse de facturation. %s"
 
 #: Please check shipping address information. %s
 msgid "Please check shipping address information. %s"
-msgstr ""
+msgstr "Vérifiez les informations de l'adresse de livraison. %s"
 
 #: Please select a valid payment method.
 msgid "Please select a valid payment method."
-msgstr ""
+msgstr "Sélectionnez un mode de paiement valide."
 
 #: Please specify a shipping method.
 msgid "Please specify a shipping method."
-msgstr ""
+msgstr "Sélectionnez un mode de livraison."
 
 #: Retrieve credit memo info
 msgid "Retrieve credit memo info"
-msgstr ""
+msgstr "Récupérer les informations d'avoir"
 
 #: Retrieve credit memo information
 msgid "Retrieve credit memo information"
-msgstr ""
+msgstr "Récupérer les informations d'avoir"
 
 #: Retrieve credit memo list
 msgid "Retrieve credit memo list"
-msgstr ""
+msgstr "Récupérer la liste des avoirs"
 
 #: Retrieve list of credit memos by filters
 msgid "Retrieve list of credit memos by filters"
-msgstr ""
+msgstr "Récupérer la liste des avoirs par filtres"
 
 #: Send shipment info
 msgid "Send shipment info"
-msgstr ""
+msgstr "Envoyer des informations de livraison"
 
 #: Ship to:
 msgid "Ship to:"
-msgstr ""
+msgstr "Livré à :"
 
 #: Sold to:
 msgid "Sold to:"
-msgstr ""
+msgstr "Vendu à :"
 
 #: Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.
 msgid "Total model should be extended from Mage_Sales_Model_Order_Total_Abstract."
-msgstr ""
+msgstr "Le modèle de total devrait étendre la classe Mage_Sales_Model_Order_Total_Abstract."
 
 #: Transaction # %s | %s
 msgid "Transaction # %s | %s"
-msgstr ""
+msgstr "Transaction n°%s | %s"
 

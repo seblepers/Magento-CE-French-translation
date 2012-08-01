@@ -400,7 +400,7 @@ msgstr "Ajouter"
 
 #: Add tag(s) to product
 msgid "Add tag(s) to product"
-msgstr ""
+msgstr "Ajouter le(s) tag(s) au produit"
 
 #: Info
 msgid "Info"
@@ -408,7 +408,7 @@ msgstr "Informations"
 
 #: Product Tag API
 msgid "Product Tag API"
-msgstr ""
+msgstr "API des tags de produit"
 
 #: Remove
 msgid "Remove"
@@ -416,15 +416,15 @@ msgstr "Supprimer"
 
 #: Remove product tag
 msgid "Remove product tag"
-msgstr ""
+msgstr "Supprimer le tag du produit"
 
 #: Retrieve list of tags by product
 msgid "Retrieve list of tags by product"
-msgstr ""
+msgstr "Récupérer la liste des tags par produit"
 
 #: Retrieve product tag info
 msgid "Retrieve product tag info"
-msgstr ""
+msgstr "Récupérer les informations de tags de produits"
 
 #: Update
 msgid "Update"
@@ -432,7 +432,7 @@ msgstr "Mettre à jour"
 
 #: Update product tag
 msgid "Update product tag"
-msgstr ""
+msgstr "Mettre à jour les tags de produits"
 
 #: [STORE VIEW]
 msgid "[STORE VIEW]"
