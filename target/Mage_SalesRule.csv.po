@@ -582,3 +582,99 @@ msgstr "Site web"
 msgid "Websites"
 msgstr "Sites web"
 
+#: Set Product as New from Date
+msgid "Set Product as New from Date"
+msgstr "Nouveauté depuis le"
+
+#: Set Product as New to Date
+msgid "Set Product as New to Date"
+msgstr "Nouveauté jusqu'au"
+
+#: Country of Manufacture
+msgid "Country of Manufacture"
+msgstr "Pays de fabrication"
+
+#: Group Price
+msgid "Group Price"
+msgstr "Prix par groupe clients"
+
+#: Cost
+msgid "Cost"
+msgstr "Coût"
+
+#: Tier Price
+msgid "Tier Price"
+msgstr "Prix par quantité"
+
+#: Special Price From Date
+msgid "Special Price From Date"
+msgstr "Prix spécial à partir du"
+
+#: Special Price To Date
+msgid "Special Price To Date"
+msgstr "Prix spécial jusqu'au"
+
+#: Is Product Available for Purchase with Google Checkout
+msgid "Is Product Available for Purchase with Google Checkout"
+msgstr "Le produit est-il disponible à l'achat avec Google Checkout"
+
+#: Apply MAP
+msgid "Apply MAP"
+msgstr "Appliquer un prix minimum affiché"
+
+#: Manufacturer's Suggested Retail Price
+msgid "Manufacturer's Suggested Retail Price"
+msgstr "Prix au détail conseillé par le fabricant"
+
+#: Meta Title
+msgid "Meta Title"
+msgstr "Titre méta"
+
+#: Short Description
+msgid "Short Description"
+msgstr "Description courte"
+
+#: Thumbnail
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: Small Image
+msgid "Small Image"
+msgstr "Petite image"
+
+#: Base Image
+msgid "Base Image"
+msgstr "Image de base"
+
+#: Active From
+msgid "Active From"
+msgstr "Actif à partir du"
+
+#: Active To
+msgid "Active To"
+msgstr "Actif jusqu'au"
+
+#: Custom Layout Update
+msgid "Custom Layout Update"
+msgstr "Mise à jour d'agencement personnalisé"
+
+#: Display Product Options In
+msgid "Display Product Options In"
+msgstr "Afficher les options de produits dans"
+
+#: Enable Recurring Profile
+msgid "Enable Recurring Profile"
+msgstr "Activer le profil récurrent"
+
+#: Products with recurring profile participate in catalog as nominal items.
+msgid "Products with recurring profile participate in catalog as nominal items."
+msgstr "Les produits avec un profil récurrent participent dans le catalogue en tant qu'articles nominaux."
+
+#: Allow Gift Message
+msgid "Allow Gift Message"
+msgstr "Autoriser le message cadeau"
+
+#: Recurring Payment Profile
+msgid "Recurring Payment Profile"
+msgstr "Profil récurrent de paiement"
+
