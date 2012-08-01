@@ -1,6 +1,6 @@
 #!/bin/bash
-sourcedir='../OmegaT/source'
-targetdir='../OmegaT/target'
+sourcedir='../../source'
+targetdir='../../target'
 tmpdir='./tmp'
 pofilesext='.po'
 
