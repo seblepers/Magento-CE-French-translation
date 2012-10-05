@@ -9460,16 +9460,16 @@
       <tuv xml:lang="EN-US">
         <seg>Cache storage may contain additional data. Are you sure that you want flush it?</seg>
       </tuv>
-      <tuv xml:lang="FR-FR" changeid="seb" changedate="20120627T163219Z">
-        <seg>Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20121003T160934Z">
+        <seg>Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Cache storage may contain another data. Are you sure that you want flush it?</seg>
       </tuv>
-      <tuv xml:lang="FR-FR" changeid="seb" changedate="20120627T163214Z">
-        <seg>Le stockage de cache peut contenir d'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
+      <tuv xml:lang="FR-FR" changeid="Seb" changedate="20121003T160924Z">
+        <seg>Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?</seg>
       </tuv>
     </tu>
     <tu>
