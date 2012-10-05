@@ -1,0 +1,159 @@
+<_>
+   <form_key>zIv2A6FD0VkewYkg</form_key>
+   <_create/>
+   <name>Locale_Mage_community_fr_FR</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Magento Community Modules - French (France) Language Pack</summary>
+   <description>Magento Community Modules - French (France) Language Pack
+
+Ce pack contient les fichiers de traductions française de Magento ainsi que les emails traduits.</description>
+   <license>AFL v3.0</license>
+   <license_uri>http://www.opensource.org/licenses/academic.php</license_uri>
+   <version>1.7.0.1</version>
+   <stability>stable</stability>
+   <notes>v1.7.0.1 :
+ - Correction d&apos;une apostrophe qui doit être échappée pour éviter un bug JS lors de la purge du cache dans le back office.
+
+v1.7.0.0 :
+ - Mise à jour pour Magento CE v1.7.0.0
+
+v1.6.0.0 :
+ - Mise à jour pour Magento CE v1.6.0.0
+
+v1.5.0.2 :
+ - Correction 2 coquilles d&apos;apostrophes non échappées.
+
+v1.5.0.1 :
+ - Mise à jour pour Magento CE v1.5.0.1
+
+v1.4.2.0 :
+ - Mise à jour pour Magento CE v1.4.2.0
+
+v1.4.1.1 :
+ - Correction du bug BO : produits téléchargeables.
+ - Correction du bug BO : Instance de widgets.
+
+v1.4.1.0 :
+ - Mise à jour pour Magento CE v1.4.1
+
+v1.4.0.0 :
+ - Mise à jour pour Magento CE v1.4
+
+v1.3.0.4 :
+ - Pas de modifications. Extension repackagée suite à des pbs sur Magento Connect
+
+v1.3.0.1 à v1.3.0.3 :
+ - Ajout de libellés manquants
+
+v1.3.0 :
+ - Mise à jour pour Magento v1.3.0
+ - Ajout de libellés manquants
+
+v1.2.0.2 :
+ - Correction de l&amp;apos;erreur de manip de la v1.2.0.1.1. Retour à la v1.2.0.1.
+
+v1.2.0.1.1 :
+ - Erreur de publication à l&amp;apos;aide des outils Varien
+
+v1.2.0.1 :
+ - Ajout de libellés manquants (merci à Arnaud)
+
+v1.2.0 :
+ - Ajout des nouveaux libellés de la v1.2.x de Magento (merci à Benoît et Kiwii)
+
+v1.1.7 :
+ - Correction d&amp;apos;un libellé qui provoque une erreur javascript : &amp;quot;Saisissez une liste d\&amp;apos;adresses email valides, séparées par des virgules. Par exemple, jeandupond@domaine.com, martindupond@domaine.com&amp;quot;
+
+v1.1.6 :
+ - Mise à jour pour la v1.1.7
+ - Correction du bug des produits bundle et des options personnalisables.
+ - Ajout de la traduction de plusieurs termes non traduits auparavant
+
+v1.1.5 :
+ - Suppression d&amp;apos;un fichier inutile.
+
+v1.1.4 :
+ - Mise à jour du libellé &amp;quot;Quantité définie par l\&amp;apos;utilisateur&amp;quot; dans Mage_Bundle.csv qui cause un bug javascript.
+
+v1.1.3 :
+ - Attention, les emails contenus dans cette publication ne sont pas compatibles avec la version 1.0 de Magento.
+Les fichiers csv de traduction sont compatibles avec la v1.0.</notes>
+   <authors>
+      <name>
+         <name>SeL</name>
+      </name>
+      <user>
+         <user>seblepers</user>
+      </user>
+      <email>
+         <email>seb.lepers@gmail.com</email>
+      </email>
+   </authors>
+   <depends_php_min>5.2.0</depends_php_min>
+   <depends_php_max>6.0.0</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>                       </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magelocale</target>
+         <target>magedesign</target>
+         <target>magedesign</target>
+      </target>
+      <path>
+         <path/>
+         <path>fr_FR/</path>
+         <path>adminhtml/default/default/locale/fr_FR/translate.csv</path>
+         <path>frontend/default/default/locale/fr_FR/translate.csv</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>
